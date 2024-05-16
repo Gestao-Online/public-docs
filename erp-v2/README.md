@@ -1,4 +1,6 @@
-# 👨‍🏫 Apresentação
+
+
+
 
 ## O que é a Gestão.Online?
 
@@ -8,7 +10,3 @@ Tudo o que você precisa em um software de gestão
 Tudo online para que sua empresa possa ter mais segurança e mobilidade. Controle Financeiro com Fluxo de Caixa, Emissor de Notas Fiscais de Serviços (NFS-e) e produtos (NF-e), Conciliação Bancária, Geração de Boletos, Contratos Recorrentes, Relatórios e Dashboards.
 
 Agregamos uma jornada exclusiva para quem trabalha com soluções de Identidade Digital (Certificado Digital) e Assinaturas Eletrônicas.
-
-### Soluções para o seu negócio
-
-
