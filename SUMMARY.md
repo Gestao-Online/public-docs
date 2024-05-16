@@ -78,6 +78,7 @@
     * [🔐 Recuperar acesso e ativar conta](erp-v2/criar_recuperar_acesso/recuperar_acesso.md)
   * [🥇 Primeiro acesso](erp-v2/primeiro_acesso/README.md)
     * [🧑‍🏫 Apresentação da barra de navegação (abas, botões)](erp-v2/primeiro_acesso/apresentacao_barra_navegacao.md)
+    * [🔔 Notificações internas](/erp-v2/primeiro_acesso/notificacoes_internas.md)
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)
