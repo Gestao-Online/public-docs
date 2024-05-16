@@ -4,10 +4,6 @@ Estas e outras informações, estão disponíveis na sequencia desse manual de u
 
 Clique nas opções abaixo para seguir:
 
-| [Cadastro Novo Usuário](/erp-v2/criar_recuperar_acesso/email_cad_usuario_novo.md) | [Recuperar acesso Usuário](/erp-v2/criar_recuperar_acesso/recuperar_acesso.md) |
-|- |-|
-
-
 <table data-view="cards">
     <thead>
         <tr>
