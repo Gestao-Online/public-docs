@@ -4,7 +4,7 @@ Com o Gestão Online é possível definir o comportamento de cada movimentação
 
 Os tipos de movimentação podem ser usados para:
 
- _Definir o comportamento das entradas no **Financeiro**._  Controlar as mudanças feitas por cada venda no sistema. \_ Configurar como o sistema irá operar caso seja utilizado o pré pago ou pós pago.
+_Definir o comportamento das entradas no **Financeiro**._ Controlar as mudanças feitas por cada venda no sistema. \_ Configurar como o sistema irá operar caso seja utilizado o pré pago ou pós pago.
 
 Através dos tipos de movimentação você poderá definir se uma venda irá:
 
@@ -19,15 +19,15 @@ Através dos tipos de movimentação você poderá definir se uma venda irá:
 
 Para definir um tipo de movimentação busque pela página, **`Tipo de Movimentação`**.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/tipos_de_movimentacao/1_movimentacao.png)
+![](../../.gitbook/assets/1_movimentacao.png)
 
 Aqui serão listados os tipos de movimentação, além de editá\_los ou excluí\_los, você também pode adicionar novos tipos, para isso selecione a opção **`Adicionar item`**.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/tipos_de_movimentacao/2_movimentacao.png)
+![](../../.gitbook/assets/2_movimentacao.png)
 
 Um formulário será aberto, solicitando as informações do tipo de movimentação a ser adicionado. Mais campos aparecerão de acordo com o **Tipo** selecionado.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/tipos_de_movimentacao/3_movimentacao.png)
+![](../../.gitbook/assets/3_movimentacao.png)
 
 Cada uma dessas opções irá determinar se alguma ação deve ser realizada ou não no sistema:
 
@@ -37,7 +37,7 @@ Cada uma dessas opções irá determinar se alguma ação deve ser realizada ou 
 
 * **Atualizar Estoque**:
 
-  Permite que a venda altere a quantidade de itens no estoque. 
+  Permite que a venda altere a quantidade de itens no estoque.
 
 * **Atualizar Pré Pago**
 
@@ -65,15 +65,15 @@ Cada uma dessas opções irá determinar se alguma ação deve ser realizada ou 
 
 Conforme as opções forem sendo ativadas, novos campos surgirão.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/tipos_de_movimentacao/4_movimentacao.png)
+![](../../.gitbook/assets/4_movimentacao.png)
 
 ## Restrições de Uso
 
 Para restringir o uso de algum tipo de movimentação, selecione a opção **Restrições/Exceções**.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/tipos_de_movimentacao/5_movimentacao.png)
+![](../../.gitbook/assets/5_movimentacao.png)
 
 Um formulário será aberto solicitando os filtros que deseja aplicar para definir quem ou em que circunstâncias o tipo de movimentação em edição deverá ser utilizado.
 
-![](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/assets/manuais_de_uso/tipos_de_movimentacao/6_movimentacao.png)
+![](../../.gitbook/assets/6_movimentacao.png)
 

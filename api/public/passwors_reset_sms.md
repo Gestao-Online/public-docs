@@ -6,7 +6,7 @@ Resetar Senha \(SMS\)
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint allows you to get free cakes.
+Assim como na recuperação de senha por email, você poderá recuperar suas credenciais por SMS.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -40,7 +40,7 @@ O seu CPF
 Atualmente só retorna erro mesmo enviando código pin para o usuário.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "trace": [
         {
@@ -67,6 +67,4 @@ Atualmente só retorna erro mesmo enviando código pin para o usuário.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

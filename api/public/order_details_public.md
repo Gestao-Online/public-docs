@@ -30,7 +30,7 @@ Identificador do pedido
 Informações do pedido listadas com sucesso.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "data": {
         "id": 593,
@@ -50,7 +50,7 @@ Informações do pedido listadas com sucesso.
             "document": "123421341234",
             "name": "Solucoes Inteligentes Servicos EIRELI",
             "stateRegistration": null,
-            "email": "contato@sublimecd.com.br",
+            "email": "example@exemple.com",
             "phone": null,
             "cellphone": "123423434",
             "state": "PB",
@@ -162,7 +162,7 @@ Informações do pedido listadas com sucesso.
 Token de acesso ao pedido inválido.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Forbidden",
@@ -174,6 +174,4 @@ Token de acesso ao pedido inválido.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
