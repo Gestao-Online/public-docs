@@ -93,7 +93,7 @@
     * [Login](api/public/login.md)
     * [Informações do Usuário](api/public/listar-usuario.md)
     * [Esqueci Minha Senha \(Email\)](api/public/password_reset_email.md)
-    * [Esqueci Minha Senha \(SMS\)](api/public/passwors_reset_sms.md)
+    * [Esqueci Minha Senha \(SMSS\)](api/public/passwors_reset_sms.md)
     * [Recuperar Senha](api/public/password_recovery.md)
     * [Detalhes do Pedido](api/public/order_details_public.md)
     * [Opções de Pagamento na Unidade](api/public/unit_payment_options.md)
