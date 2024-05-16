@@ -6,7 +6,7 @@ Resetar Senha \(Email\)
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Esta rota
+Com essa rota é possível desenvolver um fluxo de recuperação de senhas.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -18,14 +18,18 @@ Esta rota
 {% endapi-method-headers %}
 
 {% api-method-query-parameters %}
-{% api-method-parameter name="q" type="string" %}
-Ação que deseja fazer sobre o usuário \(Query\). Neste caso "forgot-password" .
+{% api-method-parameter name="q" type="string" required=true %}
+Ação que deseja fazer sobre o usuário \(Query\). Neste caso "forgot-password"
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
 
 {% api-method-body-parameters %}
+{% api-method-parameter name="document" type="string" required=true %}
+O CPF do usuário
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="email" type="string" required=true %}
-O email da conta que deseja recuperar a senha.
+O email da conta que deseja recuperar a senha
 {% endapi-method-parameter %}
 {% endapi-method-body-parameters %}
 {% endapi-method-request %}
@@ -36,7 +40,7 @@ O email da conta que deseja recuperar a senha.
 Sucesso ao solicitar troca de senha.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "pinPrefix": "PREFIXO DE PIN",
     "token": "TOKEN PARA RECUPERAÇÃO DE SENHA",
@@ -53,7 +57,7 @@ Sucesso ao solicitar troca de senha.
 Erro ao solicitar troca de senha \(Requisição incorreta ou email inválido\)
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "trace": [
         {
@@ -79,6 +83,4 @@ Erro ao solicitar troca de senha \(Requisição incorreta ou email inválido\)
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

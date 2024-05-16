@@ -6,7 +6,7 @@ Checkout do usuário no boleto
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Endpoint para geração do pedido em boleto.
+Com esta rota você pode gerar pedidos de um determinado produto.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -43,11 +43,22 @@ Identificador do cliente
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-Cake successfully retrieved.
+Sucesso ao gerar pedido.
 {% endapi-method-response-example-description %}
 
-```
-
+```text
+{
+   "code":"",
+   "data": {
+      "id":954,
+      "orderCode": "0000954179" // NÚMERO DO PEDIDO
+   },
+   "publicToken":"TOKEN PÚBLICO",
+   "type":"http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+   "title":"ok",
+   "status":200,
+   "detail":"Order created"
+}
 ```
 {% endapi-method-response-example %}
 
@@ -56,7 +67,7 @@ Cake successfully retrieved.
 Requisição inválida
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Bad Request",
@@ -69,5 +80,39 @@ Requisição inválida
 {% endapi-method-spec %}
 {% endapi-method %}
 
+### Exemplo do corpo da requisição:
 
+```text
+{
+   "uri": "",
+   "type": "V",
+   "negotiationType":20,
+   "items":[
+      {
+         "id":10,
+         "sku":"370",
+         "p":"",
+         "quantity":1,
+         "price":100,
+         "description":"KIT PJ A3 - TOKEN - 2 ANOS",
+      }
+   ],
+   "userData":{
+      "document":"231.231.231-23",
+      "name":"João Diniz",
+      "email":"example@example.com",
+      "cellphone":"(62) 00000-0000",
+      "zipCode":"74000-000",
+      "address":"My new address",
+      "number":0,
+      "neighborhood":"Residencial Alphaville Flamboyant",
+      "addressDetail":"...",
+      "city":"Goiânia",
+      "state":"GO",
+      "password":null,
+      "phone":"",
+      "username":"8748923323"
+   }
+}
+```
 

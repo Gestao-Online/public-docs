@@ -28,7 +28,7 @@ Lista contendo objetos com ID e quantidade de cada produto comprado.
 
 {% api-method-parameter name="cardData" type="string" required=true %}
 Informações do cartão de crédito, um objeto  
-contendo, holderName \(bandeira do cartão\),   
+contendo, holderName \(bandeira do cartão\),  
 expirationMonth \(mês de expiração\), expirationYear \(ano de expiração\), securityCode \(código de segurança\), cardNumber \(número do cartão\).
 {% endapi-method-parameter %}
 
@@ -52,8 +52,19 @@ Identificador do cliente
 Sucesso ao criar pedido.
 {% endapi-method-response-example-description %}
 
-```
-
+```text
+{
+   "code":"",
+   "data":{
+      "id":968,
+      "orderCode":"0000968179" // Numero do pedido
+   },
+   "publicToken":"TOKEN PÚBLICO",
+   "type":"http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
+   "title":"ok",
+   "status":200,
+   "detail":"Order created"
+}
 ```
 {% endapi-method-response-example %}
 
@@ -62,7 +73,7 @@ Sucesso ao criar pedido.
 Requisição inválida.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "Bad Request",
@@ -75,5 +86,26 @@ Requisição inválida.
 {% endapi-method-spec %}
 {% endapi-method %}
 
+### Exemplo do corpo da requisição:
 
+```text
+{
+    "uri": "u4_contador-indicador",
+    "negotiationType": "23",
+    "type": "V",
+    "cardData": {
+        "holderName":"VISA MAGIC",
+        "expirationMonth":"05",
+        "expirationYear":"2021",
+        "securityCode":"123",
+        "cardNumber":"4929710426637678"
+    },
+    "items": [
+        {
+            "id": "9",
+            "quantity": 1
+        }
+    ]
+}
+```
 

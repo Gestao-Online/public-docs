@@ -6,7 +6,7 @@ Login
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Através desta rota o usuário é capaz de logar no sistema.
+Através desta rota o seu parceiro é capaz de logar na api, um **token** será devolvido como resposta para que ele possa realizar futuras requisições em rotas privadas.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -81,7 +81,7 @@ Corpo da requisição inválido.
 Credenciais inválidas.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "type": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html",
     "title": "invalid_grant",

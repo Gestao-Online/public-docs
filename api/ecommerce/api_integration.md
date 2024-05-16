@@ -4,7 +4,7 @@ description: A URL é montada em forma de array com parâmetros determinados.
 
 # Integração API
 
-{% api-method method="get" host="https://tools.gestao.plus" path="/goto-checkout.php" %}
+{% api-method method="post" host="https://tools.gestao.plus" path="/goto-checkout.php" %}
 {% api-method-summary %}
 URL Checkout
 {% endapi-method-summary %}
@@ -26,20 +26,24 @@ application/json
 {% endapi-method-headers %}
 
 {% api-method-body-parameters %}
-{% api-method-parameter name="user" type="string" required=true %}
-Dados do usuário para o preenchimento automático do formulário \(Opcional\)
+{% api-method-parameter name="user" type="string" required=false %}
+Dados do usuário para o preenchimento automático do formulário
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="sku" type="string" required=true %}
 SKU do produto dessa venda
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="callBackUrl" type="string" required=true %}
-URL de volta para o usuário retornar, se for necessário \(Opcional\)
+{% api-method-parameter name="callBackUrl" type="string" required=false %}
+URL de volta para o usuário retornar para o carrinho, se for necessário
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="p" type="string" required=true %}
-ID gerado dentro do sistema \(Opcional, consulte o administrador\)
+{% api-method-parameter name="callBackResponseUrl" type="string" required=false %}
+URL de volta para o usuário retornar para resumo de compra após a confirmação do pagamento, se for necessário \(a url deve esperar a concatenação do parâmetro de código do pedido\)
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="p" type="string" required=false %}
+ID gerado dentro do sistema \(consulte o administrador\)
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="url" type="string" required=true %}
@@ -54,7 +58,7 @@ URL do ERP Gestão Online
 Sucesso ao requisitar url do checkout.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "status": "success",
     "redirectTo":
@@ -76,7 +80,7 @@ Sucesso ao requisitar url do checkout.
 Corpo da requisição inválido.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "status": "error",
     "message": "An error occurred, the 'url' parameter is invalid"
@@ -88,4 +92,34 @@ Corpo da requisição inválido.
 {% endapi-method %}
 
 
+Exemplo de request:
+```
+curl --location --request POST 'https://tools.gestao.plus/goto-checkout.php' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "url": "https://parceirosoluti.com.br",
+    "p": "i6473-gestao-online",
+    "callBackUrl": "https://gestão.online?q=callbackToProductListSample",
+    "callBackResponseUrl": "https://gestão.online?q=callbackToOrderDetailUsingCode&code=",
+    "sku": 9,
+    "user": {
+        "document": "11111111111",
+        "name": "Nome Exemplo",
+        "email": "teste@teste.com",
+        "cellphone": "62995555555",
+        "zipCode": "74230130",
+        "address": "Apt 123",
+        "number": "1529",
+        "neighborhood": "Setor Bueno",
+        "addressDetail": "Av Xpto",
+        "city": "Goiania",
+        "state": "GO"
+    }
+}'
+```
+
+
+{% hint style="info" %}
+Para consultar as informações utilize o código retornado na url indicada em "callBackResponseUrl", [utilize o endpoint de detalhes do pedido/pagamento](https://docs.gestao.plus/api/public/order_details_public) para obter os detalhes.
+{% endhint %}
 

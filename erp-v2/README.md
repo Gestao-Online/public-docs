@@ -1,4 +1,6 @@
-# 👨‍🏫 Apresentação Gestão.Online
+
+
+
 
 ## O que é a Gestão.Online?
 
