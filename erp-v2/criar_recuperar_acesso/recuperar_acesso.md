@@ -29,7 +29,7 @@ Agora voltando à tela de recuperação de conta da Gestão.Online, você vai co
 
 
 
-Prontinho, após ter seguido esses passos a sua senha foi alterada com sucesso! 😁
+**Prontinho, após ter seguido esses passos a sua senha foi alterada com sucesso!**
 
 Agora é só fazer login e seguir utilizando as múltiplas funções disponíveis na nossa plataforma Gestão.Online.
 
