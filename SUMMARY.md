@@ -80,6 +80,7 @@
     * [🧑‍🏫 Apresentação da barra de navegação (abas, botões.)](erp-v2/primeiro_acesso/apresentacao_barra_navegacao.md)
     * [🔔 Notificações internas](/erp-v2/primeiro_acesso/notificacao_interna.md)
     * [🔎 Barra de pesquisa](/erp-v2/primeiro_acesso/barra_pesquisa.md)
+    * [🗄️ Menu principal](/erp-v2/primeiro_acesso/manu_principal.md)
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)
@@ -131,4 +132,3 @@
     * [Criar Pedido](api/private-erp/new_order.md)
     * [Cancelar Pedido](api/private-erp/cancel_order.md)
     * [Webhooks](api/private-erp/webhooks.md)
-
