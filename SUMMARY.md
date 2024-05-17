@@ -81,6 +81,8 @@
     * [🔔 Notificações internas](/erp-v2/primeiro_acesso/notificacao_interna.md)
     * [🔎 Barra de pesquisa](/erp-v2/primeiro_acesso/barra_pesquisa.md)
     * [🗄️ Menu principal](/erp-v2/primeiro_acesso/manu_principal.md)
+    * [⭐ Favoritos](/erp-v2/primeiro_acesso/favoritos.md)
+    * [↪️ Atalhos internos](/erp-v2/primeiro_acesso/atalhos_internos.md)
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)
