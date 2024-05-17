@@ -6,6 +6,17 @@ Aqui você pode completar seu cadastro na nossa plataforma, e acessar mais algum
 
 <br>
 
+Assim que entramos no meu de edição de usuário você pode ver um pequeno menu na cor cinza ao lado direito da tela. Temos algumas funções neles:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line">alvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line">Voltar;
+
+![](/erp-v2/assets/edit_dados_menu_superior.png)
+
+<br>
+
 Olhando para a guia `Geral`, por padrão, quando sua conta é criada é exigido o nome de usuário e-mail e unidade. Então essas informações você não precisa alterar, mas tem outros campos para preenchimento, são eles:
 
 - **Nome** (Aqui você pode colocar seu nome completo);
