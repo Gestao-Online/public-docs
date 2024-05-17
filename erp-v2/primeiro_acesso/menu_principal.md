@@ -8,6 +8,14 @@ Uma funcionalidade muito interessante dele, é a opção de mudar o lado de exib
 
 ![](/erp-v2/assets/menu_principal_mudar_lado.gif)
 
+Por último das opções disponíveis, temos <img src="/erp-v2/assets/icone_menu_superior.png" alt="" data-size="line"> o ícone de setas pra esquerda e direita, com ele você ativa o menu superior, sendo uma nova forma de visualizar os itens favoritos e dados da sua conta. Confira o exemplo abaixo:
+
+{% hint style="warning" %}
+**Atenção:** Quando se ativa o menu superior, você verá somente os favoritos e as opções de definição da sua conta de usuário, o menu com as outras funções só fica disponível no modo de visão lateral.
+{% endhint %}
+
+![](/erp-v2/assets/menu_principal_superior.gif)
+
 {% hint style="info" %}
 **Informação:** Essa alteração ficará registrada em seu usuário, mesmo você saindo da conta, quando retornar, ele estará no mesmo local configurado! 😉👍
 {% endhint %}
