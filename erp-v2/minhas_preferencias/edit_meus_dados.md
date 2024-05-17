@@ -41,3 +41,5 @@ Na parte de Status, Perfil e Unidade, como usuário comum você não consegue fa
 Estas opções permitem alterações somente pelo administrador 😉👍
 
 ![](/erp-v2/assets/edit_dados_bloqueados.gif)
+
+Agora na guia `Notificações` você tem controle de todas as notificações geradas para o seu usuário.....
