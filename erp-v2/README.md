@@ -6,4 +6,6 @@ O Sistema da Gestão.Online otimiza sua rotina de administrador, permite que voc
 
 Vamos conhecer mais sobre como utlizar a nossa plataforma da melhor maneira possível! 😉👍
 
+![](/erp-v2/assets/logo-preto.png)
+
 <!-- ### Soluções para o seu negócio -->
