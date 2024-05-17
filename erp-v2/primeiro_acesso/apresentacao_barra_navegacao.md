@@ -12,4 +12,4 @@ A primeira vista estão alguns botões para conhecermos melhor, vejamos abaixo o
 
 **04 - Botão menu principal:** Aqui fica o menu principal, ao clicar nele uma janela vai abrir e você verá os itens favoritos e o menu com as demais funções de uso da nossa plataforma. Para mais informações **[clique aqui!](/erp-v2/primeiro_acesso/menu_principal.md)**
 
-**05 - Botão menu conta usuário:** Por último está o menu da conta, onde você poderá acessar algumas configurações dela, como foto de perfil, senha entre outros. Para saber mais informações **[clique aqui!](/erp-v2/primeiro_acesso/menu_conta.md)**
+**05 - Botão menu conta usuário:** Por último está o menu da conta, onde você poderá acessar algumas configurações dela, como foto de perfil, senha, entre outros. Para saber mais informações **[clique aqui!](/erp-v2/primeiro_acesso/menu_conta.md)**
