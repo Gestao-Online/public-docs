@@ -87,7 +87,7 @@
     * [🎲 Editando meu dados](/erp-v2/minhas_preferencias/edit_meus_dados.md)
     * [🔑 Alterando minha senha](/erp-v2/minhas_preferencias/alt_minha_senha.md)
     * [📸 Alterando minha foto](/erp-v2/minhas_preferencias/alt_minha_foto.md)
-    * [🎨 Alterando a paleta de cores]()
+    * [🎨 Alterando a paleta de cores](/erp-v2/minhas_preferencias/alt_paleta_cores.md)
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)

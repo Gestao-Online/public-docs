@@ -21,7 +21,7 @@ Olhando para a guia `Geral`, por padrão, quando sua conta é criada é exigido 
 
 - **Nome** (Aqui você pode colocar seu nome completo);
 - **Nome usuário** (Este é nome/código/cpf usadao para fazer login na plataforma);
-- **Alterar senha** (Para mais informações [clique aqui](/erp-v2/criar_recuperar_acesso/recuperar_acesso.md));
+- **Alterar senha** (Para mais informações [clique aqui](/erp-v2/minhas_preferencias/alt_minha_senha.md));
 - **Status** (Aqui define seu nível de acesso a plataforma, é um item alterado somente do administrador);
 - **Perfil** (Aqui define que tipo de autorização você tem na plataforma, alterado somente por administrador);
 - **Unidade** (Nome do local/setor de trabalho, é bloqueado, alterado somente pelo administrador);
@@ -34,13 +34,7 @@ Olhando para a guia `Geral`, por padrão, quando sua conta é criada é exigido 
 
 ![](/erp-v2/assets/edit_dados_guia_geral.png)
 
-Dando um foco na parte de troca de senha, ao clicar no botão de alteração, você precisará digitar sua senha antiga e depois a sua nova senha:
-
-{% hint style="danger" %}
-**Atenção:** Existem alguns requisitos de segurança para uma senha ser aceita em nossa plataforma, precisa ter no mínimo 8 caracteres, dentre eles Letra Minúscula (a - z), Letra Maiúscula (A - Z) e Número (0 - 9).
-{% endhint %}
-
-![](/erp-v2/assets/edit_dados_senha.gif)
+<br>
 
 Na parte de Status, Perfil e Unidade, como usuário comum você não consegue fazer alterações, para cada um dos casos uma mensagem específica de erro irá aparecer:
 
