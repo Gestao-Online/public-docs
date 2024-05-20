@@ -1,6 +1,6 @@
 # 📚 Módulos
 
-Nesta seção iremos explicar cada um dos módulos disponíveis na nossa plataforma Gestão.Online e a melhor maneira de você utilizá-los:
+Nesta seção iremos explicar cada um dos módulos disponíveis na nossa plataforma Gestão.Online e a melhor maneira de você utilizar cada um deles, clique abaixo no de sua preferência:
 
 <table data-view="cards">
     <thead>
@@ -128,6 +128,45 @@ Nesta seção iremos explicar cada um dos módulos disponíveis na nossa platafo
             </td>
             <td>
                 <a href="/erp-v2/assets/modulos/icon_parametrizacao.png">icon_parametrizacao.png</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Unidades/Lojas & Locais de estoque</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/modulos/unidades_locais_estoque/README.md">README.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_unidades.png">icon_unidades.png</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Controle de unidades</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/modulos/controle_unidades/README.md">README.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_controle_unidades.png">icon_controle_unidades.png</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Produtos & Serviços</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/modulos/produtos_servicos/README.md">README.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_produtos.png">icon_produtos.png</a>
             </td>
         </tr>
     </tbody>
