@@ -65,7 +65,7 @@ Nesta seção iremos explicar cada um dos módulos disponíveis na nossa platafo
                 <a href="/erp-v2/assets/modulos/icon_financeiro.png">icon_paleta.png</a>
             </td>
         </tr>
-         <tr>
+        <tr>
             <td>
                 <strong>Fiscal</strong>
             </td>
@@ -76,6 +76,58 @@ Nesta seção iremos explicar cada um dos módulos disponíveis na nossa platafo
             </td>
             <td>
                 <a href="/erp-v2/assets/modulos/icon_fiscal.png">icon_fiscal.png</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Indicadores/Afiliados</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/modulos/indicadores_afiliados/README.md">README.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_parceiros.png">icon_parceiros.png</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Usuários & Vendedores</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/modulos/usuarios_vendedores/README.md">README.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_parceiros.png">icon_parceiros.png</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Configurações e Customizações</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/modulos/configuracoes_customizacoes/README.md">README.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_configuracao.png">icon_configuracao.png</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Parametrizações</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/modulos/parametrizacoes/README.md">README.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_parametrizacao.png">icon_parametrizacao.png</a>
             </td>
         </tr>
     </tbody>
