@@ -42,4 +42,16 @@ Estas opções permitem alterações somente pelo administrador 😉👍
 
 ![](/erp-v2/assets/edit_dados_bloqueados.gif)
 
-Agora na guia `Notificações` você tem controle de todas as notificações geradas para o seu usuário.....
+Agora na guia `Notificações` você tem controle de todas as notificações geradas para o seu usuário e ainda pode gerar notificações para o futuro, algum lembrete por exemplo. Confira abaixo:
+
+![](/erp-v2/assets/edit_dados_notificacao.png)
+
+Aqui temos um pequeno menu no lado direito da tela com algumas funções, sendo elas:
+
+- Mostrar/Esconder info;
+- Imprimir página;
+- Atualziar página;
+- Filtro;
+- Adicionar item.
+
+![](/erp-v2/assets/edit_dados_notificacao_menu.png)
