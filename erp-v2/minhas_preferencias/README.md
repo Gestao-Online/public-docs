@@ -51,7 +51,7 @@ Neste menu vamos conhecer um pouco mais sobre as possíveis alterações que voc
                 <a href="/erp-v2/minhas_preferencias/alt_minha_foto.md">alt_minha_foto.md</a>
             </td>
             <td>
-                <a href="/erp-v2/minhas_preferencias/alt_minha_foto.md">alt_minha_foto.png</a>
+                <a href="/erp-v2/assets/icon_foto.png">alt_minha_foto.png</a>
             </td>
         </tr>
         <tr>
