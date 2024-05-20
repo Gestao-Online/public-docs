@@ -17,10 +17,10 @@ Assim que entramos no meu de edição de usuário você pode ver um pequeno menu
 
 <br>
 
-Olhando para a guia `Geral`, por padrão, quando sua conta é criada é exigido o nome de usuário e-mail e unidade. Então essas informações você não precisa alterar, mas tem outros campos para preenchimento, são eles:
+Olhando para a guia **`Geral`**, por padrão, quando sua conta é criada é exigido o nome de usuário, e-mail e unidade. Então essas informações você não precisa alterar, mas tem outros campos para preenchimento, são eles:
 
 - **Nome** (Aqui você pode colocar seu nome completo);
-- **Nome usuário** (Este é nome/código/cpf usadao para fazer login na plataforma);
+- **Nome usuário** (Este é nome/código/cpf usado para fazer login na plataforma);
 - **Alterar senha** (Para mais informações [clique aqui](/erp-v2/minhas_preferencias/alt_minha_senha.md));
 - **Status** (Aqui define seu nível de acesso a plataforma, é um item alterado somente do administrador);
 - **Perfil** (Aqui define que tipo de autorização você tem na plataforma, alterado somente por administrador);
@@ -36,22 +36,50 @@ Olhando para a guia `Geral`, por padrão, quando sua conta é criada é exigido 
 
 <br>
 
-Na parte de Status, Perfil e Unidade, como usuário comum você não consegue fazer alterações, para cada um dos casos uma mensagem específica de erro irá aparecer:
+Na parte de status, perfil e unidade, como usuário comum você não consegue fazer alterações, para cada um dos casos uma mensagem específica de erro irá aparecer:
 
 Estas opções permitem alterações somente pelo administrador 😉👍
 
 ![](/erp-v2/assets/edit_dados_bloqueados.gif)
 
-Agora na guia `Notificações` você tem controle de todas as notificações geradas para o seu usuário e ainda pode gerar notificações para o futuro, algum lembrete por exemplo. Confira abaixo:
+Agora na guia **`Notificações`** você tem controle de todas as notificações geradas para o seu usuário em nossa plataforma. Confira abaixo:
 
 ![](/erp-v2/assets/edit_dados_notificacao.png)
 
 Aqui temos um pequeno menu no lado direito da tela com algumas funções, sendo elas:
 
-- Mostrar/Esconder info;
-- Imprimir página;
-- Atualziar página;
-- Filtro;
-- Adicionar item.
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar item. 
+
+{% hint style="danger" %}
+**Atenção:** A função **`Adicionar Item`** só está disponível para administradores, podendo somente ele criar novas notificações.
+{% endhint %}
 
 ![](/erp-v2/assets/edit_dados_notificacao_menu.png)
+
+E você como usuário pode **`apagar`** as notificações recebidas (Não sendo possível recuperar depois) quanto a editar as notificações já recebidas, é uma função disponível somente para administradores. Veja o exemplo de uso abaixo: 
+
+![](/erp-v2/assets/edit_menu_notificacao_apagar.gif)
+
+<br>
+
+Agora na guia **`Access Tokens`** você encontra o relatório de tokens de acesso gerado ao seu usuário e o período de duração de cada um em cada sessão que você esteve na nossa plataforma, e estas informações não são permitidas modificações em nenhum dos níveis de acesso. Pois são gravadas no banco de dados para registro:
+
+![](/erp-v2/assets/edit_dados_access_token.png)
+
+<br>
+
+Na guia **`Metadata`** ficam seus registros de perfil, modificação de foto de perfil, alteração de cor do tema, adição de itens nos favoritos ou até mesmo remoção. Todas as informações que você organizar na nossa plataforma, ficarão salvas e registradas nessa guia, para quando você fizer login tudo ficar do jeitinho que você deixou! 😁
+
+![](/erp-v2/assets/edit_dados_metadata.png)
+
+<br>
+
+Na última guia ficaram os **`Events`** com tudo que o seu usuário fez, um pouco parecido com o Access Tokens, mas enquanto lá ele registra somente seu acesso, aqui no events ficará tudo o que você fizer, alteração, adição, pesquisa, visualização de algum item ou cliente, todas as informações registradas aqui.
+
+E por se tratar de uma página com informações importantes, os dados dela não podem ser apagados ou alterados, confira a imagem abaixo:
+
+![](/erp-v2/assets/edit_dados_events.png)
