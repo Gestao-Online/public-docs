@@ -17,7 +17,7 @@ Perfeito, se você chegou até aqui agora precisará completar os dados restante
 - Nome completo;
 - CPF; 
 - Telefone;
-- CEP(Com este preenchido os demais de endereço serão completados automaticamente);
+- CEP (Quando preenchido, os demais itens de endereço serão completados automaticamente);
 - Email (Este já estará preenchido);
 - Usuário (Este já estará preenchido);
 - Senha.
