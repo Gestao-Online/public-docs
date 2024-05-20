@@ -1,6 +1,6 @@
 # 📚 Módulos
-
-Nesta seção iremos explicar cada um dos módulos disponíveis na nossa plataforma Gestão.Online e a melhor maneira de você utilizar cada um deles, clique abaixo no de sua preferência:
+[
+Nesta seção iremos explicar cada um dos módulos disponíveis na nossa plataforma Gestão.Online e a melhor maneira de você utilizar cada um deles, estes módulos estão dispostos no menu principal e você pode salvar os que mais utiliza no menu de [`favoritos`](/erp-v2/primeiro_acesso/favoritos.md) para ter eles de inicio quando abrir a plataforma, para saber mais sobre os módulos, clique abaixo no de sua preferência:
 
 <table data-view="cards">
     <thead>
@@ -46,7 +46,7 @@ Nesta seção iremos explicar cada um dos módulos disponíveis na nossa platafo
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2/modulos/agendamentos_parceiros/README.md">README.md</a>
+                <a href="/erp-v2/modulos/agendamentos_atividades/README.md">README.md</a>
             </td>
             <td>
                 <a href="/erp-v2/assets/modulos/icon_agendamentos.png">icon_agendamentos.png</a>
