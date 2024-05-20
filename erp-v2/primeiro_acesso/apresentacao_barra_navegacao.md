@@ -8,7 +8,7 @@ A primeira vista estão alguns botões para conhecermos melhor, vejamos abaixo o
 
 **02 - Botão de pesquisa:** Aqui fica o botão da pesquisa, ao clicar nele uma área será mostrada para você buscar uma função específica. Para saber mais **[clique aqui!](/erp-v2/primeiro_acesso/barra_pesquisa.md)**
 
-**03 - Botão de notificações:** Neste botão de sino, você tem acesso às notificações internas da plataforma, seja um lançamento, um aviso de atraso, um item faltante, entre outros. Para mais informações **[clique aqui!](/erp-v2/primeiro_acesso/notificacoes_internas.md)**
+**03 - Botão de notificações:** Neste botão de sino, você tem acesso às notificações internas da plataforma, seja um lançamento, um aviso de atraso, um item faltante, entre outros. Para mais informações **[clique aqui!](/erp-v2/primeiro_acesso/notificacao_interna.md)**
 
 **04 - Botão menu principal:** Aqui fica o menu principal, ao clicar nele uma janela vai abrir e você verá os itens favoritos e o menu com as demais funções de uso da nossa plataforma. Para mais informações **[clique aqui!](/erp-v2/primeiro_acesso/menu_principal.md)**
 
