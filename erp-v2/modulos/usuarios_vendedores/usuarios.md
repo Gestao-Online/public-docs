@@ -95,8 +95,17 @@ Nesta janela que se abriu, temos algumas funções importantes para abordarmos, 
 - **Fora de:** Similar ao filtro anterior, mas busca registros cujo valor esteja fora do intervalo especificado. Por exemplo, se você busca por “preço fora de 5 a 10”, retornará registros com preço abaixo de 5 ou acima de 10.
 
 {% hint style="info" %}
-**Atenção:** No uso do filtro `Dentro de` ou `Fora de` você precisa inserir todos os valores que ficarão dentrou ou fora da busca, igual exemplo abaixo:
+**Informativo:** No uso do filtro **`Dentro de`** ou **`Fora de`** você precisa inserir todos os valores que ficarão dentrou ou fora da busca, igual exemplo abaixo:
 {% endhint %}
 
 ![](/erp-v2/assets/modulos/menu_guia_usuario_filtro_dentrode.gif)
 
+<br>
+
+Depois do filtro de ID, temos o filtro de Nome, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada usuário 😉👍
+
+![](/erp-v2/assets/modulos/menu_guia_usuarios_filtro_nome.png)
+
+Não existe filtro para `Nome de usuário`, mas temos para pesquisar por `Unidade`, confira exemplo abaixo, pois é necessário digitar o nome da unidade para aparecer na busca:
+
+![](/erp-v2/assets/modulos/menu_guia_usuario_filtro_unidade.gif)
