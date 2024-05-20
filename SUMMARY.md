@@ -96,6 +96,7 @@
     * [🕵️ Fiscal](/erp-v2/modulos/fiscal/README.md)
     * [👥 Indicadores/Afiliados](/erp-v2/modulos/indicadores_afiliados/README.md)
     * [👥 Usuários & Vendedores](/erp-v2/modulos/usuarios_vendedores/README.md)
+      * [👤 Usuários](/erp-v2/modulos/usuarios_vendedores/usuarios.md)
     * [🛠️ Configurações e Customizações](/erp-v2/modulos/configuracoes_customizacoes/README.md)
     * [📋 Parametrizações](/erp-v2/modulos/parametrizacoes/README.md)
     * [🏭 Unidades/Loas & Locais de estoque](/erp-v2/modulos/unidades_locais_estoque/README.md)
