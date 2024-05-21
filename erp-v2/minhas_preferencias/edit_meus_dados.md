@@ -22,7 +22,7 @@ Olhando para a guia **`Geral`**, por padrão, quando sua conta é criada é exig
 - **Nome** (Aqui você pode colocar seu nome completo);
 - **Nome usuário** (Este é nome/código/cpf usado para fazer login na plataforma);
 - **Alterar senha** (Para mais informações [clique aqui](/erp-v2/minhas_preferencias/alt_minha_senha.md));
-- **Status** (Aqui define seu nível de acesso a plataforma, é um item alterado somente do administrador);
+- **Status** (Aqui define o status de usuário a plataforma, é um item alterado somente do administrador);
 - **Perfil** (Aqui define que tipo de autorização você tem na plataforma, alterado somente por administrador);
 - **Unidade** (Nome do local/setor de trabalho, é bloqueado, alterado somente pelo administrador);
 - **E-mail** (Item obrigatório, você não pode modificar este e-mail, sua conta está vinculada exclusivamente a ele);

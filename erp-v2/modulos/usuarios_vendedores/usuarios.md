@@ -147,7 +147,13 @@ E se você ficou na dúvida sobre o que fazer cas ofique tudo muito misturado na
 
 <br>
 
-Se você observar, sempre ao lado direito de cada usuário mostrado você têm dois botôes:
+Você também pode pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reodernador os filtros apenas clicando e movendo para a posição que você preferir e se arrastar ele para fora será oculto, confira abaixo:
+
+![](/erp-v2/assets/modulos/menu_guia_usuarios_filtros_mouse.gif)
+
+<br>
+
+Se você observar, sempre ao **`lado direito`** de cada usuário mostrado você têm dois botôes:
 
 - <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
 - <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
@@ -173,10 +179,57 @@ Você pode conferir no nosso teste abaixo:
 
 ### Paginação
 
-Logo na parte final fica a paginação, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
+Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
 
 ![](/erp-v2/assets/modulos/menu_guia_usuarios_paginacao.png)
 
 <br>
 
+### Adicionar novo usuário
 
+No menu ao lado direito da tela, temos o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo usuário, confira abaixo o procedimento para fazer o cadastro corretamente:
+
+![](/erp-v2/assets/modulos/menu_guia_ususarios_menu_add_user.png)
+
+
+<br>
+
+Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados do novo usuário:
+
+![](/erp-v2/assets/modulos/menu_guia_usuario_add_user.png)
+
+<br>
+
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza ao lado direito da tela. Temos algumas funções neles, vejamos abaixo para entender melhor:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/modulos/menu_guia_usuario_add_user_menu.png)
+
+<br>
+
+Olhando para a guia **`Geral`**, por padrão, quando você for criar uma conta é exigido o perfil e e-mail. Agora os outros campos para preenchimento pode deixar para o usuário quando ele confirmar a conta, listamos os campos abaixo:
+
+- **Nome** (Nome completo do usuário, podendo ele preencher depois);
+- **Nome usuário** (É usado para login na plataforma, podendo ser um nome/código/cpf);
+- **Alterar senha** (Para mais informações [clique aqui](/erp-v2/minhas_preferencias/alt_minha_senha.md));
+- **Status** (Aqui você define o status do usuário, sendo ativado, desativado ou aguardando registro);
+- **Perfil** (Item obrigatório, Aqui define que tipo de autorização que ele terá na plataforma);
+- **Unidade** (Nome do local/setor de trabalho);
+- **E-mail** (Item obrigatório, a conta está vinculada exclusivamente a ele não podendo ser modificado depois);
+- **Telefone**;
+- **Documento** (Pode ser um RG/CPF/CNH, o usuário pode preencher depois);
+- **CEP** (Após inserir o CEP os demais dados serão preenchidos automaticamente);
+
+<br>
+
+![](/erp-v2/assets/modulos/menu_guia_usuario_add_user_itens.png)
+
+<br>
+
+Após finalizar a venda você clica em **`Salvar`** e o registro do usuário será salvo e enviado para o e-mail dele uma mensagem para finalizar o registro
+
+![](/erp-v2/assets/modulos/menu_guia_usuarios_salvar.gif)
