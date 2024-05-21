@@ -23,7 +23,9 @@ Nesta guia temos um nu ao lado direito da tela com as seguintes funções:
 
 <br>
 
-Ao clicar no primeiro item do menu vamos para o envio de notificação aos usuários, o prenchimento é bem simples e entuitivo. 
+### Criar notificação
+
+Ao clicar no primeiro item do menu vamos para o envio de notificação aos usuários, o prenchimento é bem simples e entuitivo.
 
 ![](/erp-v2/assets/modulos/menu_guia_usuarios_notificacao.png)
 
@@ -66,12 +68,13 @@ Depois de definido o tipo de usuário, agora vamos para a mensagem, deixamos um 
 - <img src="/erp-v2/assets/modulos/icon_lista_nao_ordenada.png" alt="" data-size="line"> Lista não ordenada;
 - <img src="/erp-v2/assets/modulos/icon_limpar_formatacao.png" alt="" data-size="line"> Limpar formatação. 
 
-
 <!-- Nesta parte perguntar ao Paulo as restrições de envio de notificação para deixar o aviso na página para os demais usuários -->
 
 ![](/erp-v2/assets/modulos/menu_guia_usuarios_notificacao_enviada.gif)
 
 <br>
+
+### Filtros
 
 No menu de filtro você pode definir uma busca específica por usuários, seja por nome, e-mail, documento, status ou unidade. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
 
@@ -106,6 +109,51 @@ Depois do filtro de ID, temos o filtro de Nome, para colocar o texto que será b
 
 ![](/erp-v2/assets/modulos/menu_guia_usuarios_filtro_nome.png)
 
-Não existe filtro para `Nome de usuário`, mas temos para pesquisar por `Unidade`, confira exemplo abaixo, pois é necessário digitar o nome da unidade para aparecer na busca:
+<br>
+
+Você pode pesquisar por **`Unidade`** (Unidade já vem pré-definida pelo administrador que fez o cadastro do usuário), confira exemplo abaixo, pois é necessário digitar o nome da unidade para aparecer na busca:
 
 ![](/erp-v2/assets/modulos/menu_guia_usuario_filtro_unidade.gif)
+
+<br>
+
+Você tem também o filtro por **`E-mail`**, nele é preciso inserir parte do email ou o nome presente no e-mail para realizar a busca.
+
+![](/erp-v2/assets/modulos/menu_guia_usuarios_filtro_email.png)
+
+<br>
+
+Temos o filtro por **`Status`** para uso nas buscas, no momento existem três opções para você utilizar, sendo elas:
+
+- <img src="/erp-v2/assets/modulos/icon_status_ativado.png" alt="" data-size="line"> Ativado;
+- <img src="/erp-v2/assets/modulos/icon_status_desativado.png" alt="" data-size="line"> Desativado;
+- <img src="/erp-v2/assets/modulos/icon_status_aguardando.png" alt="" data-size="line"> Aguardando confirmação.
+
+![](/erp-v2/assets/modulos/menu_guia_usuario_filtro_status.png)
+
+<br>
+
+Por último na mesma linha dos filtros, nós temos a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode definir os filtro utilizados e até alterar a ordem de organização deles! 😁
+
+![](/erp-v2/assets/modulos/menu_guia_usuario_filtro_grid.png)
+
+![](/erp-v2/assets/modulos/menu_guia_usuario_grid.gif)
+
+<br>
+
+E se você ficou na dúvida sobre o que fazer cas ofique tudo muito misturado na ordenação do grid, você pode ficar despreocupado, colocamos o botão redefinir, e ele volta a ordem padrão automaticamente para você, confira abaixo o exemplo:
+
+![](/erp-v2/assets/modulos/menu_guia_usuario_grid_restaurar.gif)
+
+<br>
+
+Se você observar, sempre ao lado direito de cada usuário mostrado você têm dois botôes:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
+
+![](/erp-v2/assets/modulos/menu_guia_usuarios_editar_excluir.png)
+
+Logo na parte final fica a paginação, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
+
+![](/erp-v2/assets/modulos/menu_guia_usuarios_paginacao.png)
