@@ -1,6 +1,6 @@
 # 👤 Usuários
 
-Aqui você tem a visão de todos os usuários cadastrados na plataforma Gestão.Online, podendo fazer cadastro, nviar notificações e até excluir um usuário cadastrado.
+Aqui você tem a visão de todos os usuários cadastrados na plataforma Gestão.Online, podendo fazer cadastro, enviar notificações e até excluir um usuário cadastrado.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -25,7 +25,7 @@ Nesta guia temos um nu ao lado direito da tela com as seguintes funções:
 
 ### Criar notificação
 
-Ao clicar no primeiro item do menu vamos para o envio de notificação aos usuários, o prenchimento é bem simples e entuitivo.
+Ao clicar no primeiro item do menu vamos para o envio de notificação aos usuários, o preenchimento é bem simples e intuitivo.
 
 ![](/erp-v2/assets/modulos/menu_guia_usuarios_notificacao.png)
 
@@ -57,7 +57,7 @@ Após a definição do nível, seguimos para o perfil de usuário que irá receb
 
 <br>
 
-Depois de definido o tipo de usuário, agora vamos para a mensagem, deixamos um editor de texto com algumas funções para você poder excrever a sua notificação:
+Depois de definido o tipo de usuário, agora vamos para a mensagem, deixamos um editor de texto com algumas funções para você poder escrever a sua notificação:
 
 - <img src="/erp-v2/assets/modulos/icon_tamanho_texto.png" alt="" data-size="line"> Escolha de tamanho do texto;
 - <img src="/erp-v2/assets/modulos/icon_negrito.png" alt="" data-size="line"> Negrito;
@@ -93,12 +93,12 @@ Nesta janela que se abriu, temos algumas funções importantes para abordarmos, 
 - **Menor que:** É utilizado para buscar registros cujo valor seja menor do que o especificado. Por exemplo, se você busca por “preço menor que 100”, retornará todos os registros com preço inferior a 100.
 - **Menor ou igual a:** Similar ao filtro anterior, mas inclui também os registros com valor igual ao especificado. Por exemplo, se você busca por “quantidade menor ou igual a 10”, retornará registros com quantidade igual ou menor que 10.
 - **Maior que:** Busca registros cujo valor seja maior do que o especificado. Por exemplo, se você busca por “receita maior que 5000”, retornará registros com receita superior a 5000.
-- **Maior ou igual a:** Semelhante ao filtro anterior, mas inclui também os registros com valor igual ao especificado. Por exemplo, se você busca por “nota maior ou igual a 7”, retornará registros com nota igual ou maior que 7.
+- **Maior ou igual a:** Similar ao filtro anterior, mas inclui também os registros com valor igual ao especificado. Por exemplo, se você busca por “nota maior ou igual a 7”, retornará registros com nota igual ou maior que 7.
 - **Dentro de:** Este filtro é usado para buscar registros cujo valor esteja dentro de um intervalo específico. Por exemplo, se você busca por “id dentro de 15 a 19”, retornará registros com id entre 15 e 19 anos.
 - **Fora de:** Similar ao filtro anterior, mas busca registros cujo valor esteja fora do intervalo especificado. Por exemplo, se você busca por “preço fora de 5 a 10”, retornará registros com preço abaixo de 5 ou acima de 10.
 
 {% hint style="info" %}
-**Informativo:** No uso do filtro **`Dentro de`** ou **`Fora de`** você precisa inserir todos os valores que ficarão dentrou ou fora da busca, igual exemplo abaixo:
+**Informativo:** No uso do filtro **`Dentro de`** ou **`Fora de`** você precisa inserir todos os valores que ficarão dentro ou fora da busca, igual exemplo abaixo:
 {% endhint %}
 
 ![](/erp-v2/assets/modulos/menu_guia_usuario_filtro_dentrode.gif)
@@ -133,7 +133,7 @@ Temos o filtro por **`Status`** para uso nas buscas, no momento existem três op
 
 <br>
 
-Por último na mesma linha dos filtros, nós temos a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode definir os filtro utilizados e até alterar a ordem de organização deles! 😁
+Por último, na mesma linha dos filtros, nós temos a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode definir os filtros utilizados e até alterar a ordem de organização deles! 😁
 
 ![](/erp-v2/assets/modulos/menu_guia_usuario_filtro_grid.png)
 
@@ -141,19 +141,19 @@ Por último na mesma linha dos filtros, nós temos a **`Configuração do grid`*
 
 <br>
 
-E se você ficou na dúvida sobre o que fazer cas ofique tudo muito misturado na ordenação do grid, você pode ficar despreocupado, colocamos o botão redefinir, e ele volta a ordem padrão automaticamente para você, confira abaixo o exemplo:
+Na dúvida sobre o que fazer caso fique tudo muito misturado, você pode ficar despreocupado, colocamos o botão redefinir, e ele volta a ordem padrão automaticamente, confira abaixo o exemplo:
 
 ![](/erp-v2/assets/modulos/menu_guia_usuario_grid_restaurar.gif)
 
 <br>
 
-Você também pode pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reodernador os filtros apenas clicando e movendo para a posição que você preferir e se arrastar ele para fora será oculto, confira abaixo:
+Você também pode pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reordenar os filtros apenas clicando e movendo para a posição que você preferir e se arrastar ele para fora será oculto, confira abaixo:
 
 ![](/erp-v2/assets/modulos/menu_guia_usuarios_filtros_mouse.gif)
 
 <br>
 
-Se você observar, sempre ao **`lado direito`** de cada usuário mostrado você têm dois botôes:
+Se você observar, sempre ao **`lado direito`** de cada usuário mostrado você têm dois botões:
 
 - <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
 - <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
@@ -230,6 +230,6 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar uma conta �
 
 <br>
 
-Após finalizar a venda você clica em **`Salvar`** e o registro do usuário será salvo e enviado para o e-mail dele uma mensagem para finalizar o registro
+Após finalizar a venda você clica em **`Salvar`** e o registro do usuário será salvo e enviado para o email dele uma mensagem para finalizar o registro
 
 ![](/erp-v2/assets/modulos/menu_guia_usuarios_salvar.gif)
