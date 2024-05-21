@@ -6,7 +6,7 @@ Logo na página inicial temos a tela padrão de Login e Senha, porém mais abaix
 
 ![](/erp-v2/assets/tela_login_recuperar.png)
 
-Ao clicar nela você é encaminhado para esta página em seguida, onde precisamos que você coloque seu e-mail cadastrado no sistema e depois clique em **`Enviar`** para podermos enviar uma mensagem de confirmação para você.
+Ao clicar nela você é encaminhado para esta página em seguida, onde precisamos que você coloque seu e-mail cadastrado na paltaforma e depois clique em **`Enviar`** para podermos enviar uma mensagem de confirmação para você.
 
 ![](/erp-v2/assets/tela_login_recupera_email.png)
 
