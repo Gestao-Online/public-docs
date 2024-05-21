@@ -230,6 +230,18 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar uma conta �
 
 <br>
 
+Uma informação importante sobre os tipos de Perfis:
+
+- **Usuário :** Terá acesso básico a plataforma, é responsável pelo cadastro de clientes, realizar vendas e gerar relatórios.
+
+- **Coordenador :** Além das permissões de usuário, ele possui acesso ao financeiro e aos dashboards de sua unidade.
+
+- **Gerente :** Também pode visualizar os relatórios financeiros de outras unidades, cadastrar vendedores (porém não pode apagá-los) além de cadastrar novos usuários de perfil tipo `usuário`.
+
+- **Administrador :** Possui acesso á maioria das funcionalidades, pode cadastrar novos usuários como administrador ou usuário, visualizar o histórico de todas as unidades, alterar ou remover vendedores/usuários ou clientes, alterar entradas no financeiro, cadastrar tabelas de preço e alterar detalhes em formas de pagamento, tipos de negociação e contas bancárias.
+
+- **Super administrador :** Este perfil tem acesso total a plataforma e também pode realizar alterações em eventos e geração de relatórios em páginas como `Notification Template` e `Reports and Widgets`.
+
 Após finalizar a venda você clica em **`Salvar`** e o registro do usuário será salvo e enviado para o email dele uma mensagem para finalizar o registro
 
 ![](/erp-v2/assets/modulos/menu_guia_usuarios_salvar.gif)
