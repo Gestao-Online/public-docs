@@ -131,3 +131,67 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 <br>
 
+### Adicionar novo vendedor
+
+No menu ao lado direito da tela, temos o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo vendedor, confira abaixo o procedimento para fazer o cadastro corretamente:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_add_vendedor.png)
+
+
+<br>
+
+Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados do novo usuário:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_add_vendedor_page.png)
+
+<br>
+
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza ao lado direito da tela. Temos algumas funções neles, vejamos abaixo para entender melhor:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_menu_direito_vendedores.png)
+
+<br>
+
+Olhando para a guia **`Geral`**, por padrão, quando você for criar um vendedor é exigido preencher os campos com asterisco. Agora os outros campos para preenchimento pode deixar para o usuário quando ele confirmar a conta, listamos os campos abaixo:
+
+- **Nome** (Nome completo do vendedor);
+- **E-mail** (Não pode ser modificado depois, use o mesmo da conta de usuário);
+- **Empresa** (Defina a empresa de trabalho, e para mais informações [clique aqui](/erp-v2/modulos/parametrizacoes/empresas.md));
+- **Unidade** (Nome do local/setor de trabalho, para mais informações [clique aqui](/erp-v2/modulos/unidades_locais_estoque/unidades_lojas.md));
+- **Centro de resultado** (Defina qual parte da empresa pertence, para mais informações [clique aqui](/erp-v2/modulos/parametrizacoes/centro_resultado.md));
+- **Status** (Aqui você define o status do vendedor, sendo ativado ou desativado);
+- **Usuário** (Defina o usuário existente do vendedor, sem ele não tem como prosseguir);
+- **Local estoque** (Qual local ele terá acesso, para saber mais [clique aqui](/erp-v2/modulos/unidades_locais_estoque/local_estoque.md));
+- **Tipo de movimentação** (Definir o tipo de entrada/saída sendo compra ou venda, para saber mais [clique aqui](/erp-v2/modulos/parametrizacoes/tipo_movimentacao.md));
+- **Tipo de negociação** (Definir a forma de pagamento padrão, para saber mais [clique aqui](/erp-v2/modulos/financeiro/tipo_negociacao.md)).
+
+<br>
+
+{% hint style="danger" %}
+**Atenção:** Quando você for criar um vendedor é exigido preencher os campos com asterisco, o restante pode ser preenchido depois.
+{% endhint %}
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_criar_vendedor.png)
+
+<br>
+
+Uma observação para o preenchimento dos dados de vendedor, nós colocamos um menu de acesso rápido nas opções unidade, usuário e local de  estoque, confira abaixo a demostração:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_menu_extra.gif)
+
+<br>
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do usuário será salvo e enviado para o email dele uma mensagem para finalizar o registro:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_salvar.gif)
+
+
+<br>
+
+### Guias adicionais após criar vendedor
+
