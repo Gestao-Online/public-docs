@@ -10,7 +10,7 @@ Aqui você tem a visão de todos os usuários cadastrados na plataforma Gestão.
 
 <br>
 
-Nesta guia temos um nu ao lado direito da tela com as seguintes funções:
+Nesta guia temos um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_notificacao.png" alt="" data-size="line"> Enviar notificações para usuários;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
@@ -74,7 +74,7 @@ Depois de definido o tipo de usuário, agora vamos para a mensagem, deixamos um 
 
 <br>
 
-### Filtros
+### Filtros usuários
 
 No menu de filtro você pode definir uma busca específica por usuários, seja por nome, e-mail, documento, status ou unidade. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
 
@@ -162,7 +162,7 @@ Se você observar, sempre ao **`lado direito`** de cada usuário mostrado você 
 
 <br>
 
-### Botão direito mouse
+### Botão direito mouse aba usuários
 
 Lembrando que em cada item mostrado, você pode usar a função secundária do mouse (Botão direito) e acessar mais opções:
 
@@ -177,7 +177,7 @@ Você pode conferir no nosso teste abaixo:
 
 <br>
 
-### Paginação
+### Paginação aba usuários
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
 
