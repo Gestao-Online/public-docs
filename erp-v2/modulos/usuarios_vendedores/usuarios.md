@@ -153,7 +153,7 @@ Você também pode pode aumentar ou diminuir o tamanho visível da coluna clican
 
 <br>
 
-Se você observar, sempre ao **`lado direito`** de cada usuário mostrado você têm dois botões:
+Se você observar, sempre ao **`lado direito`** de cada usuário mostrado, você têm dois botões:
 
 - <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
 - <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
@@ -169,7 +169,7 @@ Lembrando que em cada item mostrado, você pode usar a função secundária do m
 - <img src="/erp-v2/assets/modulos/icon_reenviar_mouse.png" alt="" data-size="line"> Reenviar confirmação de e-mail (Este item é somente para casos de usuários que não confirmaram a conta);
 - <img src="/erp-v2/assets/modulos/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
 - <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
-- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s)
+- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
 
 Você pode conferir no nosso teste abaixo:
 
