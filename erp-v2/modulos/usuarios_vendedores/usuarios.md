@@ -105,7 +105,7 @@ Nesta janela que se abriu, temos algumas funções importantes para abordarmos, 
 
 <br>
 
-Depois do filtro de ID, temos o filtro de Nome, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada usuário 😉👍
+Depois do filtro de ID, temos o filtro de **`nome`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada usuário 😉👍
 
 ![](/erp-v2/assets/modulos/menu_guia_usuarios_filtro_nome.png)
 

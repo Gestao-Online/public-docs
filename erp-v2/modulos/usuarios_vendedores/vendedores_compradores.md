@@ -53,3 +53,44 @@ Nesta janela que se abriu, temos algumas funções importantes para abordarmos, 
 
 <br>
 
+Depois do filtro de ID, temos o filtro de **`Nome`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada vendedor/comprador 😉👍
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_filtro_nome.png)
+
+<br>
+
+Temos o filtro por **`Status`** para uso nas buscas, no momento existem duas opções para você utilizar, sendo elas:
+
+- <img src="/erp-v2/assets/modulos/icon_status_ativado.png" alt="" data-size="line"> Ativado;
+- <img src="/erp-v2/assets/modulos/icon_status_desativado.png" alt="" data-size="line"> Desativado;
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_filtro_status.png)
+
+<br>
+
+Você pode pesquisar por **`Unidade`** (Observe que colocamos o ícone <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> abrir item em nova aba para facilitar o acesso a informações da unidade), confira exemplo abaixo, pois é necessário digitar o nome da unidade para aparecer na busca:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_filtro_unidade.gif)
+
+<br>
+
+No filtro **`Usuário`** você pode digitar o nome ou parte do nome do usuário de acesso do vendedor (Observe que colocamos o ícone <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> abrir item em nova aba para facilitar o acesso a informações do usuário do vendedor), pois cada vendedor precisa de um nome de usuário para ter acesso a nossa plataforma:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_filtro_usuario.png)
+
+<br>
+
+Por último, na mesma linha dos filtros, nós temos a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode definir os filtros utilizados e até alterar a ordem de organização deles! 😁
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_filtro_grid.png)
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_filtro_grid.gif)
+
+<br>
+
+Na dúvida sobre o que fazer caso fique tudo muito misturado, você pode ficar despreocupado, colocamos o botão redefinir, e ele volta a ordem padrão automaticamente, confira abaixo o exemplo:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_filtro_grid_restaurar.gif)
+
+<br>
+
