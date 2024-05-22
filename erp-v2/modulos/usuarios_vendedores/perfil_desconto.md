@@ -6,7 +6,7 @@ Se você está aqui, é porque tem alguma dúvida sobre como utilizar o perfil d
 
 <br>
 
-Nesta aba temos um menu ao lado direito da tela com as seguintes funções:
+Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -18,7 +18,7 @@ Nesta aba temos um menu ao lado direito da tela com as seguintes funções:
 
 <br>
 
-No lado esquerdo da tela temos o menu lateral com três opções:
+No lado esquerdo da tela está o menu lateral com três opções:
 
 - <img src="/erp-v2/assets/modulos/icon_todos_perfis.png" alt="" data-size="line"> Todos os perfis;
 - <img src="/erp-v2/assets/modulos/icon_receitas.png" alt="" data-size="line"> Receitas (Vendas);
@@ -42,7 +42,7 @@ Você pode fazer uso dos filtros de cada categoria que aparecem com o resultado 
 
 ![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_filtro_id.png)
 
-Nesta janela que se abriu, temos algumas funções importantes para abordarmos, o primeiro é o tipo de busca, com algumas opções:
+Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o primeiro é o tipo de busca, com algumas opções:
 
 - **Igual a:** Este filtro é usado para buscar registros que possuam um valor exatamente igual ao especificado. Por exemplo, se você busca por “idade igual a 30”, retornará apenas os registros com a idade exata de 30 anos;
 - **Diferente de:** Com este filtro, você pode buscar registros que tenham valores diferentes do especificado. Por exemplo, se você busca por “status diferente de ‘concluído’”, retornará todos os registros com status diferentes de “concluído”.
@@ -61,7 +61,7 @@ Nesta janela que se abriu, temos algumas funções importantes para abordarmos, 
 
 <br>
 
-Depois do filtro de ID, temos o filtro de **`Vendedor`**, vocÊ tem dois modos de procura dos dados, primeiro digitando o nome na barra de pesquisa deste filtro, e o segundo é exibindo a lista de todos os vendedores cadastrados, coonforme exemplo mostrado abaixo:
+Depois do filtro de ID, existe o filtro de **`Vendedor`**, vocÊ tem dois modos de procura dos dados, primeiro digitando o nome na barra de pesquisa deste filtro, e o segundo é exibindo a lista de todos os vendedores cadastrados, coonforme exemplo mostrado abaixo:
 
 {% hint style="warning" %}
 **Informativo:** É sempre importante o preenchimento completo dos dados de cada vendedor/comprador, pois eles facilitam as buscas que você irá fazer futuramente! 😉👍
@@ -71,9 +71,35 @@ Depois do filtro de ID, temos o filtro de **`Vendedor`**, vocÊ tem dois modos d
 
 <br>
 
-Temos o filtro **`Tipo Evento`** para uso nas buscas, no momento existem duas opções para você utilizar, sendo elas receita ou despesa:
+Agora o filtro **`Tipo Evento`** tem no momento duas opções para você utilizar, sendo elas receita ou despesa:
 
-![](/erp-v2/assets/modulos/vendedores/aba_vendedores_filtro_status.png)
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_filtro_tipo_evento.png)
+
+<br>
+
+Assim como o tipo evento, você têm o filtro **`Tipo Desconto`** para uso nas buscas, nele existem duas opções para uso, sendo elas valor ou percentual:
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_filtro_tipo_desconto.png)
+
+<br>
+
+Agora em **`Valor Limite`** e **`Percentual Limite`** você tem o botão de ordenar por maior ou menor:
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_filtro_valor_percentual.png)
+
+<br>
+
+Por último, na mesma linha dos filtros, nós encontramos a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode redefinir os filtros utilizados, pode ser por exibição clicando no marcador, ou até alterar a ordem deles apenas clicando e arrastando! 😁
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_filtro_grid.png)
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_filtro_grid.gif)
+
+<br>
+
+Na dúvida sobre o que fazer caso fique tudo muito misturado? Pois você pode ficar despreocupado! Colocamos o botão redefinir, e ele volta a ordem padrão automaticamente, confira abaixo o exemplo:
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_filtro_grid_restaurar.gif)
 
 <br>
 

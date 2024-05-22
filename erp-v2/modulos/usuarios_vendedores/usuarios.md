@@ -10,7 +10,7 @@ Aqui você tem a visão de todos os usuários cadastrados na plataforma Gestão.
 
 <br>
 
-Nesta guia temos um menu ao lado direito da tela com as seguintes funções:
+Nesta guia está um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_notificacao.png" alt="" data-size="line"> Enviar notificações para usuários;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
@@ -86,7 +86,7 @@ Você pode fazer uso dos filtros de cada categoria que aparecem com o resultado 
 
 ![](/erp-v2/assets/modulos/menu_guia_usuarios_filtro_id.png)
 
-Nesta janela que se abriu, temos algumas funções importantes para abordarmos, o primeiro é o tipo de busca, com algumas opções:
+Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o primeiro é o tipo de busca, com algumas opções:
 
 - **Igual a:** Este filtro é usado para buscar registros que possuam um valor exatamente igual ao especificado. Por exemplo, se você busca por “idade igual a 30”, retornará apenas os registros com a idade exata de 30 anos;
 - **Diferente de:** Com este filtro, você pode buscar registros que tenham valores diferentes do especificado. Por exemplo, se você busca por “status diferente de ‘concluído’”, retornará todos os registros com status diferentes de “concluído”.
@@ -105,7 +105,7 @@ Nesta janela que se abriu, temos algumas funções importantes para abordarmos, 
 
 <br>
 
-Depois do filtro de ID, temos o filtro de **`nome`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada usuário 😉👍
+Depois do filtro de ID, está o filtro de **`nome`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada usuário 😉👍
 
 ![](/erp-v2/assets/modulos/menu_guia_usuarios_filtro_nome.png)
 
@@ -123,7 +123,7 @@ Você tem também o filtro por **`E-mail`**, nele é preciso inserir parte do em
 
 <br>
 
-Temos o filtro por **`Status`** para uso nas buscas, no momento existem três opções para você utilizar, sendo elas:
+Agora no filtro por **`Status`** para uso nas buscas, no momento existem três opções para você utilizar, sendo elas:
 
 - <img src="/erp-v2/assets/modulos/icon_status_ativado.png" alt="" data-size="line"> Ativado;
 - <img src="/erp-v2/assets/modulos/icon_status_desativado.png" alt="" data-size="line"> Desativado;
@@ -133,7 +133,7 @@ Temos o filtro por **`Status`** para uso nas buscas, no momento existem três op
 
 <br>
 
-Por último, na mesma linha dos filtros, nós temos a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode definir os filtros utilizados e até alterar a ordem de organização deles! 😁
+Por último, na mesma linha dos filtros, tem a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode redefinir os filtros utilizados, pode ser por exibição clicando no marcador, ou até alterar a ordem deles apenas clicando e arrastando! 😁
 
 ![](/erp-v2/assets/modulos/menu_guia_usuario_filtro_grid.png)
 
@@ -141,7 +141,7 @@ Por último, na mesma linha dos filtros, nós temos a **`Configuração do grid`
 
 <br>
 
-Na dúvida sobre o que fazer caso fique tudo muito misturado, você pode ficar despreocupado, colocamos o botão redefinir, e ele volta a ordem padrão automaticamente, confira abaixo o exemplo:
+Na dúvida sobre o que fazer caso fique tudo muito misturado? Pois você pode ficar despreocupado! Colocamos o botão redefinir, e ele volta a ordem padrão automaticamente, confira abaixo o exemplo:
 
 ![](/erp-v2/assets/modulos/menu_guia_usuario_grid_restaurar.gif)
 
@@ -187,7 +187,7 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 ### Adicionar novo usuário
 
-No menu ao lado direito da tela, temos o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo usuário, confira abaixo o procedimento para fazer o cadastro corretamente:
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo usuário, confira abaixo o procedimento para fazer o cadastro corretamente:
 
 ![](/erp-v2/assets/modulos/menu_guia_ususarios_menu_add_user.png)
 
@@ -200,7 +200,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 
 <br>
 
-Ao lado direito da tela, você pode ver um pequeno menu na cor cinza ao lado direito da tela. Temos algumas funções neles, vejamos abaixo para entender melhor:
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
