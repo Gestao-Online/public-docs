@@ -103,3 +103,88 @@ Na dúvida sobre o que fazer caso fique tudo muito misturado? Pois você pode fi
 
 <br>
 
+Você também pode pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reordenar os filtros apenas clicando e movendo para a posição que você preferir e se arrastar ele para fora será oculto, confira abaixo:
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_filtros_mouse.gif)
+
+<br>
+
+Se você observar, sempre ao **`lado direito`** de cada perfil de desconto mostrado, você têm dois botões:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_editar_excluir.png)
+
+<br>
+
+### Botão direito mouse aba perfil de desconto
+
+Lembrando que em cada item mostrado, você pode usar a função secundária do mouse (Botão direito) e acessar mais opções:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
+
+Você pode conferir no nosso teste abaixo:
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_btn_mouse.gif)
+
+<br>
+
+### Paginação aba perfil de desconto
+
+Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de vendedores mostrados para até 1000 itens na página:
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_paginacao.png)
+
+<br>
+
+### Adicionar novo perfil de desconto
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo vendeperfil de desconto, confira abaixo o procedimento para fazer o cadastro corretamente:
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_add_perfil.png)
+
+<br>
+
+Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados do novo perfil de desconto:
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_add_perfil_desconto.png)
+
+<br>
+
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_add_perfil_menu.png)
+
+<br>
+
+Por padrão, quando você for criar um perfil de desconto, é exigido preencher os campos com asterisco.
+
+- **Vendedor** (Defina o vendedor que terá o perfil de desconto disponível, e para mais informações [clique aqui](/erp-v2/modulos/usuarios_vendedores/vendedores_compradores.md));
+- **Tipo Evento** (São duas opções disponíveis, sendo elas receita ou despesa);
+- **Tipo Desconto** (São também duas opções disponíveis, sendo elas valor ou percentual);
+    - **Valor limite** (Aparece caso escolha o tipo de desconto `Valor`);
+    - **Percentual Limite** (Aparece caso escolha o tipo de desconto `Percentual`);
+
+{% hint style="danger" %}
+**Atenção:** Quando você for criar um perfil de desconto é exigido preencher os campos com asterisco.
+{% endhint %}
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_add_perfil_receita.gif)
+
+<br>
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do perfil de desconto será salvo e disponibilizado para o vendedor poder utilizar:
+
+![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_add_salvar.gif)
+
+
+<br>
+

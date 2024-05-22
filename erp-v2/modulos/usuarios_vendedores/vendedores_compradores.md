@@ -186,7 +186,7 @@ Uma observação para o preenchimento dos dados de vendedor, nós colocamos um m
 
 <br>
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro do usuário será salvo e enviado para o email dele uma mensagem para finalizar o registro:
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do usuário será salvo e o acesso disponível ao vendedor usando seu login de usuário:
 
 ![](/erp-v2/assets/modulos/vendedores/aba_vendedores_salvar.gif)
 
