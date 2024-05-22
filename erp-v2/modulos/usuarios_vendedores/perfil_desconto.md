@@ -181,10 +181,7 @@ Por padrão, quando você for criar um perfil de desconto, é exigido preencher 
 
 <br>
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro do perfil de desconto será salvo e disponibilizado para o vendedor poder utilizar:
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do perfil de desconto será disponibilizado para o vendedor poder utilizar:
 
 ![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_add_salvar.gif)
-
-
-<br>
 
