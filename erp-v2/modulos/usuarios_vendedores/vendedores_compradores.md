@@ -39,9 +39,9 @@ Nesta janela que se abriu, estão algumas funções importantes para abordarmos,
 - **Igual a:** Este filtro é usado para buscar registros que possuam um valor exatamente igual ao especificado. Por exemplo, se você busca por “idade igual a 30”, retornará apenas os registros com a idade exata de 30 anos;
 - **Diferente de:** Com este filtro, você pode buscar registros que tenham valores diferentes do especificado. Por exemplo, se você busca por “status diferente de ‘concluído’”, retornará todos os registros com status diferentes de “concluído”.
 - **Menor que:** É utilizado para buscar registros cujo valor seja menor do que o especificado. Por exemplo, se você busca por “preço menor que 100”, retornará todos os registros com preço inferior a 100.
-- **Menor ou igual a:** Similar ao filtro anterior, mas inclui também os registros com valor igual ao especificado. Por exemplo, se você busca por “quantidade menor ou igual a 10”, retornará registros com quantidade igual ou menor que 10.
+- **Menor ou igual a:** Semelhante ao filtro anterior, mas inclui também os registros com valor igual ao especificado. Por exemplo, se você busca por “quantidade menor ou igual a 10”, retornará registros com quantidade igual ou menor que 10.
 - **Maior que:** Busca registros cujo valor seja maior do que o especificado. Por exemplo, se você busca por “receita maior que 5000”, retornará registros com receita superior a 5000.
-- **Maior ou igual a:** Similar ao filtro anterior, mas inclui também os registros com valor igual ao especificado. Por exemplo, se você busca por “nota maior ou igual a 7”, retornará registros com nota igual ou maior que 7.
+- **Maior ou igual a:** Semelhante ao filtro anterior, mas inclui também os registros com valor igual ao especificado. Por exemplo, se você busca por “nota maior ou igual a 7”, retornará registros com nota igual ou maior que 7.
 - **Dentro de:** Este filtro é usado para buscar registros cujo valor esteja dentro de um intervalo específico. Por exemplo, se você busca por “id dentro de 15 a 19”, retornará registros com id entre 15 e 19 anos.
 - **Fora de:** Similar ao filtro anterior, mas busca registros cujo valor esteja fora do intervalo especificado. Por exemplo, se você busca por “preço fora de 5 a 10”, retornará registros com preço abaixo de 5 ou acima de 10.
 
@@ -139,7 +139,7 @@ Assim que se acessa a página inicial dos vendedores/compradores você pode ver 
 
 <br>
 
-Explicando cada bloco dele, temos primeiro os indicadores de quantidade, vendedores ativos e inativos. Esses números são atualziados em tempo real na plataforma, podendo também utilizar o botão <img src="/erp-v2/assets/modulos/icon_refresh.png" alt="" data-size="line"> refresh para atualizar os dados:
+Explicando cada card dele, temos primeiro os indicadores de quantidade, vendedores ativos e inativos. Esses números são atualizados em tempo real na plataforma, podendo também utilizar o botão <img src="/erp-v2/assets/modulos/icon_refresh.png" alt="" data-size="line"> refresh para atualizar os dados:
 
 ![](/erp-v2/assets/modulos/vendedores/aba_vendedores_dashboard_1.png)
 
@@ -187,7 +187,7 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um vendedor
 
 - **Nome** (Nome completo do vendedor);
 - **E-mail** (Não pode ser modificado depois, use o mesmo da conta de usuário);
-- **Empresa** (Defina a empresa de trabalho, e para mais informações [clique aqui](/erp-v2/modulos/parametrizacoes/empresas.md));
+- **Empresa** (Aqui você define a empresa de trabalho, e para mais informações [clique aqui](/erp-v2/modulos/parametrizacoes/empresas.md));
 - **Unidade** (Nome do local/setor de trabalho, para mais informações [clique aqui](/erp-v2/modulos/unidades_locais_estoque/unidades_lojas.md));
 - **Centro de resultado** (Defina qual parte da empresa pertence, para mais informações [clique aqui](/erp-v2/modulos/parametrizacoes/centro_resultado.md));
 - **Status** (Aqui você define o status do vendedor, sendo ativado ou desativado);
@@ -206,7 +206,7 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um vendedor
 
 <br>
 
-Uma observação para o preenchimento dos dados de vendedor, nós colocamos um menu de acesso rápido nas opções unidade, usuário e local de  estoque, confira abaixo a demostração:
+Uma observação para o preenchimento dos dados de vendedor, nós colocamos um menu de acesso rápido nas opções unidade, usuário e local de  estoque, confira abaixo a demonstração:
 
 ![](/erp-v2/assets/modulos/vendedores/aba_vendedores_menu_extra.gif)
 
