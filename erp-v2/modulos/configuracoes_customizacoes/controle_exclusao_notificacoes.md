@@ -64,3 +64,17 @@ Com a página aberta, por padrão, quando você for criar uma exclusão é exigi
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do controle de exclusão em notificações será salvo e ativará naquele momento:
 
 ![](/erp-v2/assets/modulos/configuracoes/aba_notificações_add_exclusao_salvar.gif)
+
+
+### Filtros controle de exclusão em notificações
+
+No menu de filtro você pode definir uma busca específica por controles, seja por valor ou por nome. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
+
+![](/erp-v2/assets/modulos/configuracoes/aba_notificacoes_menu_filtro_1.png)
+
+.
+
+![](/erp-v2/assets/modulos/configuracoes/aba_notificacoes_menu_filtro_2.png)
+
+<br>
+
