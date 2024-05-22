@@ -10,3 +10,30 @@ Aqui você tem a visão de todos as unidades/lojas cadastradas na plataforma Ges
 
 <br>
 
+Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Unidade/Loja.
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_menu.png)
+
+<br>
+
+### Filtros unidade/lojas
+
+No menu de filtro você pode definir uma busca específica por unidades/lojas, seja por identificador, descrição, status, tabela de preço principal, tabela de preço secundária custo e tabela de preço secundária comissão. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidades_filtros.gif)
+
+<br>
+
+Você pode fazer uso dos filtros de cada categoria que aparecem com o resultado das unidades, no primeiro filtro você busca pelo `identificador` da unidade:
+
+- **Igual a:** Quando um valor é identico ao que você digitou;
+- **Contém:** Quando um valor contém parte do que você digitou.
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_id.png)
+
