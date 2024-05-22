@@ -195,3 +195,27 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do usu�
 
 ### Guias adicionais após criar vendedor
 
+Se você observar na parte superior, após criar o vendedor, três guias ficarão na cor azul disponíveis para você editar as informações, vejamos um pouco mais sobre elas:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_guias.png)
+
+<br>
+
+A primeira é a de perfil de desconto (vendas), por padrão ela ficará em branco, mas vamos inserir informação nelas, primeiro clicando no botão adicionar item:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_guia_perfil_desconto.png)
+
+<br>
+
+Você pode deixar definido um limite de desconto em vendas para esse vendedor, sendo ela em valor ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_guia_.gif)
+
+<br>
+
+Você também pode deixar definido um limite de desconto em compras para esse vendedor, sendo ela em valor ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_guia_2.gif)
+
+
+Por último a guia de parceiros.........
