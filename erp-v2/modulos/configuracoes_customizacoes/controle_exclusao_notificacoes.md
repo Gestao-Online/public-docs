@@ -47,3 +47,20 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
+Com a página aberta, por padrão, quando você for criar uma exclusão é exigido o valor, tipo e tipo expiração. Agora os outros campos só serão liberados após o preenchimento desses outros:
+
+- **Valor** (Informação do motivo da exclusão, se será temporária ou permanente);
+- **Tipo** (Define o tipo entre email. telefone ou documento);
+- **Tipo Expiração** (Se ela será permanente ou temporária);
+- **Data Expiração** (Ativo caso marque tipo expiração temporário);
+- **Data criação** (Este item não é alterado, é preenchido automaticamente pela plataforma).
+
+<br>
+
+![](/erp-v2/assets/modulos/configuracoes/aba_notificacoes_add_exclusao_2.png)
+
+<br>
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do controle de exclusão em notificações será salvo e ativará naquele momento:
+
+![](/erp-v2/assets/modulos/configuracoes/aba_notificações_add_exclusao_salvar.gif)
