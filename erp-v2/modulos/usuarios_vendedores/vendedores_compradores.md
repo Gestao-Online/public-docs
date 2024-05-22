@@ -151,7 +151,11 @@ Logo abaixo das quantidades, nós temos um gráfico de coluna com a quantidade d
 
 <br>
 
+E por último você vê um gráfico de barras, a quantidade de vendedores por local de estoque:
 
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_dashboard_3.png)
+
+<br>
 
 ### Adicionar novo vendedor
 
