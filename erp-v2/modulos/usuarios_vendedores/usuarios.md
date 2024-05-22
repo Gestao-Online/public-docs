@@ -123,7 +123,7 @@ Você tem também o filtro por **`E-mail`**, nele é preciso inserir parte do em
 
 <br>
 
-Agora no filtro por **`Status`** para uso nas buscas, no momento existem três opções para você utilizar, sendo elas:
+Agora no filtro por **`Status`** existem três opções para você utilizar nas buscas, sendo elas:
 
 - <img src="/erp-v2/assets/modulos/icon_status_ativado.png" alt="" data-size="line"> Ativado;
 - <img src="/erp-v2/assets/modulos/icon_status_desativado.png" alt="" data-size="line"> Desativado;
