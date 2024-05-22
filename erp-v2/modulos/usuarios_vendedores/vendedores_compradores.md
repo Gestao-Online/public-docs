@@ -131,6 +131,28 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 <br>
 
+### Dashboard vendedores 
+
+Assim que se acessa a página inicial dos vendedores/compradores você pode ver um ícone na lateral esquerda da tela se mexendo, ao clicarmos nele uma janela lateral aparecerá com algumas informações, vejamos abaixo:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_dashboard.gif)
+
+<br>
+
+Explicando cada bloco dele, temos primeiro os indicadores de quantidade, vendedores ativos e inativos. Esses números são atualziados em tempo real na plataforma, podendo também utilizar o botão <img src="/erp-v2/assets/modulos/icon_refresh.png" alt="" data-size="line"> refresh para atualizar os dados:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_dashboard_1.png)
+
+<br>
+
+Logo abaixo das quantidades, nós temos um gráfico de coluna com a quantidade de vendedores por centro de resultado:
+
+![](/erp-v2/assets/modulos/vendedores/aba_vendedores_dashboard_2.png)
+
+<br>
+
+
+
 ### Adicionar novo vendedor
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo vendedor, confira abaixo o procedimento para fazer o cadastro corretamente:
@@ -222,4 +244,14 @@ Você também pode deixar definido um limite de desconto em compras para esse ve
 **Detalhe:** As guias citadas acima, fazem referência a aba principal [Perfil de Desconto](/erp-v2/modulos/usuarios_vendedores/perfil_desconto.md), nela está organizado todos os perfis mostrados acima.
 {% endhint %}
 
-Por último a guia de parceiros.......................................
+Na última guia, temos os parceiros (Carteira vendedor), nela é listado primeiro todos os parceiros que tenham vínculo a este vendedor. 
+
+Podendo ele fazer até mesmo o cadastro de novos clientes, fornecedores, indicadores e até transportadoras com o seu login:
+
+![](/erp-v2/assets/modulos/vendedores/aba_parceiros_inicio.png)
+
+<br>
+
+{% hint style="warning" %}
+**Detalhe:** A guia citada acima, faz referência a aba principal [Clientes/parceiros](/erp-v2/modulos/parceiros/clientes.md), nela está organizado todas as informações mostradas acima.
+{% endhint %}
