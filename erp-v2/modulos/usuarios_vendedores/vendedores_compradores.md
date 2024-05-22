@@ -218,4 +218,8 @@ Você também pode deixar definido um limite de desconto em compras para esse ve
 ![](/erp-v2/assets/modulos/vendedores/aba_vendedores_guia_2.gif)
 
 
-Por último a guia de parceiros.........
+{% hint style="warning" %}
+**Detalhe:** As guias citadas acima, fazem referência a aba principal [Perfil de Desconto](/erp-v2/modulos/usuarios_vendedores/perfil_desconto.md), nela está organizado todos os perfis mostrados acima.
+{% endhint %}
+
+Por último a guia de parceiros.......................................
