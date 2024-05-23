@@ -130,6 +130,8 @@ Se você observou, nós colocamos <img src="/erp-v2/assets/modulos/icon_abrir_ed
 
 ![](/erp-v2/assets/modulos/unidades/add_unidade_nova_aba.gif)
 
+<br>
+
 ### Paginação aba unidades/lojas
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
@@ -232,7 +234,7 @@ Agora os outros campos podem ser preenchidos depois, vejamos abaixo um pouco sob
 
 <br>
 
-Mas não termina por aí, ao clicarmos no botão seletor `Analítica` teremos mais campos para preenchimento, vejamos abaixo:
+Mas não termina por aí, ao clicarmos no botão seletor `Analítica` teremos mais campos para preenchimento, e não só isso, quando está ativada a função de adicionar uma unidade dependente ficará desativada, vejamos abaixo:
 
 ![](/erp-v2/assets/modulos/unidades/aba_unidade_add_analitica.gif)
 

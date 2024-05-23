@@ -90,3 +90,62 @@ Você também pode pode aumentar ou diminuir o tamanho visível da coluna clican
 
 <br>
 
+Se você observar, sempre ao **`lado direito`** de cada local de estoque mostrado, você têm dois ou três botões:
+
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar item filho (Quando um local de estoque tem outro local dependente);
+- <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
+
+![](/erp-v2/assets/modulos/estoque/aba_estoque_editar_excluir.png)
+
+<br>
+
+### Botão direito mouse aba local de estoque
+
+Lembrando que em cada item mostrado, você pode usar a função secundária do mouse (Botão direito) e acessar mais opções:
+
+- <img src="/erp-v2/assets/modulos/icon_add_item_filho.png" alt="" data-size="line"> Adicionar item filho;
+- <img src="/erp-v2/assets/modulos/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
+
+Você pode conferir no nosso teste abaixo:
+
+![](/erp-v2/assets/modulos/estoque/aba_estoque_btn_mouse.gif)
+
+<br>
+
+### Paginação aba local de estoque
+
+Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
+
+![](/erp-v2/assets/modulos/estoque/aba_estoque_paginacao.png)
+
+<br>
+
+### Adicionar novo local de estoque
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo local de estoque, confira abaixo o procedimento para fazer o cadastro corretamente:
+
+![](/erp-v2/assets/modulos/estoque/aba_estoque_add.png)
+
+<br>
+
+Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados do novo local de estoque:
+
+![](/erp-v2/assets/modulos/estoque/aba_estoque_add_inicio.png)
+
+<br>
+
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar novo local de estoque;
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/modulos/estoque/aba_estoque_add_menu.png)
+
+<br>
+
