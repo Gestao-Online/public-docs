@@ -181,3 +181,44 @@ Mas não termina por aí, ao clicarmos no botão seletor `Analítica` teremos ma
 
 <br>
 
+Aos campos extras exibidos, nós temos:
+
+- **Parceiro:** Que é o responsável pela unidade;
+- **Telefone:** Telefone fixo caso a unidade tenha;
+- **Celular:** Pode ser usado para hiperlinks do whatsapp, telegram e outros;
+- **Email:** Email da unidade para contato.
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_add_guia_geral1.png)
+
+<br>
+
+Aqui na parte de `endereço da unidade` já colocamos em nossa plataforma o preenchimento automático assim que você inserir o CEP, confira abaixo:
+
+{% hint style="indo" %}
+**Atenção:** Os campos `Número` e `Complemento` não são preenchido automaticamente, sendo necessário sua intervenção.
+{% endhint %}
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_guia_geral2.gif)
+
+<br>
+
+Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras funcionalidades da nossa plataforma da Gestão.Online, abaixo explicamos um pouco melhor sobre cada uma, e também adicionamos os links expecíficos para o caso de você querer saber mais informações sobre alguma delas:
+
+- **Tabela de preço principal:** Esta é a tabela de preço de venda para o cliente final;
+- **Tabela de preço secundária (Custo):** Aqui é atabela de preço de custo da unidade parceira;
+- **Tabela de preço secundária (Comissão):** Está tabela é de comissão da unidade parceira;
+- **Tabela de preço indicação padrão:** Aqui você informa qual será a tabela de preço que tem os ganhos/comissão dos novos indicadores;
+- **Tabela de preço de comissão de entrega:** Por último aqui é para indicar tabela de preço de comissão de entrega.
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_add_guia_geral3.png)
+
+<br>
+
+Na última parte, fica a **`Configuração para venda online`** vejamos um pouco mais sobre esses campos para preencher:
+
+- **Imagem:** Aqui você carrega a logomarca da unidade/loja que está sendo cadastrada, para que alguns itens/links fique personalizados. Abaixo um exemplo de inserção de foto;
+    - ![](/erp-v2/assets/modulos/unidades/aba_unidade_add_guia_geral4.gif)
+
+- **Gerar Link:** É criado um link para efetuar vendas online se marcar como ativado;
+- **Unidade padrão:** É definida como unidade padrão para vendas online se marcado como ativado;
+- **
