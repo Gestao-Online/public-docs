@@ -42,3 +42,6 @@ Você pode fazer uso dos filtros de cada categoria que aparecem com o resultado 
 Depois do filtro de identificador, está o filtro de **`Descrição`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada unidade 😉👍
 
 ![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_descricao.png)
+
+<br>
+
