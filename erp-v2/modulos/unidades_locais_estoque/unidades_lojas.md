@@ -45,3 +45,12 @@ Depois do filtro de identificador, está o filtro de **`Descrição`**, para col
 
 <br>
 
+Agora no filtro por **`Status`** existem duas opções para você utilizar nas buscas, sendo elas:
+
+- <img src="/erp-v2/assets/modulos/unidades/icon_status_ativado.png" alt="" data-size="line"> Ativado;
+- <img src="/erp-v2/assets/modulos/unidades/icon_status_desativado.png" alt="" data-size="line"> Desativado;
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_status.png)
+
+<br>
+
