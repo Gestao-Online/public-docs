@@ -24,7 +24,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ### Filtros unidade/lojas
 
-No menu de filtro você pode definir uma busca específica por unidades/lojas, seja por identificador, descrição, status, tabela de preço principal, tabela de preço secundária custo e tabela de preço secundária comissão. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
+No menu de filtro você pode definir uma busca específica por unidades/lojas, seja por identificador, descrição, status, tabela de preço principal, tabela de preço secundária (custo) e tabela de preço secundária (comissão). Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
 
 ![](/erp-v2/assets/modulos/unidades/aba_unidades_filtros.gif)
 
@@ -32,7 +32,7 @@ No menu de filtro você pode definir uma busca específica por unidades/lojas, s
 
 Você pode fazer uso dos filtros de cada categoria que aparecem com o resultado das unidades, no primeiro filtro você busca pelo `identificador` da unidade:
 
-- **Igual a:** Quando um valor é identico ao que você digitou;
+- **Igual a:** Quando um valor é idêntico ao que você digitou;
 - **Contém:** Quando um valor contém parte do que você digitou.
 
 ![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_id.png)
@@ -104,7 +104,7 @@ Você também pode pode aumentar ou diminuir o tamanho visível da coluna clican
 
 Se você observar, sempre ao **`lado direito`** de cada unidade/loja mostrado, você têm dois ou três botões:
 
-- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar item filho (Quando uma unidade/loja tem uma unidade/loja dpendende);
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar item filho (Quando uma unidade/loja tem uma unidade/loja dependente);
 - <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
 - <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
 
@@ -160,7 +160,7 @@ Pouco mais abaixo você vê um gráfico de colunas com o ranking de unidades com
 
 <br>
 
-Descendo mais um pouco no dashboard temos a `Tabela de engajamento de unidade` ela é bem interativa para você, com barra de pesquisa por nome de unidade, e ainda poder exportar esses dados para o Excel, e a tabela nos tràs dados importantes sendo eles:
+Descendo mais um pouco no dashboard temos a `Tabela de engajamento de unidade` ela é bem interativa para você, com barra de pesquisa por nome de unidade, e ainda poder exportar esses dados para o Excel, e a tabela nos traz dados importantes sendo eles:
 
 - **Unidade;**
 - **Qtd de Venda PDV (este mês);**
@@ -220,7 +220,7 @@ Agora os outros campos podem ser preenchidos depois, vejamos abaixo um pouco sob
 - **Descrição** (Nome para identificar a unidade/loja cadastrada);
 - **Identificador** (É gerado por padrão pela plataforma, mas você pode colocar outro, desde que, não esteja sendo utilizado);
 - **Analítica** (Ativada irá abrir para você uma série de outros campos para completar o cadastro);
-- **Status** (Com duas opções para selecionar, entra ativado e desativado);
+- **Status** (Com duas opções para selecionar, entre ativado e desativado);
 
 <br>
 
@@ -258,8 +258,8 @@ Aqui na parte de `endereço da unidade` já colocamos em nossa plataforma o pree
 Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras funcionalidades da nossa plataforma da Gestão.Online, abaixo explicamos um pouco melhor sobre cada uma, para o caso de você querer saber mais informações sobre alguma delas [clique aqui](/erp-v2/modulos/parametrizacoes/tabelas_precos.md):
 
 - **Tabela de preço principal:** Esta é a tabela de preço de venda para o cliente final;
-- **Tabela de preço secundária (Custo):** Aqui é atabela de preço de custo da unidade parceira;
-- **Tabela de preço secundária (Comissão):** Está tabela é de comissão da unidade parceira;
+- **Tabela de preço secundária (Custo):** Aqui é a tabela de preço de custo da unidade parceira;
+- **Tabela de preço secundária (Comissão):** Esta tabela é de comissão da unidade parceira;
 - **Tabela de preço indicação padrão:** Aqui você informa qual será a tabela de preço que tem os ganhos/comissão dos novos indicadores;
 - **Tabela de preço de comissão de entrega:** Por último aqui é para indicar tabela de preço de comissão de entrega.
 
@@ -269,16 +269,16 @@ Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras funcio
 
 Na última parte, fica a **`Configuração para venda online`** vejamos um pouco mais sobre esses campos para preencher.
 
-- **Imagem:** Aqui você carrega a logomarca da unidade/loja que está sendo cadastrada, para que alguns itens/links fique personalizados. Abaixo um exemplo de inserção de foto;
+- **Imagem:** Aqui você carrega a logomarca da unidade/loja que está sendo cadastrada, para que alguns itens/links fiquem personalizados. Abaixo um exemplo de inserção de foto;
     - ![](/erp-v2/assets/modulos/unidades/aba_unidade_add_guia_geral4.gif)
 
 - **Gerar Link:** É criado um link para efetuar vendas online se marcar como ativado;
 - **Unidade padrão:** É definida como unidade padrão para vendas online se marcado como ativado;
-- **[Tabela de preço (Venda)](/erp-v2/modulos/parametrizacoes/tabelas_precos.md):** Você pode clicar para acessar as tebelas de preços que serão utilizadas nas vendas online;
+- **[Tabela de preço (Venda)](/erp-v2/modulos/parametrizacoes/tabelas_precos.md):** Você pode clicar para acessar as tabelas de preços que serão utilizadas nas vendas online;
 - **[Tipo movimentação](/erp-v2/modulos/parametrizacoes/tipo_movimentacao.md):** Aqui você define o tipo de venda que será realizada com base nas já cadastradas;
 - **[Tabela de preço (Recorrência)](/erp-v2/modulos/parametrizacoes/tabelas_precos.md):** Mostrará as tabelas de preço, podendo escolher as de recorrência, lembrando que ficam todas no mesmo local;
 - **[Tipo movimentação (Recorrência)](/erp-v2/modulos/parametrizacoes/tipo_movimentacao.md):** Você define o tipo de movimento que mais ocorre;
-- **[Tipo movimentação Destino (Recorrência)](/erp-v2/modulos/parametrizacoes/tipo_movimentacao.md):** Você pode esclher a movimentação de destino que mais acontece;
+- **[Tipo movimentação Destino (Recorrência)](/erp-v2/modulos/parametrizacoes/tipo_movimentacao.md):** Você pode escolher a movimentação de destino que mais acontece;
 - **[Tipo de negociação (Venda/Recorrência)](/erp-v2/modulos/financeiro/tipo_negociacao.md):** Escolher o tipo de negociação, dinheiro, boleto, cartão e afins, que estiverem cadastrados;
 - **[Produtos venda online](/erp-v2/modulos/produtos_servicos/produtos.md):** Aqui você marca todos os produtos que ficarão disponibilizados para venda, precisando marcar um a um;
 
@@ -309,7 +309,7 @@ Você terá uma lista de todos os vendedores dessa unidade, podendo também faze
 
 ![](/erp-v2/assets/modulos/unidades/aba_unidade_vendedores.png)
 
-Poderá utilizar os filtros para efetuar buscar específicas e organizar a ordem de visualização.
+Poderá utilizar os filtros para efetuar buscas específicas e organizar a ordem de visualização.
 
 ![](/erp-v2/assets/modulos/unidades/aba_unidades_vendedores_filtroa.gif)
 
