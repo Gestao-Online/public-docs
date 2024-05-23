@@ -108,7 +108,7 @@ Se você observar, sempre ao **`lado direito`** de cada unidade/loja mostrado, v
 - <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
 - <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
 
-![](/erp-v2/assets/modulos/menu_guia_usuarios_editar_excluir.png)
+![](/erp-v2/assets/modulos/unidades/aba_unidade_editar_excluir.png)
 
 <br>
 
@@ -131,6 +131,58 @@ Você pode conferir no nosso teste abaixo:
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
 
 ![](/erp-v2/assets/modulos/unidades/aba_unidade_paginacao.png)
+
+<br>
+
+### Dashboard vendedores 
+
+Assim que se acessa a página inicial das unidades/lojas você pode ver um ícone na lateral esquerda da tela se mexendo, ao clicarmos nele uma janela lateral aparecerá com algumas informações, vejamos abaixo:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidades_dashboard.gif)
+
+<br>
+
+Explicando cada card dele, temos primeiro os indicadores de quantidade, Unidades ativas e inativas. Esses números são atualizados em tempo real na plataforma, podendo também utilizar o botão <img src="/erp-v2/assets/modulos/icon_refresh.png" alt="" data-size="line"> refresh para atualizar os dados:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_dashboard_1.png)
+
+<br>
+
+Logo abaixo das quantidades, nós temos um gráfico de coluna com a quantidade de unidades por grupo:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_dashboard_2.png)
+
+<br>
+
+Pouco mais abaixo você vê um gráfico de colunas com o ranking de unidades com mais vendedores (Top 15):
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_dashboard_3.png)
+
+<br>
+
+Descendo mais um pouco no dashboard temos a `Tabela de engajamento de unidade` ela é bem interativa para você, com barra de pesquisa por nome de unidade, e ainda poder exportar esses dados para o Excel, e a tabela nos tràs dados importantes sendo eles:
+
+- **Unidade;**
+- **Qtd de Venda PDV (este mês);**
+- **Qtd média mensal Venda PDV (Este ano);**
+- **Última Venda PDV;**
+- **Qtd de Venda Online (este mês);**
+- **Qtd média mensal Venda Online (Este ano);**
+- **Última Venda Online;**
+- **Qtd de cadastro de Parceiro (este mês);**
+- **Qtd média mensal de cadastro de Parceiro (Este ano);**
+- **Último cadastro de Parceiro;**
+- **Dias sem vender;**
+
+Não esquecendo que na parte final tem a paginação caso tenha muitas unidades! 😁
+
+![](/erp-v2/assets/modulos/unidades/aba_unidades_engajamento.png)
+
+<br>
+
+Por último temos a `Quantidade de unidades por UF` onde colocamos na nossa plataforma um mapa exibindo a quantidade de unidades por estados no Brasil:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_qtd_uf.gif)
 
 <br>
 
