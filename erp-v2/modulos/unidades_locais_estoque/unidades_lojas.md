@@ -134,3 +134,50 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 <br>
 
+### Adicionar nova unidade/loja
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar nova unidade/loja, confira abaixo o procedimento para fazer o cadastro corretamente:
+
+![](/erp-v2/assets/modulos/menu_guia_ususarios_menu_add_user.png)
+
+
+<br>
+
+Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados da nova unidade/loja:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_add_inicio.png)
+
+<br>
+
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_add_menu.png)
+
+<br>
+
+Olhando para a guia **`Geral`**, por padrão, quando você for criar uma unidade/loja é exigido nome, identificador e status. 
+
+Agora os outros campos podem ser preenchidos depois, vejamos abaixo um pouco sobre eles:
+
+- **Descrição** (Nome para identificar a unidade/loja cadastrada);
+- **Identificador** (É gerado por padrão pela plataforma, mas você pode colocar outro, desde que, não esteja sendo utilizado);
+- **Analítica** (Ativada irá abrir para você uma série de outros campos para completar o cadastro);
+- **Status** (Com duas opções para selecionar, entra ativado e desativado);
+
+<br>
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_add_unidade_itens.png)
+
+<br>
+
+Mas não termina por aí, ao clicarmos no botão seletor `Analítica` teremos mais campos para preenchimento, vejamos abaixo:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_add_analitica.gif)
+
+<br>
+
