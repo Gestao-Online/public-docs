@@ -191,7 +191,6 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/modulos/menu_guia_ususarios_menu_add_user.png)
 
-
 <br>
 
 Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados do novo usuário:

@@ -138,7 +138,7 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar nova unidade/loja, confira abaixo o procedimento para fazer o cadastro corretamente:
 
-![](/erp-v2/assets/modulos/menu_guia_ususarios_menu_add_user.png)
+![](/erp-v2/assets/modulos/unidades/aba_unidade_add.png)
 
 
 <br>
@@ -151,6 +151,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
+- <img src="/erp-v2/assets/icon_paleta_cores.png" alt="" data-size="line"> Alterar cores da landing page (Este item só fica disponível caso você faça a configuração para venda online);
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
@@ -194,7 +195,7 @@ Aos campos extras exibidos, nós temos:
 
 Aqui na parte de `endereço da unidade` já colocamos em nossa plataforma o preenchimento automático assim que você inserir o CEP, confira abaixo:
 
-{% hint style="indo" %}
+{% hint style="info" %}
 **Atenção:** Os campos `Número` e `Complemento` não são preenchido automaticamente, sendo necessário sua intervenção.
 {% endhint %}
 
@@ -214,7 +215,7 @@ Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras funcio
 
 <br>
 
-Na última parte, fica a **`Configuração para venda online`** vejamos um pouco mais sobre esses campos para preencher:
+Na última parte, fica a **`Configuração para venda online`** vejamos um pouco mais sobre esses campos para preencher.
 
 - **Imagem:** Aqui você carrega a logomarca da unidade/loja que está sendo cadastrada, para que alguns itens/links fique personalizados. Abaixo um exemplo de inserção de foto;
     - ![](/erp-v2/assets/modulos/unidades/aba_unidade_add_guia_geral4.gif)
@@ -229,9 +230,50 @@ Na última parte, fica a **`Configuração para venda online`** vejamos um pouco
 - **[Tipo de negociação (Venda/Recorrência)](/erp-v2/modulos/financeiro/tipo_negociacao.md):** Escolher o tipo de negociação, dinheiro, boleto, cartão e afins, que estiverem cadastrados;
 - **[Produtos venda online](/erp-v2/modulos/produtos_servicos/produtos.md):** Aqui você marca todos os produtos que ficarão disponibilizados para venda, precisando marcar um a um;
 
-No final tem um botão chamado `Ver links(s)` ao clicar nele você vê o link da sua loja online para vendas:
-
-![](/erp-v2/assets/modulos/unidades/aba_unidade_add_guia_geral4.gif)
+![](/erp-v2/assets/modulos/unidades/aba_unidade_add_guia_geral4.png)
 
 <br>
+
+No final tem um botão chamado `Ver links(s)` ao clicar nele você vê o link da sua loja online para vendas:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_add_guia_geral5.gif)
+
+<br>
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova unidade/loja será salvo, e algumas mudanças acontecem, primeiro será o menu da guia, que recebe dois novos itens:
+
+- <img src="/erp-v2/assets/icon_paleta_cores.png" alt="" data-size="line"> Alterar cores da landing page;
+- <img src="/erp-v2/assets/modulos/icon_editar_cinza.png" alt="" data-size="line"> Adicionar/Tocar código;
+
+<br>
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_add_guia_geral6.png)
+
+<br>
+
+Se você observou na imagem acima, deixamos marcado também as novas guias que ficaram disponíveis após criarmos uma nova unidade, vamos falar um pouco melhor sobre cada uma delas, com a primeira **`Vendedores/Compradores`**.
+
+Você terá uma lista de todos os vendedores dessa unidade, podendo também fazer adição, alteração e até exclusão.
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_vendedores.png)
+
+Poderá utilizar os filtros para efetuar buscar específicas e organizar a ordem de visualização.
+
+![](/erp-v2/assets/modulos/unidades/aba_unidades_vendedores_filtroa.gif)
+
+E também terá acesso ao dashboard com quantidade de vendedores por centro de resultado e por local de estoque:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_vendedores_dashboard.gif)
+
+<br>
+
+{% hint style="warning" %}
+**Atenção:** Se você quer saber mais sobre cadastro, edição e exclusão de vendedores, [clique aqui!](/erp-v2/modulos/usuarios_vendedores/vendedores_compradores.md)
+{% endhint %}
+
+<br>
+
+Fechando as guias disponíveis, temos a de **`Histórico`** com todos os registros/dados que tiverem nesta unidade, se você observar o primeiro registro dela é o de criação, trazendo o nome do usuário que fez, o que foi feito e a data/hora realizada.
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_guia_historico.png)
 
