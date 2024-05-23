@@ -39,7 +39,7 @@ Você pode fazer uso dos filtros de cada categoria que aparecem com o resultado 
 
 <br>
 
-Depois do filtro de identificador, está o filtro de **`Descrição`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada unidade 😉👍
+Depois do filtro de identificador, está o filtro de **`Descrição`**, para colocar o texto que será buscado:
 
 ![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_descricao.png)
 
@@ -51,6 +51,22 @@ Agora no filtro por **`Status`** existem duas opções para você utilizar nas b
 - <img src="/erp-v2/assets/modulos/unidades/icon_status_desativado.png" alt="" data-size="line"> Desativado;
 
 ![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_status.png)
+
+<br>
+
+Você tem também o filtro por **`Tabela de preço principal`**, você tem dois modos de procura dos dados, primeiro digitando na barra de pesquisa que aparece, e o segundo é exibindo a lista de todas as unidades/lojas cadastradas, conforme exemplo mostrado abaixo:
+
+{% hint style="warning" %}
+**Informativo:** É sempre importante o preenchimento completo dos dados de cada vendedor/comprador, pois eles facilitam as buscas que você irá fazer futuramente! 😉👍
+{% endhint %}
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_preço_principal.gif)
+
+<br>
+
+Ao lado o filtro **`Tabela de preço secundária (Custo)`**, você também tem dois modos de procura, primeiro digitando na barra de pesquisa que aparece, e o segundo é exibindo a lista de todas as unidades/lojas cadastradas, conforme exemplo mostrado abaixo:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_preco_secundario.gif)
 
 <br>
 
