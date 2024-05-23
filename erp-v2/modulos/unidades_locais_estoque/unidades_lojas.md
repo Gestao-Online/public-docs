@@ -70,3 +70,24 @@ Ao lado o filtro **`Tabela de preço secundária (Custo)`**, você também tem d
 
 <br>
 
+Neste filtro está a **`Tabela de preço secundária (Comissão)`**, nela também existem dois modos de procura, com você digitando na barra de pesquisa que aparece, e o segundo exibindo a lista de todas as unidades/lojas cadastradas, conforme mostrado abaixo:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_preco_comissao.gif)
+
+<br>
+
+Por último, na mesma linha dos filtros, tem a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode redefinir os filtros utilizados, pode ser por exibição clicando no marcador, ou até alterar a ordem deles apenas clicando e arrastando! 😁
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_grid.png)
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_grid.gif)
+
+<br>
+
+
+
+
+
+{% hint style="danger" %}
+**Atenção:** Estes não são os únicos filtros disponíveis, na configuração do grid, você consegue ver todos os outros filtros disponíveis, sendo eles o id, parceiro, email, telefone, celular, cidade, estado e código.
+{% endhint %}
