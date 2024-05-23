@@ -149,3 +149,22 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
+Olhando para a guia **`Geral`**, por padrão, quando você for criar novo local de estoque é exigido descrição, identificador e status. 
+
+- **Descrição** (Nome para identificar o novo local de estoque);
+- **Identificador** (É gerado por padrão pela plataforma, mas você pode colocar outro, desde que, não esteja sendo utilizado);
+- **Analítica** (Quando ativada não aceitará integração outros locais de estoque como dependentes);
+- **Status** (Com duas opções para selecionar, entre ativado e desativado);
+
+<br>
+
+![](/erp-v2/assets/modulos/estoque/aba_estoque_add_unidade_itens.png)
+
+<br>
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo local de estoque será salvo:
+
+![](/erp-v2/assets/modulos/estoque/aba_estoque_add_unidade_salvar.gif)
+
+<br>
+
