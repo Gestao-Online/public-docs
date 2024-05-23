@@ -202,7 +202,7 @@ Aqui na parte de `endereço da unidade` já colocamos em nossa plataforma o pree
 
 <br>
 
-Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras funcionalidades da nossa plataforma da Gestão.Online, abaixo explicamos um pouco melhor sobre cada uma, e também adicionamos os links expecíficos para o caso de você querer saber mais informações sobre alguma delas:
+Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras funcionalidades da nossa plataforma da Gestão.Online, abaixo explicamos um pouco melhor sobre cada uma, para o caso de você querer saber mais informações sobre alguma delas [clique aqui](/erp-v2/modulos/parametrizacoes/tabelas_precos.md):
 
 - **Tabela de preço principal:** Esta é a tabela de preço de venda para o cliente final;
 - **Tabela de preço secundária (Custo):** Aqui é atabela de preço de custo da unidade parceira;
@@ -221,4 +221,17 @@ Na última parte, fica a **`Configuração para venda online`** vejamos um pouco
 
 - **Gerar Link:** É criado um link para efetuar vendas online se marcar como ativado;
 - **Unidade padrão:** É definida como unidade padrão para vendas online se marcado como ativado;
-- **
+- **[Tabela de preço (Venda)](/erp-v2/modulos/parametrizacoes/tabelas_precos.md):** Você pode clicar para acessar as tebelas de preços que serão utilizadas nas vendas online;
+- **[Tipo movimentação](/erp-v2/modulos/parametrizacoes/tipo_movimentacao.md):** Aqui você define o tipo de venda que será realizada com base nas já cadastradas;
+- **[Tabela de preço (Recorrência)](/erp-v2/modulos/parametrizacoes/tabelas_precos.md):** Mostrará as tabelas de preço, podendo escolher as de recorrência, lembrando que ficam todas no mesmo local;
+- **[Tipo movimentação (Recorrência)](/erp-v2/modulos/parametrizacoes/tipo_movimentacao.md):** Você define o tipo de movimento que mais ocorre;
+- **[Tipo movimentação Destino (Recorrência)](/erp-v2/modulos/parametrizacoes/tipo_movimentacao.md):** Você pode esclher a movimentação de destino que mais acontece;
+- **[Tipo de negociação (Venda/Recorrência)](/erp-v2/modulos/financeiro/tipo_negociacao.md):** Escolher o tipo de negociação, dinheiro, boleto, cartão e afins, que estiverem cadastrados;
+- **[Produtos venda online](/erp-v2/modulos/produtos_servicos/produtos.md):** Aqui você marca todos os produtos que ficarão disponibilizados para venda, precisando marcar um a um;
+
+No final tem um botão chamado `Ver links(s)` ao clicar nele você vê o link da sua loja online para vendas:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_add_guia_geral4.gif)
+
+<br>
+
