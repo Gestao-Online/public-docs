@@ -176,4 +176,5 @@ Você já tem acesso as movimentações, poder buscar movimentações específic
 **Informativo:** Se você deseja saber mais informações sobre Movimentações/Transferencias [clique aqui](/erp-v2/modulos/produtos_servicos/movimentacao_estoque.md)
 {% endhint %}
 
-![](/erp-v2/assets/modulos/estoque/aba_estoque_add_unidade_guia_movimentacao.png)
+![](/erp-v2/assets/modulos/estoque/aba_estoque_add_unidade_guia_movimentacao.gif)
+
