@@ -126,6 +126,10 @@ Você pode conferir no nosso teste abaixo:
 
 <br>
 
+Se você observou, nós colocamos <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> ícones de atalho, para abrir item em nova aba e editar.
+
+![](/erp-v2/assets/modulos/unidades/add_unidade_nova_aba.gif)
+
 ### Paginação aba unidades/lojas
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
