@@ -84,10 +84,53 @@ Por último, na mesma linha dos filtros, tem a **`Configuração do grid`**, ao 
 
 <br>
 
+Na dúvida sobre o que fazer caso fique tudo muito misturado? Pois você pode ficar despreocupado! Colocamos o botão redefinir, e ele volta a ordem padrão automaticamente, confira abaixo o exemplo:
 
+![](/erp-v2/assets/modulos/unidades/aba_unidade_grid_restaurar.gif)
 
-
+<br>
 
 {% hint style="danger" %}
 **Atenção:** Estes não são os únicos filtros disponíveis, na configuração do grid, você consegue ver todos os outros filtros disponíveis, sendo eles o id, parceiro, email, telefone, celular, cidade, estado e código.
 {% endhint %}
+
+<br>
+
+Você também pode pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reordenar os filtros apenas clicando e movendo para a posição que você preferir e se arrastar ele para fora será oculto, confira abaixo:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_mouse.gif)
+
+<br>
+
+Se você observar, sempre ao **`lado direito`** de cada unidade/loja mostrado, você têm dois ou três botões:
+
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar item filho (Quando uma unidade/loja tem uma unidade/loja dpendende);
+- <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
+
+![](/erp-v2/assets/modulos/menu_guia_usuarios_editar_excluir.png)
+
+<br>
+
+### Botão direito mouse aba unidades/lojas
+
+Lembrando que em cada item mostrado, você pode usar a função secundária do mouse (Botão direito) e acessar mais opções:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
+
+Você pode conferir no nosso teste abaixo:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_btn_mouse.gif)
+
+<br>
+
+### Paginação aba unidades/lojas
+
+Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
+
+![](/erp-v2/assets/modulos/unidades/aba_unidade_paginacao.png)
+
+<br>
+
