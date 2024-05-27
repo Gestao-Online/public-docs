@@ -67,3 +67,13 @@ Agora no filtro por **`Código`** existem três opções para você utilizar nas
 ![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_codigo.png)
 
 <br>
+
+Agora no filtro por **`Status`** existem duas opções para você utilizar nas buscas, sendo elas:
+
+- Ativado;
+- Desativado;
+
+![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_status.png)
+
+<br>
+
