@@ -19,6 +19,15 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Unidade/Loja.
 
-![](/erp-v2/assets/modulos/estoque/aba_estoque_menu.png)
+![](/erp-v2/assets/modulos/servicos/aba_servicos_menu.png)
 
 <br>
+
+### Filtros de serviços
+
+No menu de filtro você pode definir uma busca específica por serviços, seja por ID, descrição, código, status e grupo. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_filtro.gif)
+
+<br>
+
