@@ -176,10 +176,10 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar novo local de estoque é exigido descrição, identificador e status. 
+Olhando para a guia **`Geral`**, por padrão, quando você for criar novo serviço, é exigido descrição, status, unidade/medida e grupo. 
 
 - **Descrição** (Nome para identificar o novo serviço a ser criado);
-- **Imagem (Principal)** (Caso exista para melhor descrever o serviço que será criado);
+- **Imagem (Principal)** (Caso tenha alguma de referência);
 - **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
 - **Código** (SKU ou código de barras referente ao serviço);
 - **Status** (Com duas opções para selecionar, entre ativado e desativado);

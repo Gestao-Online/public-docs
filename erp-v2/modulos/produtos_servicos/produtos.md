@@ -139,6 +139,63 @@ No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras a
 
 Clicando no ícone da seta você exibe ele de forma completa, e clicando nela novamente, ele volta ao modo recolhido, confira exemplo abaixo: 
 
-![](/erp-v2/assets/modulos/servicos/aba_servicos_menu_esquerdo.gif)
+![](/erp-v2/assets/modulos/produtos/aba_produtos_menu_esquerdo.gif)
 
 <br>
+
+### Paginação aba produtos
+
+Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_paginacao.png)
+
+<br>
+
+### Adicionar novo produto
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
+
+![](/erp-v2/assets/modulos/produtos/aba_produtos_add.png)
+
+<br>
+
+Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento das informações do novo produto:
+
+![](/erp-v2/assets/modulos/produtos/aba_produtos_add_inicio.png)
+
+<br>
+
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/modulos/produtos/aba_produto_add_menu.png)
+
+<br>
+
+Olhando para a guia **`Geral`**, por padrão, quando você for criar novo serviço, é exigido descrição, status, unidade/medida e grupo. 
+
+- **Descrição** (Nome para identificar o novo produto a ser criado);
+- **Imagem (Principal)** (Para facilitar identificação do produto);
+    - ![](/erp-v2/assets/modulos/produtos/aba_produto_add_imagem.gif)
+- **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
+- **Código** (SKU ou código de barras referente ao produto);
+- **Status** (Com duas opções para selecionar, entre ativado e desativado);
+- **Unidade/Medida** (Serão mostradas as opções cadastradas [aqui](/erp-v2/modulos/parametrizacoes/unidade_medida_produto_servico.md));
+- **Grupo** (Serão mostradas as opções cadastradas [aqui](/erp-v2/modulos/produtos_servicos/grupo_produto.md));
+- **Valor Custo** (Aqui você declara o valor deste produto);
+- **Tipo de entrega:**
+    - **Digital**.
+    - **Unidade:** Ao marcar esta opção, terá que confirmar as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST;
+    - **Transporte:** Aos escolher, poderá definir as dimensões do produto, altura, largura, comprimento e peso. E também as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST;
+
+<br>
+
+![](/erp-v2/assets/modulos/produtos/aba_produtos_add_produto_itens.png)
+
+<br>
+
+
