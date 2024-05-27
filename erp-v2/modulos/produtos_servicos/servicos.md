@@ -176,3 +176,21 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
+Olhando para a guia **`Geral`**, por padrão, quando você for criar novo local de estoque é exigido descrição, identificador e status. 
+
+- **Descrição** (Nome para identificar o novo serviço a ser criado);
+- **Imagem (Principal)** (Caso exista para melhor descrever o serviço que será criado);
+- **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
+- **Código** (SKU ou código de barras referente ao serviço);
+- **Status** (Com duas opções para selecionar, entre ativado e desativado);
+- **Unidade/Medida** (Serão mostradas as opções cadastradas [aqui](/erp-v2/modulos/parametrizacoes/unidade_medida_produto_servico.md));
+- **Grupo** (Serão mostradas as opções cadastradas [aqui](/erp-v2/modulos/produtos_servicos/grupo_produto.md));
+- **Valor Custo** (Aqui você declara o valor deste serviço);
+- **Tipo de entrega** (Caso haja, informe o tipo);
+- **Utilizar configuração padrão NFSe da empresa** (Caso essa opção esteja ativada, será utilizado os critérios fiscais Nfse padrão da empresa emitente).
+
+<br>
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_add_servico_itens.png)
+
+<br>
