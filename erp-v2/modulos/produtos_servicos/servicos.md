@@ -179,7 +179,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 Olhando para a guia **`Geral`**, por padrão, quando você for criar novo serviço, é exigido descrição, status, unidade/medida e grupo. 
 
 - **Descrição** (Nome para identificar o novo serviço a ser criado);
-- **Imagem (Principal)** (Caso tenha alguma de referência);
+- **Imagem (Principal)** (Se necessário);
 - **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
 - **Código** (SKU ou código de barras referente ao serviço);
 - **Status** (Com duas opções para selecionar, entre ativado e desativado);

@@ -176,7 +176,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar novo serviço, é exigido descrição, status, unidade/medida e grupo. 
+Olhando para a guia **`Geral`**, por padrão, quando você for criar m novo produto, é exigido descrição, status, unidade/medida e grupo. 
 
 - **Descrição** (Nome para identificar o novo produto a ser criado);
 - **Imagem (Principal)** (Para facilitar identificação do produto);
@@ -188,7 +188,7 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar novo servi�
 - **Grupo** (Serão mostradas as opções cadastradas [aqui](/erp-v2/modulos/produtos_servicos/grupo_produto.md));
 - **Valor Custo** (Aqui você declara o valor deste produto);
 - **Tipo de entrega:**
-    - **Digital**.
+    - **Digital** Não mostrará as opções de NFe/NFCe e não terá a guia estoque quando salvar o produto;
     - **Unidade:** Ao marcar esta opção, terá que confirmar as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST;
     - **Transporte:** Aos escolher, poderá definir as dimensões do produto, altura, largura, comprimento e peso. E também as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST;
 
@@ -198,4 +198,16 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar novo servi�
 
 <br>
 
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo local de estoque será salvo:
+
+![](/erp-v2/assets/modulos/produtos/aba_produtos_add_produto_salvar.gif)
+
+<br>
+
+A partir do momento que você concluir a criação de um novo produto, ficarão disponíveis três guias para você acessar, a primeira é de `Estoque`.
+
+{% hint style="warning" %}
+**Informativo:** Só aparecerão três guias, se você escolher as opções unidade ou transporte no tipo de entrega.
+{% endhint %}
 
