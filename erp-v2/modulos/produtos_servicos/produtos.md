@@ -56,3 +56,8 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 
 <br>
 
+Depois do filtro de ID, está o filtro de **`Descrição`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada produto 😉👍
+
+![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_descricao.png)
+
+<br>
