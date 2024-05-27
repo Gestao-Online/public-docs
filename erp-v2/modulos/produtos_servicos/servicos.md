@@ -105,6 +105,17 @@ Você também pode pode aumentar ou diminuir o tamanho visível da coluna clican
 
 <br>
 
+Se você observar, sempre ao **`lado direito`** de cada serviço criado, você têm dois botões:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_editar_excluir.png)
+
+<br>
+
+# Menu lateral esquerdo
+
 No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras abas da plataforma, sendo eles:
 
 - <img src="/erp-v2/assets/modulos/icon_produtos_servicos.png" alt="" data-size="line"> Todos os produtos/serviços;
