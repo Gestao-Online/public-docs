@@ -73,6 +73,6 @@ Agora no filtro por **`Status`** existem duas opções para você utilizar nas b
 - Ativado;
 - Desativado;
 
-![](/erp-v2/assets/modulos/estoque/aba_estoque_filtro_status.png)
+![](/erp-v2/assets/modulos/servicos/aba_servicos_filtro_status.png)
 
 <br>
