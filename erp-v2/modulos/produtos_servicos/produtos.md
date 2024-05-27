@@ -127,3 +127,18 @@ Você pode conferir no nosso teste abaixo:
 ![](/erp-v2/assets/modulos/produtos/aba_produtos_btn_mouse.gif)
 
 <br>
+
+# Menu lateral esquerdo
+
+No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras abas da plataforma, sendo eles:
+
+- <img src="/erp-v2/assets/modulos/icon_produtos_servicos.png" alt="" data-size="line"> Todos os produtos/serviços;
+- <img src="/erp-v2/assets/modulos/icon_produto.png" alt="" data-size="line"> Produtos (Aba atual);
+- <img src="/erp-v2/assets/modulos/icon_servicos.png" alt="" data-size="line"> [Serviços](/erp-v2/modulos/produtos_servicos/servicos.md);
+- <img src="/erp-v2/assets/modulos/icon_kits.png" alt="" data-size="line"> [Kits](/erp-v2/modulos/produtos_servicos/kits.md);
+
+Clicando no ícone da seta você exibe ele de forma completa, e clicando nela novamente, ele volta ao modo recolhido, confira exemplo abaixo: 
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_menu_esquerdo.gif)
+
+<br>
