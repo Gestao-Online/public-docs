@@ -201,3 +201,13 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo
 
 <br>
 
+A partir do momento que você concluir a criação do novo serviço, ficarão disponíveis três guias para você acessar, a primeira é de `Itens`.
+
+Nesta guia você pode vincular um produto/serviço ao que você acabou de criar, escolhendo um dos já disponíveis e definindo a quantidade. Pode também utilizar os filtros disponíveis caso tenha muitos itens sendo exibidos. Depois é só salvar e ele aparecerá, confira abaixo:
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_add_servico_guia_itens.gif)
+
+<br>
+
+Agora na guia de categorias, você pode definir uma categoria para o serviço cadastrado, ao clicar em adicionar será mostrada a lista para você escolher uma opção, essas opções já estão pré cadastradas na aba [Categoria de produto](/erp-v2/modulos/produtos_servicos/categoria_produto.md)
+
