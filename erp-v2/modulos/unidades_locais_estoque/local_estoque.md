@@ -30,7 +30,7 @@ No menu de filtro você pode definir uma busca específica por local de estoque,
 
 <br>
 
-Você pode fazer uso dos filtros de cada categoria que aparecem com o resultado dos usuários, no primeiro filtro você pode buscar pelo ID do usuário:
+Você pode fazer uso dos filtros de cada categoria que aparecem com o resultado dos locais de estoque, no primeiro filtro você pode buscar pelo ID do estoque:
 
 ![](/erp-v2/assets/modulos/estoque/aba_estoque_filtro_id.png)
 
