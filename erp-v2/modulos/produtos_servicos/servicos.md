@@ -194,3 +194,10 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar novo local 
 ![](/erp-v2/assets/modulos/servicos/aba_servicos_add_servico_itens.png)
 
 <br>
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo local de estoque será salvo:
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_add_servico_salvar.gif)
+
+<br>
+
