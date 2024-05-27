@@ -62,3 +62,17 @@ Depois do filtro de ID, está o filtro de **`Descrição`**, para colocar o text
 
 <br>
 
+Agora no filtro por **`Código`** existem três opções para você utilizar nas buscas igual ao filtro ID, sendo elas `Igual a`, `Dentro de` e `Fora de`.
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_filtro_codigo.png)
+
+<br>
+
+Agora no filtro por **`Status`** existem duas opções para você utilizar nas buscas, sendo elas:
+
+- Ativado;
+- Desativado;
+
+![](/erp-v2/assets/modulos/estoque/aba_estoque_filtro_status.png)
+
+<br>

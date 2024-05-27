@@ -61,7 +61,7 @@ Depois do filtro de ID, está o filtro de **`Identificador`**, para colocar o c�
 
 <br>
 
-Agora no filtro por **`Status`** existem três opções para você utilizar nas buscas, sendo elas:
+Agora no filtro por **`Status`** existem duas opções para você utilizar nas buscas, sendo elas:
 
 - Ativado;
 - Desativado;
