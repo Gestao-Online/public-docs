@@ -52,7 +52,13 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 **Informativo:** No uso do filtro **`Dentro de`** ou **`Fora de`** você precisa inserir todos os valores que ficarão dentro ou fora da busca, igual exemplo abaixo:
 {% endhint %}
 
-![](/erp-v2/assets/modulos/estoque/aba_estoque_filtro_dentrode.gif)
+![](/erp-v2/assets/modulos/servicos/aba_servicos_filtro_dentrode.gif)
+
+<br>
+
+Depois do filtro de ID, está o filtro de **`Descrição`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada usuário 😉👍
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_filtro_descricao.png)
 
 <br>
 
