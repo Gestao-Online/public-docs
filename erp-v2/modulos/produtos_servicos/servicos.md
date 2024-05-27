@@ -114,6 +114,20 @@ Se você observar, sempre ao **`lado direito`** de cada serviço criado, você t
 
 <br>
 
+### Botão direito mouse aba serviços
+
+Lembrando que, em cada item mostrado, você pode usar a função secundária do mouse (Botão direito) e acessar mais opções:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
+
+Você pode conferir no nosso teste abaixo:
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_btn_mouse.gif)
+
+<br>
+
 # Menu lateral esquerdo
 
 No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras abas da plataforma, sendo eles:
