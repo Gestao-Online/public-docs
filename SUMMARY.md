@@ -108,6 +108,7 @@
     * [📝 Controle de unidades](/erp-v2/modulos/controle_unidades/README.md)
     * [📦 Produtos & Serviços](/erp-v2/modulos/produtos_servicos/README.md)
       * [🧰 Serviços](/erp-v2/modulos/produtos_servicos/servicos.md)
+      * [🎁 Produtos](/erp-v2/modulos/produtos_servicos/produtos.md)
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)
