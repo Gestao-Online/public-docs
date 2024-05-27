@@ -18,7 +18,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 <br>
 
-No lado esquerdo da tela está o menu lateral com três opções:
+No lado esquerdo da tela está o menu lateral, e você pode utilizar ele como um filtro para pesquisa, ele contém três opções:
 
 - <img src="/erp-v2/assets/modulos/icon_todos_perfis.png" alt="" data-size="line"> Todos os perfis;
 - <img src="/erp-v2/assets/modulos/icon_receitas.png" alt="" data-size="line"> Receitas (Vendas);

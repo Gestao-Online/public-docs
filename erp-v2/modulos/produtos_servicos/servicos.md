@@ -99,3 +99,15 @@ Na dúvida sobre o que fazer caso fique tudo muito misturado? Fique despreocupad
 
 <br>
 
+No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras abas da plataforma, sendo eles:
+
+- <img src="/erp-v2/assets/modulos/icon_produtos_servicos.png" alt="" data-size="line"> Todos os produtos/serviços;
+- <img src="/erp-v2/assets/modulos/icon_produto.png" alt="" data-size="line"> Produtos;
+- <img src="/erp-v2/assets/modulos/icon_servicos.png" alt="" data-size="line"> Serviços (Aba atual);
+- <img src="/erp-v2/assets/modulos/icon_kits.png" alt="" data-size="line"> Kits;
+
+Clicando no ícone da seta você exibe ele de forma completa, e clicando nela novamente, ele volta ao modo recolhido, confira exemplo abaixo: 
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_menu_esquerdo.gif)
+
+<br>
