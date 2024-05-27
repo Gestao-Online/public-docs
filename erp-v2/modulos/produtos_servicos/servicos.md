@@ -228,3 +228,17 @@ Por último na guia `Tabelas de preço`  você pode adicionar um valor ou percen
 ![](/erp-v2/assets/modulos/servicos/aba_servicos_add_servico_guia_tabela_preco.gif)
 
 <br>
+
+### Importar serviços
+
+Esta função será de grande ajuda caso você já tenha uma lista com os serviços que deseja cadastrar. 
+
+No botão de importação ao clicar nele será aberta uma janela pop-up para você fazer a importação da planilha com os dados, logo após, você importar ela, você define manualmente os campos relacionados para que a nossa plataforma possa fazer a importação. 
+
+Confira abaixo o procedimento:
+
+{% hint style="info" %}
+**Info:** Para importação, é valido somente arquivo de planilha no formato **" .xlsx "**
+{% endhint %}
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_importar.gif)
