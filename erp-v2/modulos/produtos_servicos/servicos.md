@@ -153,7 +153,7 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 ### Adicionar novo serviço
 
-No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo servico, confira abaixo o procedimento para fazer a adição corretamente:
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo serviço, confira abaixo o procedimento para fazer a adição corretamente:
 
 ![](/erp-v2/assets/modulos/servicos/aba_servicos_add.png)
 
@@ -238,7 +238,7 @@ No botão de importação ao clicar nele será aberta uma janela pop-up para voc
 Confira abaixo o procedimento:
 
 {% hint style="info" %}
-**Info:** Para importação, é valido somente arquivo de planilha no formato **" .xlsx "**
+**Info:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "**
 {% endhint %}
 
 ![](/erp-v2/assets/modulos/servicos/aba_servicos_importar.gif)
