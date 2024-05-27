@@ -99,15 +99,22 @@ Na dúvida sobre o que fazer caso fique tudo muito misturado? Fique despreocupad
 
 <br>
 
+Você também pode pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reordenar os filtros apenas clicando e movendo para a posição que você preferir e se arrastar ele para fora será oculto, confira abaixo:
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_filtro_mouse.gif)
+
+<br>
+
 No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras abas da plataforma, sendo eles:
 
 - <img src="/erp-v2/assets/modulos/icon_produtos_servicos.png" alt="" data-size="line"> Todos os produtos/serviços;
-- <img src="/erp-v2/assets/modulos/icon_produto.png" alt="" data-size="line"> Produtos;
+- <img src="/erp-v2/assets/modulos/icon_produto.png" alt="" data-size="line"> [Produtos](/erp-v2/modulos/produtos_servicos/produtos.md);
 - <img src="/erp-v2/assets/modulos/icon_servicos.png" alt="" data-size="line"> Serviços (Aba atual);
-- <img src="/erp-v2/assets/modulos/icon_kits.png" alt="" data-size="line"> Kits;
+- <img src="/erp-v2/assets/modulos/icon_kits.png" alt="" data-size="line"> [Kits](/erp-v2/modulos/produtos_servicos/kits.md);
 
 Clicando no ícone da seta você exibe ele de forma completa, e clicando nela novamente, ele volta ao modo recolhido, confira exemplo abaixo: 
 
 ![](/erp-v2/assets/modulos/servicos/aba_servicos_menu_esquerdo.gif)
 
 <br>
+
