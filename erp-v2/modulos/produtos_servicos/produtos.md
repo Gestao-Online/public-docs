@@ -176,7 +176,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar m novo produto, é exigido descrição, status, unidade/medida e grupo. 
+Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo produto, é exigido descrição, status, unidade/medida e grupo. 
 
 - **Descrição** (Nome para identificar o novo produto a ser criado);
 - **Imagem (Principal)** (Para facilitar identificação do produto);
@@ -190,7 +190,7 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar m novo prod
 - **Tipo de entrega:**
     - **Digital** Não mostrará as opções de NFe/NFCe e não terá a guia estoque quando salvar o produto;
     - **Unidade:** Ao marcar esta opção, terá que confirmar as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST;
-    - **Transporte:** Aos escolher, poderá definir as dimensões do produto, altura, largura, comprimento e peso. E também as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST;
+    - **Transporte:** Ao escolher, poderá definir as dimensões do produto, altura, largura, comprimento e peso. E também as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST;
 
 <br>
 
