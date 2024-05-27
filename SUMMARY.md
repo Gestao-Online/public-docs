@@ -107,6 +107,7 @@
       * [🏭 Local de estoque](/erp-v2/modulos/unidades_locais_estoque/local_estoque.md)
     * [📝 Controle de unidades](/erp-v2/modulos/controle_unidades/README.md)
     * [📦 Produtos & Serviços](/erp-v2/modulos/produtos_servicos/README.md)
+      * [🧰 Serviços](/erp-v2/modulos/produtos_servicos/servicos.md)
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)

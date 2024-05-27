@@ -170,7 +170,7 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo
 
 A partir do momento que você concluir a criação, uma nova guia ficará disponível, a de `Movimentações/Transferências`, e aqui serão mostradas todas as transferencias, vendas,  compras, devoluções e ajustes.
 
-Você já tem acesso as movimentações, poder buscar movimentações específicas, editar uma movimentação, ou até excluir uma movimentação.
+Você já tem acesso as movimentações, poder buscar movimentações específicas, editar uma movimentação, ou até excluir.
 
 {% hint style="danger" %}
 **Informativo:** Se você deseja saber mais informações sobre Movimentações/Transferencias [clique aqui](/erp-v2/modulos/produtos_servicos/movimentacao_estoque.md)
