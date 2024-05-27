@@ -209,13 +209,21 @@ Nesta guia você pode vincular um produto/serviço ao que você acabou de criar,
 
 <br>
 
-Agora na guia de `Categorias`, você pode definir uma categoria para o serviço cadastrado, ao clicar em adicionar será mostrada a lista para você escolher uma opção, essas opções já estão pré cadastradas na aba [Categoria de produto](/erp-v2/modulos/produtos_servicos/categoria_produto.md)
+Agora na guia de `Categorias`, você pode definir uma categoria para o serviço cadastrado, ao clicar em adicionar será mostrada a lista para você escolher uma opção, essas opções já estão pré cadastradas na aba categoria de produto
+
+{% hint style="warning" %}
+**Informativo:** Se você deseja saber mais informações sobre categoria de produto [clique aqui](/erp-v2/modulos/produtos_servicos/categoria_produto.md)
+{% endhint %}
 
 ![](/erp-v2/assets/modulos/servicos/aba_servicos_add_servico_guia_categoria.gif)
 
 <br>
 
-Por último na guia `Tabelas de preço`  você pode adicionar um valor ou percentual e de qual [tabela de preço](/erp-v2/modulos/parametrizacoes/tabelas_precos.md) existente ele irá ser vinculado:
+Por último na guia `Tabelas de preço`  você pode adicionar um valor ou percentual e de qual tabela de preço existente ele irá ser vinculado:
+
+{% hint style="warning" %}
+**Informativo:** Se você deseja saber mais informações sobre tabela de preço [clique aqui](/erp-v2/modulos/parametrizacoes/tabelas_precos.md)
+{% endhint %}
 
 ![](/erp-v2/assets/modulos/servicos/aba_servicos_add_servico_guia_tabela_preco.gif)
 
