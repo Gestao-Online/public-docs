@@ -143,7 +143,7 @@ Clicando no ícone da seta você exibe ele de forma completa, e clicando nela no
 
 <br>
 
-### Paginação aba local de estoque
+### Paginação aba serviços
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
 
