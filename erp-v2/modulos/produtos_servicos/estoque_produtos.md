@@ -97,6 +97,6 @@ Na dúvida sobre o que fazer caso fique tudo muito misturado? Fique despreocupad
 
 Você também pode pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reordenar os filtros apenas clicando e movendo para a posição que você preferir e se arrastar ele para fora será oculto, confira abaixo:
 
-![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_mouse.gif)
+![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_filtro_mouse.gif)
 
 <br>
