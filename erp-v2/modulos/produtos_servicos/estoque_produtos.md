@@ -132,3 +132,10 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 <br>
 
+### Adicionar novo produto ao estoque
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto ao estoque, confira abaixo o procedimento para fazer a adição corretamente:
+
+![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_add.png)
+
+<br>
