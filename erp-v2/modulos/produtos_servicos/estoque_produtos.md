@@ -156,3 +156,16 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_add_menu.png)
 
 <br>
+
+Olhando para a guia **`Geral`**, por padrão, quando você for criar adicionar um produto ao estoque, é exigido produto, local e empresa. 
+
+- **Produto** (Para maiores informações [clique aqui](/erp-v2/modulos/parametrizacoes/unidade_medida_produto_servico.md));
+- **Local** (Para maiores informações [clique aqui](/erp-v2/modulos/produtos_servicos/grupo_produto.md));
+- **Empresa** (Para maiores informações [clique aqui](/erp-v2/modulos/produtos_servicos/grupo_produto.md));
+- **Quantidade mínima**.
+
+<br>
+
+![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_add_produto_itens.png)
+
+<br>
