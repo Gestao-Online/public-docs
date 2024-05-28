@@ -88,3 +88,10 @@ Por último, na mesma linha dos filtros, tem a **`Configuração do grid`**, ao 
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_filtro_grid.gif)
 
 <br>
+
+Na dúvida sobre o que fazer caso fique tudo muito misturado? Fique despreocupado! Colocamos o botão `Restaurar`, e ele volta a ordem padrão automaticamente, confira abaixo o exemplo:
+
+![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_filtro_grid_restaurar.png)
+
+<br>
+
