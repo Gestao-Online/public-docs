@@ -111,7 +111,7 @@
       * [🛍️ Kits de produto/serviço](erp-v2/modulos/produtos_servicos/kits.md)
       * [📥 Estoque produtos](erp-v2/modulos/produtos_servicos/)
       * [🎁 Produtos](erp-v2/modulos/produtos_servicos/produtos.md)
-      
+      * [📤 Movimentação Estoque](/erp-v2/modulos/produtos_servicos/movimentacao_estoque.md)
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)
