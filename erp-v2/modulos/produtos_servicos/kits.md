@@ -30,3 +30,9 @@ No menu de filtro você pode definir uma busca específica por kits de produto/s
 ![](/erp-v2/assets/modulos/kits/aba_kits_filtro.gif)
 
 <br>
+
+Você pode utilizar os filtros de cada categoria que aparecem junto aos resultados dos kits. No primeiro filtro, você pode buscar pelo ID dos kits.
+
+![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_id.png)
+
+<br>
