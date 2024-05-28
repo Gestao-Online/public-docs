@@ -169,3 +169,9 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar adicionar u
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_add_produto_itens.png)
 
 <br>
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo produto será adicionado ao estoque:
+
+![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_add_produto_salvar.gif)
+
+<br>
