@@ -213,3 +213,13 @@ Pode também utilizar os filtros disponíveis caso tenha muitos itens sendo exib
 ![](/erp-v2/assets/modulos/kits/aba_kits_add_kit_guia_itens.gif)
 
 <br>
+
+Agora na guia de `Categorias`, você pode definir uma categoria para o kit cadastrado, ao clicar em adicionar será mostrada a lista para você escolher uma opção, essas opções já estão pré cadastradas na aba categoria de produto
+
+{% hint style="warning" %}
+**Informativo:** Se você deseja saber mais informações sobre categoria de produto [clique aqui](/erp-v2/modulos/produtos_servicos/categoria_produto.md)
+{% endhint %}
+
+![](/erp-v2/assets/modulos/kits/aba_kits_add_kit_guia_categoria.gif)
+
+<br>
