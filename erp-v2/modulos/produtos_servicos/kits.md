@@ -150,3 +150,11 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 ![](/erp-v2/assets/modulos/servicos/aba_servicos_paginacao.png)
 
 <br>
+
+### Adicionar novo produto
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
+
+![](/erp-v2/assets/modulos/kits/aba_kits_add.png)
+
+<br>
