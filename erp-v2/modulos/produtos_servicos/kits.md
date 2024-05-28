@@ -142,3 +142,11 @@ Clicando no ícone da seta você exibe ele de forma completa, e clicando nela no
 ![](/erp-v2/assets/modulos/kits/aba_kits_menu_esquerdo.gif)
 
 <br>
+
+### Paginação aba produtos
+
+Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de kits mostrados para até 1000 itens na página:
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_paginacao.png)
+
+<br>

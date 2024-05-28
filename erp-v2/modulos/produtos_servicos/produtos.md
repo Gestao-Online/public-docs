@@ -145,7 +145,7 @@ Clicando no ícone da seta você exibe ele de forma completa, e clicando nela no
 
 ### Paginação aba produtos
 
-Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
+Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de produtos mostrados para até 1000 itens na página:
 
 ![](/erp-v2/assets/modulos/servicos/aba_servicos_paginacao.png)
 
