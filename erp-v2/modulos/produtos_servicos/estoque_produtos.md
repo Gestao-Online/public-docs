@@ -61,10 +61,21 @@ Depois do filtro de ID, está o filtro de **`Produto`**, observe que a lista de 
 
 <br>
 
-Parecido com o a busca do filtro produto, o filtro **`Local`** também mostrará os produtos ao clicar na barra de pesquisa, ou utilizando o modo de lista completo para você pode buscar. Observe abaixo:
+Parecido com o a busca do filtro produto, o filtro **`Local`** também mostrará os produtos ao clicar na barra de pesquisa, ou utilizando o modo de lista completo para você buscar. Observe abaixo:
 
 {% hint style="warning" %}
 **Informativo:** Os locais de estoque são criados na aba `Local de estoque`, para mais informações [clique aqui](/erp-v2/modulos/unidades_locais_estoque/local_estoque.md).
 {% endhint %}
 
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_filtro_local.gif)
+
+<br>
+
+Seguindo a mesma lógica do anterior, o filtro **`Empresa`** também mostrará os produtos ao clicar na barra de pesquisa, ou utilizando o modo de lista completo para você poder buscar. Observe abaixo:
+
+{% hint style="warning" %}
+**Informativo:** As empresas são criados na aba `Empresas`, para mais informações [clique aqui](/erp-v2/modulos/parametrizacoes/empresas.md).
+{% endhint %}
+
+![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_filtro_empresa.gif)
+
