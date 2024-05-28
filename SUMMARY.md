@@ -109,6 +109,7 @@
     * [📦 Produtos & Serviços](/erp-v2/modulos/produtos_servicos/README.md)
       * [🧰 Serviços](/erp-v2/modulos/produtos_servicos/servicos.md)
       * [🎁 Produtos](/erp-v2/modulos/produtos_servicos/produtos.md)
+      * [🛍️ Kits de produto/serviço](/erp-v2/modulos/produtos_servicos/kits.md)
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)
