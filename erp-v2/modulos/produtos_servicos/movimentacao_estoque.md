@@ -1,6 +1,4 @@
-# Movimentação de estoque
-
-# 📥 Estoque produtos
+# 📤 Movimentação de estoque
 
 Aqui você tem a visão do estoque de produtos na plataforma Gestão.Online, podendo cadastrar um novo produto, editar informações existentes e até excluir um produto cadastrado.
 
@@ -20,6 +18,6 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar movimentação no estoque.
 
-![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_menu.png)
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_menu.png)
 
 <br>
