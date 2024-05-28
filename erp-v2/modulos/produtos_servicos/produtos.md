@@ -199,7 +199,7 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo pro
 <br>
 
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo local de estoque será salvo:
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo produto será salvo:
 
 ![](/erp-v2/assets/modulos/produtos/aba_produtos_add_produto_salvar.gif)
 

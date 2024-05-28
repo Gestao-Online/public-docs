@@ -198,3 +198,8 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo kit
 
 <br>
 
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo kit de produto/serviço será salvo:
+
+![](/erp-v2/assets/modulos/kits/aba_kits_add_kit_salvar.gif)
+
+<br>
