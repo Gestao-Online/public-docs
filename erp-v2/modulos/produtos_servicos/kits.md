@@ -114,7 +114,7 @@ Se você observar, sempre ao **`lado direito`** de cada kti criado, você têm d
 
 <br>
 
-### Botão direito mouse aba produtos
+### Botão direito mouse aba kits
 
 Lembrando que, em cada item mostrado, você pode usar a função secundária do mouse (Botão direito) e acessar mais opções:
 
