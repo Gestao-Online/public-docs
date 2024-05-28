@@ -19,7 +19,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Kits.
 
-![](/erp-v2/assets/modulos/produtos/aba_produtos_menu.png)
+![](/erp-v2/assets/modulos/kits/aba_kits_menu.png)
 
 <br>
 
@@ -33,7 +33,7 @@ No menu de filtro você pode definir uma busca específica por kits de produto/s
 
 Você pode utilizar os filtros de cada categoria que aparecem junto aos resultados dos kits. No primeiro filtro, você pode buscar pelo ID dos kits.
 
-![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_id.png)
+![](/erp-v2/assets/modulos/kits/aba_kits_filtro_id.png)
 
 <br>
 
@@ -55,3 +55,10 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 ![](/erp-v2/assets/modulos/kits/aba_kits_filtro_dentrode.gif)
 
 <br>
+
+Depois do filtro de ID, está o filtro de **`Descrição`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada kits adicionado 😉👍
+
+![](/erp-v2/assets/modulos/kits/aba_kits_filtro_descricao.png)
+
+<br>
+
