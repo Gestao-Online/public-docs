@@ -223,3 +223,13 @@ Agora na guia de `Categorias`, você pode definir uma categoria para o kit cadas
 ![](/erp-v2/assets/modulos/kits/aba_kits_add_kit_guia_categoria.gif)
 
 <br>
+
+Por último na guia `Tabelas de preço` você pode adicionar um valor ou percentual e de qual tabela de preço existente ele irá ser vinculado:
+
+{% hint style="warning" %}
+**Informativo:** Se você deseja saber mais informações sobre tabela de preço [clique aqui](/erp-v2/modulos/parametrizacoes/tabelas_precos.md)
+{% endhint %}
+
+![](/erp-v2/assets/modulos/kits/aba_kits_add_kit_guia_tabela_preco.gif)
+
+<br>
