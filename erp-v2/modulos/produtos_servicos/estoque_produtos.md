@@ -175,3 +175,53 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_add_produto_salvar.gif)
 
 <br>
+
+### Guia movimentação estoque
+
+A partir do momento que você concluir o registro de um novo produto, ficará disponível a guia `Movimentações/Transferências`.
+
+Nesta guia ficarão todas as movimentações automáticas deste produto, sejam elas de transferência, venda, compra, devolução ou ajuste.
+
+Você pode também organizar e procurar usando os filtros existentes nela.
+
+![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_add_produto_guia_estoque.png)
+
+<br>
+
+Existe a possibilidade de fazer alterações manuais nas movimentações (Se tiver nível de acesso administrativo). Consegue modificar uma movimentação, ou até mesmo excluí-la. 
+
+![](/erp-v2/assets/modulos/estoque_produto/guia_movimentacoes_edit.png)
+
+<br>
+
+É possivel também fazer a adição de uma movimentação, acompanhe a seguir:
+
+![](/erp-v2/assets/modulos/estoque_produto/guia_movimentacoes_add.png)
+
+<br>
+
+Atenção, para salvar este registro é necessário que todos os itens sejam preenchidos:
+
+- **Tipo** (Transferência, venda, compra, devolução ou ajuste);
+- **Data lançamento**;
+- **Quantidade** (Itens a mais ou a menos);
+- **Lançamento** (Entrada ou saída);
+- **Descrição** (Motivo da movimentação).
+
+![](/erp-v2/assets/modulos/estoque_produto/guia_movimentacoes_add_inicio.png)
+
+.
+
+![](/erp-v2/assets/modulos/estoque_produto/guia_movimentacoes_add_inicio.gif)
+
+<br>
+
+Observe que após salvar, ficará registrado o usuário, data e hora na alteração que foi feita:
+
+![](/erp-v2/assets/modulos/estoque_produto/guia_movimentacoes_add_salvar.png)
+
+<br>
+
+Finalizando assim, com o registro aparecendo na tela inicial:
+
+![](/erp-v2/assets/modulos/estoque_produto/guia_movimentacoes_add_final.png)
