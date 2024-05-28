@@ -21,3 +21,11 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 ![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_menu.png)
 
 <br>
+
+### Filtros de movimentação estoque
+
+No menu de filtro você pode definir uma busca específica por movimentações, seja por ID, tipo, data de lançamento, lançamento, quantidade e até usuário. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/ba_movimentacao_estoque_filtro.gif)
+
+<br>
