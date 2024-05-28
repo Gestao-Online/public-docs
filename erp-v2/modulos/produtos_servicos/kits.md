@@ -158,3 +158,10 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 ![](/erp-v2/assets/modulos/kits/aba_kits_add.png)
 
 <br>
+
+Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento das informações do novo kit:
+
+![](/erp-v2/assets/modulos/kits/aba_kits_add_inicio.png)
+
+<br>
+
