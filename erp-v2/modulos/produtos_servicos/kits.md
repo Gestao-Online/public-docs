@@ -175,3 +175,26 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 ![](/erp-v2/assets/modulos/kits/aba_kits_add_menu.png)
 
 <br>
+
+Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo kit, é exigido descrição, status, unidade/medida e grupo. 
+
+- **Descrição** (Nome para identificar o novo kit a ser criado);
+- **Imagem (Principal)** (Para facilitar identificação do kit);
+    - ![](/erp-v2/assets/modulos/kits/aba_kits_add_imagem.gif)
+- **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
+- **Código** (SKU ou código de barras referente ao kit);
+- **Status** (Com duas opções para selecionar, entre ativado e desativado);
+- **Unidade/Medida** (Serão mostradas as opções cadastradas [aqui](/erp-v2/modulos/parametrizacoes/unidade_medida_produto_servico.md));
+- **Grupo** (Serão mostradas as opções cadastradas [aqui](/erp-v2/modulos/produtos_servicos/grupo_produto.md));
+- **Valor Custo** (Aqui você declara o valor deste kit);
+- **Tipo de entrega:**
+    - **Digital** Não mostrará as opções de NFe/NFCe;
+    - **Unidade:** Não mostrará as opções de NFe/NFCe;
+    - **Transporte:** Ao escolher, poderá definir as dimensões do produto, altura, largura, comprimento e peso.
+
+<br>
+
+![](/erp-v2/assets/modulos/kits/aba_kits_add_kit_itens.png)
+
+<br>
+
