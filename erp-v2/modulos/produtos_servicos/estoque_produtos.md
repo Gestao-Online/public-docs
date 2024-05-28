@@ -16,7 +16,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
-- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar produto.
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar produto no estoque.
 
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_menu.png)
 
@@ -55,8 +55,16 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 
 <br>
 
-Depois do filtro de ID, está o filtro de **`Produto`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada produto 😉👍
+Depois do filtro de ID, está o filtro de **`Produto`**, observe que a lista de produtos aparece ao clicar no campo de busca, e você pode usar o modo lista para procurar:
 
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_filtro_descricao.gif)
 
 <br>
+
+Parecido com o a busca do filtro produto, o filtro **`Local`** também mostrará os produtos ao clicar na barra de pesquisa, ou utilizando o modo de lista completo para você pode buscar. Observe abaixo:
+
+{% hint style="warning" %}
+**Informativo:** Os locais de estoque são criados na aba `Local de estoque`, para mais informações [clique aqui](/erp-v2/modulos/unidades_locais_estoque/local_estoque.md).
+{% endhint %}
+
+![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_filtro_local.gif)
