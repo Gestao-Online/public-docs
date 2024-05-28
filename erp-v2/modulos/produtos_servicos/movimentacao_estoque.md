@@ -26,6 +26,12 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 No menu de filtro você pode definir uma busca específica por movimentações, seja por ID, tipo, data de lançamento, lançamento, quantidade e até usuário. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
 
-![](/erp-v2/assets/modulos/movimentacao_estoque/ba_movimentacao_estoque_filtro.gif)
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro.gif)
+
+<br>
+
+Você pode fazer uso dos filtros de cada categoria que aparecem com o resultado dos produtos, no primeiro filtro você pode buscar pelo ID da movimentação:
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_id.png)
 
 <br>
