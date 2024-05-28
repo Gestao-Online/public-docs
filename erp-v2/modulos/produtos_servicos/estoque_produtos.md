@@ -194,7 +194,7 @@ Existe a possibilidade de fazer alterações manuais nas movimentações (Se tiv
 
 <br>
 
-É possivel também fazer a adição de uma movimentação, acompanhe a seguir:
+É possível também fazer a adição de uma movimentação, acompanhe a seguir:
 
 ![](/erp-v2/assets/modulos/estoque_produto/guia_movimentacoes_add.png)
 
