@@ -54,3 +54,9 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_filtro_dentrode.gif)
 
 <br>
+
+Depois do filtro de ID, está o filtro de **`Produto`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada produto 😉👍
+
+![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_filtro_descricao.gif)
+
+<br>
