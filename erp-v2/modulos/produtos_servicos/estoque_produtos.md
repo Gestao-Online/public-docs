@@ -21,3 +21,11 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_menu.png)
 
 <br>
+
+### Filtros de produtos
+
+No menu de filtro você pode definir uma busca específica por produtos, seja por ID, produto, local e empresa. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
+
+![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_filtro.gif)
+
+<br>
