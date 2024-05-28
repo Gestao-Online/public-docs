@@ -104,3 +104,12 @@ Você também pode pode aumentar ou diminuir o tamanho visível da coluna clican
 ![](/erp-v2/assets/modulos/kits/aba_kits_filtro_mouse.gif)
 
 <br>
+
+Se você observar, sempre ao **`lado direito`** de cada kti criado, você têm dois botões:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
+
+![](/erp-v2/assets/modulos/kits/aba_kits_editar_excluir.png)
+
+<br>
