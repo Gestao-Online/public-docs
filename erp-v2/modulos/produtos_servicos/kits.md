@@ -233,3 +233,19 @@ Por último na guia `Tabelas de preço` você pode adicionar um valor ou percent
 ![](/erp-v2/assets/modulos/kits/aba_kits_add_kit_guia_tabela_preco.gif)
 
 <br>
+
+### Importar kits
+
+Esta função será de grande ajuda caso você já tenha uma lista com os serviços que deseja cadastrar. 
+
+No botão de importação ao clicar nele será aberta uma janela pop-up para você fazer a importação da planilha com os dados, logo após, você importar ela, você define manualmente os campos relacionados para que a nossa plataforma possa fazer a importação. 
+
+Confira abaixo o procedimento:
+
+{% hint style="info" %}
+**Info:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "**
+{% endhint %}
+
+<!-- Em conversa com o Werick, ele me explicou que está padronizado para cadastrar o tipo para SERVIÇO e que teria que alterar depois pq a demanda é maior para serviço do que para produto, por isso sempre que importar, será aplicado o tipo serviço. -->
+
+![](/erp-v2/assets/modulos/kits/aba_kits_importar.gif)
