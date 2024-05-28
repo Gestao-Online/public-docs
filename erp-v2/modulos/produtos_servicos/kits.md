@@ -76,3 +76,9 @@ Agora no filtro por **`Status`** existem duas opções para você utilizar nas b
 ![](/erp-v2/assets/modulos/kits/aba_kits_filtro_status.png)
 
 <br>
+
+Outro filtro que você pode utilizar é o de `Grupo`, ele mostrará a lista de [`Grupo de produto`](/erp-v2/modulos/produtos_servicos/grupo_produto.md) com as opções que já estão definidas na aba Grupo de produto:
+
+![](/erp-v2/assets/modulos/kits/aba_kits_filtro_grupo.gif)
+
+<br>
