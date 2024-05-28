@@ -123,3 +123,12 @@ Você pode conferir no nosso teste abaixo:
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_btn_mouse.gif)
 
 <br>
+
+### Paginação aba Estoque produtos
+
+Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de produtos mostrados para até 1000 itens na página:
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_paginacao.png)
+
+<br>
+
