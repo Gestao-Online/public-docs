@@ -203,3 +203,13 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo
 ![](/erp-v2/assets/modulos/kits/aba_kits_add_kit_salvar.gif)
 
 <br>
+
+A partir do momento que você concluir a criação do novo kit, ficarão disponíveis três guias para você acessar, a primeira é de `Itens`.
+
+Nesta guia você pode vincular um produto/serviço ao kit que você acabou de criar, escolhendo um dos já disponíveis e definindo a quantidade. 
+
+Pode também utilizar os filtros disponíveis caso tenha muitos itens sendo exibidos. Depois é só salvar e ele aparecerá, confira abaixo:
+
+![](/erp-v2/assets/modulos/kits/aba_kits_add_kit_guia_itens.gif)
+
+<br>
