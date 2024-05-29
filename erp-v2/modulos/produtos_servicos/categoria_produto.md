@@ -66,3 +66,13 @@ Você também pode utilizar o filtro **`Status`** para filtrar sua busca, com as
 ![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_filtro_status.png)
 
 <br>
+
+Por último, na mesma linha dos filtros, tem a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode redefinir os filtros utilizados, pode ser por exibição clicando no marcador, ou até alterar a ordem deles apenas clicando e arrastando! 😁
+
+![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_filtro_grid.png)
+
+.
+
+![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_filtro_grid.gif)
+
+<br>
