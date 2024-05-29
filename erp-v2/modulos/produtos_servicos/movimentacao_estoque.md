@@ -54,3 +54,15 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 ![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_dentrode.gif)
 
 <br>
+
+Depois do filtro de ID, está o filtro de **`Tipo`**, ele tem as opções:
+
+- <img src="/erp-v2/assets/modulos/icon_transferencia.png" alt="" data-size="line"> Transferência;
+- <img src="/erp-v2/assets/modulos/icon_venda.png" alt="" data-size="line"> Venda;
+- <img src="/erp-v2/assets/modulos/icon_compra.png" alt="" data-size="line"> Compra;
+- <img src="/erp-v2/assets/modulos/icon_devolucao.png" alt="" data-size="line"> Devolução;
+- <img src="/erp-v2/assets/modulos/icon_ajuste.png" alt="" data-size="line"> Ajuste.
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_estoque_filtro_tipo.png)
+
+<br>
