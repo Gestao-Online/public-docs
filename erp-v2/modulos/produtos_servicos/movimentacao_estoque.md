@@ -82,3 +82,16 @@ O filtro **`Local de estoque`** mostrará os locais cadastrados ao clicar na bar
 ![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_local.gif)
 
 <br>
+
+Logo ao lado, temos o filtro por `Lançamento`, sendo duas opções clicáveis, entre saída e entrada:
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_lancamento.png)
+
+<br>
+
+Outro filtro disponível é o de `Quantidade`, podendo utilizar a busca por quantidade com alguns filtros iguais do ID:
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_qtd.png)
+
+<br>
+
