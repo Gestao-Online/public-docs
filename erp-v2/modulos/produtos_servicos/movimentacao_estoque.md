@@ -145,3 +145,11 @@ Você pode conferir no nosso teste abaixo:
 ![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_btn_mouse.gif)
 
 <br>
+
+### Paginação aba movimentação estoque
+
+Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de movimentações mostradas para até 1000 itens na página:
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_paginacao.png)
+
+<br>
