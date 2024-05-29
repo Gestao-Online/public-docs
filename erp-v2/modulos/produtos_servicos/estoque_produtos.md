@@ -103,7 +103,7 @@ Você também pode pode aumentar ou diminuir o tamanho visível da coluna clican
 
 <br>
 
-Se você observar, sempre ao **`lado direito`** de cada serviço criado, você têm dois botões:
+Se você observar, sempre ao **`lado direito`** de cada produto criado, você têm dois botões:
 
 - <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
 - <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
