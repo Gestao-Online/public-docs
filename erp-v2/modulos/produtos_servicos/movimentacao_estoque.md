@@ -63,6 +63,12 @@ Depois do filtro de ID, está o filtro de **`Tipo`**, ele tem as opções:
 - <img src="/erp-v2/assets/modulos/icon_devolucao.png" alt="" data-size="line"> Devolução;
 - <img src="/erp-v2/assets/modulos/icon_ajuste.png" alt="" data-size="line"> Ajuste.
 
-![](/erp-v2/assets/modulos/movimentacao_estoque/aba_estoque_filtro_tipo.png)
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_tipo.png)
+
+<br>
+
+Agora no filtro **`Data Lançamento`** você pode utilizar o calendário para definir a data que está procurando:
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_data.gif)
 
 <br>
