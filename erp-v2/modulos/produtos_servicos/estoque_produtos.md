@@ -103,7 +103,7 @@ Você também pode pode aumentar ou diminuir o tamanho visível da coluna clican
 
 <br>
 
-Se você observar, sempre ao **`lado direito`** de cada produto criado, você têm dois botões:
+Se você observar, sempre ao **`lado direito`** de cada item criado, você têm dois botões:
 
 - <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
 - <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
@@ -128,7 +128,7 @@ Você pode conferir no nosso teste abaixo:
 
 ### Paginação aba Estoque produtos
 
-Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de produtos mostrados para até 1000 itens na página:
+Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de itens mostrados para até 1000 itens na página:
 
 ![](/erp-v2/assets/modulos/servicos/aba_servicos_paginacao.png)
 

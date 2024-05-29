@@ -88,3 +88,69 @@ Você também pode pode aumentar ou diminuir o tamanho visível da coluna clican
 ![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_filtro_mouse.gif)
 
 <br>
+
+Se você observar, sempre ao **`lado direito`** de cada categoria criada, você têm dois botões:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
+
+![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_editar_excluir.png)
+
+<br>
+
+### Botão direito mouse aba categoria de produto
+
+Lembrando que, em cada item mostrado, você pode usar a função secundária do mouse (Botão direito) e acessar mais opções:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
+
+Você pode conferir no nosso exemplo abaixo:
+
+![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_btn_mouse.gif)
+
+<br>
+
+### Paginação aba categoria de produto
+
+Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de categorias mostradas para até 1000 itens na página:
+
+![](/erp-v2/assets/modulos/servicos/aba_servicos_paginacao.png)
+
+<br>
+
+### Adicionar nova categoria de produto
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar uma nova categoria de produto, confira abaixo o procedimento para fazer a adição corretamente:
+
+![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_add.png)
+
+<br>
+
+Ao clicar neste botão, você será levado para esta página, para fazer o direcionamento do produto ao estoque:
+
+![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_add_inicio.png)
+
+<br>
+
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_add_menu.png)
+
+<br>
+
+Olhando de modo geral, por padrão, quando você for criar uma categoria de produto, é exigido identificador e status, para que seja salvo. 
+
+- **Quantidade mínima**.
+
+<br>
+
+![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_add_produto_itens.png)
+
+<br>
