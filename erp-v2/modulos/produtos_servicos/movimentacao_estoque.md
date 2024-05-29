@@ -72,3 +72,13 @@ Agora no filtro **`Data Lançamento`** você pode utilizar o calendário para de
 ![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_data.gif)
 
 <br>
+
+O filtro **`Local de estoque`** mostrará os locais cadastrados ao clicar na barra de pesquisa, ou utilizando o modo de lista completo para você buscar. Observe abaixo:
+
+{% hint style="warning" %}
+**Informativo:** Os locais de estoque são criados na aba `Local de estoque`, para mais informações [clique aqui](/erp-v2/modulos/unidades_locais_estoque/local_estoque.md).
+{% endhint %}
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_local.gif)
+
+<br>
