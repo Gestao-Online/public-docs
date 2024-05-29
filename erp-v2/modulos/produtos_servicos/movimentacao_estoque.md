@@ -95,3 +95,7 @@ Outro filtro disponível é o de `Quantidade`, podendo utilizar a busca por quan
 
 <br>
 
+Por último temos o filtro `Usuário Lançamento` para você escolher um usuário em específico, podendo até ver a lista de usuários disponiveis:
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_usuario.gif)
+
