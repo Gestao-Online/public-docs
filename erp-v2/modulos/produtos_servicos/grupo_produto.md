@@ -122,4 +122,46 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 <br>
 
+### Adicionar novo grupo de produto
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar uma novo grupo de produto, confira abaixo o procedimento para fazer a adição corretamente:
+
+![](/erp-v2/assets/modulos/grupo_produto/aba_grupo_produto_add.png)
+
+<br>
+
+Ao clicar neste botão, você será levado para esta página, para fazer a adição do grupo de produto:
+
+![](/erp-v2/assets/modulos/grupo_produto/aba_grupo_produto_add_inicio.png)
+
+<br>
+
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar item dependente;
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/modulos/grupo_produto/aba_grupo_produto_add_menu.png)
+
+<br>
+
+Olhando para a guia **`Geral`**, por padrão, quando você for criar um grupo de produto, é exigido descrição, identificador e status, para que ele seja salvo. 
+
+- **Descrição** (Descreva o grupo de produto que está criando);
+- **Identificador** (Número gerado automaticamente por nossa plataforma);
+- **Imagem (Principal)** (Para facilitar identificação do grupo caso precise);
+- **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
+- **Analítica** (Se grupo será específica ou não);
+- **Status** (Ativado ou desativado);
+- **Código** (Identificação da categoria).
+
+<br>
+
+![](/erp-v2/assets/modulos/grupo_produto/aba_grupo_produto_add_produto_itens.png)
+
+<br>
+
 ------------------------------CONTINUAR DAQUI-------------------------------------
