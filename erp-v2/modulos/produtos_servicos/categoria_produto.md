@@ -145,12 +145,24 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando de modo geral, por padrão, quando você for criar uma categoria de produto, é exigido identificador e status, para que seja salvo. 
+Olhando de modo geral, por padrão, quando você for criar uma categoria de produto, é exigido identificador e status, para que ele seja salvo. 
 
-- **Quantidade mínima**.
+- **Descrição** (Defina o que será a categoria que está criando);
+- **Identificador** (Número para buscar mais rápido a categoria);
+- **Analítica** (Se ela será mais específica ou não);
+- **Status** (Ativado ou desativado);
+- **Código** (Identificação da categoria).
+
+<!-- Confirmar com Paulo e Nicolau se a função código está disponível mesmo, ou é só um bug por nao registrar as informações inseridas -->
 
 <br>
 
-![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_add_produto_itens.png)
+![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_add_produto_itens.png)
+
+<br>
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova categoria estará disponível para uso:
+
+![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_add_produto_salvar.gif)
 
 <br>
