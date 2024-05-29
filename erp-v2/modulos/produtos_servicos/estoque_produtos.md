@@ -79,6 +79,8 @@ Seguindo a mesma lógica do anterior, o filtro **`Empresa`** também mostrará o
 
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_filtro_empresa.gif)
 
+<br>
+
 Por último, na mesma linha dos filtros, tem a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode redefinir os filtros utilizados, pode ser por exibição clicando no marcador, ou até alterar a ordem deles apenas clicando e arrastando! 😁
 
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_filtro_grid.png)

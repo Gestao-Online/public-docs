@@ -95,7 +95,18 @@ Outro filtro disponível é o de `Quantidade`, podendo utilizar a busca por quan
 
 <br>
 
-Por último temos o filtro `Usuário Lançamento` para você escolher um usuário em específico, podendo até ver a lista de usuários disponiveis:
+No filtro `Usuário Lançamento` você pode escolher um usuário em específico, podendo até ver a lista de usuários disponiveis:
 
 ![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_usuario.gif)
 
+<br>
+
+Por último, na mesma linha dos filtros, tem a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode redefinir os filtros utilizados, pode ser por exibição clicando no marcador, ou até alterar a ordem deles apenas clicando e arrastando! 😁
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_grid.png)
+
+.
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_filtro_grid.gif)
+
+<br>
