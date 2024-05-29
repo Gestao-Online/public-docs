@@ -142,7 +142,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 <br>
 
-Ao clicar neste botão, você será direcionado para esta página, para fazer o direcionamento do produto ao estoque:
+Ao clicar neste botão, você será levado para esta página, para fazer o direcionamento do produto ao estoque:
 
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_add_inicio.png)
 

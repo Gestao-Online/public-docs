@@ -161,3 +161,20 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 ![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_add.png)
 
 <br>
+
+Ao clicar neste botão, você será direcionado para esta página, para criar uma movimentação de estoque:
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_add_inicio.png)
+
+<br>
+
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_add_menu.png)
+
+<br>
