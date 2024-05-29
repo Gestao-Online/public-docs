@@ -29,3 +29,9 @@ No menu de filtro você pode definir uma busca específica por categorias, seja 
 ![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_filtro.gif)
 
 <br>
+
+Você pode fazer uso dos filtros para buscar as categorias de produtos, no primeiro filtro você pode buscar pelo ID da categoria:
+
+![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_filtro_id.png)
+
+<br>
