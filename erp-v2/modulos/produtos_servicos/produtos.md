@@ -25,7 +25,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ### Filtros de produtos
 
-No menu de filtro você pode definir uma busca específica por serviços, seja por ID, descrição, código, status e grupo. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
+No menu de filtro você pode definir uma busca específica por produtos, seja por ID, descrição, código, status e grupo. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
 
 ![](/erp-v2/assets/modulos/produtos/aba_produto_filtro.gif)
 

@@ -18,6 +18,14 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Categoria.
 
-![](/erp-v2/assets/modulos/produtos/aba_produtos_menu.png)
+![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_menu.png)
+
+<br>
+
+### Filtros categoria de produto
+
+No menu de filtro você pode definir uma busca específica por categorias, seja por ID, identificador, descrição, status ou código. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
+
+![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_filtro.gif)
 
 <br>
