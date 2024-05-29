@@ -195,3 +195,9 @@ Olhando para criação de movimentação, quando você for criar uma nova movime
 ![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_itens.png)
 
 <br>
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova movimentação será adicionada:
+
+![](/erp-v2/assets/modulos/estoque_produto/aba_estoque_add_produto_salvar.gif)
+
+<br>
