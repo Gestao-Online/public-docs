@@ -178,3 +178,20 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 ![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_add_menu.png)
 
 <br>
+
+Olhando para criação de movimentação, quando você for criar uma nova movimentação de estoque, é ncessário preencher todos os campos marcados com o asterisco vermelho: 
+
+- **Tipo** (Transferência, venda, compra, devolução e ajuste);
+- **Data Lançamento** (Definir o dia que está sendo feita a movimentação);
+- **Quantidade** (Itens a mais ou a menos);
+- **Produto** (Defina qual produto terá a movimentação, para maiores informações [clique aqui](/erp-v2/modulos/produtos_servicos/produtos.md));
+- **Local de Estoque** (Defina qual local está o produto, para maiores informações [clique aqui](/erp-v2/modulos/unidades_locais_estoque/local_estoque.md));
+- **Empresa** (Defina qual empresa tem o produto, para maiores informações [clique aqui](/erp-v2/modulos/unidades_locais_estoque/unidades_lojas.md));
+- **Lançamento** (Entrada ou saída);
+- **Descrição** (Motivo da movimentação).
+
+<br>
+
+![](/erp-v2/assets/modulos/movimentacao_estoque/aba_movimentacao_estoque_itens.png)
+
+<br>
