@@ -6,7 +6,7 @@ Aqui você tem a visão de todos os feriados cadastrados na plataforma Gestão.O
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados.gif)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados.gif)
 
 <br>
 
@@ -18,7 +18,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Feriado.
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_menu.png)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_menu.png)
 
 <br>
 
@@ -26,13 +26,13 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 No menu de filtro você pode definir uma busca específica por feriados, seja por ID, descrição, dia, mês, tipo, estado e cidade. Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_filtro.gif)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_filtro.gif)
 
 <br>
 
 Você pode fazer uso dos filtros de cada categoria que aparecem com o resultado dos produtos, no primeiro filtro você pode buscar pelo ID do feriado cadastrado:
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_filtro_id.png)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_filtro_id.png)
 
 <br>
 
@@ -51,51 +51,51 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 **Informativo:** No uso do filtro **`Dentro de`** ou **`Fora de`** você precisa inserir todos os valores que ficarão dentro ou fora da busca, igual exemplo abaixo:
 {% endhint %}
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_filtro_dentrode.gif)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_filtro_dentrode.gif)
 
 <br>
 
 Depois do filtro de ID, está o filtro de **`Descrição`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada feriado 😉👍
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_filtro_descricao.gif)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_filtro_descricao.gif)
 
 <br>
 
 Você também pode selecionar o dia ou mês em que ocorrerá o feriado, usando o filtro **`Dia`** ou **`Mês`**:
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_filtro_dia.png)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_filtro_dia.png)
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_filtro_mes.png)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_filtro_mes.png)
 
 <br>
 
 Tendo também a opção de busca com os filtros de **`Estado`** ou **`Cidade`**, conforme exemplos abaixo:
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_filtro_estado.png)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_filtro_estado.png)
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_filtro_cidade.png)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_filtro_cidade.png)
 
 <br>
 
 Por último, na mesma linha dos filtros, tem a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode redefinir os filtros utilizados, pode ser por exibição clicando no marcador, ou até alterar a ordem deles apenas clicando e arrastando! 😁
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_filtro_grid.png)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_filtro_grid.png)
 
 .
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_filtro_grid.gif)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_filtro_grid.gif)
 
 <br>
 
 Na dúvida sobre o que fazer caso fique tudo muito misturado? Fique despreocupado! Colocamos o botão `Restaurar`, e ele volta a ordem padrão automaticamente, confira abaixo o exemplo:
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_filtro_grid_restaurar.png)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_filtro_grid_restaurar.png)
 
 <br>
 
 Você também pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reordenar os filtros apenas clicando e movendo para a posição que você preferir e se arrastar ele para fora será oculto, confira abaixo:
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_filtro_mouse.gif)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_filtro_mouse.gif)
 
 <br>
 
@@ -104,7 +104,7 @@ Se você observar, sempre ao **`lado direito`** de cada feriado criado, você te
 - <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
 - <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_editar_excluir.png)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_editar_excluir.png)
 
 <br>
 
@@ -118,7 +118,7 @@ Lembrando que, em cada item mostrado, você pode usar a função secundária do 
 
 Você pode conferir no nosso teste abaixo:
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_btn_mouse.gif)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_btn_mouse.gif)
 
 <br>
 
@@ -126,7 +126,7 @@ Você pode conferir no nosso teste abaixo:
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de feriados mostrados para até 1000 itens na página:
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_paginacao.png)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_paginacao.png)
 
 <br>
 
@@ -134,7 +134,7 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_add.png)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_add.png)
 
 <br>
 
@@ -145,7 +145,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_add_menu.png)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_add_menu.png)
 
 <br>
 
@@ -158,12 +158,12 @@ Quando você for adicionar um novo feriado, é exigido descrição, dia, mês e 
     - Neste item em específico serão mostrados novos campos de preenchimento se escolher nacional ou municipal.
 <br>
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_add_feriado_itens.gif)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_add_feriado_itens.gif)
 
 <br>
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do feriado será salvo:
 
-![](/erp-v2/assets/modulos/feriados/aba_feriados_add_feriado_salvar.gif)
+![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_add_feriado_salvar.gif)
 
 <br>
