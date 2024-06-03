@@ -177,7 +177,7 @@ A partir do momento que você concluir a criação de um novo grupo de produto, 
 
 Você pode cadastrar os produtos no grupo manualmente, definindo descrição, código, status, tipo e até unidade/medida para envio de email.
 
-![](/erp-v2/assets/modulos/grupo_produto/aba_grupo_produto_add_produto_guia_estoque.gif)
+![](/erp-v2/assets/modulos/grupo_produto/aba_grupo_produto_add_produto_guia_estoque.png)
 
 {% hint style="danger" %}
 **Atenção:** Se você deseja saber mais informações sobre produtos [clique aqui](/erp-v2/modulos/produtos_servicos/produtos.md)
