@@ -122,10 +122,48 @@ Você pode conferir no nosso teste abaixo:
 
 <br>
 
-### Paginação aba produtos
+### Paginação aba feriados
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de feriados mostrados para até 1000 itens na página:
 
 ![](/erp-v2/assets/modulos/feriados/aba_feriados_paginacao.png)
+
+<br>
+
+### Adicionar novo feriado
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
+
+![](/erp-v2/assets/modulos/feriados/aba_feriados_add.png)
+
+<br>
+
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/modulos/feriados/aba_feriados_add_menu.png)
+
+<br>
+
+Quando você for adicionar um novo feriado, é exigido descrição, dia, mês e tipo. 
+
+- **Descrição** (Nome para identificar o feriado a ser adicionado);
+- **Dia** (Defina o dia que acontece o feriado);
+- **Mês** (Defina o mês que acontece o feriado);
+- **Tipo** (Defina o tipo entre nacional, estadual e municipal);
+    - Neste item em específico serão mostrados novos campos de preenchimento se escolher nacional ou municipal.
+<br>
+
+![](/erp-v2/assets/modulos/feriados/aba_feriados_add_feriado_itens.gif)
+
+<br>
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do feriado será salvo:
+
+![](/erp-v2/assets/modulos/feriados/aba_feriados_add_feriado_salvar.gif)
 
 <br>
