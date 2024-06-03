@@ -80,7 +80,7 @@
     * [🧑‍🏫 Apresentação da barra de navegação (abas, botões.)](erp-v2/primeiro_acesso/apresentacao_barra_navegacao.md)
     * [🔔 Notificações internas](erp-v2/primeiro_acesso/notificacao_interna.md)
     * [🔎 Barra de pesquisa](erp-v2/primeiro_acesso/barra_pesquisa.md)
-    * [🗄️ Menu principal](erp-v2/primeiro_acesso/manu_principal.md)
+    * [🗄️ Menu principal](erp-v2/primeiro_acesso/menu_principal.md)
     * [⭐ Favoritos](erp-v2/primeiro_acesso/favoritos.md)
     * [↪️ Atalhos internos](erp-v2/primeiro_acesso/atalhos_internos.md)
   * [⚙️ Minhas preferências](erp-v2/minhas_preferencias/README.md)
