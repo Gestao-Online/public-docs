@@ -54,3 +54,53 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 ![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_filtro_dentrode.gif)
 
 <br>
+
+Depois do filtro de ID, está o filtro de **`Nome Fantasia`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada emrpesa 😉👍
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_filtro_nome_fantasia.png)
+
+<br>
+
+Você pode usar o filtro **`Razão Social`** para busca, digitando o nome ou parte do nome da razão social da empresa:
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_filtro_razao_social.png)
+
+<br>
+
+Pode contar também com o filtro de busca por **`CNPJ`**, digitando ele todo ou parte dele para busca:
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_filtro_cnpj.png)
+
+<br>
+
+Por último, na mesma linha dos filtros, tem a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode redefinir os filtros utilizados, pode ser por exibição clicando no marcador, ou até alterar a ordem deles apenas clicando e arrastando! 😁
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_filtro_grid.png)
+
+.
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_filtro_grid.gif)
+
+<br>
+
+Na dúvida sobre o que fazer caso fique tudo muito misturado? Fique despreocupado! Colocamos o botão `Restaurar`, e ele volta a ordem padrão automaticamente, confira abaixo o exemplo:
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_filtro_grid_restaurar.png)
+
+<br>
+
+Você também pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reordenar os filtros apenas clicando e movendo para a posição que você preferir e se arrastar ele para fora será oculto, confira abaixo:
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_filtro_mouse.gif)
+
+<br>
+
+Se você observar, sempre ao **`lado direito`** de cada empresa criada, você tem dois botões:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_editar_excluir.png)
+
+<br>
+
