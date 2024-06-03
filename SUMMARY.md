@@ -101,7 +101,7 @@
       * [🏷️ Perfil de Desconto](erp-v2/modulos/usuarios_vendedores/perfil_desconto.md)
     * [🛠️ Configurações e Customizações](erp-v2/modulos/configuracoes_customizacoes/README.md)
       * [🔔 Controle de exclusão em notificações](erp-v2/modulos/configuracoes_customizacoes/controle_exclusao_notificacoes.md)
-    <!-- * [📋 Parametrizações](erp-v2/modulos/parametrizacoes/README.md) -->
+    * [📋 Parametrizações](erp-v2/modulos/parametrizacoes/README.md)
     * [🏬 Unidades/Lojas & Locais de estoque](erp-v2/modulos/unidades_locais_estoque/README.md)
       * [🏪 Unidades/ Lojas](erp-v2/modulos/unidades_locais_estoque/unidades_lojas.md)
       * [🏭 Local de estoque](erp-v2/modulos/unidades_locais_estoque/local_estoque.md)
