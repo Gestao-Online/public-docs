@@ -152,11 +152,10 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um grupo de
 
 - **Descrição** (Descreva o grupo de produto que está criando);
 - **Identificador** (Número gerado automaticamente por nossa plataforma);
-- **Imagem (Principal)** (Para facilitar identificação do grupo caso precise);
+- **Imagem (Principal)** (Caso precise para facilitar identificação do grupo);
 - **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
-- **Analítica** (Se grupo será específica ou não);
-- **Status** (Ativado ou desativado);
-- **Código** (Identificação da categoria).
+- **Analítica** (Se o grupo de produtos será específico ou não);
+- **Status** (Ativado ou desativado).
 
 <br>
 
@@ -164,4 +163,24 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um grupo de
 
 <br>
 
-------------------------------CONTINUAR DAQUI-------------------------------------
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do grupo de produto será salvo:
+
+![](/erp-v2/assets/modulos/grupo_produto/aba_grupo_produto_add_produto_salvar.gif)
+
+<br>
+
+A partir do momento que você concluir a criação de um novo grupo de produto, ficará disponível a guia `Produtos`.
+
+{% hint style="info" %}
+**Informativo:** Esta guia só ficará disponível a partir do momento que você salvar este item.
+{% endhint %}
+
+Você pode cadastrar os produtos no grupo manualmente, definindo descrição, código, status, tipo e até unidade/medida para envio de email.
+
+![](/erp-v2/assets/modulos/grupo_produto/aba_grupo_produto_add_produto_guia_estoque.gif)
+
+{% hint style="danger" %}
+**Atenção:** Se você deseja saber mais informações sobre produtos [clique aqui](/erp-v2/modulos/produtos_servicos/produtos.md)
+{% endhint %}
+
+<br>
