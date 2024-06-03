@@ -114,6 +114,7 @@
       * [🎁 Produtos](erp-v2/modulos/produtos_servicos/produtos.md)
       * [🫙 Categoria de Produto](erp-v2/modulos/produtos_servicos/categoria_produto.md)
       * [🧩 Grupo de produto](erp-v2/modulos/produtos_servicos/grupo_produto.md)
+      * [🎟️ Vouchers](/erp-v2/modulos/produtos_servicos/vouchers.md)
 * [Portal](portal/README.md)
   * [🤝 Modo Parceiro](portal/parceiro.md)
   * [💰 Modo Cliente](portal/cliente.md)
