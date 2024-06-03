@@ -105,7 +105,7 @@
     * [🏬 Unidades/Lojas & Locais de estoque](erp-v2/modulos/unidades_locais_estoque/README.md)
       * [🏪 Unidades/ Lojas](erp-v2/modulos/unidades_locais_estoque/unidades_lojas.md)
       * [🏭 Local de estoque](erp-v2/modulos/unidades_locais_estoque/local_estoque.md)
-    * [📝 Controle de unidades](erp-v2/modulos/controle_unidades/README.md)
+    <!-- * [📝 Controle de unidades](erp-v2/modulos/controle_unidades/README.md) -->
     * [📦 Produtos & Serviços](erp-v2/modulos/produtos_servicos/README.md)
       * [🧰 Serviços](erp-v2/modulos/produtos_servicos/servicos.md)
       * [🛍️ Kits de produto/serviço](erp-v2/modulos/produtos_servicos/kits.md)
