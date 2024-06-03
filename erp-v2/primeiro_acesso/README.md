@@ -5,3 +5,95 @@ Ao fazer login na sua conta da Gestão.Online a primeira página será essa!
 No momento ela está com poucas informações, isso não é um problema, nós iremos personalizá-la para ficar o mais prático possível no seu dia a dia, basta seguir acompanhando nosso manual 😁.
 
 ![](/erp-v2/assets/primeiro_acesso_tela.gif)
+
+<table data-view="cards">
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th data-hidden data-card-target data-type="content-ref"></th>
+            <th data-hidden data-card-cover data-type="files"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <strong>Barra de navegação</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/primeiro_acesso/apresentacao_barra_navegacao.md">apresentacao_barra_navegacao.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_barra_navegacao.png">icon_barra_navegacao.png</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Notificações internas</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/primeiro_acesso/notificacao_interna.md">notificacao_interna.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_exclusao_notificacao.png">icon_exclusao_notificacao.png</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Barra de pesquisa</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/primeiro_acesso/barra_pesquisa.md">barra_pesquisa.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_pesquisa.png">icon_pesquisa.png</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Menu principal</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/primeiro_acesso/menu_principal.md">menu_principal.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_menu.png">icon_menu.png</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Favoritos</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/primeiro_acesso/favoritos.md">favoritos.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_favoritos.png">icon_favoritos.png</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Atalhos internos</strong>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+                <a href="/erp-v2/primeiro_acesso/atalhos_internos.md">atalhos_internos.md</a>
+            </td>
+            <td>
+                <a href="/erp-v2/assets/modulos/icon_atalho.png">icon_atalho.png</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
