@@ -99,7 +99,7 @@ Você também pode aumentar ou diminuir o tamanho visível da coluna clicando na
 
 <br>
 
-Se você observar, sempre ao **`lado direito`** de cada feriado criado, você têm dois botões:
+Se você observar, sempre ao **`lado direito`** de cada feriado criado, você tem dois botões:
 
 - <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
 - <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
