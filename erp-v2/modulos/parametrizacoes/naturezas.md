@@ -158,3 +158,9 @@ Olhando para os campos disponíveis, por padrão, quando você for criar um novo
 
 <br>
 
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo item será salvo:
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_add_salvar.gif)
+
+<br>
+
