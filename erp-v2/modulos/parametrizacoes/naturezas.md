@@ -143,3 +143,18 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Ele possui
 
 <br>
 
+Olhando para os campos disponíveis, por padrão, quando você for criar um novo item, é exigido descrição, status e tipo. 
+
+- **Descrição** (Nome para identificar o novo item a ser criado);
+- **Identificador** (Código de identificação gerado automaticamente por nossa plataforma);
+- **Analítica** (Quando ativado, significa ser um item único, quando desativada fica disponível possuir itens dependentes);
+    - ![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_add_imagem.gif)
+- **Status** (Se este item estará ativou ou não);
+- **Tipo** (Definir se é receita ou despesa).
+
+<br>
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_add_itens.png)
+
+<br>
+
