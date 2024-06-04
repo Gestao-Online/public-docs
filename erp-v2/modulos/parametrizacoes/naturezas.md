@@ -123,3 +123,23 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 <br>
 
+### Adicionar novo tipo de natureza
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo tipo de natureza, confira abaixo o procedimento para fazer a adição corretamente:
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_add.png)
+
+<br>
+
+Clicando neste botão, você será direcionado para esta página, para fazer o preenchimento das informações do novo produto.
+
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Ele possui as seguintes opções:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_add_menu.png)
+
+<br>
+
