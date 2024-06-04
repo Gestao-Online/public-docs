@@ -83,7 +83,7 @@
     * [🗄️ Menu principal](erp-v2/primeiro_acesso/menu_principal.md)
     * [⭐ Favoritos](erp-v2/primeiro_acesso/favoritos.md)
     * [↪️ Atalhos internos](erp-v2/primeiro_acesso/atalhos_internos.md)
-    * [<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAf0lEQVR4nOXTPQrCQBCA0af4g+QCOYJ4F28RPIe1pV06Oys7Kxsrj+IhrJSFFdZAyGZbH0yxMF81LCzQYDdimtip8S6YWnQYGR4lJmgzw1Pc/zHFeSC8YKbHHNee8IalASvcO+EDlUzbThze2f4xXuNZGgfhNHu8SuKvTfoJUh+VYFNYNaogEAAAAABJRU5ErkJggg=="> Utilizando filtros](erp-v2/primeiro_acesso/filtros.md)
+    * [📩 Utilizando filtros](erp-v2/primeiro_acesso/filtros.md)
   * [⚙️ Minhas preferências](erp-v2/minhas_preferencias/README.md)
     * [🎲 Editando meu dados](erp-v2/minhas_preferencias/edit_meus_dados.md)
     * [🔑 Alterando minha senha](erp-v2/minhas_preferencias/alt_minha_senha.md)
