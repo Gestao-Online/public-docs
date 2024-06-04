@@ -55,3 +55,15 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 
 <br>
 
+Depois do filtro de ID, está o filtro de **`Descrição`**, para colocar o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada natureza 😉👍
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_filtro_descricao.png)
+
+<br>
+
+Por último os demais filtros de `Status` e `Tipo` com as opções já predefinidas que ajudam na busca:
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_filtro_status.png)
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_filtro_tipo.png)
+
