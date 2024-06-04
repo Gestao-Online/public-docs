@@ -8,8 +8,6 @@ No menu de filtro você pode definir uma busca específica por itens, seja por I
 **Atenção:** Para esse guia, nós utilizamos a aba `Produtos` para trazer as explicações!
 {% endhint %}
 
-<br>
-
 {% hint style="info" %}
 **Informativo:** Lembre-se que os filtros podem ser usados em conjunto para melhorar a sua pesquisa!
 {% endhint %}
