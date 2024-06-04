@@ -6,6 +6,14 @@ Aqui você tem a visão de todos as unidades/lojas cadastradas na plataforma Ges
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
+<br>
+
+{% hint style="warning" %}
+**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+{% endhint %}
+
+<br>
+
 ![](/erp-v2/assets/modulos/unidades/aba_unidade.gif)
 
 <br>
@@ -19,96 +27,6 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 
 ![](/erp-v2/assets/modulos/unidades/aba_unidade_menu.png)
-
-<br>
-
-### Filtros unidade/lojas
-
-No menu de filtro você pode definir uma busca específica por unidades/lojas, seja por identificador, descrição, status, tabela de preço principal, tabela de preço secundária (custo) e tabela de preço secundária (comissão). Lembrando que os filtros podem ser usados em conjunto para melhorar a sua pesquisa:
-
-![](/erp-v2/assets/modulos/unidades/aba_unidades_filtros.gif)
-
-<br>
-
-Você pode fazer uso dos filtros de cada categoria que aparecem com o resultado das unidades, no primeiro filtro você busca pelo `identificador` da unidade:
-
-- **Igual a:** Quando um valor é idêntico ao que você digitou;
-- **Contém:** Quando um valor contém parte do que você digitou.
-
-![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_id.png)
-
-<br>
-
-Depois do filtro de identificador, está o filtro de **`Descrição`**, para colocar o texto que será buscado:
-
-![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_descricao.png)
-
-<br>
-
-Agora no filtro por **`Status`** existem duas opções para você utilizar nas buscas, sendo elas:
-
-- <img src="/erp-v2/assets/modulos/unidades/icon_status_ativado.png" alt="" data-size="line"> Ativado;
-- <img src="/erp-v2/assets/modulos/unidades/icon_status_desativado.png" alt="" data-size="line"> Desativado;
-
-![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_status.png)
-
-<br>
-
-Você tem também o filtro por **`Tabela de preço principal`**, você tem dois modos de procura dos dados, primeiro digitando na barra de pesquisa que aparece, e o segundo é exibindo a lista de todas as unidades/lojas cadastradas, conforme exemplo mostrado abaixo:
-
-{% hint style="warning" %}
-**Informativo:** É sempre importante o preenchimento completo dos dados de cada vendedor/comprador, pois eles facilitam as buscas que você irá fazer futuramente! 😉👍
-{% endhint %}
-
-![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_preço_principal.gif)
-
-<br>
-
-Ao lado o filtro **`Tabela de preço secundária (Custo)`**, você também tem dois modos de procura, primeiro digitando na barra de pesquisa que aparece, e o segundo é exibindo a lista de todas as unidades/lojas cadastradas, conforme exemplo mostrado abaixo:
-
-![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_preco_secundario.gif)
-
-<br>
-
-Neste filtro está a **`Tabela de preço secundária (Comissão)`**, nela também existem dois modos de procura, com você digitando na barra de pesquisa que aparece, e o segundo exibindo a lista de todas as unidades/lojas cadastradas, conforme mostrado abaixo:
-
-![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_preco_comissao.gif)
-
-<br>
-
-Por último, na mesma linha dos filtros, tem a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode redefinir os filtros utilizados, pode ser por exibição clicando no marcador, ou até alterar a ordem deles apenas clicando e arrastando! 😁
-
-![](/erp-v2/assets/modulos/unidades/aba_unidade_grid.png)
-
-![](/erp-v2/assets/modulos/unidades/aba_unidade_grid.gif)
-
-<br>
-
-Na dúvida sobre o que fazer caso fique tudo muito misturado? Pois você pode ficar despreocupado! Colocamos o botão redefinir, e ele volta a ordem padrão automaticamente, confira abaixo o exemplo:
-
-![](/erp-v2/assets/modulos/unidades/aba_unidade_grid_restaurar.gif)
-
-<br>
-
-{% hint style="danger" %}
-**Atenção:** Estes não são os únicos filtros disponíveis, na configuração do grid, você consegue ver todos os outros filtros disponíveis, sendo eles o id, parceiro, email, telefone, celular, cidade, estado e código.
-{% endhint %}
-
-<br>
-
-Você também pode pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reordenar os filtros apenas clicando e movendo para a posição que você preferir e se arrastar ele para fora será oculto, confira abaixo:
-
-![](/erp-v2/assets/modulos/unidades/aba_unidade_filtro_mouse.gif)
-
-<br>
-
-Se você observar, sempre ao **`lado direito`** de cada unidade/loja mostrado, você têm dois ou três botões:
-
-- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar item filho (Quando uma unidade/loja tem uma unidade/loja dependente);
-- <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
-- <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
-
-![](/erp-v2/assets/modulos/unidades/aba_unidade_editar_excluir.png)
 
 <br>
 

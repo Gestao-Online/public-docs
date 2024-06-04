@@ -98,3 +98,7 @@ Se você observar, sempre ao **`lado direito`** de cada item listado, você têm
 ![](/erp-v2/assets/modulos/estoque/aba_estoque_editar_excluir.png)
 
 <br>
+
+{% hint style="warning" %}
+**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+{% endhint %}
