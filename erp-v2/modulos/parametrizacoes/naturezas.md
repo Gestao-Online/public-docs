@@ -115,3 +115,11 @@ Você pode conferir no nosso teste abaixo:
 
 <br>
 
+### Paginação aba produtos
+
+Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de itens mostrados para até 1000 itens na página:
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_paginacao.png)
+
+<br>
+
