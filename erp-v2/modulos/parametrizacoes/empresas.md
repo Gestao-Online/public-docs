@@ -144,3 +144,66 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 ![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_add_menu.png)
 
 <br>
+
+No momento do cadastro de uma nova empresa, você precisará preencher alguns campos obrigatórios que tem o asterisco vermelho. 
+
+Sendo eles CNPJ, nome fantasia e razão social, estes itens são o mínimo necessário para poder salvar uma nova empresa.
+
+{% hint style="info" %}
+**Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada emrpesa 😉👍
+{% endhint %}
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_add_empresa.png)
+
+<br>
+
+Você pode adicionar uma imagem para empresa, facilitando assim a identificação da mesma em buscas e relatórios. Confira abaixo como adicionar:
+
+{% hint style="warning" %}
+**Importante:** A foto de perfil precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite que é de apenas 5MB! 🖼️
+{% endhint %}
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_add_imagem.gif)
+
+<br>
+
+Outro item importante no momento de salvar uma nova empresa é o número de celular, pois ele pode ser utilizado para hyperlinks do whatsapp, telegram e outros mensageiros.
+
+Logo abaixo, você tem os dados de endereço da empresa, ele tem o sistema de autocompletar a partir do momento que preencher o CEP, depois é só preencher o número, caso tenha e o complemento do local se for necessário 😁
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_add_endereco.gif)
+
+<br>
+
+Chegando ao final da página de cadastro da nova empresa, no deparamos com os dados fiscais, preencha eles em conformidade com a orientação do contador da empresa.
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_add_fiscais.png)
+
+<br>
+
+Nos dados fiscais você também pode adicionar o certificado digital da empresa, permitindo assinar documentos com validade jurídica e fazer transações online com segurança.
+
+{% hint style="warning" %}
+**Importante:** Os certificados digitais são aceitos em **`.pfx`** ou **`.p12`**.
+{% endhint %}
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_add_certificado.png)
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova empresa será salvo:
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_add_salvar.gif)
+
+<br>
+
+Duas novas guias ficam disponíveis a partir do momento que você salva uma nova empresa, são elas:
+
+- Anexos documentos, nesta primeira guia você pode inserir uma descrição, fazer uploado arquivo em definir o tipo dele com as opções disponíveis abaixo:
+    - Cópia do cartão do CNPJ ou cópia do contrato social da empresa;
+    - Documento de identidade com foto (RG e CPF ou CNH) do proprietário/sócios;
+    - Comprovante de residência em seu nome (ou familiares) do proprietário/sócios;
+    - Comprovante da atividade exercida (cartão de visita, link de site, nota fiscal de compra de produtos ou prestação de serviços, etc);
+    - Comprovante da atividade exercida (cartão de visita, link de site, nota fiscal de compra de produtos ou prestação de serviços, etc);
+    - Outros Documentos;
+    - Outros arquivos de processamento.
+
+- Anexos arquivos de processamento, vão aparecer todos os arquivos utilizados em transações realizadas por esta empresa no plataforma da Gestão.Online.

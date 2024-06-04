@@ -194,10 +194,13 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo pro
 
 <br>
 
+{% hint style="warning" %}
+**Importante:** A foto do produto precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite que é de apenas 5MB! 🖼️
+{% endhint %}
+
 ![](/erp-v2/assets/modulos/produtos/aba_produtos_add_produto_itens.png)
 
 <br>
-
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo produto será salvo:
 
