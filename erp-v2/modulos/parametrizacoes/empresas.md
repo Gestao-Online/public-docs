@@ -205,5 +205,7 @@ Duas novas guias ficam disponíveis a partir do momento que você salva uma nova
     - Comprovante da atividade exercida (cartão de visita, link de site, nota fiscal de compra de produtos ou prestação de serviços, etc);
     - Outros Documentos;
     - Outros arquivos de processamento.
+    - ![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_add_guia_anexo.png)
 
 - Anexos arquivos de processamento, vão aparecer todos os arquivos utilizados em transações realizadas por esta empresa no plataforma da Gestão.Online.
+    - ![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_add_guia_arquivos.png)
