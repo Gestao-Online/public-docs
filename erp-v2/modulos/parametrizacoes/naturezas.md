@@ -93,9 +93,25 @@ Você também pode aumentar ou diminuir o tamanho visível da coluna clicando na
 
 Se você observar, sempre ao **`lado direito`** de cada natureza criada, você têm dois botões:
 
+- <img src="/erp-v2/assets/modulos/icon_add_item_filho.png" alt="" data-size="line"> Adicionar item dependente;
 - <img src="/erp-v2/assets/modulos/icon_editar_item.png" alt="" data-size="line"> Editar item;
 - <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
 
 ![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_editar_excluir.png)
 
 <br>
+
+### Botão direito mouse aba naturezas
+
+Lembrando que, em cada item mostrado, você pode usar a função secundária do mouse (Botão direito) e acessar mais opções:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
+
+Você pode conferir no nosso teste abaixo:
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_btn_mouse.gif)
+
+<br>
+
