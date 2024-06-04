@@ -83,6 +83,7 @@
     * [🗄️ Menu principal](erp-v2/primeiro_acesso/menu_principal.md)
     * [⭐ Favoritos](erp-v2/primeiro_acesso/favoritos.md)
     * [↪️ Atalhos internos](erp-v2/primeiro_acesso/atalhos_internos.md)
+    * [Utilizando filtros](erp-v2/primeiro_acesso/filtros.md)
   * [⚙️ Minhas preferências](erp-v2/minhas_preferencias/README.md)
     * [🎲 Editando meu dados](erp-v2/minhas_preferencias/edit_meus_dados.md)
     * [🔑 Alterando minha senha](erp-v2/minhas_preferencias/alt_minha_senha.md)
