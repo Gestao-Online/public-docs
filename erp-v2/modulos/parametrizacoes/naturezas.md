@@ -67,3 +67,16 @@ Por último os demais filtros de `Status` e `Tipo` com as opções já predefini
 
 ![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_filtro_tipo.png)
 
+<br>
+
+Por último, na mesma linha dos filtros, tem a **`Configuração do grid`**, ao clicar nele uma janela pop-up é aberta e então você pode redefinir os filtros utilizados, pode ser por exibição clicando no marcador, ou até alterar a ordem deles apenas clicando e arrastando! 😁
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_filtro_grid.png)
+
+.
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_filtro_grid.gif)
+
+<br>
+
+
