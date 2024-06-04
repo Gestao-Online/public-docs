@@ -2,17 +2,21 @@
 
 Aqui você tem a visão de todos as empresas cadastradas na plataforma Gestão.Online, podendo cadastrar uma nova empresa, editar informações existentes e até excluir uma empresa cadastrada.
 
+Estas empresas serão utilizadas em cadastro de estoques, lojas e vinculos com produtos e serviços.
+
 {% hint style="danger" %}
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
-
-![](/erp-v2/assets/modulos/parametrizacao/aba_empresas.gif)
 
 <br>
 
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
+
+<br>
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_empresas.gif)
 
 <br>
 
