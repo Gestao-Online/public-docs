@@ -104,6 +104,7 @@
     * [📋 Parametrizações](erp-v2/modulos/parametrizacoes/README.md)
       * [📆 Feriados](/erp-v2/modulos/parametrizacoes/feriados.md)
       * [🏨 Empresas](/erp-v2/modulos/parametrizacoes/empresas.md)
+      * [📊 Naturezas](/erp-v2/modulos/parametrizacoes/naturezas.md)
     * [🏬 Unidades/Lojas & Locais de estoque](erp-v2/modulos/unidades_locais_estoque/README.md)
       * [🏪 Unidades/ Lojas](erp-v2/modulos/unidades_locais_estoque/unidades_lojas.md)
       * [🏭 Local de estoque](erp-v2/modulos/unidades_locais_estoque/local_estoque.md)
