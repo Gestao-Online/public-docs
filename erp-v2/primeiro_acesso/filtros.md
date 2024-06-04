@@ -1,9 +1,19 @@
-# Usando os Filtros
+# <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAf0lEQVR4nOXTPQrCQBCA0af4g+QCOYJ4F28RPIe1pV06Oys7Kxsrj+IhrJSFFdZAyGZbH0yxMF81LCzQYDdimtip8S6YWnQYGR4lJmgzw1Pc/zHFeSC8YKbHHNee8IalASvcO+EDlUzbThze2f4xXuNZGgfhNHu8SuKvTfoJUh+VYFNYNaogEAAAAABJRU5ErkJggg=="> Usando os Filtros
 
 <i class="icon-filter"></i>
 
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M3.9 54.9C10.5 40.9 24.5 32 40 32H472c15.5 0 29.5 8.9 36.1 22.9s4.6 30.5-5.2 42.5L320 320.9V448c0 12.1-6.8 23.2-17.7 28.6s-23.8 4.3-33.5-3l-64-48c-8.1-6-12.8-15.5-12.8-25.6V320.9L9 97.3C-.7 85.4-2.8 68.8 3.9 54.9z"/></svg> teste de texto.
-
-
 teste.
+
+
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAWklEQVR4nL3KQQpAYBSF0bMFY6uQiQWYmBnIIuzIWmzLgCgi6k/EyFe3Xq8DGdqXZZCgx/Kw/jB7OYYbNKJwqcQUoBn1FZ01Adzux9IAbvePMEL3BZ5ViMPPCpHkJP3ilq09AAAAAElFTkSuQmCC">
+
+teste
+
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVR4nGNgYGDoYGBguAulGTgYGBjOQ2kwaASRAE4NA051pZMhAAAAAElFTkSuQmCC">
+
+teste 40
+
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAKklEQVR4nGNgYGDoYmBguAvFIDYDDwMDw0koBrHBoBqK4cCSgYEhGsQCAAIRBgNVig5cAAAAAElFTkSuQmCC">
+
+teste 50
+
