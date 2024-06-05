@@ -97,16 +97,15 @@ Nesta seção iremos explicar cada um dos módulos disponíveis na nossa platafo
             </tr>
             <tr>
                 <td>
-                <!-- CONTINUAR DAQUI -->
                     <strong>Usuários &#x26; Vendedores</strong>
                 </td>
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="quarto_card-3.md">README.md</a>
+                    <a href="/erp-v2/modulos/usuarios_vendedores/README.md">README.md</a>
                 </td>
                 <td>
-                    <a href=".gitbook/assets/icon_parceiros.png">icon_parceiros.png</a>
+                    <a href="/erp-v2/assets/modulos/icon_parceiros.png">icon_parceiros.png</a>
                 </td>
             </tr>
             <tr>
@@ -116,10 +115,10 @@ Nesta seção iremos explicar cada um dos módulos disponíveis na nossa platafo
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="quarto_card-4.md">README.md</a>
+                    <a href="/erp-v2/modulos/configuracoes_customizacoes/README.md">README.md</a>
                 </td>
                 <td>
-                    <a href=".gitbook/assets/icon_configuracao.png">icon_configuracao.png</a>
+                    <a href="/erp-v2/assets/modulos/icon_configuracao.png">icon_configuracao.png</a>
                 </td>
             </tr>
             <tr>
@@ -129,10 +128,10 @@ Nesta seção iremos explicar cada um dos módulos disponíveis na nossa platafo
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="quarto_card-5.md">README.md</a>
+                    <a href="/erp-v2/modulos/parametrizacoes/README.md">README.md</a>
                 </td>
                 <td>
-                    <a href=".gitbook/assets/icon_parametrizacao.png">icon_parametrizacao.png</a>
+                    <a href="/erp-v2/assets/modulos/icon_parametrizacao.png">icon_parametrizacao.png</a>
                 </td>
             </tr>
             <tr>
@@ -142,10 +141,10 @@ Nesta seção iremos explicar cada um dos módulos disponíveis na nossa platafo
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="quarto_card-6.md">README.md</a>
+                    <a href="/erp-v2/modulos/unidades_locais_estoque/README.md">README.md</a>
                 </td>
                 <td>
-                    <a href=".gitbook/assets/icon_unidades.png">icon_unidades.png</a>
+                    <a href="/erp-v2/assets/modulos/icon_unidades.png">icon_unidades.png</a>
                 </td>
             </tr>
             <tr>
@@ -155,10 +154,10 @@ Nesta seção iremos explicar cada um dos módulos disponíveis na nossa platafo
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="quarto_card-7.md">README.md</a>
+                    <a href="/erp-v2/modulos/controle_unidades/README.md">README.md</a>
                 </td>
                 <td>
-                    <a href=".gitbook/assets/icon_controle_unidades.png">icon_controle_unidades.png</a>
+                    <a href="/erp-v2/assets/modulos/icon_controle_unidades.png">icon_controle_unidades.png</a>
                 </td>
             </tr>
             <tr>
@@ -168,10 +167,10 @@ Nesta seção iremos explicar cada um dos módulos disponíveis na nossa platafo
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="quarto_card-8.md">README.md</a>
+                    <a href="/erp-v2/modulos/produtos_servicos/README.md">README.md</a>
                 </td>
                 <td>
-                    <a href=".gitbook/assets/icon_produtos.png">icon_produtos.png</a>
+                    <a href="/erp-v2/assets/modulos/icon_produtos.png">icon_produtos.png</a>
                 </td>
             </tr>
         </tbody>
