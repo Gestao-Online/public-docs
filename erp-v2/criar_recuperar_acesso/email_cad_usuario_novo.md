@@ -1,4 +1,4 @@
-# Email de recebimento de cadastro de usuário
+# ✅ Email de recebimento de cadastro de usuário
 
 Se você está nesta busca é porque precisa de ajuda para criar seu acesso a nossa Plataforma da Gestão.Online, e lembrando que para o primeiro acesso você irá receber em seu e-mail pessoal/empresa o link de acesso a página de cadastro única. Por isso fique de olho na sua caixa de entrada:
 

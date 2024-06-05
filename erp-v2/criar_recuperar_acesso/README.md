@@ -1,6 +1,8 @@
-Olá, se você está nessa página, é porque tem alguma dúvida sobre como acessar sua conta na plataforma da **Gestão.Online**, ou então está tentando recuperar a sua conta.
+# 👨‍🏫 Criar e/ou Recuperar acesso
 
-Estas e outras informações, estão disponíveis na sequencia desse manual de usuário para poder te auxiliar! 😉👍
+Se você está procurando como criar ou recuperar seu acesso a Plataforma da **Gestão.Online** aqui é o lugar! 😉👍
+
+Estas e outras informações estão disponíveis na sequência deste manual de usuário para poder te auxiliar.
 
 Clique nas opções abaixo para seguir:
 
