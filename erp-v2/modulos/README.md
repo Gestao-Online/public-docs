@@ -92,7 +92,7 @@ Nesta seção iremos explicar cada um dos módulos disponíveis na nossa platafo
                     <a href="/erp-v2/modulos/indicadores_afiliados/README.md">README.md</a>
                 </td>
                 <td>
-                    <a href="/erp-v2//icon_parceiros.png">icon_parceiros.png</a>
+                    <a href="/erp-v2/assets/modulos/icon_parceiros.png">icon_parceiros.png</a>
                 </td>
             </tr>
             <tr>
