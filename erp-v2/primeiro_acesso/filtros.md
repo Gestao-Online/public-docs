@@ -65,28 +65,6 @@ Agora no filtro por **`Status`** existem duas opções para você utilizar nas b
 
 <br>
 
-Ainda mesma linha dos filtros, tem a **`Configuração do grid`**, nele, você pode ver outros filtros que estão ocultos ou então você pode redefinir os filtros utilizados, sendo por exibição clicando no marcador, ou até alterar a ordem deles apenas clicando e arrastando! 😁
-
-![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_grid.png)
-
-.
-
-![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_grid.gif)
-
-<br>
-
-Na dúvida sobre o que fazer caso fique tudo muito misturado? Fique despreocupado! Colocamos o botão `Restaurar`, e ele volta a ordem padrão automaticamente, confira abaixo o exemplo:
-
-![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_grid_restaurar.png)
-
-<br>
-
-Você também pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reordenar os filtros apenas clicando e movendo para a posição que você preferir e se arrastar ele para fora será oculto, confira abaixo:
-
-![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_mouse.gif)
-
-<br>
-
 Se você observar, sempre ao **`lado direito`** de cada item listado, você têm dois ou três botões:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar item filho (Quando um item tem um dependente);

@@ -1,6 +1,6 @@
 # 📚 Módulos
 
-Nesta seção iremos explicar cada um dos módulos disponíveis na nossa plataforma Gestão.Online e a melhor maneira de você utilizar cada um deles, estes módulos estão dispostos no menu principal e você pode salvar os que mais utiliza no menu de [`favoritos`](/erp-v2/primeiro_acesso/favoritos.md) para ter eles de inicio quando abrir a plataforma, para saber mais sobre os módulos, clique abaixo no de sua preferência:
+Nesta seção iremos explicar cada um dos módulos disponíveis na nossa plataforma Gestão.Online e a melhor maneira de você utilizar cada um, estes módulos estão dispostos no menu principal e você pode salvar os que mais utiliza no menu de [`favoritos`](/erp-v2/primeiro_acesso/favoritos.md) para ter eles de inicio quando abrir a plataforma, para saber mais sobre os módulos, clique abaixo no de sua preferência:
 
 {% hint style="danger" %}
 **Atenção:** Os módulos aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.

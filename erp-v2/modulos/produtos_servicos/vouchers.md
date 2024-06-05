@@ -80,7 +80,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 Quando você for criar um voucher, é exigido produto, status e permissão de produto secundário. 
 
-- **Produto:** Você pode escolher um dos produtos disponíveis na lista, ou digitar o nome dele para selecionar;
+- **Produto:** Você pode escolher um dos produtos disponíveis na lista, ou digitar o nome para selecionar;
 - **Status:** Aqui você define se o voucher estará ativado ou desativado;
 - **Permite produto secundário:** Caso você ative esta opção, poderá vincular outro produto ao voucher.
 

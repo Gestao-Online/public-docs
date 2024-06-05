@@ -60,7 +60,7 @@ Assim que se acessa a página inicial dos vendedores/compradores você pode ver 
 
 <br>
 
-Explicando cada card dele, temos primeiro os indicadores de quantidade, vendedores ativos e inativos. Esses números são atualizados em tempo real na plataforma, podendo também utilizar o botão <img src="/erp-v2/assets/modulos/icon_refresh.png" alt="" data-size="line"> refresh para atualizar os dados:
+Explicando cada card, temos primeiro os indicadores de quantidade, vendedores ativos e inativos. Esses números são atualizados em tempo real na plataforma, podendo também utilizar o botão <img src="/erp-v2/assets/modulos/icon_refresh.png" alt="" data-size="line"> refresh para atualizar os dados:
 
 ![](/erp-v2/assets/modulos/vendedores/aba_vendedores_dashboard_1.png)
 

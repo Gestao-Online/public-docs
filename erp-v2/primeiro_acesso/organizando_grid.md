@@ -1,4 +1,25 @@
 # 🔩 Organizando seu grid
 
-O grid nada mais é do que a tela, com os itens sendo exibidos para você na plataforma da Gestão.Online, temos atalhos e funções editáveis para que você possa organizar essa tela, facilitando o uso no seu dia a dia.
+O grid é a tela com os itens sendo exibidos para você na plataforma da **Gestão.Online**, temos atalhos e funções editáveis para que você possa organizar, facilitando o uso no seu dia a dia.
 
+Sempre a lado direito de cada tela que você abrir, terá o **`Configuração do grid`**, nele, você pode ver outras colunas que estão ocultas ou então você pode redefinir as colunas utilizados, sendo por exibição clicando no marcador, ou até alterar a ordem apenas clicando e arrastando conforme mostramos abaixo! 😁
+
+![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_grid.png)
+
+.
+
+![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_grid.gif)
+
+<br>
+
+Na dúvida sobre o que fazer caso fique tudo muito misturado? Fique despreocupado! Colocamos o botão `Restaurar`, e ele volta a ordem padrão automaticamente, confira abaixo o exemplo:
+
+![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_grid_restaurar.png)
+
+<br>
+
+Você também pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reordenar elas apenas clicando e movendo para a posição que você preferir e se arrastar ele para fora será oculto, confira abaixo: <img src="https://cdn3.emoji.gg/emojis/1701-kirbyblink.gif" alt="" style="width: 32px" data-size="line">
+
+![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_mouse.gif)
+
+<br>

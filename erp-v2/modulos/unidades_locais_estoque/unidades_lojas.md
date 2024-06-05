@@ -66,7 +66,7 @@ Assim que se acessa a página inicial das unidades/lojas você pode ver um ícon
 
 <br>
 
-Explicando cada card dele, temos primeiro os indicadores de quantidade, Unidades ativas e inativas. Esses números são atualizados em tempo real na plataforma, podendo também utilizar o botão <img src="/erp-v2/assets/modulos/icon_refresh.png" alt="" data-size="line"> refresh para atualizar os dados:
+Explicando cada card, temos primeiro os indicadores de quantidade, Unidades ativas e inativas. Esses números são atualizados em tempo real na plataforma, podendo também utilizar o botão <img src="/erp-v2/assets/modulos/icon_refresh.png" alt="" data-size="line"> refresh para atualizar os dados:
 
 ![](/erp-v2/assets/modulos/unidades/aba_unidade_dashboard_1.png)
 
@@ -179,7 +179,7 @@ Aqui na parte de `endereço da unidade` já colocamos em nossa plataforma o pree
 
 <br>
 
-Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras funcionalidades da nossa plataforma da Gestão.Online, abaixo explicamos um pouco melhor sobre cada uma, para o caso de você querer saber mais informações sobre alguma delas [clique aqui](/erp-v2/modulos/parametrizacoes/tabelas_precos.md):
+Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas da nossa plataforma da Gestão.Online, abaixo explicamos um pouco melhor sobre cada uma, para o caso de você querer saber mais sobre alguma [clique aqui](/erp-v2/modulos/parametrizacoes/tabelas_precos.md):
 
 - **Tabela de preço principal:** Esta é a tabela de preço de venda para o cliente final;
 - **Tabela de preço secundária (Custo):** Aqui é a tabela de preço de custo da unidade parceira;
@@ -227,7 +227,7 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova
 
 <br>
 
-Se você observou na imagem acima, deixamos marcado também as novas guias que ficaram disponíveis após criarmos uma nova unidade, vamos falar um pouco melhor sobre cada uma delas, com a primeira **`Vendedores/Compradores`**.
+Se você observou na imagem acima, deixamos marcado também as novas guias que ficaram disponíveis após criarmos uma nova unidade, vamos falar um pouco melhor sobre cada uma, com a primeira **`Vendedores/Compradores`**.
 
 Você terá uma lista de todos os vendedores dessa unidade, podendo também fazer adição, alteração e até exclusão.
 
@@ -249,7 +249,7 @@ E também terá acesso ao dashboard com quantidade de vendedores por centro de r
 
 <br>
 
-Fechando as guias disponíveis, temos a de **`Histórico`** com todos os registros/dados que tiverem nesta unidade, se você observar o primeiro registro dela é o de criação, trazendo o nome do usuário que fez, o que foi feito e a data/hora realizada.
+Fechando as guias disponíveis, temos a de **`Histórico`** com todos os registros/dados que tiverem nesta unidade, se você observar o primeiro registro é o de criação, trazendo o nome do usuário que fez, o que foi feito e a data/hora realizada.
 
 ![](/erp-v2/assets/modulos/unidades/aba_unidade_guia_historico.png)
 

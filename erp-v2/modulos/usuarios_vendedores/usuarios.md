@@ -161,7 +161,7 @@ Uma informação importante sobre os tipos de Perfis:
 
 - **Super administrador :** Este perfil tem acesso total a plataforma e também pode realizar alterações em eventos e geração de relatórios em páginas como `Notification Template` e `Reports and Widgets`.
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro do usuário será salvo e enviado para o email dele uma mensagem para finalizar o registro:
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do usuário será salvo e enviado para o email cadastrado, uma mensagem para finalizar o registro:
 
 ![](/erp-v2/assets/modulos/menu_guia_usuarios_salvar.gif)
 

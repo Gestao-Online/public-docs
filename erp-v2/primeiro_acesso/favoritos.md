@@ -1,12 +1,12 @@
 # ⭐ Favoritos
 
-Agora falando do nosso menu de `Favoritos`, nele você deixa separado as funções que mais vai utilizar no seu dia a dia, lembrando que ela fica guardada no menu principal.
+Agora falando do nosso menu de **`Favoritos`**, nele você deixa separado as telas e dashboards que mais vai utilizar no seu dia a dia, lembrando que ela fica guardada no menu principal.
 
 ![](/erp-v2/assets/menu_favoritos.png)
 
 <br>
 
-Como você pôde observar, não temos nada salvo nos favoritos, mas isso não é um problema, vamos te mostrar agora como adicionar novos itens a este menu.
+Como você pôde observar, são duas telas e um dashboard por padrão nos favoritos, mas isso não é um problema, vamos te mostrar agora como adicionar novos itens a este menu.
 
 O primeiro passo é abrir o menu principal e procurar a função que você irá utilizar com frequência e abrir-lá, conforme exemplo abaixo, nós vamos abrir o menu de **[vendas](/erp-v2/modulos/vendas.md)**:
 
@@ -14,15 +14,19 @@ O primeiro passo é abrir o menu principal e procurar a função que você irá 
 
 <br>
 
-Com a aba de Vendas aberta (Lembrando que pode ser com qualquer outra aba de função) você irá novamente abrir o menu principal e agora iremos clicar no <img src="/erp-v2/assets/icone_caneta_favoritos.png" alt="" data-size="line"> ícone da caneta que está logo abaixo do nome `favoritos`, nisto ele mudará de forma para o <img src="/erp-v2/assets/icone_visto_favoritos.png" alt="" data-size="line"> ícone de visto/check. 
+Com a aba de vendas aberta (Lembrando que pode ser com qualquer outra tela ou dashboard) você irá novamente abrir o menu principal e agora iremos clicar no <img src="/erp-v2/assets/icone_caneta_favoritos.png" alt="" data-size="line"> ícone da caneta que está logo abaixo do nome `favoritos`, nisto ele mudará de forma para o <img src="/erp-v2/assets/icone_visto_favoritos.png" alt="" data-size="line"> ícone de visto/check. 
 
 ![](/erp-v2/assets/menu_favoritos_editar.gif)
 
 <br>
 
-Após esses passos você irá na Aba aberta (No nosso caso a de Vendas) e irá arrastá-la para dentro do menu de favoritos, e logo após clicar no <img src="/erp-v2/assets/icone_visto_favoritos.png" alt="" data-size="line"> ícone de visto/check para salvar as alterações:
+Após esses passos você irá na aba aberta (No nosso caso a de vendas) e irá arrastá-la para dentro do menu de favoritos, e logo após clicar no <img src="/erp-v2/assets/icone_visto_favoritos.png" alt="" data-size="line"> ícone de visto/check para salvar as alterações:
 
 ![](/erp-v2/assets/menu_favoritos_salvar.gif)
+
+Você têm a possibilidade de reordenar esses favoritos, clicando no <img src="/erp-v2/assets/icone_caneta_favoritos.png" alt="" data-size="line"> ícone da caneta, e depois arrastar e reposicionar onde deseja 😁
+
+![](/erp-v2/assets/menu_favoritos_reordenar.gif)
 
 Agora se você não quiser mais aquele item no seu menu de `favoritos` basta clicar novamente no ícone da caneta que na parte inferior de cada função adicionada terá <img src="/erp-v2/assets/icone_lixeira_favoritos.png" alt="" data-size="line"> o ícone de lixeira. Clicando nele, o item será removido da sua lista de favoritos, confira abaixo o procedimento:
 

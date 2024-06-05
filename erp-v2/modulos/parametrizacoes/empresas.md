@@ -125,7 +125,7 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova
 
 Duas novas guias ficam disponíveis a partir do momento que você salva uma nova empresa, são elas:
 
-- Anexos documentos, nesta primeira guia você pode inserir uma descrição, fazer uploado arquivo em definir o tipo dele com as opções disponíveis abaixo:
+- Anexos documentos, nesta primeira guia você pode inserir uma descrição, fazer uploado arquivo em definir o tipo com as opções disponíveis abaixo:
     - Cópia do cartão do CNPJ ou cópia do contrato social da empresa;
     - Documento de identidade com foto (RG e CPF ou CNH) do proprietário/sócios;
     - Comprovante de residência em seu nome (ou familiares) do proprietário/sócios;

@@ -4,7 +4,7 @@ No menu principal você encontra todas as funções disponíveis da nossa plataf
 
 ![](/erp-v2/assets/menu_principal.gif)
 
-Uma funcionalidade muito interessante dele, é a opção de mudar o lado de exibição, clicando no <img src="/erp-v2/assets/icone_menu_lado_esquerdo.png" alt="" data-size="line"> ícone das barrinhas alinhadas a esquerda, ele modurá de direção, e clicando no <img src="/erp-v2/assets/icone_menu_lado_direito.png" alt="" data-size="line"> ícone das barrinhas a direita ele voltará à posição inicial. Confira abaixo a demonstração de uso:
+Uma funcionalidade muito interessante, é a opção de mudar o lado de exibição, clicando no <img src="/erp-v2/assets/icone_menu_lado_esquerdo.png" alt="" data-size="line"> ícone das barrinhas alinhadas a esquerda, ele mudará de direção, e clicando no <img src="/erp-v2/assets/icone_menu_lado_direito.png" alt="" data-size="line"> ícone das barrinhas a direita ele voltará à posição inicial. Confira abaixo a demonstração de uso:
 
 ![](/erp-v2/assets/menu_principal_mudar_lado.gif)
 

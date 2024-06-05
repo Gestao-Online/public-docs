@@ -1,12 +1,12 @@
-# Recuperar acesso e ativar conta
+# 🔐 Recuperar acesso e ativar conta
 
-Se você está nesta página é porque está com problemas em acessar sua conta da Gestão.Online então vamos seguir os procedimentos abaixo para poder recuperar o acesso a sua conta! 😁
+Esta página é para você conhecer o passo a passo de como recuperar o acesso a sua conta na plataforma **Gestão.Online** caso tenha esquecido a sua senha! 😁
 
 Logo na página inicial temos a tela padrão de Login e Senha, porém mais abaixo você pode ver uma frase clicável **`Esqueci a minha senha`**.
 
 ![](/erp-v2/assets/tela_login_recuperar.png)
 
-Ao clicar nela você é encaminhado para esta página em seguida, onde precisamos que você coloque seu e-mail cadastrado na paltaforma e depois clique em **`Enviar`** para podermos enviar uma mensagem de confirmação para você.
+Ao clicar nesta opção você é encaminhado para tela de recuperação, onde é necessário que você coloque seu e-mail cadastrado na plataforma e depois clique em **`Enviar`** para receber o código de segurança no e-mail cadastrado.
 
 ![](/erp-v2/assets/tela_login_recupera_email.png)
 
