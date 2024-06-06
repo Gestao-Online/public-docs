@@ -77,7 +77,7 @@
     * [✅ Email de confirmação de cadastro de usuario](erp-v2/criar_recuperar_acesso/email_cad_usuario_novo.md)
     * [🔐 Recuperar acesso e ativar conta](erp-v2/criar_recuperar_acesso/recuperar_acesso.md)
   * [🥇 Primeiro acesso](erp-v2/primeiro_acesso/README.md)
-    * [👨‍🏫 Apresentação da barra de navegação (abas, botões)](erp-v2/primeiro_acesso/apresentacao_barra_navegacao.md)
+    * [🧑‍🏫 Apresentação da barra de navegação (abas, botões)](erp-v2/primeiro_acesso/apresentacao_barra_navegacao.md)
     * [🔔 Notificações internas](erp-v2/primeiro_acesso/notificacao_interna.md)
     * [🔎 Barra de pesquisa](erp-v2/primeiro_acesso/barra_pesquisa.md)
     * [🗄️ Menu principal](erp-v2/primeiro_acesso/menu_principal.md)
