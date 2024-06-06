@@ -28,19 +28,9 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 <br>
 
-### Botão direito mouse aba categoria de produto
-
-Lembrando que, em cada item mostrado, você pode usar a função secundária do mouse (Botão direito) e acessar mais opções:
-
-- <img src="/erp-v2/assets/modulos/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
-- <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
-- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
-
-Você pode conferir no nosso exemplo abaixo:
-
-![](/erp-v2/assets/modulos/categoria_produto/aba_categoria_produto_btn_mouse.gif)
-
-<br>
+{% hint style="warning" %}
+**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
+{% endhint %}
 
 ### Paginação aba categoria de produto
 

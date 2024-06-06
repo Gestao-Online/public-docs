@@ -44,19 +44,9 @@ Clicando no ícone da seta você exibe ele de forma completa e fixado, e clicand
 
 <br>
 
-### Botão direito mouse aba perfil de desconto
-
-Lembrando que em cada item mostrado, você pode usar a função secundária do mouse (Botão direito) e acessar mais opções:
-
-- <img src="/erp-v2/assets/modulos/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
-- <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
-- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
-
-Você pode conferir no nosso teste abaixo:
-
-![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_btn_mouse.gif)
-
-<br>
+{% hint style="warning" %}
+**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
+{% endhint %}
 
 ### Paginação aba perfil de desconto
 

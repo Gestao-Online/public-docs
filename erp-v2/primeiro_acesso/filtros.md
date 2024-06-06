@@ -72,3 +72,17 @@ Se você observar, sempre ao **`lado direito`** de cada item listado, você têm
 - <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
 
 ![](/erp-v2/assets/modulos/estoque/aba_estoque_editar_excluir.png)
+
+### Botão direito mouse aba controle de exclusão em notificações
+
+Lembrando que em cada item mostrado, você pode usar a função secundária do mouse (Botão direito) e acessar mais opções:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
+
+Você pode conferir no nosso teste abaixo:
+
+![](/erp-v2/assets/modulos/configuracoes/aba_notificacoes_btn_mouse.gif)
+
+<br>
