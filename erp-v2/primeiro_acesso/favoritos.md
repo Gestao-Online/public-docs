@@ -1,6 +1,6 @@
 # ⭐ Favoritos
 
-Agora falando do nosso menu de **`Favoritos`**, nele você deixa separado as telas e dashboards que mais vai utilizar no seu dia a dia, lembrando que ela fica guardada no menu principal.
+No menu de **`Favoritos`**, você deixa separado as telas e dashboards que mais vai utilizar no seu dia a dia, lembrando que ela fica guardada no menu principal.
 
 ![](/erp-v2/assets/menu_favoritos.png)
 

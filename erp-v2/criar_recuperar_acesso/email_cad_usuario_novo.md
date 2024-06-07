@@ -1,6 +1,10 @@
 # ✅ Email de confirmação de cadastro de usuário
 
-Se você está nesta busca é porque quer criar seu acesso na nossa Plataforma da **Gestão.Online**, lembrando que para o primeiro acesso você precisa receber em seu e-mail pessoal/empresarial o link de acesso a página de cadastro única. Se você ainda não recebeu o email de acesso, fale com nosso setor comercial e fique de olho na sua caixa de entrada:
+Para o primeiro acesso você precisa receber em seu e-mail pessoal/empresarial o link da página de cadastro. 
+
+{% hint style="danger" %}
+**Atenção:** Este link de cadastro só chegará no seu email após o administrador inserir seus dados na plataforma manualmente.
+{% endhint %}
 
 {% hint style="info" %}
 **Informação:** Usamos de exemplo a caixa de entrada do Gmail, mas existem outras, isso irá depender do e-mail que você tem cadastro, porém todas são bem parecidas! 😉👍
@@ -15,7 +19,7 @@ Com a mensagem do e-mail aberto, você pode confirmar as informações apresenta
 Perfeito, se você chegou até aqui agora precisará completar os dados restantes, são estes:
 
 - Nome completo;
-- CPF; 
+- CPF;
 - Telefone;
 - CEP (Quando preenchido, os demais itens de endereço serão completados automaticamente);
 - Email (Este já estará preenchido);

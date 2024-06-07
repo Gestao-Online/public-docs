@@ -1,6 +1,6 @@
 # 📩 Usando os Filtros
 
-Se você está aqui significa que quer tirar alguma dúvida sobre como utilizar os filtros na nossa plataforma da Gestão.Online. Então preparamos essa página justamente para essa situação. Observe mais abaixo como utilizar suas funções que estão presentes em todas as abas 😁
+Observe abaixo como utilizar as funções que estão presentes em todas as abas da nossa plataforma da **Gestão.Online**.😁
 
 No menu de filtro você pode definir uma busca específica por itens, seja por ID, descrição, código, identificador, status, grupo e várias outras opções. 
 
@@ -13,6 +13,12 @@ No menu de filtro você pode definir uma busca específica por itens, seja por I
 {% endhint %}
 
 ![Para esta demonstração, utilizamos a aba Produtos.](/erp-v2/assets/filtros/cabecalho_filtro.png)
+
+<br>
+
+Logo acima no menu superior, temos o botão de atalho dos filtros, quando clicamos nele, podemos ver todos os itens de busca disponíveis, tendo assim mais de uma forma de busca, confira abaixo:
+
+![](/erp-v2/assets/filtros/aba_vendas_menu_filtro.gif)
 
 <br>
 
@@ -41,6 +47,11 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 {% endhint %}
 
 ![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_dentrode.gif)
+
+
+Ainda sobre a função de digitar valores, vocês pode também copiar uma lista e adicionar na pesquisa, caso já tenha uma pronta. Demonstramos abaixo o exemplo dee uso com uma tabela no excel, e inserindo os dados na plataforma:
+
+![](/erp-v2/assets/filtros/aba_produtos_filtro_dentrode_colar.gif)
 
 <br>
 
@@ -72,6 +83,10 @@ Se você observar, sempre ao **`lado direito`** de cada item listado, você têm
 - <img src="/erp-v2/assets/modulos/icon_excluir_item.png" alt="" data-size="line"> Excluir item.
 
 ![](/erp-v2/assets/modulos/estoque/aba_estoque_editar_excluir.png)
+
+Outra opção de busca é por data (Exemplo usando aba de vendas). Ao clicar no campo um calendário vai aparecer para você escolher a data desejada para a busca:
+
+![](/erp-v2/assets/filtros/aba_vendas_filtro_data.gif)
 
 ### Botão direito mouse aba controle de exclusão em notificações
 

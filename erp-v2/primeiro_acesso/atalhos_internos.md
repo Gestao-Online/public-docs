@@ -6,23 +6,27 @@ Assim como você tem atalhos com o botão direito do mouse no seu sistema operac
 **Informação:** Para o exemplo utilizamos a aba de clientes, esses atalhos podem mudar dependendo da aba que você estiver utilizando no momento! 😉👍
 {% endhint %}
 
-Essa função está disponível nas **`abas`** que você estiver utilizando no momento, confira exemplo abaixo quando se clica, as opções que ficam disponíveis:
-
-![](/erp-v2/assets/atalho_interno_aba.gif)
-
-<br>
-
 Quando se clica com o botão direito do mouse em cima de um item da aba (Neste caso um produto) um menu rápido com algumas opções para te trazer agilidade, podendo editar o item, abrir item selecionado em uma nova aba ou excluir.
 
-![](/erp-v2/assets/atalho_interno_btn_direito.gif)
+{% hint style="warning" %}
+**Importante:** As opções disponíveis do botão direito do mouse sobre o item, pode variar com mais ou menos opções, tudo depende da aba que você está usando no nomento.
+{% endhint %}
+
+![Neste exemplo utilizamos a aba Produtos](/erp-v2/assets/atalho_interno_btn_direito.gif)
 
 <br>
 
 Outra função bem interessante que temos é fazer uso da tecla **`ctrl`** (Controle) para Windows/Linux e **`⌘ command`** para Mac, e assim clicar e selecionar vários itens ao mesmo tempo.
 
-Observe que até um novo menu rápido fica disponível quando se clica com o botão direito do mouse:
+Observe que até um novo menu rápido fica disponível quando se clica com o botão direito do mouse. E o menu superior se modifica também com essas mesmas opções:
 
 ![](/erp-v2/assets/atalho_btn_ctrl.gif)
+
+<br>
+
+Se por acaso você marcar algum item errado, ou quiser cancelar a seleção, pode clicar no icone <img src="/erp-v2/assets/modulos/icon_limpar_selecao.png" alt="" data-size="line"> limpar seleção, clicando nele todos os itens são desmarcados:
+
+![](/erp-v2/assets/atalho_btn_ctrl_limpar.gif)
 
 <br>
 
@@ -38,7 +42,15 @@ Ainda mostrando a aba de vendas, usando o botão direito do mouse, você tem uma
 
 <br>
 
+Importante lembrar que você pode fazer alterações em lote, selecionando varios itens ao mesmo tempo, clicando com o botão direito do mouse, 
+
+![](/erp-v2/assets/atalho_btn_mouse_vendas.gif)
+
+<br>
+
 Não só a função do botão direito, você tem disponíveis em cada aba um menu superior com botões específicos para cada situação, com impressão de página, atualizar página, adicionar novo item, entre vários outros.
+
+<------------------ CONTINUAR DAQUI--------------------------------->
 
 {% hint style="info" %}
 **Informação:** Para o exemplo utilizamos a aba de clientes, esses atalhos podem mudar dependendo da aba que você estiver utilizando no momento! 😉👍
