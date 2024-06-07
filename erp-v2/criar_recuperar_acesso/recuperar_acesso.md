@@ -19,7 +19,7 @@ Neste momento chegará um e-mail na sua caixa de entrada, e você precisa copiar
 ![](/erp-v2/assets/tela_login_cod_email.gif)
 
 
-Agora voltando à tela de recuperação de conta da Gestão.Online, você vai colocar o **`código de segurança`** que recebeu e criar uma nova senha segura para sua conta. 
+Agora voltando à tela de recuperação de conta da **Gestão.Online**, você vai colocar o **`código de segurança`** que recebeu e criar uma nova senha segura para sua conta. 
 
 {% hint style="danger" %}
 **Atenção:** Existem alguns requisitos de segurança para uma senha ser aceita em nossa plataforma, precisa ter no mínimo 8 caracteres, dentre eles Letra Minúscula (a - z), Letra Maiúscula (A - Z) e Número (0 - 9).
@@ -31,6 +31,6 @@ Agora voltando à tela de recuperação de conta da Gestão.Online, você vai co
 
 **Prontinho, após ter seguido esses passos a sua senha foi alterada com sucesso!**
 
-Agora é só fazer login e seguir utilizando as múltiplas funções disponíveis na nossa plataforma Gestão.Online.
+Agora é só fazer login e seguir utilizando as múltiplas funções disponíveis na nossa plataforma **Gestão.Online**.
 
 ![](/erp-v2/assets/tela_login_recuperar_sucesso.png)

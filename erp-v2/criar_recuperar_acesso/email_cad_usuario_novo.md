@@ -1,4 +1,4 @@
-# ✅ Email de confirmação de cadastro de usuario
+# ✅ Email de confirmação de cadastro de usuário
 
 Se você está nesta busca é porque quer criar seu acesso na nossa Plataforma da **Gestão.Online**, lembrando que para o primeiro acesso você precisa receber em seu e-mail pessoal/empresarial o link de acesso a página de cadastro única. Se você ainda não recebeu o email de acesso, fale com nosso setor comercial e fique de olho na sua caixa de entrada:
 

@@ -1,6 +1,6 @@
 #  🧑‍🏫 Apresentação da barra de navegação (abas, botões)
 
-A primeira vista estão alguns botões para conhecermos melhor, vejamos abaixo o nome de cada um e sua definição:
+À primeira vista estão alguns botões para conhecermos melhor, vejamos abaixo o nome de cada um e sua definição:
 
 ![](/erp-v2/assets/tela_abas_botoes_inicio.png)
 
@@ -18,7 +18,7 @@ A primeira vista estão alguns botões para conhecermos melhor, vejamos abaixo o
 
 - ![](/erp-v2/assets/tela_abas_funcao2.gif)
 
-- Ainda com a função do botão direito do mouse na aba, temos a opção de fechar outras aba e fechar todas as abas:
+- Ainda com a função do botão direito do mouse na aba, temos a opção de fechar outras abas ou fechar todas as abas:
 
 - ![](/erp-v2/assets/tela_abas_funcao3.gif)
 

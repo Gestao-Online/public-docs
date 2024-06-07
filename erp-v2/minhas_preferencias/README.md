@@ -1,6 +1,6 @@
 # ⚙️ Minhas preferências
 
-Neste menu vamos conhecer um pouco mais sobre as possíveis alterações que você pode fazer na plataforma da Gestão.Online entre editar a conta, alterar foto, alterar tema, idioma e sair da conta.
+Neste menu vamos conhecer um pouco mais sobre as possíveis alterações que você pode fazer na plataforma da **Gestão.Online** entre editar a conta, alterar foto, alterar tema, idioma e sair da conta.
 
 ![](/erp-v2/assets/minhas_preferencias.gif)
 

@@ -11,5 +11,4 @@ Dando um foco na parte de troca de senha, ao clicar no botão de alteração, vo
 
 {% hint style="warning" %}
 **Informação:** Caso esteja procurando mais sobre recuperação de conta/senha [cliquei aqui!](/erp-v2/criar_recuperar_acesso/recuperar_acesso.md)
-
 {% endhint %}

@@ -1,6 +1,6 @@
 # 📸 Alterando minha foto
 
-Entre um dos itens que você pode personalizar, temos a escolha da foto de perfil, nós pedimos apenas alguns requisitos, para que tudo funcione direitinho na nossa plataforma da Gestão.Online, essa imagem precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. 
+Entre um dos itens que você pode personalizar, temos a escolha da foto de perfil, nós pedimos apenas alguns requisitos, para que tudo funcione direitinho na nossa plataforma da **Gestão.Online**, essa imagem precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. 
 
 O tamanho também tem um limite, que é de apenas 5MB, confira abaixo o passo a passo para substituição da sua foto de perfil:
 

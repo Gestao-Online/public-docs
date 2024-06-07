@@ -6,7 +6,7 @@
 
 <br>
 
-As opções de cores disponíveis até a atual versão:
+Estas são as opções de cores disponíveis até a atual versão:
 
 ![](/erp-v2/assets/escolher_tema_cores.png)
 
