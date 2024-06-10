@@ -26,7 +26,7 @@ Agora falando sobre geração de relatórios, em abas específicas no menu super
 
 ![](/erp-v2/assets/relatorios_botoes_menu.png)
 
-Alguns exemplos de atalhos de relatórios disponiveis no menu superior:
+Alguns exemplos de atalhos de relatórios disponíveis no menu superior:
 
 - <img src="/erp-v2/assets/icon_folha_x.png" alt="" data-size="line"> CSV - Venda comissão;
 - <img src="/erp-v2/assets/icon_folha_x.png" alt="" data-size="line"> Indicações;
