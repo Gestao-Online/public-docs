@@ -16,7 +16,7 @@ Quando se clica com o botão direito do mouse em cima de um item da aba (Neste c
 
 <br>
 
-Outra função bem interessante que temos é fazer uso da tecla **`ctrl`** (Controle) para Windows/Linux e **`⌘ command`** para Mac, e assim clicar e selecionar vários itens ao mesmo tempo.
+Outra função bem interessante que temos é fazer uso da tecla **`Ctrl`** (Controle) para Windows/Linux e **`⌘ command`** para Mac, e assim clicar e selecionar vários itens ao mesmo tempo.
 
 Observe que até um novo menu rápido fica disponível quando se clica com o botão direito do mouse. E o menu superior se modifica também com essas mesmas opções:
 
