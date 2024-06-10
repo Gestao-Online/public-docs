@@ -1,6 +1,6 @@
 # 🗄️ Menu principal
 
-No menu principal você encontra todas as funções disponíveis da nossa plataforma, ao clicar nele, no primeiro momento será mostrado a você a guia de **[favoritos](/erp-v2/primeiro_acesso/favoritos.md)** mas logo ao lado você já pode clicar no ícone do menu, conforme imagem abaixo:
+No menu principal você encontra todas as funções disponíveis da nossa plataforma, ao clicar nele, no primeiro momento será mostrado a você a guia de **[`favoritos`](/erp-v2/primeiro_acesso/favoritos.md)** mas logo ao lado você já pode clicar no ícone do menu, conforme imagem abaixo:
 
 ![](/erp-v2/assets/menu_principal.gif)
 
