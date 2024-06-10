@@ -9,7 +9,7 @@ Assim como você tem atalhos com o botão direito do mouse no seu sistema operac
 Quando se clica com o botão direito do mouse em cima de um item da aba (Neste caso um produto) um menu rápido com algumas opções para te trazer agilidade, podendo editar o item, abrir item selecionado em uma nova aba ou excluir.
 
 {% hint style="warning" %}
-**Importante:** As opções disponíveis do botão direito do mouse sobre o item, pode variar com mais ou menos opções, tudo depende da aba que você está usando no nomento.
+**Importante:** As opções disponíveis do botão direito do mouse sobre o item, pode variar com mais ou menos opções, tudo depende da aba que você está usando no momento.
 {% endhint %}
 
 ![Neste exemplo utilizamos a aba Produtos](/erp-v2/assets/atalho_interno_btn_direito.gif)
@@ -24,7 +24,7 @@ Observe que até um novo menu rápido fica disponível quando se clica com o bot
 
 <br>
 
-Se por acaso você marcar algum item errado, ou quiser cancelar a seleção, pode clicar no icone <img src="/erp-v2/assets/modulos/icon_limpar_selecao.png" alt="" data-size="line"> limpar seleção, clicando nele todos os itens são desmarcados:
+Se por acaso você marcar algum item errado, ou quiser cancelar a seleção, pode clicar no ícone <img src="/erp-v2/assets/modulos/icon_limpar_selecao.png" alt="" data-size="line"> limpar seleção, clicando nele todos os itens são desmarcados:
 
 ![](/erp-v2/assets/atalho_btn_ctrl_limpar.gif)
 
@@ -42,7 +42,7 @@ Ainda mostrando a aba de vendas, usando o botão direito do mouse, você tem uma
 
 <br>
 
-Importante lembrar que você pode fazer alterações em lote, selecionando varios itens ao mesmo tempo, clicando com o botão direito do mouse, conforme exemplo abaixo:
+Importante lembrar que você pode fazer alterações em lote, selecionando vários itens ao mesmo tempo, clicando com o botão direito do mouse, conforme exemplo abaixo:
 
 ![](/erp-v2/assets/atalho_btn_mouse_lotes.gif)
 
@@ -85,7 +85,7 @@ Outro atalho com teclas é o `Ctrl` + `C`, podendo copiar textos que você clico
 
 <br>
 
-Você também tem atalhos no momento de fazer o cadastro de um item, seja ele produto, venda ou uma loja por exemplo. Os capos de preenchimento na sua maioria, contam com atalhos para tanto criar um item, quanto abrir a aba de referência para uma busca ou edição:
+Você também tem atalhos no momento de fazer o cadastro de um item, seja ele produto, venda ou uma loja por exemplo. Os campos de preenchimento na sua maioria, contam com atalhos para tanto criar um item, quanto abrir a aba de referência para uma busca ou edição:
 
 {% hint style="info" %}
 **Informação:** Para este exemplo, utilizamos a aba `Vendas`, podendo ter variação de opções disponíveis caso use outra aba na plataforma. Este exemplo é apenas para demonstrar a função.
