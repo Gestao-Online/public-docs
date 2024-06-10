@@ -85,6 +85,7 @@
     * [📩 Utilizando filtros](erp-v2/primeiro_acesso/filtros.md)
     * [↪️ Atalhos internos](erp-v2/primeiro_acesso/atalhos_internos.md)
     * [🔩 Organizando seu grid](/erp-v2/primeiro_acesso/organizando_grid.md)
+    * [📊 Relatórios e Dashboards na GRID](/erp-v2/primeiro_acesso/)
   * [⚙️ Minhas preferências](erp-v2/minhas_preferencias/README.md)
     * [🎲 Editando meu dados](erp-v2/minhas_preferencias/edit_meus_dados.md)
     * [🔑 Alterando minha senha](erp-v2/minhas_preferencias/alt_minha_senha.md)
