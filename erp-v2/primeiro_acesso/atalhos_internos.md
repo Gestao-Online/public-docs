@@ -58,6 +58,11 @@ Não só a função do botão direito, você tem disponíveis em cada aba um men
 
 <br>
 
+Ainda mostrando os tipos de menus superiores, temos na aba de vendas, outras opções disponíveis para facilitar o seu dia a dia com a plataforma **Gestão.Online**, veja abaixo:
+
+![](/erp-v2/assets/atalho_menus_superiores2.gif)
+
+
 Até quando clicar para editar/criar um novo cliente você tem atalhos na parte superior, como por exemplo realizar uma venda, atualizar página, duplicar item, salvar e voltar:
 
 ![](/erp-v2/assets/atalho_interno_botoes_cliente.png)
@@ -79,3 +84,14 @@ Outro atalho com teclas é o `Ctrl` + `C`, podendo copiar textos que você clico
 ![](/erp-v2/assets/atalho_ctrl_c.gif)
 
 <br>
+
+Você também tem atalhos no momento de fazer o cadastro de um item, seja ele produto, venda ou uma loja por exemplo. Os capos de preenchimento na sua maioria, contam com atalhos para tanto criar um item, quanto abrir a aba de referência para uma busca ou edição:
+
+{% hint style="info" %}
+**Informação:** Para este exemplo, utilizamos a aba `Vendas`, podendo ter variação de opções disponíveis caso use outra aba na plataforma. Este exemplo é apenas para demonstrar a função.
+{% endhint %}
+
+![](/erp-v2/assets/atalho_icone_novo_abrir.gif)
+<!-- 
+### Exportar movimentações -->
+
