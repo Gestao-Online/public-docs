@@ -71,3 +71,11 @@ Assim como o botão direito do mouse, na plataforma também é disponível o uso
 {% endhint %}
 
 ![](/erp-v2/assets/atalho_ctrl_a.gif)
+
+<br>
+
+Outro atalho com teclas é o `Ctrl` + `C`, podendo copiar textos que você clicou e podendo colar em outros locais, adicionamos um efeito no texto que é copiado, observe abaixo o teste que fizemos clicando e copiando os itens com o atalho:
+
+![](/erp-v2/assets/atalho_ctrl_c.gif)
+
+<br>
