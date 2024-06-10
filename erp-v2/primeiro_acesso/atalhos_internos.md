@@ -42,24 +42,32 @@ Ainda mostrando a aba de vendas, usando o botão direito do mouse, você tem uma
 
 <br>
 
-Importante lembrar que você pode fazer alterações em lote, selecionando varios itens ao mesmo tempo, clicando com o botão direito do mouse, 
+Importante lembrar que você pode fazer alterações em lote, selecionando varios itens ao mesmo tempo, clicando com o botão direito do mouse, conforme exemplo abaixo:
 
-![](/erp-v2/assets/atalho_btn_mouse_vendas.gif)
+![](/erp-v2/assets/atalho_btn_mouse_lotes.gif)
 
 <br>
 
 Não só a função do botão direito, você tem disponíveis em cada aba um menu superior com botões específicos para cada situação, com impressão de página, atualizar página, adicionar novo item, entre vários outros.
 
-<------------------ CONTINUAR DAQUI--------------------------------->
-
 {% hint style="info" %}
-**Informação:** Para o exemplo utilizamos a aba de clientes, esses atalhos podem mudar dependendo da aba que você estiver utilizando no momento! 😉👍
+**Informação:** Para o exemplo, utilizamos a aba de produtos, esses atalhos/menus podem mudar dependendo da aba que você estiver utilizando no momento! 😉👍
 {% endhint %}
 
-![](/erp-v2/assets/atalho_interno_botoes.png)
+![](/erp-v2/assets/atalho_menus_superiores.gif)
 
 <br>
 
 Até quando clicar para editar/criar um novo cliente você tem atalhos na parte superior, como por exemplo realizar uma venda, atualizar página, duplicar item, salvar e voltar:
 
 ![](/erp-v2/assets/atalho_interno_botoes_cliente.png)
+
+<br>
+
+Assim como o botão direito do mouse, na plataforma também é disponível o uso de atalhos com teclas, por exemplo o `Ctrl` + `A`, sendo utilizado para você selecionar vários itens ao mesmo tempo, observe abaixo:
+
+{% hint style="info" %}
+**Exemplo:** Você precisa emitir NF para vendas específicas realizadas, pegando o código ou id de cada venda, você pode procurar, e fazer a seleção dos itens manualmente, ou usar o atalho de teclas `Ctr`+`A`, em seguida o botão direito do mouse para escolher a opção emitir NF. 
+{% endhint %}
+
+![](/erp-v2/assets/atalho_ctrl_a.gif)
