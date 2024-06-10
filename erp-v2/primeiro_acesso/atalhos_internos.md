@@ -6,7 +6,11 @@ Assim como você tem atalhos com o botão direito do mouse no seu sistema operac
 **Informação:** Para o exemplo utilizamos a aba de clientes, esses atalhos podem mudar dependendo da aba que você estiver utilizando no momento! 😉👍
 {% endhint %}
 
-Quando se clica com o botão direito do mouse em cima de um item da aba (Neste caso um produto) um menu rápido com algumas opções para te trazer agilidade, podendo editar o item, abrir item selecionado em uma nova aba ou excluir.
+Quando se clica com o botão direito do mouse em cima de um item da aba (Neste caso um produto) um menu rápido com algumas opções para te trazer agilidade, podendo editar o item, abrir item selecionado em uma nova aba ou excluir:
+
+- <img src="/erp-v2/assets/modulos/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
+- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
 
 {% hint style="warning" %}
 **Importante:** As opções disponíveis do botão direito do mouse sobre o item, pode variar com mais ou menos opções, tudo depende da aba que você está usando no momento.
