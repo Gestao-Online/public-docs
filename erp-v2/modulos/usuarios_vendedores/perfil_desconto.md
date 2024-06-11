@@ -32,13 +32,13 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 <br>
 
-No lado esquerdo da tela está o menu lateral, e você pode utilizar ele como um filtro para pesquisa, ele contém três opções:
+No lado esquerdo da tela está o menu lateral, e você pode utilizar como um filtro para pesquisa. Contém três opções:
 
 - <img src="/erp-v2/assets/modulos/icon_todos_perfis.png" alt="" data-size="line"> Todos os perfis;
 - <img src="/erp-v2/assets/modulos/icon_receitas.png" alt="" data-size="line"> Receitas (Vendas);
 - <img src="/erp-v2/assets/modulos/icon_despesas.png" alt="" data-size="line"> Despesas (Compras).
 
-Clicando no ícone da seta você exibe ele de forma completa e fixado, e clicando nela novamente, ele volta ao modo recolhido, confira exemplo abaixo: 
+Clicando no ícone da seta você exibe de forma completa e fixado, e clicando nela novamente, volta ao modo recolhido, confira exemplo abaixo: 
 
 ![](/erp-v2/assets/modulos/vendedores/aba_perfil_desconto_menu_lateral.gif)
 

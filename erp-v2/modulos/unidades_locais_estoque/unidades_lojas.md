@@ -74,7 +74,7 @@ Pouco mais abaixo você vê um gráfico de colunas com o ranking de unidades com
 
 <br>
 
-Descendo mais um pouco no dashboard temos a `Tabela de engajamento de unidade` ela é bem interativa para você, com barra de pesquisa por nome de unidade, e ainda poder exportar esses dados para o Excel, e a tabela nos traz dados importantes sendo eles:
+Descendo mais um pouco no dashboard temos a `Tabela de engajamento de unidade`, sendo bem interativa com você, com barra de pesquisa por nome de unidade, e ainda podendo exportar esses dados para o Excel, e essa tabela também nos traz dados importantes sendo eles:
 
 - **Unidade;**
 - **Qtd de Venda PDV (este mês);**

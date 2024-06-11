@@ -119,15 +119,15 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar uma conta é exigido o perfil e e-mail. Agora os outros campos para preenchimento pode deixar para o usuário quando ele confirmar a conta, listamos os campos abaixo:
+Olhando para a guia **`Geral`**, por padrão, quando você for criar uma conta é exigido o perfil e e-mail. Agora os outros campos para preenchimento pode deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
 
-- **Nome** (Nome completo do usuário, podendo ele preencher depois);
+- **Nome** (Nome completo do usuário, podendo preencher depois);
 - **Nome usuário** (É usado para login na plataforma, podendo ser um nome/código/cpf);
 - **Alterar senha** (Para mais informações [clique aqui](/erp-v2/minhas_preferencias/alt_minha_senha.md));
 - **Status** (Aqui você define o status do usuário, sendo ativado, desativado ou aguardando registro);
-- **Perfil** (Item obrigatório, Aqui define que tipo de autorização que ele terá na plataforma);
+- **Perfil** (Item obrigatório, Aqui define que tipo de autorização que terá na plataforma);
 - **Unidade** (Nome do local/setor de trabalho);
-- **E-mail** (Item obrigatório, a conta está vinculada exclusivamente a ele não podendo ser modificado depois);
+- **E-mail** (Item obrigatório, a conta está vinculada exclusivamente ao email, não podendo ser modificado depois);
 - **Telefone**;
 - **Documento** (Pode ser um RG/CPF/CNH, o usuário pode preencher depois);
 - **CEP** (Após inserir o CEP os demais dados serão preenchidos automaticamente);
@@ -142,7 +142,7 @@ Uma informação importante sobre os tipos de Perfis:
 
 - **Usuário :** Terá acesso básico a plataforma, é responsável pelo cadastro de clientes, realizar vendas e gerar relatórios.
 
-- **Coordenador :** Além das permissões de usuário, ele possui acesso ao financeiro e aos dashboards de sua unidade.
+- **Coordenador :** Além das permissões de usuário, possui acesso ao financeiro e aos dashboards de sua unidade.
 
 - **Gerente :** Também pode visualizar os relatórios financeiros de outras unidades, cadastrar vendedores (porém não pode apagá-los) além de cadastrar novos usuários de perfil tipo `usuário`.
 

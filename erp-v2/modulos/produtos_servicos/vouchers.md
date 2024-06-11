@@ -107,7 +107,7 @@ Observe que após salvar as informações, a janela `Voucher Item` passará a fi
 
 <br>
 
-Na primeira opção do menu, temos o `Importar códigos` com ele você pode pegar uma lista de código pronta e fazer a importação direta para nossa plataforma, com apenas alguns cliques, observe:
+Na primeira opção do menu, temos o `Importar códigos`, você pode pegar uma lista de código pronta e fazer a importação direta para nossa plataforma, com apenas alguns cliques, observe:
 
 {% hint style="warning" %}
 **Atenção:** O formato de arquivo aceito para essa importação é **" .txt "**, confira antes de tentar fazer a importação.
