@@ -1,6 +1,6 @@
 # 🥇 Primeiro acesso
 
-Ao fazer login na sua conta da paltaforma **Gestão.Online** a primeira página será essa!
+Ao fazer login na sua conta da plataforma **Gestão.Online** a primeira página será essa!
 
 Você verá poucas opções no primeiro momento, mas esta tela ficará bem completa com as suas personalizações, deixando mais prático possível no seu dia a dia, basta seguir acompanhando nosso manual 😁.
 
