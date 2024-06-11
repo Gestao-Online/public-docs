@@ -89,7 +89,7 @@ Outro atalho com teclas é o `Ctrl` + `C`, podendo copiar textos que você clico
 
 <br>
 
-Você também tem atalhos no momento de fazer o cadastro de um item, seja ele produto, venda ou uma loja por exemplo. Os campos de preenchimento na sua maioria, contam com atalhos para tanto criar um item, quanto abrir a aba de referência para uma busca ou edição:
+Você também tem atalhos no momento de fazer o cadastro de um item, seja produto, venda ou uma loja por exemplo. Os campos de preenchimento na sua maioria, contam com atalhos para tanto criar um item, quanto abrir a aba de referência para uma busca ou edição:
 
 {% hint style="info" %}
 **Informação:** Para este exemplo, utilizamos a aba `Vendas`, podendo ter variação de opções disponíveis caso use outra aba na plataforma. Este exemplo é apenas para demonstrar a função.

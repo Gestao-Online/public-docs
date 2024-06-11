@@ -94,7 +94,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar um vendedor é exigido preencher os campos com asterisco. Agora os outros campos para preenchimento pode deixar para o usuário quando ele confirmar a conta, listamos os campos abaixo:
+Olhando para a guia **`Geral`**, por padrão, quando você for criar um vendedor é exigido preencher os campos com asterisco. Agora os outros campos para preenchimento pode deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
 
 - **Nome** (Nome completo do vendedor);
 - **E-mail** (Não pode ser modificado depois, use o mesmo da conta de usuário);
@@ -102,8 +102,8 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um vendedor
 - **Unidade** (Nome do local/setor de trabalho, para mais informações [clique aqui](/erp-v2/modulos/unidades_locais_estoque/unidades_lojas.md));
 - **Centro de resultado** (Defina qual parte da empresa pertence, para mais informações [clique aqui](/erp-v2/modulos/parametrizacoes/centro_resultado.md));
 - **Status** (Aqui você define o status do vendedor, sendo ativado ou desativado);
-- **Usuário** (Defina o usuário existente do vendedor, sem ele não tem como prosseguir);
-- **Local estoque** (Qual local ele terá acesso, para saber mais [clique aqui](/erp-v2/modulos/unidades_locais_estoque/local_estoque.md));
+- **Usuário** (Defina o usuário existente do vendedor, sem não tem como prosseguir);
+- **Local estoque** (Qual local terá acesso, para saber mais [clique aqui](/erp-v2/modulos/unidades_locais_estoque/local_estoque.md));
 - **Tipo de movimentação** (Definir o tipo de entrada/saída sendo compra ou venda, para saber mais [clique aqui](/erp-v2/modulos/parametrizacoes/tipo_movimentacao.md));
 - **Tipo de negociação** (Definir a forma de pagamento padrão, para saber mais [clique aqui](/erp-v2/modulos/financeiro/tipo_negociacao.md)).
 
@@ -138,19 +138,19 @@ Se você observar na parte superior, após criar o vendedor, três guias ficarã
 
 <br>
 
-A primeira é a de perfil de desconto (vendas), por padrão ela ficará em branco, mas vamos inserir informação nelas, primeiro clicando no botão adicionar item:
+A primeira é a de perfil de desconto (vendas), por padrão ficará em branco, mas vamos inserir informação nelas, primeiro clicando no botão adicionar item:
 
 ![](/erp-v2/assets/modulos/vendedores/aba_vendedores_guia_perfil_desconto.png)
 
 <br>
 
-Você pode deixar definido um limite de desconto em vendas para esse vendedor, sendo ela em valor ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
+Você pode deixar definido um limite de desconto em vendas para esse vendedor, sendo valor ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
 
 ![](/erp-v2/assets/modulos/vendedores/aba_vendedores_guia_.gif)
 
 <br>
 
-Você também pode deixar definido um limite de desconto em compras para esse vendedor, sendo ela em valor ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
+Você também pode deixar definido um limite de desconto em compras para esse vendedor, sendo valor ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
 
 ![](/erp-v2/assets/modulos/vendedores/aba_vendedores_guia_2.gif)
 
@@ -161,7 +161,7 @@ Você também pode deixar definido um limite de desconto em compras para esse ve
 
 Na última guia, temos os parceiros (Carteira vendedor), nela é listado primeiro todos os parceiros que tenham vínculo a este vendedor. 
 
-Podendo ele fazer até mesmo o cadastro de novos clientes, fornecedores, indicadores e até transportadoras com o seu login:
+Podendo fazer até mesmo o cadastro de novos clientes, fornecedores, indicadores e até transportadoras com o seu login:
 
 ![](/erp-v2/assets/modulos/vendedores/aba_parceiros_inicio.png)
 
