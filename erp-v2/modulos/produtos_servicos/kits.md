@@ -44,7 +44,7 @@ No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras a
 - <img src="/erp-v2/assets/modulos/icon_servicos.png" alt="" data-size="line"> [Serviços](/erp-v2/modulos/produtos_servicos/servicos.md);
 - <img src="/erp-v2/assets/modulos/icon_kits.png" alt="" data-size="line"> Kits (Aba atual);
 
-Clicando no ícone da seta você exibe ele de forma completa, e clicando nela novamente, ele volta ao modo recolhido, confira exemplo abaixo: 
+Clicando no ícone da seta você exibe de forma completa, e clicando nela novamente, volta ao modo recolhido, confira exemplo abaixo: 
 
 ![](/erp-v2/assets/modulos/kits/aba_kits_menu_esquerdo.gif)
 
@@ -115,7 +115,7 @@ A partir do momento que você concluir a criação do novo kit, ficarão dispon�
 
 Nesta guia você pode vincular um produto/serviço ao kit que você acabou de criar, escolhendo um dos já disponíveis e definindo a quantidade. 
 
-Pode também utilizar os filtros disponíveis caso tenha muitos itens sendo exibidos. Depois é só salvar e ele aparecerá, confira abaixo:
+Pode também utilizar os filtros disponíveis caso tenha muitos itens sendo exibidos. Depois é só salvar e aparecerá, confira abaixo:
 
 ![](/erp-v2/assets/modulos/kits/aba_kits_add_kit_guia_itens.gif)
 
@@ -131,7 +131,7 @@ Agora na guia de `Categorias`, você pode definir uma categoria para o kit cadas
 
 <br>
 
-Por último na guia `Tabelas de preço` você pode adicionar um valor ou percentual e de qual tabela de preço existente ele irá ser vinculado:
+Por último na guia `Tabelas de preço` você pode adicionar um valor ou percentual e de qual tabela de preço existente irá ser vinculado:
 
 {% hint style="warning" %}
 **Informativo:** Se você deseja saber mais informações sobre tabela de preço [clique aqui](/erp-v2/modulos/parametrizacoes/tabelas_precos.md)
@@ -145,7 +145,7 @@ Por último na guia `Tabelas de preço` você pode adicionar um valor ou percent
 
 Esta função será de grande ajuda caso você já tenha uma lista com os serviços que deseja cadastrar. 
 
-No botão de importação ao clicar nele será aberta uma janela pop-up para você fazer a importação da planilha com os dados, logo após, você importar ela, você define manualmente os campos relacionados para que a nossa plataforma possa fazer a importação. 
+No botão de importação ao clicar nele será aberta uma janela pop-up para você fazer a importação da planilha com os dados, logo após, você importar, precisa definir manualmente os campos relacionados para que a nossa plataforma possa fazer a importação. 
 
 Confira abaixo o procedimento:
 
