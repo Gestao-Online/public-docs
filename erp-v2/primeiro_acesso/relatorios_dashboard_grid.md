@@ -34,3 +34,7 @@ Alguns exemplos de atalhos de relatórios disponíveis no menu superior:
 - <img src="/erp-v2/assets/icon_folha_pdf.png" alt="" data-size="line"> Analítico - Vendas por produto
 - <img src="/erp-v2/assets/icon_folha_pdf.png" alt="" data-size="line"> Analítico - Vendas por unidade;
 - <img src="/erp-v2/assets/icon_folha_pdf.png" alt="" data-size="line"> Sintético - Vendas por unidade.
+
+{% hint style="warning" %}
+**Atenção:** Estes botões podem ser personalizados um a um caso seja preciso, com funções expecíficas que te ajudem no dia a dia.
+{% endhint %}
