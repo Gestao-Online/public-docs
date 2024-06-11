@@ -57,7 +57,7 @@ Com a página aberta, por padrão, quando você for criar uma exclusão é exigi
 
 - **Valor** (Informação do motivo da exclusão, se será temporária ou permanente);
 - **Tipo** (Define o tipo entre e-mail. telefone ou documento);
-- **Tipo Expiração** (Se ela será permanente ou temporária);
+- **Tipo Expiração** (Sendo permanente ou temporária);
 - **Data Expiração** (Ativo caso marque tipo expiração temporário);
 - **Data criação** (Este item não é alterado, é preenchido automaticamente pela plataforma).
 

@@ -78,7 +78,7 @@ Na guia **`Metadata`** ficam seus registros de perfil, modificação de foto de 
 
 <br>
 
-Na última guia ficaram os **`Events`** com tudo que o seu usuário fez, um pouco parecido com o Access Tokens, mas enquanto lá ele registra somente seu acesso, aqui no `events` ficará tudo o que você fizer, alteração, adição, pesquisa, visualização de algum item ou cliente, todas as informações registradas aqui.
+Na última guia ficaram os **`Events`** com tudo que o seu usuário fez, um pouco parecido com o Access Tokens, mas enquanto lá registra somente seu acesso, aqui no `events` ficará tudo o que você fizer, alteração, adição, pesquisa, visualização de algum item ou cliente, todas as informações registradas aqui.
 
 E por se tratar de uma página com informações importantes, os dados não podem ser apagados ou alterados, confira a imagem abaixo:
 
