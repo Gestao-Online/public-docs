@@ -8,7 +8,7 @@ O tamanho também tem um limite, que é de apenas 5MB, confira abaixo o passo a 
 
 Ao clicar nesta opção você é direcionado ao seu buscador de arquivos e pode selecionar a sua imagem. Escolha uma bem bonita! 😉👍
 
-Após escolher sua imagem, será aberto um mini editor de imagem para você poder fazer um recorte quadrado da sua fotografia para que ela se encaixe melhor no design da nossa plataforma, confira o procedimento abaixo:
+Após escolher sua imagem, será aberto um mini editor de imagem para você poder fazer um recorte quadrado da sua fotografia para que se encaixe melhor no design da nossa plataforma, confira o procedimento abaixo:
 
 ![](/erp-v2/assets/escolhendo_foto.gif)
 
