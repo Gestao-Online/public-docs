@@ -85,9 +85,9 @@ Você pode adicionar uma imagem para empresa, facilitando assim a identificaçã
 
 <br>
 
-Outro item importante no momento de salvar uma nova empresa é o número de celular, pois ele pode ser utilizado para hyperlinks do whatsapp, telegram e outros mensageiros.
+Outro item importante no momento de salvar uma nova empresa é o número de celular, pois pode ser utilizado para hyperlinks do whatsapp, telegram e outros mensageiros.
 
-Logo abaixo, você tem os dados de endereço da empresa, ele tem o sistema de autocompletar a partir do momento que preencher o CEP, depois é só preencher o número, caso tenha e o complemento do local se for necessário 😁
+Logo abaixo, você tem os dados de endereço da empresa, com o sistema de autocompletar a partir do momento que preencher o CEP, depois é só preencher o número, caso tenha e o complemento do local se for necessário 😁
 
 ![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_add_endereco.gif)
 
