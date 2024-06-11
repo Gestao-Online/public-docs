@@ -22,7 +22,7 @@ Logo acima no menu superior, temos o botão de atalho dos filtros, quando clicam
 
 <br>
 
-Sempre que você abrir uma aba na plataforma, o primeiro filtro é o ID, ao ver ele, dois ícones utilizáveis estão nele:
+Sempre que você abrir uma aba na plataforma, o primeiro filtro é o ID, dois ícones utilizáveis estão nele:
 
 - <img src="/erp-v2/assets/icon_ordem.png" alt="" data-size="line"> Ordenar lista por maior ou menor;
 - <img src="/erp-v2/assets/icon_filtroo.png" alt="" data-size="line"> Abrir janela de filtro;
