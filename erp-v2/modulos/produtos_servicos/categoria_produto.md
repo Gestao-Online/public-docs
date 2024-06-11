@@ -65,11 +65,11 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando de modo geral, por padrão, quando você for criar uma categoria de produto, é exigido identificador e status, para que ele seja salvo. 
+Olhando de modo geral, por padrão, quando você for criar uma categoria de produto, é exigido identificador e status, para que seja salvo. 
 
 - **Descrição** (Defina o que será a categoria que está criando);
 - **Identificador** (Número para buscar mais rápido a categoria);
-- **Analítica** (Se ela será mais específica ou não);
+- **Analítica** (Sendo mais específica ou não);
 - **Status** (Ativado ou desativado);
 - **Código** (Identificação da categoria).
 

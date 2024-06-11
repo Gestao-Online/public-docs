@@ -50,7 +50,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 Clicando neste botão, você será direcionado para esta página, para fazer o preenchimento das informações do novo produto.
 
-Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Ele possui as seguintes opções:
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Com as seguintes opções:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;

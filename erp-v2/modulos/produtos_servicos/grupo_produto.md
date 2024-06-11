@@ -68,7 +68,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar um grupo de produto, é exigido descrição, identificador e status, para que ele seja salvo. 
+Olhando para a guia **`Geral`**, por padrão, quando você for criar um grupo de produto, é exigido descrição, identificador e status, para que seja salvo. 
 
 - **Descrição** (Descreva o grupo de produto que está criando);
 - **Identificador** (Número gerado automaticamente por nossa plataforma);
