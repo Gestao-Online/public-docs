@@ -49,7 +49,7 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 ![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_dentrode.gif)
 
 
-Ainda sobre a função de digitar valores, vocês pode também copiar uma lista e adicionar na pesquisa, caso já tenha uma pronta. Demonstramos abaixo o exemplo dee uso com uma tabela no excel, e inserindo os dados na plataforma:
+Ainda sobre a função de digitar valores, você pode também copiar uma lista e adicionar na pesquisa, caso já tenha uma pronta. Demonstramos abaixo o exemplo de uso com uma tabela no Excel, e inserindo os dados na plataforma:
 
 ![](/erp-v2/assets/filtros/aba_produtos_filtro_dentrode_colar.gif)
 
