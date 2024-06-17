@@ -14,10 +14,10 @@ Aqui você tem a visão de todos os usuários cadastrados na plataforma **Gestã
 
 <br>
 
-Nesta guia está um menu ao lado direito da tela com as seguintes funções:
+Nesta aba está um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_notificacao.png" alt="" data-size="line"> Enviar notificações para usuários;
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
