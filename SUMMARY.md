@@ -87,7 +87,7 @@
     * [🔩 Organizando seu grid](/erp-v2/primeiro_acesso/organizando_grid.md)
     * [📊 Relatórios e Dashboards na GRID](erp-v2/primeiro_acesso/relatorios_dashboard_grid.md)
   * [⚙️ Minhas preferências](erp-v2/minhas_preferencias/README.md)
-    * [🎲 Editando meu dados](erp-v2/minhas_preferencias/edit_meus_dados.md)
+    * [🎲 Editando meus dados](erp-v2/minhas_preferencias/edit_meus_dados.md)
     * [🔑 Alterando minha senha](erp-v2/minhas_preferencias/alt_minha_senha.md)
     * [📸 Alterando minha foto](erp-v2/minhas_preferencias/alt_minha_foto.md)
     * [🎨 Alterando a paleta de cores](erp-v2/minhas_preferencias/alt_paleta_cores.md)
