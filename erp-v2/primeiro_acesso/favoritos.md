@@ -8,7 +8,7 @@ No menu de **`Favoritos`**, você deixa separado as telas e dashboards que mais 
 
 Como você pôde observar, são duas telas e um dashboard por padrão nos favoritos, mas isso não é um problema, vamos te mostrar agora como adicionar novos itens a este menu.
 
-O primeiro passo é abrir o menu principal e procurar a função que você irá utilizar com frequência e abrir-lá, conforme exemplo abaixo, nós vamos abrir o menu de **[`vendas`](/erp-v2/modulos/vendas.md)**:
+O primeiro passo é abrir o menu principal, procurar a função que você irá utilizar com frequência e abri-la, conforme exemplo abaixo: nós vamos abrir o menu de **[`vendas`](/erp-v2/modulos/vendas.md)**:
 
 ![](/erp-v2/assets/menu_favoritos_abrir_item.gif)
 
