@@ -68,7 +68,7 @@ Depois de definido o tipo de usuário, agora vamos para a mensagem, deixamos um 
 - <img src="/erp-v2/assets/modulos/icon_italico.png" alt="" data-size="line"> Itálico;
 - <img src="/erp-v2/assets/modulos/icon_sublinhado.png" alt="" data-size="line"> Sublinhado
 - <img src="/erp-v2/assets/modulos/icon_hiperlink.png" alt="" data-size="line"> Hiperlink;
-- <img src="/erp-v2/assets/modulos/icon_lista_ordenada.png" alt="" data-size="line"> Listas ordenada;
+- <img src="/erp-v2/assets/modulos/icon_lista_ordenada.png" alt="" data-size="line"> Lista ordenada;
 - <img src="/erp-v2/assets/modulos/icon_lista_nao_ordenada.png" alt="" data-size="line"> Lista não ordenada;
 - <img src="/erp-v2/assets/modulos/icon_limpar_formatacao.png" alt="" data-size="line"> Limpar formatação. 
 
@@ -115,15 +115,15 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar uma conta é exigido o perfil e e-mail. Agora os outros campos para preenchimento pode deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
+Olhando para a guia **`Geral`**, por padrão, quando você for criar uma conta é exigido o perfil e e-mail. Agora os outros campos para preenchimento podem deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
 
 - **Nome** (Nome completo do usuário, podendo preencher depois);
 - **Nome usuário** (É usado para login na plataforma, podendo ser um nome/código/cpf);
 - **Alterar senha** (Para mais informações [clique aqui](/erp-v2/minhas_preferencias/alt_minha_senha.md));
 - **Status** (Aqui você define o status do usuário, sendo ativado, desativado ou aguardando registro);
-- **Perfil** (Item obrigatório, Aqui define que tipo de autorização que terá na plataforma);
+- **Perfil** (Item obrigatório, aqui define que tipo de autorização que terá na plataforma);
 - **Unidade** (Nome do local/setor de trabalho);
-- **E-mail** (Item obrigatório, a conta está vinculada exclusivamente ao email, não podendo ser modificado depois);
+- **E-mail** (Item obrigatório, a conta está vinculada exclusivamente ao e-mail, não podendo ser modificado depois);
 - **Telefone**;
 - **Documento** (Pode ser um RG/CPF/CNH, o usuário pode preencher depois);
 - **CEP** (Após inserir o CEP os demais dados serão preenchidos automaticamente);
