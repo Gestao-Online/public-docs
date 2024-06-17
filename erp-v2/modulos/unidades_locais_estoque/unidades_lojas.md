@@ -1,6 +1,6 @@
 # 🏪 Unidades/Lojas
 
-Aqui você tem a visão de todos as unidades/lojas cadastradas na plataforma Gestão.Online, podendo fazer cadastro, editar informações e até excluir um item cadastrado.
+Aqui você tem a visão de todos as unidades/lojas cadastradas na plataforma **Gestão.Online**, podendo fazer cadastro, editar informações e até excluir um item cadastrado.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -169,7 +169,7 @@ Aqui na parte de `endereço da unidade` já colocamos em nossa plataforma o pree
 
 <br>
 
-Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas da nossa plataforma da Gestão.Online, abaixo explicamos um pouco melhor sobre cada uma, para o caso de você querer saber mais sobre alguma [clique aqui](/erp-v2/modulos/parametrizacoes/tabelas_precos.md):
+Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas da nossa plataforma da **Gestão.Online**, abaixo explicamos um pouco melhor sobre cada uma, para o caso de você querer saber mais sobre alguma [clique aqui](/erp-v2/modulos/parametrizacoes/tabelas_precos.md):
 
 - **Tabela de preço principal:** Esta é a tabela de preço de venda para o cliente final;
 - **Tabela de preço secundária (Custo):** Aqui é a tabela de preço de custo da unidade parceira;

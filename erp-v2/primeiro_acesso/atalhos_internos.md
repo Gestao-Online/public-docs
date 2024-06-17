@@ -1,6 +1,6 @@
 # ↪️ Atalhos internos
 
-Assim como você tem atalhos com o botão direito do mouse no seu sistema operacional, nós temos na plataforma Gestão.Online este recurso. Vamos conferir!
+Assim como você tem atalhos com o botão direito do mouse no seu sistema operacional, nós temos na plataforma **Gestão.Online** este recurso. Vamos conferir!
 
 {% hint style="info" %}
 **Informação:** Para o exemplo utilizamos a aba de clientes, esses atalhos podem mudar dependendo da aba que você estiver utilizando no momento! 😉👍
