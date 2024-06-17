@@ -1,6 +1,6 @@
 # 📊 Relatórios e Dashboards na GRID
 
-Sempre que abre uma aba na plataforma **Gestão.Online** você deve ter observado que em algumas abas, no lado esquerdo um icone fica se movimentando indicando que tem mais informações a serem mostradas, esse é o ícone de dashboard flutuante. Nele você tem relatórios mais visuais sobre a aba que está aberta:
+Sempre que abre uma aba na plataforma **Gestão.Online** você deve ter observado que em algumas abas, no lado esquerdo um ícone fica se movimentando indicando que tem mais informações a serem mostradas, esse é o ícone de dashboard flutuante. Nele você tem relatórios mais visuais sobre a aba que está aberta:
 
 ![](/erp-v2/assets/relatorios_dashboard_aba.gif)
 
@@ -36,5 +36,5 @@ Alguns exemplos de atalhos de relatórios disponíveis no menu superior:
 - <img src="/erp-v2/assets/icon_folha_pdf.png" alt="" data-size="line"> Sintético - Vendas por unidade.
 
 {% hint style="warning" %}
-**Atenção:** Estes botões podem ser personalizados um a um caso seja preciso, com funções expecíficas que te ajudem no dia a dia.
+**Atenção:** Estes botões podem ser personalizados um a um caso seja preciso, com funções específicas que te ajudem no dia a dia.
 {% endhint %}
