@@ -17,7 +17,7 @@ Aqui você tem a visão de todos os vendedores e compradores cadastrados na plat
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
@@ -91,7 +91,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar um vendedor é exigido preencher os campos com asterisco. Agora os outros campos para preenchimento pode deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
+Olhando para a guia **`Geral`**, por padrão, quando você for criar um vendedor é exigido preencher os campos com asterisco. Agora os outros campos para preenchimento podem deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
 
 - **Nome** (Nome completo do vendedor);
 - **E-mail** (Não pode ser modificado depois, use o mesmo da conta de usuário);
