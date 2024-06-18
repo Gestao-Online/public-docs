@@ -1,6 +1,6 @@
 # 🔔 Notificações internas
 
-Aqui você encontrará todos os avisos, bastando apenas clicar no ícone do sininho. Estas notificações são geradas por rotinas internas da plataforma ou pelos administradores, para informar alguma atualização que será realizada, um certificado próximo do dia do vencimento ou até um lançamento pendente para fazer, observe:
+Aqui você encontrará todos os avisos, bastando apenas clicar no ícone do sininho. Estas notificações são geradas por rotinas internas da plataforma ou pelos administradores, observe:
 
 ![](/erp-v2/assets/notifica_normal.gif)
 

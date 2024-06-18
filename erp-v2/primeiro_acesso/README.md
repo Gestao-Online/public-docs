@@ -4,7 +4,7 @@ Ao fazer login na sua conta da plataforma **Gestão.Online** a primeira página 
 
 Você verá poucas opções no primeiro momento, mas esta tela ficará bem completa com as suas personalizações, deixando mais prático possível no seu dia a dia, basta seguir acompanhando nosso manual 😁.
 
-![](/erp-v2/assets/primeiro_acesso_tela.gif)
+<!-- ![](/erp-v2/assets/primeiro_acesso_tela.gif) MODIFICAR ESTE GIF -->
 
 <table data-view="cards">
     <thead>
