@@ -16,7 +16,7 @@ Quando se clica com o botão direito do mouse em cima de um item da aba (Neste c
 **Importante:** As opções disponíveis do botão direito do mouse sobre o item, pode variar com mais ou menos opções, tudo depende da aba que você está usando no momento.
 {% endhint %}
 
-![Neste exemplo utilizamos a aba Produtos](/erp-v2/assets/atalho_interno_btn_direito.gif)
+![](/erp-v2/assets/atalho_interno_btn_direito.gif)
 
 <br>
 
