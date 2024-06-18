@@ -24,7 +24,7 @@ Na tela de configuração você pode escolher a forma de exportação dos dados,
 
 Logo abaixo você tem o **modo de configuração**, essa parte é bem interessante, pois no modo *Configuração padrão* você tem os campos de preencher com todos os cards dentro. Enquanto que no modo de *Configuração e visualização* você tem uma pré-visualização da estrutura do relatório.
 
-No modo `Configuração padrão`, os cards de dentro você pode arrastar para mudar a posição (Ou arrastar novos itens para aparecer na exportação), editar e excluir:
+No modo `Configuração padrão`, os campos de dentro você pode arrastar para mudar a posição (Ou arrastar novos itens para aparecer na exportação), editar e excluir:
 
 ![](/erp-v2/assets/exportar_aba_config_padrao.gif)
 
@@ -41,7 +41,9 @@ Veja o exemplo de uma planilha sem o agrupamento por coluna e com o agrupamento 
 ![](/erp-v2/assets/exportar_aba_plan_padrao.png)
 ![](/erp-v2/assets/exportar_aba_plan_agrupar.png)
 
-Por último na opção de cálculos você pode arrastar itens para ela e fazer cálculos como somar quantidades ou valores de colunas que são permitidas.
+Por último na opção de cálculos você pode arrastar itens para ela e fazer cálculos como somar quantidades ou valores de colunas que são permitidas. Colocando assim uma linha com o resultado desse cálculo para você:
+
+![](/erp-v2/assets/exportar_aba_plan_calculo.png)
 
 Fechando assim você pode escolher se o cabeçalho personalizado irá aparecer ou não, e pode exportar o arquivo (Lembrando da regra de detalhado e resumido que é explicada acima)
 
@@ -49,7 +51,7 @@ Fechando assim você pode escolher se o cabeçalho personalizado irá aparecer o
 
 ### Salvando favoritos
 
-Finalizando o modo de exportação, saiba que esse modelo que criamos você pode salvar nos favoritos e utilizar sempre que precisar! 😁
+Finalizando o modo de exportação, saiba que esse modelo que criamos você pode salvar nos favoritos, e salvar quantos favoritos precisar, para utilizar sempre que quiser! 😁
 
 Clicando no botão **`Adicionar aos favoritos ⭐`** o modelo ficará disponível na janela que vimos no início da explicação. Observe abaixo o exemplo de uso:
 
@@ -66,6 +68,12 @@ Na tela de início da exportação, temos os favoritos detalhadas e resumidos. N
 - <img src="/erp-v2/assets/icon_excluir.png" alt="" data-size="line"> Excluir.
 
 ![](/erp-v2/assets/exportar_favoritos.png)
+
+Quando você clicar para ver um item favorito, o formato de visualização será mais curto e objetivo.
+
+Mas sempre que precisar pode editar o modelo que salvou clicando no botão **`Editar modelo`**
+
+![](/erp-v2/assets/exportar_favoritos_editar.png)
 
 ### Modelos sugeridos
 
