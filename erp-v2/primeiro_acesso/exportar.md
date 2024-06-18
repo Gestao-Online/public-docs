@@ -1,6 +1,6 @@
 # 📤 Exportar
 
-A função **`Exportar`** está disponível para você que deseja fazer uma analise detalhada, ou configurada por você mesmo. Podendo alterar os campos e informações que serão  geradas. Ou seja, um gerador de relatórios totalmente personalizável para você! 😉👍
+A função **`Exportar`** está disponível para você que deseja fazer uma análise detalhada, ou configurada por você mesmo. Podendo alterar os campos e informações que serão  geradas. Ou seja, um gerador de relatórios totalmente personalizável para você! 😉👍
 
 O ícone de acesso a ele está logo ao lado do botão de configurar a grid:
 
@@ -22,7 +22,7 @@ Na tela de configuração você pode escolher a forma de exportação dos dados,
 
 ![](/erp-v2/assets/exportar_aba_vendas_plan_pdf.gif)
 
-Logo abaixo você tem o **modo de configuração**, essa parte é bem interessante, pois no modo *Configuração padrão* você tem os campos de preencher com todos os cards dentro. Enquanto que no modo de *Configuração e visualização* você tem uma pré visualização da estrutura do relatório.
+Logo abaixo você tem o **modo de configuração**, essa parte é bem interessante, pois no modo *Configuração padrão* você tem os campos de preencher com todos os cards dentro. Enquanto que no modo de *Configuração e visualização* você tem uma pré-visualização da estrutura do relatório.
 
 No modo `Configuração padrão`, os cards de dentro você pode arrastar para mudar a posição (Ou arrastar novos itens para aparecer na exportação), editar e excluir:
 
@@ -41,7 +41,7 @@ Veja o exemplo de uma planilha sem o agrupamento por coluna e com o agrupamento 
 ![](/erp-v2/assets/exportar_aba_plan_padrao.png)
 ![](/erp-v2/assets/exportar_aba_plan_agrupar.png)
 
-Por último na opção de cálculos você pode arrastar itens para ela e fazer calculos como somar quantidades ou valores de colunas que são permitidas.
+Por último na opção de cálculos você pode arrastar itens para ela e fazer cálculos como somar quantidades ou valores de colunas que são permitidas.
 
 Fechando assim você pode escolher se o cabeçalho personalizado irá aparecer ou não, e pode exportar o arquivo (Lembrando da regra de detalhado e resumido que é explicada acima)
 
@@ -51,15 +51,15 @@ Fechando assim você pode escolher se o cabeçalho personalizado irá aparecer o
 
 Finalizando o modo de exportação, saiba que esse modelo que criamos você pode salvar nos favoritos e utilizar sempre que precisar! 😁
 
-Clicando no botão **`Adicionar aos favoritos ⭐`** o modelo ficará disponivel na janela que vimos no início da explicação. Observe abaixo o exemplo de uso:
+Clicando no botão **`Adicionar aos favoritos ⭐`** o modelo ficará disponível na janela que vimos no início da explicação. Observe abaixo o exemplo de uso:
 
 ![](/erp-v2/assets/exportar_aba_salvar_fav.gif)
 
-Observe que ao salvar um modelo de exportação, uma nova opção surge com o nome que você digitou e o botão de editar o nome do favorito fica disponível pra você:
+Observe que ao salvar um modelo de exportação, uma nova opção surge com o nome que você digitou e o botão de editar o nome do favorito fica disponível para você:
 
 ![](/erp-v2/assets/exportar_edit_nome.png)
 
-Na tela de início da exportação, temos os favoritos detalhadas e resumidos. No exemplo nós deixamos um item salvo, ele tem três botoês de ação:
+Na tela de início da exportação, temos os favoritos detalhadas e resumidos. No exemplo nós deixamos um item salvo, ele tem três botões de ação:
 
 - <img src="/erp-v2/assets/icon_ver_item.png" alt="" data-size="line"> Ver Item;
 - <img src="/erp-v2/assets/icon_editar_item.png" alt="" data-size="line"> Editar Item;
