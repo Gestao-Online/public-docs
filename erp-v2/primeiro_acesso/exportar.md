@@ -59,6 +59,14 @@ Observe que ao salvar um modelo de exportação, uma nova opção surge com o no
 
 ![](/erp-v2/assets/exportar_edit_nome.png)
 
+Na tela de início da exportação, temos os favoritos detalhadas e resumidos. No exemplo nós deixamos um item salvo, ele tem três botoês de ação:
+
+- <img src="/erp-v2/assets/icon_ver_item.png" alt="" data-size="line"> Ver Item;
+- <img src="/erp-v2/assets/icon_editar_item.png" alt="" data-size="line"> Editar Item;
+- <img src="/erp-v2/assets/icon_excluir.png" alt="" data-size="line"> Excluir.
+
+![](/erp-v2/assets/exportar_favoritos.png)
+
 ### Modelos sugeridos
 
 Tendo duas opções de relatório, sendo de indições ou vendas por unidade, com itens já pré selecionados. 
@@ -66,3 +74,4 @@ Tendo duas opções de relatório, sendo de indições ou vendas por unidade, co
 Mesmo esses modelos estando prontos para você exportar, as modificações podem ser feitas a qualquer momento, arrastando novos itens, ou removendo itens que você não vai precisar:
 
 ![](/erp-v2/assets/exportar_aba_salvar_fav.gif)
+
