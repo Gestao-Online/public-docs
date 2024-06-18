@@ -22,13 +22,15 @@ Na tela de configuração você pode escolher a forma de exportação dos dados,
 
 ![](/erp-v2/assets/exportar_aba_vendas_plan_pdf.gif)
 
-Logo abaixo você tem o modo de configuração, essa parte é bem interessante, pois no modo padrão você os campos de preencher com todos os cards dentro.
+Logo abaixo você tem o **modo de configuração**, essa parte é bem interessante, pois no modo *Configuração padrão* você tem os campos de preencher com todos os cards dentro. Enquanto que no modo de *Configuração e visualização* você tem uma pré visualização da estrutura do relatório.
 
 No modo `Configuração padrão`, os cards de dentro você pode arrastar para mudar a posição (Ou arrastar novos itens para aparecer na exportação), editar e excluir:
 
 ![](/erp-v2/assets/exportar_aba_config_padrao.gif)
 
-Como você pode ver, são muitas opções para personalizar a exportação. Além da opção de campos para exportação que foi demonstrado acima, você tem a de `Agrupar coluna`, com ela, você pode separar os resultados exibidos. 
+Como você pode ver, são muitas opções para personalizar a exportação!
+
+Além da opção de `Campos para exportação` que foi demonstrado acima, você tem a de `Agrupar coluna`, com ela, você pode separar os resultados exibidos com agrupamentos. 
 
 Veja o exemplo de uma planilha sem o agrupamento por coluna e com o agrupamento por coluna:
 
