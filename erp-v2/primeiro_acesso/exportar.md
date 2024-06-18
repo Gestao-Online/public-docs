@@ -24,7 +24,7 @@ Na tela de configuração você pode escolher a forma de exportação dos dados,
 
 ### Modo configuração padrão
 
-Logo abaixo você tem o **modo de configuração**, essa parte é bem interessante, pois no modo *Configuração padrão* você tem os campos de preencher com todos os cards dentro. Enquanto que no modo de *Configuração e visualização* você tem uma pré-visualização da estrutura do relatório.
+Logo abaixo você tem o **modo de configuração**, essa parte é bem interessante, pois no modo *Configuração padrão* você tem os campos de preencher com todos os campos dentro. Enquanto isso, no modo de *Configuração e visualização* você tem uma tela com a pré-visualização da estrutura do relatório.
 
 No modo `Configuração padrão`, os campos de dentro você pode arrastar para mudar a posição (Ou arrastar novos itens para aparecer na exportação), editar e excluir:
 
@@ -57,7 +57,7 @@ Fechando assim você pode escolher se o cabeçalho personalizado irá aparecer o
 
 ## Modo configuração e visualização
 
-Quando você ativa o modo de configuração de visualização, uma tela interativa é aberta para você, podendo mover as colunas usando o mouse, até as configurações de cálculo já aparecem na parte inferior  para você pdoer definir.
+Quando você ativa o modo de configuração de visualização, uma tela interativa é aberta para você, podendo mover as colunas usando o mouse, até as configurações de cálculo já aparecem na parte inferior  para você poder definir.
 
 Observe a demonstração que fizemos logo abaixo:
 
@@ -85,13 +85,13 @@ Na tela de início da exportação, temos os favoritos detalhadas e resumidos. N
 
 Quando você clicar para ver um item favorito, o formato de visualização será mais curto e objetivo.
 
-Mas sempre que precisar pode editar o modelo que salvou clicando no botão **`Editar modelo`**
+Mas sempre que precisar, você pode editar o modelo que salvou clicando no botão **`Editar modelo`**
 
 ![](/erp-v2/assets/exportar_favoritos_editar.png)
 
 ### Modelos sugeridos
 
-Tendo duas opções de relatório, sendo de indicações ou vendas por unidade, com itens já pré selecionados. 
+Tendo duas opções de relatório, sendo de indicações ou vendas por unidade, com itens já pré-selecionados. 
 
 Mesmo esses modelos estando prontos para você exportar, as modificações podem ser feitas a qualquer momento, arrastando novos itens, ou removendo itens que você não vai precisar:
 
