@@ -83,7 +83,7 @@
     * [🗄️ Menu principal](erp-v2/primeiro_acesso/menu_principal.md)
     * [⭐ Favoritos](erp-v2/primeiro_acesso/favoritos.md)
     * [📩 Utilizando filtros](erp-v2/primeiro_acesso/filtros.md)
-    * [↪️ Atalhos internos](erp-v2/primeiro_acesso/atalhos_internos.md)
+    * [↪️ Atalhos e ações internas](erp-v2/primeiro_acesso/atalhos_internos.md)
     * [🔩 Organizando seu grid](/erp-v2/primeiro_acesso/organizando_grid.md)
     * [📊 Relatórios e Dashboards na GRID](erp-v2/primeiro_acesso/relatorios_dashboard_grid.md)
   * [⚙️ Minhas preferências](erp-v2/minhas_preferencias/README.md)
