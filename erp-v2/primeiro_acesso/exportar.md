@@ -2,7 +2,7 @@
 
 A função **`Exportar`** está disponível para você que deseja fazer uma analise detalhada, ou configurada por você mesmo. Podendo alterar os campos e informações que serão  geradas. Ou seja, um gerador de relatórios totalmente personalizável para você! 😉👍
 
-O ícone de acesso a ele está logo ao lado do botão de configurar os filtros:
+O ícone de acesso a ele está logo ao lado do botão de configurar a grid:
 
 ![](/erp-v2/assets/exportar_aba_vendas.png)
 
