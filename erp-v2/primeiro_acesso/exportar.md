@@ -55,3 +55,14 @@ Clicando no botão **`Adicionar aos favoritos ⭐`** o modelo ficará disponivel
 
 ![](/erp-v2/assets/exportar_aba_salvar_fav.gif)
 
+Observe que ao salvar um modelo de exportação, uma nova opção surge com o nome que você digitou e o botão de editar o nome do favorito fica disponível pra você:
+
+![](/erp-v2/assets/exportar_edit_nome.png)
+
+### Modelos sugeridos
+
+Tendo duas opções de relatório, sendo de indições ou vendas por unidade, com itens já pré selecionados. 
+
+Mesmo esses modelos estando prontos para você exportar, as modificações podem ser feitas a qualquer momento, arrastando novos itens, ou removendo itens que você não vai precisar:
+
+![](/erp-v2/assets/exportar_aba_salvar_fav.gif)
