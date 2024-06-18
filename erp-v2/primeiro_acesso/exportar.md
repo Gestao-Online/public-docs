@@ -46,3 +46,10 @@ Por último na opção de cálculos você pode arrastar itens para ela e fazer c
 Fechando assim você pode escolher se o cabeçalho personalizado irá aparecer ou não, e pode exportar o arquivo (Lembrando da regra de detalhado e resumido que é explicada acima)
 
 ![](/erp-v2/assets/exportar_aba_calc_exportar.gif)
+
+Finalizando o modo de exportação, saiba que esse modelo que criamos você pode salvar nos favoritos e utilizar sempre que precisar! 😁
+
+Clicando no botão **`Adicionar aos favoritos ⭐`** o modelo ficará disponivel na janela que vimos no início da explicação. Observe abaixo o exemplo de uso:
+
+![](/erp-v2/assets/exportar_aba_salvar_fav.gif)
+
