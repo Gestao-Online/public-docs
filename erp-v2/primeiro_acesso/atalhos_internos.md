@@ -20,6 +20,8 @@ Quando se clica com o botão direito do mouse em cima de um item da aba (Neste c
 
 <br>
 
+
+
 Outra função bem interessante que temos é fazer uso da tecla **`Ctrl`** (Controle) para Windows/Linux e **`⌘ command`** para Mac, e assim clicar e selecionar vários itens ao mesmo tempo.
 
 Observe que até um novo menu rápido fica disponível quando se clica com o botão direito do mouse. E o menu superior se modifica também com essas mesmas opções:
@@ -60,6 +62,10 @@ Importante lembrar que você pode fazer alterações em lote, selecionando vári
 ![](/erp-v2/assets/atalho_btn_mouse_lotes.gif)
 
 <br>
+
+### Menu de ações superior (Ações na barra de ferramentas da grid - indepente do item geral, sem seleçāo)
+
+<!-- list-toolbar (Ações na barra de ferramentas da grid - indepente do item geral, sem seleçāo) -->
 
 Não só a função do botão direito, você tem disponíveis em cada aba um menu superior com botões específicos para cada situação, com impressão de página, atualizar página, adicionar novo item, entre vários outros.
 
