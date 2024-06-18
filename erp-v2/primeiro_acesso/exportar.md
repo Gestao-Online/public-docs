@@ -22,6 +22,8 @@ Na tela de configuração você pode escolher a forma de exportação dos dados,
 
 ![](/erp-v2/assets/exportar_aba_vendas_plan_pdf.gif)
 
+### Modo configuração padrão
+
 Logo abaixo você tem o **modo de configuração**, essa parte é bem interessante, pois no modo *Configuração padrão* você tem os campos de preencher com todos os cards dentro. Enquanto que no modo de *Configuração e visualização* você tem uma pré-visualização da estrutura do relatório.
 
 No modo `Configuração padrão`, os campos de dentro você pode arrastar para mudar a posição (Ou arrastar novos itens para aparecer na exportação), editar e excluir:
@@ -41,13 +43,25 @@ Veja o exemplo de uma planilha sem o agrupamento por coluna e com o agrupamento 
 ![](/erp-v2/assets/exportar_aba_plan_padrao.png)
 ![](/erp-v2/assets/exportar_aba_plan_agrupar.png)
 
-Por último na opção de cálculos você pode arrastar itens para ela e fazer cálculos como somar quantidades ou valores de colunas que são permitidas. Colocando assim uma linha com o resultado desse cálculo para você:
+Por último na opção de cálculos você pode arrastar itens para ela e fazer cálculos como somar quantidades ou valores de colunas que são permitidas:
+
+![](/erp-v2/assets/exportar_aba_plan_calc.png)
+
+Colocando assim uma linha com o resultado desse cálculo para você. Observe o resultado em uma planilha exportada de exemplo:
 
 ![](/erp-v2/assets/exportar_aba_plan_calculo.png)
 
 Fechando assim você pode escolher se o cabeçalho personalizado irá aparecer ou não, e pode exportar o arquivo (Lembrando da regra de detalhado e resumido que é explicada acima)
 
 ![](/erp-v2/assets/exportar_aba_calc_exportar.gif)
+
+## Modo configuração e visualização
+
+Quando você ativa o modo de configuração de visualização, uma tela interativa é aberta para você, podendo mover as colunas usando o mouse, até as configurações de cálculo já aparecem na parte inferior  para você pdoer definir.
+
+Observe a demonstração que fizemos logo abaixo:
+
+![](/erp-v2/assets/exportar_aba_modo_visual.gif)
 
 ### Salvando favoritos
 
@@ -77,7 +91,7 @@ Mas sempre que precisar pode editar o modelo que salvou clicando no botão **`Ed
 
 ### Modelos sugeridos
 
-Tendo duas opções de relatório, sendo de indições ou vendas por unidade, com itens já pré selecionados. 
+Tendo duas opções de relatório, sendo de indicações ou vendas por unidade, com itens já pré selecionados. 
 
 Mesmo esses modelos estando prontos para você exportar, as modificações podem ser feitas a qualquer momento, arrastando novos itens, ou removendo itens que você não vai precisar:
 
