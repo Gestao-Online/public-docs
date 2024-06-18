@@ -30,7 +30,7 @@ No modo `Configuração padrão`, os cards de dentro você pode arrastar para mu
 
 Como você pode ver, são muitas opções para personalizar a exportação!
 
-Além da opção de `Campos para exportação` que foi demonstrado acima, você tem a de `Agrupar coluna`, com ela, você pode separar os resultados exibidos com agrupamentos. 
+Além da opção de `Campos para exportação` que foi demonstrado acima, você tem a de `Agrupar coluna`, com ela, você pode separar os resultados exibidos com agrupamentos.
 
 Veja o exemplo de uma planilha sem o agrupamento por coluna e com o agrupamento por coluna:
 
@@ -41,3 +41,8 @@ Veja o exemplo de uma planilha sem o agrupamento por coluna e com o agrupamento 
 ![](/erp-v2/assets/exportar_aba_plan_padrao.png)
 ![](/erp-v2/assets/exportar_aba_plan_agrupar.png)
 
+Por último na opção de cálculos você pode arrastar itens para ela e fazer calculos como somar quantidades ou valores de colunas que são permitidas.
+
+Fechando assim você pode escolher se o cabeçalho personalizado irá aparecer ou não, e pode exportar o arquivo (Lembrando da regra de detalhado e resumido que é explicada acima)
+
+![](/erp-v2/assets/exportar_aba_calc_exportar.gif)
