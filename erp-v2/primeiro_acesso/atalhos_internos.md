@@ -54,7 +54,7 @@ Ainda mostrando a aba de vendas, usando o botão direito do mouse, você tem uma
 <br>
 
 ### Ações com menu do botão direito do mouse (Ações em lote de itens selecionados no botāo direito de um item na grid) 
-<!-- multi-toolbar  (Ações em lote de itens selecionados na barra de ferramenta da grid)
+<!-- multi-right-click (Ações em lote de itens selecionados no botāo direito de um item na grid)
  -->
 
 Importante lembrar que você pode fazer alterações em lote, selecionando vários itens ao mesmo tempo, clicando com o botão direito do mouse, conforme exemplo abaixo:
