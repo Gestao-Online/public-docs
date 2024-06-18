@@ -36,9 +36,7 @@ Se por acaso você marcar algum item errado, ou quiser cancelar a seleção, pod
 
 <br>
 
-### Botão direito do mouse 
-
-(Ações no botāo direito de um item)
+### Atalho de nova aba
 
 Seguindo o exemplo de uso do botão direito do mouse, na aba de vendas por exemplo, temos o ícone <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> do quadrado com a seta, clicando nele você é direcionado para aba cliente/parceiro:
 
