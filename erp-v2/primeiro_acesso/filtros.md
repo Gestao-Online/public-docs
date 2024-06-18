@@ -4,12 +4,9 @@ Observe abaixo como utilizar as funções que estão presentes em todas as abas 
 
 No menu de filtro você pode definir uma busca específica por itens, seja por ID, descrição, código, identificador, status, grupo e várias outras opções. 
 
-{% hint style="danger" %}
-**Atenção:** Para esse guia, nós utilizamos a aba `Produtos` para trazer as explicações!
-{% endhint %}
+{% hint style="warning" %}
+**Informação:** Escolhemos algumas telas para demonstrar os tipos de filtros, mas lembrando que os filtros podem ser executados em praticamente todas as telas do sistema. 
 
-{% hint style="info" %}
-**Informativo:** Lembre-se que os filtros podem ser usados em conjunto para melhorar a sua pesquisa!
 {% endhint %}
 
 ![Para esta demonstração, utilizamos a aba Produtos.](/erp-v2/assets/filtros/cabecalho_filtro.png)
@@ -17,6 +14,10 @@ No menu de filtro você pode definir uma busca específica por itens, seja por I
 <br>
 
 Logo acima no menu superior, temos o botão de atalho dos filtros, quando clicamos nele, podemos ver todos os itens de busca disponíveis, tendo assim mais de uma forma de busca, confira abaixo:
+
+{% hint style="info" %}
+**Informativo:** Lembre-se que os filtros podem ser usados em conjunto para melhorar a sua pesquisa!
+{% endhint %}
 
 ![](/erp-v2/assets/filtros/aba_vendas_menu_filtro.gif)
 
