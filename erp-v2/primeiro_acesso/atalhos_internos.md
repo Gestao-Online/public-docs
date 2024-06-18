@@ -20,7 +20,7 @@ Quando se clica com o botão direito do mouse em cima de um item da aba (Neste c
 
 <br>
 
-
+### Selecionar vários itens
 
 Outra função bem interessante que temos é fazer uso da tecla **`Ctrl`** (Controle) para Windows/Linux e **`⌘ command`** para Mac, e assim clicar e selecionar vários itens ao mesmo tempo.
 
@@ -45,8 +45,6 @@ Seguindo o exemplo de uso do botão direito do mouse, na aba de vendas por exemp
 <br>
 
 ### Menu botão direito do mouse 
-
-(Ações no botāo direito de um item da grid)
 <!-- right-click (Ações no botāo direito de um item da grid) -->
 
 Ainda mostrando a aba de vendas, usando o botão direito do mouse, você tem uma variedade de atalhos para facilitar o dia a dia com a plataforma, são eles para gerar NF, cancelar uma venda, enviar notificação, editar um item, abrir este item em nova aba para editar e até excluir:
@@ -57,7 +55,6 @@ Ainda mostrando a aba de vendas, usando o botão direito do mouse, você tem uma
 
 ### Ações em lote com menu do botão direito do mouse 
 
-(Ações em lote de itens selecionados no botāo direito de um item na grid) 
 <!-- multi-right-click (Ações em lote de itens selecionados no botāo direito de um item na grid)
  -->
 
@@ -68,9 +65,6 @@ Importante lembrar que você pode fazer alterações em lote, selecionando vári
 <br>
 
 ### Menu de ações superior 
-
-(Ações na barra de ferramentas da grid - indepente do item geral, sem seleçāo)
-
 <!-- list-toolbar (Ações na barra de ferramentas da grid - indepente do item geral, sem seleçāo) -->
 
 Não só a função do botão direito, você tem disponíveis em cada aba um menu superior com botões específicos para cada situação, com impressão de página, atualizar página, adicionar novo item, entre vários outros.
@@ -94,6 +88,8 @@ Até quando clicar para editar/criar um novo cliente você tem atalhos na parte 
 
 <br>
 
+### Atalhos com teclas
+
 Assim como o botão direito do mouse, na plataforma também é disponível o uso de atalhos com teclas, por exemplo o `Ctrl` + `A`, sendo utilizado para você selecionar vários itens ao mesmo tempo, observe abaixo:
 
 {% hint style="info" %}
@@ -109,6 +105,8 @@ Outro atalho com teclas é o `Ctrl` + `C`, podendo copiar textos que você clico
 ![](/erp-v2/assets/atalho_ctrl_c.gif)
 
 <br>
+
+### Menu botão direito do mouse
 
 Você também tem atalhos no momento de fazer o cadastro de um item, seja produto, venda ou uma loja por exemplo. Os campos de preenchimento na sua maioria, contam com atalhos para tanto criar um item, quanto abrir a aba de referência para uma busca ou edição:
 
