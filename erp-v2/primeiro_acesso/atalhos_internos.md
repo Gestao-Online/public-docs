@@ -55,7 +55,7 @@ Ainda mostrando a aba de vendas, usando o botão direito do mouse, você tem uma
 
 <br>
 
-### Ações com menu do botão direito do mouse 
+### Ações em lote com menu do botão direito do mouse 
 
 (Ações em lote de itens selecionados no botāo direito de um item na grid) 
 <!-- multi-right-click (Ações em lote de itens selecionados no botāo direito de um item na grid)
