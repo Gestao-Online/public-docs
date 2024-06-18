@@ -2,11 +2,12 @@
 
 Observe abaixo como utilizar as funções que estão presentes em todas as abas da nossa plataforma da **Gestão.Online**.😁
 
-No menu de filtro você pode definir uma busca específica por itens, seja por ID, descrição, código, identificador, status, grupo e várias outras opções. 
+Esse guia tem como intuito explicar os tipos de filtro, e a melhor maneira de utiliza-los.
+
+No menu de filtro você pode definir uma busca específica por itens, seja por ID, descrição, código, identificador, status, grupo ou várias outras opções (Pois isso vai depender da tela em que está sendo utilizado o filtro). 
 
 {% hint style="warning" %}
-**Informação:** Escolhemos algumas telas para demonstrar os tipos de filtros, mas lembrando que os filtros podem ser executados em praticamente todas as telas do sistema. 
-
+**Informação:** Escolhemos algumas telas para demonstrar os tipos de filtros, mas lembrando que os filtros podem ser executados em praticamente todas as telas do sistema.
 {% endhint %}
 
 ![Para esta demonstração, utilizamos a aba Produtos.](/erp-v2/assets/filtros/cabecalho_filtro.png)
