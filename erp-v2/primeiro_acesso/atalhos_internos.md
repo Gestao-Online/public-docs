@@ -34,17 +34,26 @@ Se por acaso você marcar algum item errado, ou quiser cancelar a seleção, pod
 
 <br>
 
+### Botão direito do mouse (Ações no botāo direito de um item)
+
 Seguindo o exemplo de uso do botão direito do mouse, na aba de vendas por exemplo, temos o ícone <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> do quadrado com a seta, clicando nele você é direcionado para aba cliente/parceiro:
 
 ![](/erp-v2/assets/atalho_icone_vendas.gif)
 
 <br>
 
+### Menu botão direito do mouse (Ações no botāo direito de um item da grid)
+<!-- right-click (Ações no botāo direito de um item da grid) -->
+
 Ainda mostrando a aba de vendas, usando o botão direito do mouse, você tem uma variedade de atalhos para facilitar o dia a dia com a plataforma, são eles para gerar NF, cancelar uma venda, enviar notificação, editar um item, abrir este item em nova aba para editar e até excluir:
 
 ![](/erp-v2/assets/atalho_btn_mouse_vendas.gif)
 
 <br>
+
+### Ações com menu do botão direito do mouse (Ações em lote de itens selecionados no botāo direito de um item na grid) 
+<!-- multi-toolbar  (Ações em lote de itens selecionados na barra de ferramenta da grid)
+ -->
 
 Importante lembrar que você pode fazer alterações em lote, selecionando vários itens ao mesmo tempo, clicando com o botão direito do mouse, conforme exemplo abaixo:
 
