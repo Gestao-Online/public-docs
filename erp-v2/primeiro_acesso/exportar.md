@@ -96,4 +96,3 @@ Tendo duas opções de relatório, sendo de indicações ou vendas por unidade, 
 Mesmo esses modelos estando prontos para você exportar, as modificações podem ser feitas a qualquer momento, arrastando novos itens, ou removendo itens que você não vai precisar:
 
 ![](/erp-v2/assets/exportar_aba_salvar_fav.gif)
-
