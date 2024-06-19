@@ -1,6 +1,6 @@
 # 📤 Exportar
 
-A função **`Exportar`** está disponível para você que deseja fazer uma análise detalhada, ou configurada por você mesmo. Podendo alterar os campos e informações que serão  geradas. Ou seja, um gerador de relatórios totalmente personalizável para você! 😉👍
+A opção **`Exportar`** está à sua disposição caso deseje realizar uma análise detalhada ou configurar o que será exportado. Você pode personalizar completamente os campos e informações geradas. Em outras palavras, é um gerador de relatórios totalmente adaptável às suas necessidades! 😉👍
 
 O ícone de acesso a ele está logo ao lado do botão de configurar a grid:
 
