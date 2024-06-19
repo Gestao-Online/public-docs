@@ -16,7 +16,9 @@ Pórem, os campos necessários podem variar dependendo da aba que você estiver 
 
 Ao clicar no botão <img src="/erp-v2/assets/icon_upload.png" alt="" data-size="line"> para fazer o envio da planilha, uma outra janela vai abrir para você poder enviar a sua planilha.
 
-Neste exemplo uilizamos uma planilha simples com alguns campos 
+Neste exemplo uilizamos uma planilha simples somente com os campos obrigatórios solicitados pelo sistema para poder fazer o upload:
+
+![](/erp-v2/assets/importar_botao_tela.gif)
 
 Logo após você importar, você define manualmente os campos relacionados para que a nossa plataforma possa fazer a importação. 
 
