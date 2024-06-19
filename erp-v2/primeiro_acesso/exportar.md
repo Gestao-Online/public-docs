@@ -8,7 +8,7 @@ O ícone de acesso a ele está logo ao lado do botão de configurar a grid:
 
 Ao clicar nele, uma janela pop-up será aberta e nela você tem algumas funções pré-programadas para utilizar.
 
-Com a janela aberta, você pode selecionar um dos modelos sugeridos, entre resumido ou detalhado, e também consegue ver os favoritos, tanto resumido quanto detalhado, porém eles estão vazios, iremos preencher um no decorrer da explicação:
+Com a janela aberta, você pode selecionar um dos modelos sugeridos, entre resumido ou detalhado, e também consegue ver os favoritos, tanto resumido quanto detalhado, (No momento eles estão vazios, mas iremos criar um no decorrer da explicação):
 
 ![](/erp-v2/assets/exportar_aba_vendas_janela.png)
 
@@ -18,15 +18,15 @@ O primeiro botão é **`Começar exportação (Padrão)`**, vamos conhecer um po
 
 ![](/erp-v2/assets/exportar_aba_vendas_janela.gif)
 
-Na tela de configuração você pode escolher a forma de exportação dos dados, entre detalhado ou resumido. Onde o detalhado é permitido somente o download no formato de planilha, e o resumido no formato planilha e PDF.
+Na tela de configuração você pode escolher a **forma de exportação dos dados**, entre *detalhado* ou *resumido*. Onde o detalhado é permitido somente o download no formato de planilha, e o resumido no formato planilha e PDF.
 
 ![](/erp-v2/assets/exportar_aba_vendas_plan_pdf.gif)
 
 ### Modo configuração padrão
 
-Logo abaixo você tem o **modo de configuração**, essa parte é bem interessante, pois no modo *Configuração padrão* você tem os campos de preencher com todos os campos dentro. Enquanto isso, no modo de *Configuração e visualização* você tem uma tela com a pré-visualização da estrutura do relatório.
+Na escolha de um dos itens você duas opções, no modo *Configuração padrão* você tem os cards de preencher com todos os campos dentro. Enquanto isso, no modo de *Configuração e visualização* você tem uma tela com a pré-visualização da estrutura do relatório.
 
-No modo `Configuração padrão`, os campos de dentro você pode arrastar para mudar a posição (Ou arrastar novos itens para aparecer na exportação), editar e excluir:
+No modo `Configuração padrão`, os campos de dentro você pode arrastar para mudar a posição, editar, excluir ou arrastar/selecionar novos campos no menu do lado esquerdo, para aparecer na exportação:
 
 ![](/erp-v2/assets/exportar_aba_config_padrao.gif)
 
