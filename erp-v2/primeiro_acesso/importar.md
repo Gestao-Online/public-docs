@@ -8,7 +8,17 @@ Ao clicar neste botão, será aberta uma janela pop-up para você fazer a import
 
 ![](/erp-v2/assets/importar_botao_tela.gif)
 
-logo após, você importar, você define manualmente os campos relacionados para que a nossa plataforma possa fazer a importação. 
+**Essa é a tela que você verá ao clicar para fazer importação, são muitos campos para preencher não é mesmo? 😅**
+
+Pórem, os campos necessários podem variar dependendo da aba que você estiver utilizando no sistema, podendo ter mais ou menos campos para importação:
+
+![](/erp-v2/assets/importar_tela_importacao.png)
+
+Ao clicar no botão <img src="/erp-v2/assets/icon_upload.png" alt="" data-size="line"> para fazer o envio da planilha, uma outra janela vai abrir para você poder enviar a sua planilha.
+
+Neste exemplo uilizamos uma planilha simples com alguns campos 
+
+Logo após você importar, você define manualmente os campos relacionados para que a nossa plataforma possa fazer a importação. 
 
 Confira abaixo o procedimento:
 
