@@ -43,7 +43,7 @@ Veja o exemplo de uma planilha sem o agrupamento por coluna e com o agrupamento 
 ![Sem agrupamento por coluna](/erp-v2/assets/exportar_aba_plan_padrao.png)
 ![Com agrupamento por coluna](/erp-v2/assets/exportar_aba_plan_agrupar.png)
 
-Por último na opção de cálculos você pode arrastar itens para ela e fazer cálculos como somar quantidades ou valores de colunas que são permitidas:
+Por último, na opção de cálculos, você pode arrastar campos permitidos e fazer cálculos como somar quantidades ou valores de colunas que são permitidas.
 
 ![](/erp-v2/assets/exportar_aba_plan_calc.png)
 
@@ -51,13 +51,17 @@ Colocando assim uma linha com o resultado desse cálculo para você. Observe o r
 
 ![](/erp-v2/assets/exportar_aba_plan_calculo.png)
 
-Fechando assim você pode escolher se o cabeçalho personalizado irá aparecer ou não, e pode exportar o arquivo (Lembrando da regra de detalhado e resumido que é explicada acima)
+Finalizando, você pode escolher se o cabeçalho personalizado irá aparecer ou não, e então exportar o arquivo (Lembrando da regra de **detalhado** e **resumido** que é explicada acima)
+
+{% hint style="info" %}
+**Informação:** o cabeçalho da personalizado trará a logo da sua empresa e os dados de quem emitiu o item exportado, assim como a data e hora da emissão!  😉👍
+{% endhint %}
 
 ![](/erp-v2/assets/exportar_aba_calc_exportar.gif)
 
 ## Modo configuração e visualização
 
-Quando você ativa o modo de configuração de visualização, uma tela interativa é aberta para você, podendo mover as colunas usando o mouse, até as configurações de cálculo já aparecem na parte inferior  para você poder definir.
+Quando você ativa o **`Modo de configuração de visualização`**, uma tela interativa é aberta para você, podendo mover as colunas usando o mouse. Até as configurações de cálculo já aparecem na parte inferior  para você poder definir.
 
 Observe a demonstração que fizemos logo abaixo:
 
@@ -75,7 +79,9 @@ Observe que ao salvar um modelo de exportação, uma nova opção surge com o no
 
 ![](/erp-v2/assets/exportar_edit_nome.png)
 
-Na tela de início da exportação, temos os favoritos detalhadas e resumidos. No exemplo nós deixamos um item salvo, ele tem três botões de ação:
+Na tela de início da exportação, temos os favoritos detalhados e resumidos. 
+
+No exemplo nós deixamos um item salvo, ele tem três botões de ação:
 
 - <img src="/erp-v2/assets/icon_ver_item.png" alt="" data-size="line"> Ver Item;
 - <img src="/erp-v2/assets/icon_editar_item.png" alt="" data-size="line"> Editar Item;
@@ -91,8 +97,8 @@ Mas sempre que precisar, você pode editar o modelo que salvou clicando no botã
 
 ### Modelos sugeridos
 
-Tendo duas opções de relatório, sendo de indicações ou vendas por unidade, com itens já pré-selecionados. 
+Tendo duas opções de relatório, sendo de indicações ou vendas por unidade, com campos já pré-selecionados. 
 
-Mesmo esses modelos estando prontos para você exportar, as modificações podem ser feitas a qualquer momento, arrastando novos itens, ou removendo itens que você não vai precisar:
+Mesmo esses modelos estando prontos para você exportar, as modificações podem ser feitas a qualquer momento, arrastando novos itens, ou removendo itens que você não vai precisar, e claro você podendo salvar essas modificações como favoritos:
 
 ![](/erp-v2/assets/exportar_aba_salvar_fav.gif)
