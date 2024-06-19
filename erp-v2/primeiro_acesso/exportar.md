@@ -99,6 +99,10 @@ Mas sempre que precisar, você pode editar o modelo que salvou clicando no botã
 
 Os modelos sugeridos são oferecidos conforme a aba que você estiver tentanto exportar as informações, com campos já pré-selecionados com base no que você possivelmente precisará ver no relatório que será gerado. 
 
+Lembrando que os modelos mostrados abaixo são um exemplo, cada aba poderá ter opções diferentes:
+
+![](/erp-v2/assets/exportar_aba_modelo_sugestao.png)
+
 Mesmo esses modelos estando prontos para você exportar, as modificações podem ser feitas a qualquer momento, arrastando novos campos, ou removendo campos que não vai precisar, e você pode salvar essas modificações como favoritos:
 
 ![](/erp-v2/assets/exportar_aba_salvar_fav.gif)
