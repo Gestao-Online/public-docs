@@ -87,7 +87,7 @@
     * [🔩 Organizando seu grid](/erp-v2/primeiro_acesso/organizando_grid.md)
     * [📊 Dashboards na GRID](erp-v2/primeiro_acesso/relatorios_dashboard_grid.md)
     * [📤 Exportar](/erp-v2/primeiro_acesso/exportar.md)
-    * [ Importar](/erp-v2/primeiro_acesso/importar.md)
+    * [📥 Importar](/erp-v2/primeiro_acesso/importar.md)
   * [⚙️ Minhas preferências](erp-v2/minhas_preferencias/README.md)
     * [🎲 Editando meus dados](erp-v2/minhas_preferencias/edit_meus_dados.md)
     * [🔑 Alterando minha senha](erp-v2/minhas_preferencias/alt_minha_senha.md)
