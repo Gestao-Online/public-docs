@@ -6,9 +6,9 @@ O ícone de acesso a ele está logo ao lado do botão de configurar a grid:
 
 ![](/erp-v2/assets/exportar_aba_vendas.png)
 
-Ao clicar nele, uma janela pop-up será aberta. Nela você tem algumas funções pré-programadas para utilizar.
+Ao clicar nele, uma janela pop-up será aberta e nela você tem algumas funções pré-programadas para utilizar.
 
-Você pode selecionar um dos modelos sugeridos, entre resumido ou detalhado, e você também consegue ver os favoritos, tanto resumido quanto detalhado, porém eles estão vazios, iremos preencher um no decorrer da explicação:
+Com a janela aberta, você pode selecionar um dos modelos sugeridos, entre resumido ou detalhado, e também consegue ver os favoritos, tanto resumido quanto detalhado, porém eles estão vazios, iremos preencher um no decorrer da explicação:
 
 ![](/erp-v2/assets/exportar_aba_vendas_janela.png)
 
