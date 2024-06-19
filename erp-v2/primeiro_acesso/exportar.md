@@ -47,6 +47,8 @@ Por último, na opção de cálculos, você pode arrastar campos permitidos e fa
 
 ![](/erp-v2/assets/exportar_aba_plan_calc.png)
 
+![](/erp-v2/assets/exportar_aba_plan_calc.gif)
+
 Colocando assim uma linha com o resultado desse cálculo para você. Observe o resultado em uma planilha exportada de exemplo:
 
 ![](/erp-v2/assets/exportar_aba_plan_calculo.png)
