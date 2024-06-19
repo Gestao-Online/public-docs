@@ -14,7 +14,7 @@ Pórem, os campos necessários podem variar dependendo da aba que você estiver 
 
 ![](/erp-v2/assets/importar_tela_importacao.png)
 
-Ao clicar no botão <img src="/erp-v2/assets/icon_upload.png" alt="" data-size="line"> <img src="https://cdn-icons-png.flaticon.com/128/25/25399.png" alt="" data-size="line"> para fazer o envio da planilha, uma outra janela vai abrir para você poder enviar a sua planilha.
+Ao clicar no botão <img src="https://cdn-icons-png.flaticon.com/128/25/25399.png" alt="" data-size="line"> para fazer o envio da planilha, uma outra janela vai abrir para você poder enviar a sua planilha.
 
 Neste exemplo utilizamos uma planilha simples somente com os campos obrigatórios solicitados pelo sistema para poder fazer o upload:
 
@@ -25,7 +25,7 @@ Logo após importar, você define manualmente os campos relacionados para que a 
 Confira abaixo o procedimento:
 
 {% hint style="info" %}
-**Informação:** Para importação, é válido somente arquivo do tipo planilha! <img src="/erp-v2/assets/icon_excel.png" alt="" data-size="line">
+**Informação:** Para importação, é válido somente arquivo do tipo planilha! <img src="   https://cdn-icons-png.flaticon.com/512/1/1396.png " alt="" data-size="line">
 {% endhint %}
 
 ![](/erp-v2/assets/importar_botao_planilha_campos.gif)
