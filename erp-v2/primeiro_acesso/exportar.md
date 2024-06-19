@@ -30,7 +30,7 @@ No modo `Configuração padrão`, os campos de dentro você pode arrastar para m
 
 ![](/erp-v2/assets/exportar_aba_config_padrao.gif)
 
-Como você pode ver, são muitas opções para personalizar a exportação!
+**Como você pode ver, são muitas opções para personalizar a exportação! 😁**
 
 Além da opção de `Campos para exportação` que foi demonstrado acima, você tem a de `Agrupar coluna`, com ela, você pode separar os resultados exibidos com agrupamentos.
 
@@ -40,8 +40,8 @@ Veja o exemplo de uma planilha sem o agrupamento por coluna e com o agrupamento 
 **Informação:** No `Agrupar coluna` é permitido a seleção somente de uma coluna, e ela precisa ser adicionada no `Campos para exportação` antes disso!  😉👍
 {% endhint %}
 
-![](/erp-v2/assets/exportar_aba_plan_padrao.png)
-![](/erp-v2/assets/exportar_aba_plan_agrupar.png)
+![Sem agrupamento por coluna](/erp-v2/assets/exportar_aba_plan_padrao.png)
+![Com agrupamento por coluna](/erp-v2/assets/exportar_aba_plan_agrupar.png)
 
 Por último na opção de cálculos você pode arrastar itens para ela e fazer cálculos como somar quantidades ou valores de colunas que são permitidas:
 
