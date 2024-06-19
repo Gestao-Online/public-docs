@@ -8,7 +8,7 @@ O ícone de acesso a ele está logo ao lado do botão de configurar a grid:
 
 Ao clicar nele, uma janela pop-up será aberta e nela você tem algumas funções pré-programadas para utilizar.
 
-Com a janela aberta, você pode selecionar um dos modelos sugeridos, entre resumido ou detalhado, e também consegue ver os favoritos, tanto resumido quanto detalhado, (No momento eles estão vazios, mas iremos criar um no decorrer da explicação):
+Com a janela aberta, você pode selecionar um dos modelos sugeridos, entre resumido ou detalhado, e consegue ver os favoritos, tanto resumido quanto detalhado, (No momento eles estão vazios, mas iremos criar um no decorrer da explicação):
 
 ![](/erp-v2/assets/exportar_aba_vendas_janela.png)
 
@@ -99,7 +99,7 @@ Mas sempre que precisar, você pode editar o modelo que salvou clicando no botã
 
 ### Modelos sugeridos
 
-Os modelos sugeridos são oferecidos conforme a aba que você estiver tentanto exportar as informações, com campos já pré-selecionados com base no que você possivelmente precisará ver no relatório que será gerado. 
+Os modelos sugeridos são oferecidos conforme a aba que você estiver tentando exportar as informações, com campos já pré-selecionados com base no que você possivelmente precisará ver no relatório que será gerado. 
 
 Lembrando que os modelos mostrados abaixo são um exemplo, cada aba poderá ter opções diferentes:
 
