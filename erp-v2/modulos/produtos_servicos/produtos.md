@@ -156,7 +156,7 @@ No botão de importação ao clicar nele será aberta uma janela pop-up para voc
 Confira abaixo o procedimento:
 
 {% hint style="info" %}
-**Info:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "**
+**Info:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "** ou **" .csv "**
 {% endhint %}
 
 <!-- Em conversa com o Werick, ele me explicou que está padronizado para cadastrar o tipo para SERVIÇO e que teria que alterar depois pq a demanda é maior para serviço do que para produto, por isso sempre que importar, será aplicado o tipo serviço. -->

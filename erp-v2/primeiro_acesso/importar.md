@@ -16,16 +16,24 @@ Pórem, os campos necessários podem variar dependendo da aba que você estiver 
 
 Ao clicar no botão <img src="/erp-v2/assets/icon_upload.png" alt="" data-size="line"> para fazer o envio da planilha, uma outra janela vai abrir para você poder enviar a sua planilha.
 
-Neste exemplo uilizamos uma planilha simples somente com os campos obrigatórios solicitados pelo sistema para poder fazer o upload:
+Neste exemplo utilizamos uma planilha simples somente com os campos obrigatórios solicitados pelo sistema para poder fazer o upload:
 
-![](/erp-v2/assets/importar_botao_tela.gif)
+![](/erp-v2/assets/importar_botao_planilha.gif)
 
-Logo após você importar, você define manualmente os campos relacionados para que a nossa plataforma possa fazer a importação. 
+Logo após importar, você define manualmente os campos relacionados para que a nossa plataforma possa fazer a importação. 
 
 Confira abaixo o procedimento:
 
 {% hint style="info" %}
-**Info:** Para importação, é válido somente arquivo do tipo planilha! <img src="/erp-v2/assets/icon_excel.png" alt="" data-size="line">
+**Informação:** Para importação, é válido somente arquivo do tipo planilha! <img src="/erp-v2/assets/icon_excel.png" alt="" data-size="line">
 {% endhint %}
 
-![](/erp-v2/assets/modulos/servicos/aba_servicos_importar.gif)
+![](/erp-v2/assets/importar_botao_planilha_campos.gif)
+
+Depois de selecionar os campos relacionados para importação, basta clicar no botão que fica logo abaixo `Importar`, e então o sistema começará a importação e carregar os dados:
+
+{% hint style="warning" %}
+**Atenção:** O tempo de espera pode variar, tudo depende da quantidade de informações que você estará importanto para o sistema
+{% endhint %}
+
+![](/erp-v2/assets/importar_botao_importacao.gif)
