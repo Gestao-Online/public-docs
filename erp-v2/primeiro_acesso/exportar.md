@@ -107,4 +107,4 @@ Lembrando que os modelos mostrados abaixo são um exemplo, cada aba poderá ter 
 
 Mesmo esses modelos estando prontos para você exportar, as modificações podem ser feitas a qualquer momento, arrastando novos campos, ou removendo campos que não vai precisar, e você pode salvar essas modificações como favoritos:
 
-![](/erp-v2/assets/exportar_aba_salvar_fav.gif)
+![](/erp-v2/assets/exportar_aba_editar_modelo.gif)
