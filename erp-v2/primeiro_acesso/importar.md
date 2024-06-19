@@ -14,7 +14,7 @@ Pórem, os campos necessários podem variar dependendo da aba que você estiver 
 
 ![](/erp-v2/assets/importar_tela_importacao.png)
 
-Ao clicar no botão <img src="/erp-v2/assets/icon_upload.png" alt="" data-size="line"> <img src="https://cdn-icons-png.flaticon.com/128/25/25399.png" alt="" width="5" height="5"> para fazer o envio da planilha, uma outra janela vai abrir para você poder enviar a sua planilha.
+Ao clicar no botão <img src="/erp-v2/assets/icon_upload.png" alt="" data-size="line"> <img src="https://cdn-icons-png.flaticon.com/128/25/25399.png" alt="" width="95"> para fazer o envio da planilha, uma outra janela vai abrir para você poder enviar a sua planilha.
 
 Neste exemplo utilizamos uma planilha simples somente com os campos obrigatórios solicitados pelo sistema para poder fazer o upload:
 
