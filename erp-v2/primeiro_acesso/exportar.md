@@ -99,6 +99,6 @@ Mas sempre que precisar, você pode editar o modelo que salvou clicando no botã
 
 Tendo duas opções de relatório, sendo de indicações ou vendas por unidade, com campos já pré-selecionados. 
 
-Mesmo esses modelos estando prontos para você exportar, as modificações podem ser feitas a qualquer momento, arrastando novos itens, ou removendo itens que você não vai precisar, e claro você podendo salvar essas modificações como favoritos:
+Mesmo esses modelos estando prontos para você exportar, as modificações podem ser feitas a qualquer momento, arrastando novos itens, ou removendo itens que não vai precisar, e você pode salvar essas modificações como favoritos:
 
 ![](/erp-v2/assets/exportar_aba_salvar_fav.gif)
