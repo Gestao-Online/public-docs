@@ -10,7 +10,7 @@ Ao clicar neste botão, será aberta uma janela pop-up para você fazer a import
 
 **Essa é a tela que você verá ao clicar para fazer importação, são muitos campos para preencher não é mesmo? 😅**
 
-Pórem, os campos necessários podem variar dependendo da aba que você estiver utilizando no sistema, podendo ter mais ou menos campos para importação:
+Porém, os campos necessários podem variar dependendo da aba que você estiver utilizando no sistema, podendo ter mais ou menos campos para importação:
 
 ![](/erp-v2/assets/importar_tela_importacao.png)
 
@@ -33,7 +33,7 @@ Confira abaixo o procedimento:
 Depois de selecionar os campos relacionados para importação, basta clicar no botão que fica logo abaixo `Importar`, e então o sistema começará a importação e carregar os dados:
 
 {% hint style="warning" %}
-**Atenção:** O tempo de espera pode variar, tudo depende da quantidade de informações que você estará importanto para o sistema
+**Atenção:** O tempo de espera pode variar, tudo depende da quantidade de informações que você importará  para o sistema.
 {% endhint %}
 
 ![](/erp-v2/assets/importar_botao_importacao.gif)
