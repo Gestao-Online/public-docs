@@ -37,3 +37,5 @@ Depois de selecionar os campos relacionados para importação, basta clicar no b
 {% endhint %}
 
 ![](/erp-v2/assets/importar_botao_importacao.gif)
+
+Pronto, dados importados com sucesso para o sistema! 😉👍
