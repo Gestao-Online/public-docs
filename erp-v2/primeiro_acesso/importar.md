@@ -30,6 +30,16 @@ Confira abaixo o procedimento:
 
 ![](/erp-v2/assets/importar_botao_planilha_campos.gif)
 
+Agora dando uma atenção para o último campo, podemos observar que ele tem um campo de seleção a mais. Esse campo com a seleção irá aparecer em outras abas do sistema com a opção de importar, então já saiba que tem variações 😁
+
+No exemplo abaixo usamos a aba `Agendamentos` e nela temos pelo menos três campos com as seleções, sendo unidade vendedor e data. É importante definir corretamente a informação que vai para o sistema, evitando assim problema na importação. 
+
+{% hint style="info" %}
+**Informação:** Vale lembrar que essas opções tem variação a depender da aba que você está utilizando e fazendo importação!
+{% endhint %}
+
+![](/erp-v2/assets/importar_botao_planilha_campos_select.gif)
+
 Depois de selecionar os campos relacionados para importação, basta clicar no botão que fica logo abaixo `Importar`, e então o sistema começará a importação e carregar os dados:
 
 {% hint style="warning" %}
