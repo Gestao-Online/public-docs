@@ -10,6 +10,11 @@ Ao clicar nele, uma janela pop-up será aberta e nela você tem algumas funçõe
 
 Com a janela aberta, você pode selecionar um dos modelos sugeridos, entre resumido ou detalhado, e consegue ver os favoritos, tanto resumido quanto detalhado, (No momento eles estão vazios, mas iremos criar um no decorrer da explicação):
 
+<!-- CONFIRMAR INFORMAÇÃO ANTES DE APLICAR ESTE HINT 
+{% hint style="warning" %}
+**Atenção:** Os filtros que você aplicar na aba, irão interferir diretamente no resultado gerado pelos relatórios que você exportar!  😉👍
+{% endhint %} -->
+
 ![](/erp-v2/assets/exportar_aba_vendas_janela.png)
 
 ### Botão começar exportação (Padrão) 
