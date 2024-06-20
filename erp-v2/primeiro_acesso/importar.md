@@ -25,7 +25,7 @@ Logo após importar, você define manualmente os campos relacionados para que a 
 Confira abaixo o procedimento:
 
 {% hint style="info" %}
-**Informação:** Para importação, é válido somente arquivo do tipo planilha! <img src="   https://cdn-icons-png.flaticon.com/512/1/1396.png " alt="" data-size="line"> (Formatos aceitos: .csv, .xls, xlsx e .ods)
+**Informação:** Para importação, é válido somente arquivo do tipo planilha! <img src="   https://cdn-icons-png.flaticon.com/512/1/1396.png " alt="" data-size="line"> (.csv, .xls, xlsx e .ods)
 {% endhint %}
 
 ![](/erp-v2/assets/importar_botao_planilha_campos.gif)
