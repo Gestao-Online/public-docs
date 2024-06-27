@@ -162,7 +162,10 @@
     * [🏬 Unidades/Lojas & Locais de estoque](erp-v2/modulos/unidades_locais_estoque/README.md)
       * [🏪 Unidades/ Lojas](erp-v2/modulos/unidades_locais_estoque/unidades_lojas.md)
       * [🏭 Local de estoque](erp-v2/modulos/unidades_locais_estoque/local_estoque.md)
-        * [📝 Controle de unidades](erp-v2/modulos/controle_unidades/README.md)
+    
+    * [📝 Controle de unidades](erp-v2/modulos/controle_unidades/README.md)
+      * [📄 Contrato do controle de unidade](/erp-v2/modulos/controle_unidades/contrato_unidades.md)
+      * [🔂 Controle movimentação unidade](/erp-v2/modulos/controle_unidades/controle_movimentacao.md)
     
     * [📦 Produtos & Serviços](erp-v2/modulos/produtos_servicos/README.md)
       * [🧰 Serviços](erp-v2/modulos/produtos_servicos/servicos.md)
