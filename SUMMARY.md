@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Documentação ERP Gestão Online](README.md)
-* [ERP](erp/README.md)
+<!-- * [ERP](erp/README.md)
   * [🚀 Iniciando](erp/implantacao/README.md)
     * [Primeiros Passos](erp/implantacao/0_primeiros_passos.md)
     * [Emissão de NFS-e e NFE](erp/implantacao/9_notas_fiscais.md)
@@ -71,7 +71,7 @@
     * [Financeiro](erp/guias/financeiro.md)
     * [Sistema Pré/Pós pago](erp/guias/pre-pago.md)
     * [Geração de Relatórios](erp/guias/geracao_de_relatorios.md)
-    * [Cadastro de Certificado](erp/guias/cadastro_empresa_certificado.md)
+    * [Cadastro de Certificado](erp/guias/cadastro_empresa_certificado.md) -->
 * [🖥️ ERP V2](erp-v2/README.md)
   * [👩‍💻 Criar e/ou Recuperar acesso](erp-v2/criar_recuperar_acesso/README.md)
     * [✅ Email de confirmação de cadastro de usuário](erp-v2/criar_recuperar_acesso/email_cad_usuario_novo.md)
