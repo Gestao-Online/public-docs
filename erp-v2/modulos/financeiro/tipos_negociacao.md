@@ -1,0 +1,2 @@
+# 💱 Tipo de negociação
+

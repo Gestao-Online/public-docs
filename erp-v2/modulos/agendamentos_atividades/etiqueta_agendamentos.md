@@ -1,0 +1,2 @@
+# 🏷️ Etiqueta de agendamentos
+
