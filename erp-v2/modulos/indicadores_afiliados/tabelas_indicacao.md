@@ -1,0 +1,2 @@
+# 📈 Tabelas de indicação
+

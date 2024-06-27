@@ -137,6 +137,9 @@
       * [🛂 Nota fiscal (Nfse)](/erp-v2/modulos/fiscal/nota_fiscal_nfse.md)
     
     * [👥 Indicadores/Afiliados](erp-v2/modulos/indicadores_afiliados/README.md)
+      * [💲 Comissões de parceiros](/erp-v2/modulos/indicadores_afiliados/comissoes_parceiros.md)
+      * [📈 Tabelas de indicação](/erp-v2/modulos/indicadores_afiliados/tabelas_indicacao.md)
+      * [↔️ Parceiros Indicadores](/erp-v2/modulos/indicadores_afiliados/parceiros_indicadores.md)
    
     * [👥 Usuários & Vendedores](erp-v2/modulos/usuarios_vendedores/README.md)
       * [👤 Usuários](erp-v2/modulos/usuarios_vendedores/usuarios.md)
@@ -147,10 +150,14 @@
       * [🔔 Controle de exclusão em notificações](erp-v2/modulos/configuracoes_customizacoes/controle_exclusao_notificacoes.md)
     
     * [📋 Parametrizações](erp-v2/modulos/parametrizacoes/README.md)
-      * [📆 Feriados](erp-v2/modulos/parametrizacoes/feriados.md)
+      * [🔁 Tipo de movimentação](/erp-v2/modulos/parametrizacoes/tipo_movimentacao.md)
       * [🏨 Empresas](erp-v2/modulos/parametrizacoes/empresas.md)
       * [📊 Naturezas](erp-v2/modulos/parametrizacoes/naturezas.md)
+      * [📈 Tabelas de preço](/erp-v2/modulos/parametrizacoes/tabelas_precos.md)
       * [💰 Centro de resultado](erp-v2/modulos/parametrizacoes/centro_resultado.md)
+      * [📆 Feriados](erp-v2/modulos/parametrizacoes/feriados.md)
+      * [📐 Unidade/Medidas de produtos/serviços](/erp-v2/modulos/parametrizacoes/unidade_medida_produto_servico.md)
+      * [🎫 Cupom de desconto](/erp-v2/modulos/parametrizacoes/cupom_desconto.md)
     
     * [🏬 Unidades/Lojas & Locais de estoque](erp-v2/modulos/unidades_locais_estoque/README.md)
       * [🏪 Unidades/ Lojas](erp-v2/modulos/unidades_locais_estoque/unidades_lojas.md)
