@@ -127,7 +127,14 @@
       * [📄 Fluxo de caixa](/erp-v2/modulos/financeiro/fluxo_caixa.md)
 
     * [🕵️ Fiscal](erp-v2/modulos/fiscal/README.md)
-      * []()
+      * [🛃 Nota fiscal (Nfe/Nfce)](/erp-v2/modulos/fiscal/nota_fiscal_nfe_nfce.md)
+        * [🧾 Notas fiscais (Nfe)](/erp-v2/modulos/fiscal/nota_nfe.md)
+        * [🧾 Notas fiscais (Nfce)](/erp-v2/modulos/fiscal/nota_nfce.md)
+        * [⏩ Tipo de tributação](/erp-v2/modulos/fiscal/tipo_tributacao.md)
+        * [🟰 Ncm - Nomenclatura Comum do Mercosul](/erp-v2/modulos/fiscal/ncm.md)
+        * [🟰 Cfop - Código Fiscal de Operações e Prestações](/erp-v2/modulos/fiscal/cfop.md)
+        * [🟰 Cest - Código Especificador da Substituição Tributária](/erp-v2/modulos/fiscal/cest.md)
+      * [🛂 Nota fiscal (Nfse)](/erp-v2/modulos/fiscal/nota_fiscal_nfse.md)
     
     * [👥 Indicadores/Afiliados](erp-v2/modulos/indicadores_afiliados/README.md)
    
