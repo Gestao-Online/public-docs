@@ -170,7 +170,7 @@
     * [📦 Produtos & Serviços](erp-v2/modulos/produtos_servicos/README.md)
       * [🧰 Serviços](erp-v2/modulos/produtos_servicos/servicos.md)
       * [🛍️ Kits de produto/serviço](erp-v2/modulos/produtos_servicos/kits.md)
-      * [📥 Estoque produtos](erp-v2/modulos/produtos_servicos/estoque_produtos.md)
+      * [📦 Estoque produtos](erp-v2/modulos/produtos_servicos/estoque_produtos.md)
       * [📤 Movimentação Estoque](erp-v2/modulos/produtos_servicos/movimentacao_estoque.md)
       * [🎁 Produtos](erp-v2/modulos/produtos_servicos/produtos.md)
       * [🫙 Categoria de Produto](erp-v2/modulos/produtos_servicos/categoria_produto.md)
