@@ -2,9 +2,9 @@
 
 Observe abaixo como utilizar as funções que estão presentes em todas as abas da nossa plataforma da **Gestão.Online**.😁
 
-Esse guia tem como intuito explicar os tipos de filtro, e a melhor maneira de utiliza-los.
+Esse guia tem como intuito explicar os tipos de filtro e a melhor maneira de utilizá-los.
 
-No menu de filtro você pode definir uma busca específica por itens, seja por ID, descrição, código, identificador, status, grupo ou várias outras opções (Pois isso vai depender da tela em que está sendo utilizado o filtro). 
+No menu de filtro você pode definir uma busca específica por itens, seja por ID, descrição, código, identificador, status, grupo ou várias outras opções (Pois isso depende da tela em que está sendo utilizado o filtro). 
 
 {% hint style="warning" %}
 **Informação:** Escolhemos algumas telas para demonstrar os tipos de filtros, mas lembrando que os filtros podem ser executados em praticamente todas as telas do sistema.
@@ -41,7 +41,7 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 - **Menor ou igual a:** Semelhante ao filtro anterior, mas inclui também os registros com valor igual ao especificado. Por exemplo, se você busca por “quantidade menor ou igual a 10”, retornará registros com quantidade igual ou menor que 10.
 - **Maior que:** Busca registros cujo valor seja maior do que o especificado. Por exemplo, se você busca por “receita maior que 5000”, retornará registros com receita superior a 5000.
 - **Maior ou igual a:** Semelhante ao filtro anterior, mas inclui também os registros com valor igual ao especificado. Por exemplo, se você busca por “nota maior ou igual a 7”, retornará registros com nota igual ou maior que 7.
-- **Dentro de:** Este filtro é usado para buscar registros cujo valor esteja dentro de um intervalo específico. Por exemplo, se você busca por “ID dentro de 15 a 19”, retornará registros com ID entre 15 e 19.
+- **Dentro de:** Este filtro é usado para buscar registros cujo valor esteja em um intervalo específico. Por exemplo, se você busca por “ID dentro de 15 a 19”, retornará registros com ID entre 15 e 19.
 - **Fora de:** Similar ao filtro anterior, mas busca registros cujo valor esteja fora do intervalo especificado. Por exemplo, se você busca por “preço fora de 5 a 10”, retornará registros com preço abaixo de 5 ou acima de 10.
 
 {% hint style="info" %}
@@ -57,7 +57,7 @@ Ainda sobre a função de digitar valores, você pode também copiar uma lista e
 
 <br>
 
-Depois do filtro de ID, está o filtro de **`Descrição`**, onde você pode digitar parte ou todo o texto que será buscado, por isso é sempre importante o preenchimento completo dos dados de cada item na nossa plataforma 😉👍
+Depois do filtro de ID, está o filtro de **`Descrição`**, onde você pode digitar parte ou todo o texto que será buscado, sendo sempre importante o preenchimento completo dos dados de cada item na nossa plataforma 😉👍
 
 ![](/erp-v2/assets/modulos/produtos/aba_produtos_filtro_descricao.png)
 
@@ -86,6 +86,6 @@ Se você observar, sempre ao **`lado direito`** de cada item listado, você têm
 
 ![](/erp-v2/assets/modulos/estoque/aba_estoque_editar_excluir.png)
 
-Outra opção de busca é por data (Exemplo usando aba de vendas). Ao clicar no campo um calendário vai aparecer para você escolher a data desejada para a busca:
+Outra opção de busca é por data (Exemplo usando aba de vendas). Ao clicar no campo, um calendário aparece para você escolher a data desejada para a busca:
 
 ![](/erp-v2/assets/filtros/aba_vendas_filtro_data.gif)

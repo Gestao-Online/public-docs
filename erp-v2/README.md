@@ -6,7 +6,7 @@
 
 A plataforma da **Gestão.Online** otimiza sua rotina de administrador, permitindo que você tenha uma visão ampla dos processos da empresa, além de trazer recursos para que você tome suas decisões da forma mais estratégica e inteligente possível.
 
-Vamos conhecer mais sobre como utilizar a nossa plataforma da melhor maneira possível! 😉👍
+Proponho conhecermos mais sobre como utilizar a nossa plataforma da melhor maneira possível! 😉👍
 
 ![](/erp-v2/assets/logo-preto.png)
 
