@@ -1,6 +1,8 @@
 # 🛍️ Comercial
 
-Dentro do conjunto de funcionalidades do "Comercial", abordaremos as principais utilizações possíveis no cenário de Vendas. Vamos separar pelos seguintes tópicos:
+Dentro do conjunto de funcionalidades do "Comercial", abordaremos as principais utilizações possíveis no cenário de Vendas. 
+
+Vamos separar pelos seguintes tópicos:
 
 - Vendas: Cenário de venda simples e direta.
 - Vendas Recorrentes: Cenário de venda que se repete em planos mensais, por exemplo. (ex: assinatura de um serviço de streaming)
