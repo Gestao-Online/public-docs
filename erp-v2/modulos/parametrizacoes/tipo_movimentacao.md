@@ -101,7 +101,7 @@ Você tem vários tipos para definir qual movimentação será, estão entre ele
 
 No tipo venda, você pode definir o que acontecerá na plataforma, por exemplo, se irá atualizar o financeiro, estoque, controle de unidade. Também definir permissões como entrega, indicação, desconto, frete e vouchers.
 
-Não só estas definições, mas descendo um pouco no menu, você verá os `Requisitos da movimentação`, podendo assm escolher a origem da movimentação, valor, número de produtos e quantidade
+Não só estas definições, mas descendo um pouco no menu, você verá os `Requisitos da movimentação`, podendo assim escolher a origem da movimentação, valor, número de produtos e quantidade.
 
 {% hint style="info" %}
 **Informativo:** As configurações não se limitam só as estes campos apresentações, pois a cada opçõa marcada um novo menu é aberto ao fim da página, com as configurações específicas daquele campos que você marcou. 😉👍
@@ -111,15 +111,41 @@ Não só estas definições, mas descendo um pouco no menu, você verá os `Requ
 
 ## Tipo Venda recorrente
 
+No tipo venda recorrente, você pode ativar permissão de desconto, permitir geração de comissão para indicador. Não só estas opções como tambem as funções de `Requisitos da movimentação` citados acima no tipo venda.
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_movimentacao_add_tipo_recorrente.gif)
+
 ## Tipo Pedido de venda
+
+No tipo pedido de venda, você define se a tabela de preço secundária será custo, comissão ou não ficará habilitada. Pode definir atualziação do financeiro e estoque. Também permitir gerar fiscal, permitir entrega, frete, desconto, indicação e adição de vouchers.
+
+Lembrando que cada item marcado pode abrir um novo menu de opções na parte de baixo da página!
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_movimentacao_add_tipo_pedido.gif)
 
 ## Tipo Compra
 
+No tipo compra, você pode atualizar o financeiro, estoque, controle de unidade (Seja comercial/saldo ou produtivo/fechamento) e também gerar fiscal. Lembrando que cara item marcado um novo menu será disponibilizado com mais opções para preencimento. Agora os campos de usuário e data de alteração sempre será inalterados, pois servem para controle da nossa plataforma.
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_movimentacao_add_tipo_compra.gif)
+
 ## Tipo Pedido de compra
+
+Já o tipo pedido de compra não possui menus alternativos para preenchimento, sendo ele uma função do tipo única, sem necessidade de intervenção. Mas não esqueça que o botão de restrições se aplica nele, caso necessite.
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_movimentacao_add_tipo_pedido_compra.png)
 
 ## Tipo Financeiro
 
+No tipo financeiro você pode ativar a atualização de controle da unidade (Comercial/saldo), sendo assim definir o controle contrato entre despesa e receita de venda/financeiro, receita e despesa de custo/comissão. E no tipo de controle de contrato você tem como definir ao confirmar movimentação/venda/financeiro ou ao baixar financeiro.
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_movimentacao_add_tipo_financeiro.gif)
+
 ## Tipo Importação
+
+Agora o tipo importação também não possui menus alternativos para preenchimento, sendo uma função única, sem necessidade de intervenção. Mas não esqueça que o botão de restrições se aplica nele, caso necessite.
+
+![](/erp-v2/assets/modulos/parametrizacao/aba_movimentacao_add_tipo_importacao.png)
 
 <br>
 
