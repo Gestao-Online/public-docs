@@ -14,7 +14,7 @@ O cadastro de feriados na plataforma **Gestão.Online** é essencial para o bom 
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-<br>
+## Menu superior aba feriados
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
@@ -26,27 +26,15 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_menu.png)
 
-<br>
-
 {% hint style="warning" %}
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
 {% endhint %}
 
-### Paginação aba feriados
-
-Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de feriados mostrados para até 1000 itens na página:
-
-![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_paginacao.png)
-
-<br>
-
-### Adicionar novo feriado
+## Adicionar novo feriado
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
 
 ![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_add.png)
-
-<br>
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
@@ -57,8 +45,6 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_add_menu.png)
 
-<br>
-
 Quando você for adicionar um novo feriado, é exigido descrição, dia, mês e tipo. 
 
 - **Descrição** (Nome para identificar o feriado a ser adicionado);
@@ -66,6 +52,7 @@ Quando você for adicionar um novo feriado, é exigido descrição, dia, mês e 
 - **Mês** (Defina o mês que acontece o feriado);
 - **Tipo** (Defina o tipo entre nacional, estadual e municipal);
     - Neste item em específico serão mostrados novos campos de preenchimento se escolher nacional ou municipal.
+
 <br>
 
 ![](/erp-v2/assets/modulos/parametrizacao/aba_feriados_add_feriado_itens.gif)
