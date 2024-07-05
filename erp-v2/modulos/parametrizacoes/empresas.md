@@ -91,6 +91,8 @@ Chegando ao final da página de cadastro da nova empresa, no deparamos com os da
 
 <br>
 
+## Anexar certificado Digital
+
 Nos dados fiscais você também pode adicionar o certificado digital da empresa, permitindo assinar documentos com validade jurídica e fazer transações online com segurança.
 
 {% hint style="warning" %}
@@ -107,6 +109,8 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova
 
 Duas novas guias ficam disponíveis a partir do momento que você salva uma nova empresa, são elas:
 
+## Guia Anexar documentos
+
 - Anexos documentos, nesta primeira guia você pode inserir uma descrição, fazer uploado arquivo em definir o tipo com as opções disponíveis abaixo:
     - Cópia do cartão do CNPJ ou cópia do contrato social da empresa;
     - Documento de identidade com foto (RG e CPF ou CNH) do proprietário/sócios;
@@ -117,5 +121,7 @@ Duas novas guias ficam disponíveis a partir do momento que você salva uma nova
     - Outros arquivos de processamento.
     - ![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_add_guia_anexo.png)
 
-- Anexos arquivos de processamento, vão aparecer todos os arquivos utilizados em transações realizadas por esta empresa no plataforma da **Gestão.Online**.
+## Guia Anexos arquivos de processamento
+
+- Anexos arquivos de processamento, vão aparecer todos os arquivos utilizados em transações realizadas por esta empresa na plataforma da **Gestão.Online**.
     - ![](/erp-v2/assets/modulos/parametrizacao/aba_empresas_add_guia_arquivos.png)

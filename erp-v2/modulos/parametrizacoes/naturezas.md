@@ -32,15 +32,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
 {% endhint %}
 
-### Paginação aba produtos
-
-Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de itens mostrados para até 1000 itens na página:
-
-![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_paginacao.png)
-
-<br>
-
-### Adicionar novo tipo de natureza
+## Adicionar novo tipo de natureza
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo tipo de natureza, confira abaixo o procedimento para fazer a adição corretamente:
 
@@ -59,6 +51,8 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Com as seg
 ![](/erp-v2/assets/modulos/parametrizacao/aba_naturezas_add_menu.png)
 
 <br>
+
+## Campos de preenchimento obrigatório
 
 Olhando para os campos disponíveis, por padrão, quando você for criar um novo item, é exigido descrição, status e tipo. 
 
