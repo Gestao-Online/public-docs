@@ -1,8 +1,15 @@
 # 🛍️ Comercial
 
-O módulo comercial oferece diversas funcionalidades que auxiliam na gestão da equipe de vendas e aumentam os resultados. Por exemplo, é possível analisar o desempenho de vendas por região, permitindo melhorar a performance dos vendedores.
+Dentro do conjunto de funcionalidades do "Comercial", abordaremos as principais utilizações possíveis no cenário de Vendas. 
 
-Neste módulo, você encontrará itens sobre vendas, vendas recorrentes, pedidos de venda e liberação de desconto. Clique em um dos itens de seu interesse abaixo:
+Vamos separar pelos seguintes tópicos:
+
+- Vendas: Cenário de venda simples e direta.
+- Vendas Recorrentes: Cenário de venda que se repete em planos mensais, por exemplo. (ex: assinatura de um serviço de streaming)
+- Pedido de Venda: Cenário onde o processo de venda precisa de mais etapas (ex: orçamento, almoxarifado, etc).
+- Liberação de Desconto: Recurso que permite a um gestor ou coordenador liberar um desconto fora da alçada de um vendedor.
+
+De modo geral, as funcionalidades incluídas nessas telas oferecem diversos recursos que auxiliam e automatizam a gestão de vendas. Além disso, melhoram a percepção do cenário comercial da empresa, permitindo diversas análises estratégicas, como por exemplo: analisar o desempenho de venda de um produto, vendedor, unidade/loja ou até mesmo um determinado canal de venda (e-commerce, PDV, televendas, etc).
 
 <table data-view="cards">
     <thead>

@@ -112,7 +112,7 @@
       * [🤝 Indicadores](erp-v2/funcionalidades/parceiros/indicadores.md)
       * [🚚 Transportadoras](erp-v2/funcionalidades/parceiros/transportadoras.md)
    
-    * [📆 Agendametnos & Atividades](erp-v2/funcionalidades/agendamentos_atividades/README.md)
+    * [📆 Agendamentos & Atividades](erp-v2/funcionalidades/agendamentos_atividades/README.md)
       * [📅 Agendamentos](erp-v2/funcionalidades/agendamentos_atividades/agendamentos.md)
       * [🏷️ Etiqueta de agendamentos](erp-v2/funcionalidades/agendamentos_atividades/etiqueta_agendamentos.md)
       * [#️⃣ Tipo de agendamentos](erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos.md)
