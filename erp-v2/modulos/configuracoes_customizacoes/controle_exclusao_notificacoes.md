@@ -74,9 +74,3 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do cont
 {% hint style="warning" %}
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
 {% endhint %}
-
-### Paginação aba usuários
-
-Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
-
-![](/erp-v2/assets/modulos/configuracoes/aba_notificacoes_paginacao.png)
