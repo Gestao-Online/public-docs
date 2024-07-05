@@ -98,7 +98,7 @@
     * [📸 Alterando minha foto](erp-v2/minhas_preferencias/alt_minha_foto.md)
     * [🎨 Alterando a paleta de cores](erp-v2/minhas_preferencias/alt_paleta_cores.md)
   
-  * [📚 Módulos](erp-v2/funcionalidades/README.md)
+  * [📚 Funcionalidades](erp-v2/funcionalidades/README.md)
     
     * [🛍️ Comercial](erp-v2/funcionalidades/comercial/README.md)
       * [💲 Vendas](erp-v2/funcionalidades/comercial/vendas.md)
