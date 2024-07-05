@@ -181,6 +181,16 @@
       * [🧩 Grupo de produto](erp-v2/funcionalidades/produtos_servicos/grupo_produto.md)
       * [🎟️ Vouchers](/erp-v2/funcionalidades/produtos_servicos/vouchers.md)
 
+  * [📚 Guia de utilizaçāo](erp-v2/guia/README.md)
+    * [🧰 Como configurar o sistema para emissão de notas fiscais de serviço (NFSe)](erp-v2/guia//.md)
+    * [🛍️ Como corrigir uma nota fiscal de serviço rejeitada (NFSe)?](erp-v2/guia//.md)
+    * [📦 A nota fiscal não foi emitida, como acompanhar (NFSe)? ](erp-v2/guia//.md)
+    * [📤 Como realizar um estorno de cartão de crédito ou PIX?](erp-v2/guia//.md)
+    * [🎁 Como fazer o cancelamento em lote de vendas não concretizadas (não pagas)?](erp-v2/guia//.md)
+    * [🫙 Já confirmei a venda/pedido e agora preciso alterar um item de produto e/ou serviço, como fazer?](erp-v2/guia//.md)
+    * [🧩 Já confirmei a venda/pedido e agora preciso mudar o tipo de negociação (forma de pagamento), como fazer?](erp-v2/guia//.md)
+    * [🎟️ O que é a liberação de desconto, e como funciona?](erp-v2/guia//.md)
+
 * [👨🏻‍💻Portal do parceiro](portal/README.md)
   * [🤝 Modo Indicador](portal/indicador.md)
   * [💰 Modo Cliente](portal/cliente.md)
