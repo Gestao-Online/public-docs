@@ -191,6 +191,10 @@
     * [🧩 Já confirmei a venda/pedido e agora preciso mudar o tipo de negociação (forma de pagamento), como fazer?](erp-v2/guia//.md)
     * [🎟️ O que é a liberação de desconto, e como funciona?](erp-v2/guia//.md)
 
+ * [🏬 Marketplace](erp-v2/marketplace/README.md)
+    * [Como funciona o marketplace?)](erp-v2/marketplace/como-funciona.md)
+    * [Como instalar uma extensāo?)](erp-v2/marketplace/como-funciona.md)
+
 * [👨🏻‍💻Portal do parceiro](portal/README.md)
   * [🤝 Modo Indicador](portal/indicador.md)
   * [💰 Modo Cliente](portal/cliente.md)
