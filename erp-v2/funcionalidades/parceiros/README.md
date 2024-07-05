@@ -9,6 +9,12 @@ Dentro do conjunto de funcionalidades de "Parceiros", abordaremos os principais 
 
 De modo geral, um parceiro é uma "Empresa" ou uma "Pessoa" que pode assumir diversas relações com a empresa. A importância de separar pelos tipos corretos é que o sistema será mais assertivo durante as sugestões e até mesmo nas permissões internas. Por exemplo: Para que o vendedor durante uma venda possa vincular um parceiro no campo de "Parceiro Indicador", o cadastro desse parceiro deve ter sido previamente configurado com esse tipo para permitir esse vínculo. 
 
+O sistema também irá moldar a tela de parceiro para os campos especificos de cada tipo de parceiro, como por exemplo:
+
+O tipo "Indicador" poderá ter campos relacinados a como funciona essa parceria de indicaçāo, se ela é remunerada ou nāo, se sim qual é a tabela de preço (como funciona o cálculo da comissāo) por essa indicaçāo, se essa parceria permite o "Indicador" ter um site de "Afiliado", quais produtos essa parceria envolve e etc.
+
+Já o tipo "Cliente" terá somente os campos básicos e objetivos que sāo necessários para fazer uma venda para esse cliente.
+
 <table data-view="cards">
     <thead>
         <tr>
