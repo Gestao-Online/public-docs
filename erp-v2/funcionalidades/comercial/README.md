@@ -42,7 +42,7 @@ De modo geral, as funcionalidades incluídas nessas telas oferecem diversos recu
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/comercial/vedas_recorrentes.md">vendas_recorrentes.md</a>
+                    <a href="/erp-v2/funcionalidades/comercial/vendas_recorrentes.md">vendas_recorrentes.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_recorrente.png">icon_recorrente.png</a>
