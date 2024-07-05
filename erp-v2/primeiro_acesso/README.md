@@ -27,7 +27,7 @@ Você verá poucas opções no primeiro momento, mas esta tela ficará bem compl
                 <a href="/erp-v2/primeiro_acesso/apresentacao_barra_navegacao.md">apresentacao_barra_navegacao.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets/modulos/icon_barra_navegacao.png">icon_barra_navegacao.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_barra_navegacao.png">icon_barra_navegacao.png</a>
             </td>
         </tr>
         <tr>
@@ -40,7 +40,7 @@ Você verá poucas opções no primeiro momento, mas esta tela ficará bem compl
                 <a href="/erp-v2/primeiro_acesso/notificacao_interna.md">notificacao_interna.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets/modulos/icon_exclusao_notificacao.png">icon_exclusao_notificacao.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_exclusao_notificacao.png">icon_exclusao_notificacao.png</a>
             </td>
         </tr>
         <tr>
@@ -53,7 +53,7 @@ Você verá poucas opções no primeiro momento, mas esta tela ficará bem compl
                 <a href="/erp-v2/primeiro_acesso/barra_pesquisa.md">barra_pesquisa.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets/modulos/icon_pesquisa.png">icon_pesquisa.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_pesquisa.png">icon_pesquisa.png</a>
             </td>
         </tr>
         <tr>
@@ -66,7 +66,7 @@ Você verá poucas opções no primeiro momento, mas esta tela ficará bem compl
                 <a href="/erp-v2/primeiro_acesso/menu_principal.md">menu_principal.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets/modulos/icon_menu.png">icon_menu.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_menu.png">icon_menu.png</a>
             </td>
         </tr>
         <tr>
@@ -79,7 +79,7 @@ Você verá poucas opções no primeiro momento, mas esta tela ficará bem compl
                 <a href="/erp-v2/primeiro_acesso/favoritos.md">favoritos.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets/modulos/icon_favoritos.png">icon_favoritos.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_favoritos.png">icon_favoritos.png</a>
             </td>
         </tr>
         <tr>
@@ -92,7 +92,7 @@ Você verá poucas opções no primeiro momento, mas esta tela ficará bem compl
                 <a href="/erp-v2/primeiro_acesso/atalhos_internos.md">atalhos_internos.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets/modulos/icon_atalho.png">icon_atalho.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_atalho.png">icon_atalho.png</a>
             </td>
         </tr>
     </tbody>

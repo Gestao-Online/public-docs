@@ -25,5 +25,5 @@ Selecione a opção `Adicionar Item`, um formulário será aberto solicitando as
 Os relatórios são gerados através de consultas MySQL e templates em XML, HTML ou Json definidos durante a sua criação. Os templates serão utilizados pelo motor gráfico responsável pela criação do relatório.
 {% endhint %}
 
-Para saber mais sobre como os widgets e relatórios funcionam, verifique o nosso manual de configurações clicando [aqui](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/iniciando/modulos/configuracoes/report.md).
+Para saber mais sobre como os widgets e relatórios funcionam, verifique o nosso manual de configurações clicando [aqui](https://github.com/Gestao-Online/public-docs/tree/ce2dcb553970e393c21b0336fbee8d426c99af31/ERP/iniciando/funcionalidades/configuracoes/report.md).
 

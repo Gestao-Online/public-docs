@@ -8,9 +8,9 @@ Assim como você tem atalhos com o botão direito do mouse no seu sistema operac
 
 Ao clicar com o botão direito do mouse em cima de um item da aba (Neste caso, um produto), um menu rápido com algumas opções para te trazer agilidade, podendo editar o item, abrir item selecionado em uma nova aba ou excluir:
 
-- <img src="/erp-v2/assets/modulos/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
-- <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
-- <img src="/erp-v2/assets/modulos/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
+- <img src="/erp-v2/assets/funcionalidades/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
+- <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
+- <img src="/erp-v2/assets/funcionalidades/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
 
 {% hint style="warning" %}
 **Importante:** As opções disponíveis do botão direito do mouse sobre o item pode variar com mais ou menos opções, tudo depende da aba que você está usando no momento.
@@ -30,7 +30,7 @@ Observe que até um novo menu rápido fica disponível ao clicar com o botão di
 
 <br>
 
-Se por acaso você marcar algum item errado, ou quiser cancelar a seleção, pode clicar no ícone <img src="/erp-v2/assets/modulos/icon_limpar_selecao.png" alt="" data-size="line"> limpar seleção, clicando nele, todos os itens são desmarcados:
+Se por acaso você marcar algum item errado, ou quiser cancelar a seleção, pode clicar no ícone <img src="/erp-v2/assets/funcionalidades/icon_limpar_selecao.png" alt="" data-size="line"> limpar seleção, clicando nele, todos os itens são desmarcados:
 
 ![](/erp-v2/assets/atalho_btn_ctrl_limpar.gif)
 
@@ -38,7 +38,7 @@ Se por acaso você marcar algum item errado, ou quiser cancelar a seleção, pod
 
 ### Atalho de nova aba
 
-Seguindo o exemplo de uso do botão direito do mouse, na aba de vendas, por exemplo, temos o ícone <img src="/erp-v2/assets/modulos/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> do quadrado com a seta. Clicando nele, você é direcionado para a aba cliente/parceiro:
+Seguindo o exemplo de uso do botão direito do mouse, na aba de vendas, por exemplo, temos o ícone <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> do quadrado com a seta. Clicando nele, você é direcionado para a aba cliente/parceiro:
 
 ![](/erp-v2/assets/atalho_icone_vendas.gif)
 
