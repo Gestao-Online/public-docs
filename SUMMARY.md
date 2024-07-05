@@ -73,7 +73,7 @@
     * [Geração de Relatórios](erp/guias/geracao_de_relatorios.md)
     * [Cadastro de Certificado](erp/guias/cadastro_empresa_certificado.md) -->
 
-* [🖥️ ERP V2](erp-v2/README.md)
+* [🖥️ A plataforma (ERP)](erp-v2/README.md)
   
   * [👩‍💻 Criar e/ou Recuperar acesso](erp-v2/criar_recuperar_acesso/README.md)
     * [✅ Email de confirmação de cadastro de usuário](erp-v2/criar_recuperar_acesso/email_cad_usuario_novo.md)
@@ -98,7 +98,7 @@
     * [📸 Alterando minha foto](erp-v2/minhas_preferencias/alt_minha_foto.md)
     * [🎨 Alterando a paleta de cores](erp-v2/minhas_preferencias/alt_paleta_cores.md)
   
-  * [📚 Funcionalidades](erp-v2/funcionalidades/README.md)
+  * [⚙️ Funcionalidades](erp-v2/funcionalidades/README.md)
     
     * [🛍️ Comercial](erp-v2/funcionalidades/comercial/README.md)
       * [💲 Vendas](erp-v2/funcionalidades/comercial/vendas.md)
@@ -181,19 +181,19 @@
       * [🧩 Grupo de produto](erp-v2/funcionalidades/produtos_servicos/grupo_produto.md)
       * [🎟️ Vouchers](/erp-v2/funcionalidades/produtos_servicos/vouchers.md)
 
-  * [📚 Guia de utilizaçāo](erp-v2/guia/README.md)
-    * [🧰 Como configurar o sistema para emissão de notas fiscais de serviço (NFSe)](erp-v2/guia//.md)
-    * [🛍️ Como corrigir uma nota fiscal de serviço rejeitada (NFSe)?](erp-v2/guia//.md)
-    * [📦 A nota fiscal não foi emitida, como acompanhar (NFSe)? ](erp-v2/guia//.md)
-    * [📤 Como realizar um estorno de cartão de crédito ou PIX?](erp-v2/guia//.md)
-    * [🎁 Como fazer o cancelamento em lote de vendas não concretizadas (não pagas)?](erp-v2/guia//.md)
-    * [🫙 Já confirmei a venda/pedido e agora preciso alterar um item de produto e/ou serviço, como fazer?](erp-v2/guia//.md)
-    * [🧩 Já confirmei a venda/pedido e agora preciso mudar o tipo de negociação (forma de pagamento), como fazer?](erp-v2/guia//.md)
-    * [🎟️ O que é a liberação de desconto, e como funciona?](erp-v2/guia//.md)
+  * [📒 Guia de utilizaçāo](erp-v2/guia/README.md)
+    * [Como configurar o sistema para emissão de notas fiscais de serviço (NFSe)](erp-v2/guia//.md)
+    * [Como corrigir uma nota fiscal de serviço rejeitada (NFSe)?](erp-v2/guia//.md)
+    * [A nota fiscal não foi emitida, como acompanhar (NFSe)? ](erp-v2/guia//.md)
+    * [Como realizar um estorno de cartão de crédito ou PIX?](erp-v2/guia//.md)
+    * [Como fazer o cancelamento em lote de vendas não concretizadas (não pagas)?](erp-v2/guia//.md)
+    * [Já confirmei a venda/pedido e agora preciso alterar um item de produto e/ou serviço, como fazer?](erp-v2/guia//.md)
+    * [Já confirmei a venda/pedido e agora preciso mudar o tipo de negociação (forma de pagamento), como fazer?](erp-v2/guia//.md)
+    * [O que é a liberação de desconto, e como funciona?](erp-v2/guia//.md)
 
  * [🏬 Marketplace](erp-v2/marketplace/README.md)
-    * [Como funciona o marketplace?)](erp-v2/marketplace/como-funciona.md)
-    * [Como instalar uma extensāo?)](erp-v2/marketplace/como-funciona.md)
+    * [Como funciona o marketplace?](erp-v2/marketplace/como-funciona.md)
+    * [Como instalar uma extensāo?](erp-v2/marketplace/como-funciona.md)
 
 * [👨🏻‍💻Portal do parceiro](portal/README.md)
   * [🤝 Modo Indicador](portal/indicador.md)
