@@ -1,2 +1,0 @@
-# 🛃 Nota fiscal (Nfe/Nfce)
-
