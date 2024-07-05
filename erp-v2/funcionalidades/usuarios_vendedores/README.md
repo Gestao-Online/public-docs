@@ -20,10 +20,10 @@ Aqui você encontra os itens de usuários, vendedores e compradores, para saber 
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//usuarios_vendedores/usuarios.md">usuarios.md</a>
+                <a href="/erp-v2/funcionalidades/usuarios_vendedores/usuarios.md">usuarios.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_usuarios.png">icon_usuarios.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_usuarios.png">icon_usuarios.png</a>
             </td>
         </tr>
         <tr>
@@ -33,10 +33,10 @@ Aqui você encontra os itens de usuários, vendedores e compradores, para saber 
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//usuarios_vendedores/vendedores_compradores.md">vendedores_compradores.md</a>
+                <a href="/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md">vendedores_compradores.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_vendedores.png">icon_vendedores.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_vendedores.png">icon_vendedores.png</a>
             </td>
         </tr>
         <tr>
@@ -46,10 +46,10 @@ Aqui você encontra os itens de usuários, vendedores e compradores, para saber 
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//usuarios_vendedores/perfil_desconto.md">perfil_desconto.md</a>
+                <a href="/erp-v2/funcionalidades/usuarios_vendedores/perfil_desconto.md">perfil_desconto.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_perfil_desconto.png">icon_perfil_desconto.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_perfil_desconto.png">icon_perfil_desconto.png</a>
             </td>
         </tr>
     </tbody>

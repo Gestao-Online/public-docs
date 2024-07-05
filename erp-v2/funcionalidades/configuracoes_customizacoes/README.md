@@ -20,10 +20,10 @@ Neste módulo você vai encontrar os itens de controle de exclusão em notifica�
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//configuracoes_customizacoes/controle_exclusao_notificacoes.md">controle_exclusao_notificacoes.md</a>
+                <a href="/erp-v2/funcionalidades/configuracoes_customizacoes/controle_exclusao_notificacoes.md">controle_exclusao_notificacoes.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_exclusao_notificacao.png">icon_exclusao_notificacao.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_exclusao_notificacao.png">icon_exclusao_notificacao.png</a>
             </td>
         </tr>
     </tbody>

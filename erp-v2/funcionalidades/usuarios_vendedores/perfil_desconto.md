@@ -16,7 +16,7 @@ Para utilizar da melhor maneira possível o perfil de desconto na nossa platafor
 
 <br>
 
-![](/erp-v2/assets//vendedores/aba_perfil_desconto.png)
+![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto.png)
 
 <br>
 
@@ -28,19 +28,19 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar perfil de desconto (Compra/venda).
 
-![](/erp-v2/assets//vendedores/aba_perfil_desconto_menu.png)
+![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_menu.png)
 
 <br>
 
 No lado esquerdo da tela está o menu lateral, e você pode utilizar como um filtro para pesquisa. Contém três opções:
 
-- <img src="/erp-v2/assets//icon_todos_perfis.png" alt="" data-size="line"> Todos os perfis;
-- <img src="/erp-v2/assets//icon_receitas.png" alt="" data-size="line"> Receitas (Vendas);
-- <img src="/erp-v2/assets//icon_despesas.png" alt="" data-size="line"> Despesas (Compras).
+- <img src="/erp-v2/assets/funcionalidades/icon_todos_perfis.png" alt="" data-size="line"> Todos os perfis;
+- <img src="/erp-v2/assets/funcionalidades/icon_receitas.png" alt="" data-size="line"> Receitas (Vendas);
+- <img src="/erp-v2/assets/funcionalidades/icon_despesas.png" alt="" data-size="line"> Despesas (Compras).
 
 Clicando no ícone da seta você exibe de forma completa e fixado, e clicando nela novamente, volta ao modo recolhido, confira exemplo abaixo: 
 
-![](/erp-v2/assets//vendedores/aba_perfil_desconto_menu_lateral.gif)
+![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_menu_lateral.gif)
 
 <br>
 
@@ -52,13 +52,13 @@ Clicando no ícone da seta você exibe de forma completa e fixado, e clicando ne
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo vendeperfil de desconto, confira abaixo o procedimento para fazer o cadastro corretamente:
 
-![](/erp-v2/assets//vendedores/aba_perfil_desconto_add_perfil.png)
+![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_perfil.png)
 
 <br>
 
 Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados do novo perfil de desconto:
 
-![](/erp-v2/assets//vendedores/aba_perfil_desconto_add_perfil_desconto.png)
+![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_perfil_desconto.png)
 
 <br>
 
@@ -69,13 +69,13 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-![](/erp-v2/assets//vendedores/aba_perfil_desconto_add_perfil_menu.png)
+![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_perfil_menu.png)
 
 <br>
 
 Por padrão, quando você for criar um perfil de desconto, é exigido preencher os campos com asterisco.
 
-- **Vendedor** (Defina o vendedor que terá o perfil de desconto disponível, e para mais informações [clique aqui](/erp-v2//usuarios_vendedores/vendedores_compradores.md));
+- **Vendedor** (Defina o vendedor que terá o perfil de desconto disponível, e para mais informações [clique aqui](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md));
 - **Tipo Evento** (São duas opções disponíveis, sendo elas receita ou despesa);
 - **Tipo Desconto** (São também duas opções disponíveis, sendo elas valor ou percentual);
     - **Valor limite** (Aparece caso escolha o tipo de desconto `Valor`);
@@ -85,11 +85,11 @@ Por padrão, quando você for criar um perfil de desconto, é exigido preencher 
 **Atenção:** Quando você for criar um perfil de desconto é exigido preencher os campos com asterisco.
 {% endhint %}
 
-![](/erp-v2/assets//vendedores/aba_perfil_desconto_add_perfil_receita.gif)
+![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_perfil_receita.gif)
 
 <br>
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do perfil de desconto será disponibilizado para o vendedor poder utilizar:
 
-![](/erp-v2/assets//vendedores/aba_perfil_desconto_add_salvar.gif)
+![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_salvar.gif)
 

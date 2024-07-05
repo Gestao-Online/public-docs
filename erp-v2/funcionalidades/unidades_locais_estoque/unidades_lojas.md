@@ -14,7 +14,7 @@ Aqui você tem a visão de todos as unidades/lojas cadastradas na plataforma **G
 
 <br>
 
-![](/erp-v2/assets//unidades/aba_unidade.gif)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade.gif)
 
 <br>
 
@@ -26,7 +26,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 
-![](/erp-v2/assets//unidades/aba_unidade_menu.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_menu.png)
 
 <br>
 
@@ -34,9 +34,9 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
 {% endhint %}
 
-Se você observou, nós colocamos <img src="/erp-v2/assets//icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> ícones de atalho, para abrir item em nova aba e editar.
+Se você observou, nós colocamos <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> ícones de atalho, para abrir item em nova aba e editar.
 
-![](/erp-v2/assets//unidades/add_unidade_nova_aba.gif)
+![](/erp-v2/assets/funcionalidades/unidades/add_unidade_nova_aba.gif)
 
 <br>
 
@@ -44,7 +44,7 @@ Se você observou, nós colocamos <img src="/erp-v2/assets//icon_abrir_editar_it
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
 
-![](/erp-v2/assets//unidades/aba_unidade_paginacao.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_paginacao.png)
 
 <br>
 
@@ -52,25 +52,25 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 Assim que se acessa a página inicial das unidades/lojas você pode ver um ícone na lateral esquerda da tela se mexendo, ao clicarmos nele uma janela lateral aparecerá com algumas informações, vejamos abaixo:
 
-![](/erp-v2/assets//unidades/aba_unidades_dashboard.gif)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidades_dashboard.gif)
 
 <br>
 
-Explicando cada card, temos primeiro os indicadores de quantidade, Unidades ativas e inativas. Esses números são atualizados em tempo real na plataforma, podendo também utilizar o botão <img src="/erp-v2/assets//icon_refresh.png" alt="" data-size="line"> refresh para atualizar os dados:
+Explicando cada card, temos primeiro os indicadores de quantidade, Unidades ativas e inativas. Esses números são atualizados em tempo real na plataforma, podendo também utilizar o botão <img src="/erp-v2/assets/funcionalidades/icon_refresh.png" alt="" data-size="line"> refresh para atualizar os dados:
 
-![](/erp-v2/assets//unidades/aba_unidade_dashboard_1.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_dashboard_1.png)
 
 <br>
 
 Logo abaixo das quantidades, nós temos um gráfico de coluna com a quantidade de unidades por grupo:
 
-![](/erp-v2/assets//unidades/aba_unidade_dashboard_2.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_dashboard_2.png)
 
 <br>
 
 Pouco mais abaixo você vê um gráfico de colunas com o ranking de unidades com mais vendedores (Top 15):
 
-![](/erp-v2/assets//unidades/aba_unidade_dashboard_3.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_dashboard_3.png)
 
 <br>
 
@@ -90,13 +90,13 @@ Descendo mais um pouco no dashboard temos a `Tabela de engajamento de unidade`, 
 
 Não esquecendo que na parte final tem a paginação caso tenha muitas unidades! 😁
 
-![](/erp-v2/assets//unidades/aba_unidades_engajamento.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidades_engajamento.png)
 
 <br>
 
 Por último temos a `Quantidade de unidades por UF` onde colocamos na nossa plataforma um mapa exibindo a quantidade de unidades por estados no Brasil:
 
-![](/erp-v2/assets//unidades/aba_unidade_qtd_uf.gif)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_qtd_uf.gif)
 
 <br>
 
@@ -104,14 +104,14 @@ Por último temos a `Quantidade de unidades por UF` onde colocamos na nossa plat
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar nova unidade/loja, confira abaixo o procedimento para fazer o cadastro corretamente:
 
-![](/erp-v2/assets//unidades/aba_unidade_add.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add.png)
 
 
 <br>
 
 Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados da nova unidade/loja:
 
-![](/erp-v2/assets//unidades/aba_unidade_add_inicio.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_inicio.png)
 
 <br>
 
@@ -123,7 +123,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-![](/erp-v2/assets//unidades/aba_unidade_add_menu.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_menu.png)
 
 <br>
 
@@ -138,13 +138,13 @@ Agora os outros campos podem ser preenchidos depois, vejamos abaixo um pouco sob
 
 <br>
 
-![](/erp-v2/assets//unidades/aba_unidade_add_unidade_itens.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_unidade_itens.png)
 
 <br>
 
 Mas não termina por aí, ao clicarmos no botão seletor `Analítica` teremos mais campos para preenchimento, e não só isso, quando está ativada a função de adicionar uma unidade dependente ficará desativada, vejamos abaixo:
 
-![](/erp-v2/assets//unidades/aba_unidade_add_analitica.gif)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_analitica.gif)
 
 <br>
 
@@ -155,7 +155,7 @@ Aos campos extras exibidos, nós temos:
 - **Celular:** Pode ser usado para hiperlinks do whatsapp, telegram e outros;
 - **Email:** Email da unidade para contato.
 
-![](/erp-v2/assets//unidades/aba_unidade_add_guia_geral1.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral1.png)
 
 <br>
 
@@ -165,11 +165,11 @@ Aqui na parte de `endereço da unidade` já colocamos em nossa plataforma o pree
 **Atenção:** Os campos `Número` e `Complemento` não são preenchido automaticamente, sendo necessário sua intervenção.
 {% endhint %}
 
-![](/erp-v2/assets//unidades/aba_unidade_guia_geral2.gif)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_guia_geral2.gif)
 
 <br>
 
-Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas da nossa plataforma da **Gestão.Online**, abaixo explicamos um pouco melhor sobre cada uma, para o caso de você querer saber mais sobre alguma [clique aqui](/erp-v2//parametrizacoes/tabelas_precos.md):
+Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas da nossa plataforma da **Gestão.Online**, abaixo explicamos um pouco melhor sobre cada uma, para o caso de você querer saber mais sobre alguma [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md):
 
 - **Tabela de preço principal:** Esta é a tabela de preço de venda para o cliente final;
 - **Tabela de preço secundária (Custo):** Aqui é a tabela de preço de custo da unidade parceira;
@@ -177,43 +177,43 @@ Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas 
 - **Tabela de preço indicação padrão:** Aqui você informa qual será a tabela de preço que tem os ganhos/comissão dos novos indicadores;
 - **Tabela de preço de comissão de entrega:** Por último aqui é para indicar tabela de preço de comissão de entrega.
 
-![](/erp-v2/assets//unidades/aba_unidade_add_guia_geral3.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral3.png)
 
 <br>
 
 Na última parte, fica a **`Configuração para venda online`** vejamos um pouco mais sobre esses campos para preencher.
 
 - **Imagem:** Aqui você carrega a logomarca da unidade/loja que está sendo cadastrada, para que alguns itens/links fiquem personalizados. Abaixo um exemplo de inserção de foto;
-    - ![](/erp-v2/assets//unidades/aba_unidade_add_guia_geral4.gif)
+    - ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral4.gif)
 
 - **Gerar Link:** É criado um link para efetuar vendas online se marcar como ativado;
 - **Unidade padrão:** É definida como unidade padrão para vendas online se marcado como ativado;
-- **[Tabela de preço (Venda)](/erp-v2//parametrizacoes/tabelas_precos.md):** Você pode clicar para acessar as tabelas de preços que serão utilizadas nas vendas online;
-- **[Tipo movimentação](/erp-v2//parametrizacoes/tipo_movimentacao.md):** Aqui você define o tipo de venda que será realizada com base nas já cadastradas;
-- **[Tabela de preço (Recorrência)](/erp-v2//parametrizacoes/tabelas_precos.md):** Mostrará as tabelas de preço, podendo escolher as de recorrência, lembrando que ficam todas no mesmo local;
-- **[Tipo movimentação (Recorrência)](/erp-v2//parametrizacoes/tipo_movimentacao.md):** Você define o tipo de movimento que mais ocorre;
-- **[Tipo movimentação Destino (Recorrência)](/erp-v2//parametrizacoes/tipo_movimentacao.md):** Você pode escolher a movimentação de destino que mais acontece;
-- **[Tipo de negociação (Venda/Recorrência)](/erp-v2//financeiro/tipo_negociacao.md):** Escolher o tipo de negociação, dinheiro, boleto, cartão e afins, que estiverem cadastrados;
-- **[Produtos venda online](/erp-v2//produtos_servicos/produtos.md):** Aqui você marca todos os produtos que ficarão disponibilizados para venda, precisando marcar um a um;
+- **[Tabela de preço (Venda)](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md):** Você pode clicar para acessar as tabelas de preços que serão utilizadas nas vendas online;
+- **[Tipo movimentação](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md):** Aqui você define o tipo de venda que será realizada com base nas já cadastradas;
+- **[Tabela de preço (Recorrência)](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md):** Mostrará as tabelas de preço, podendo escolher as de recorrência, lembrando que ficam todas no mesmo local;
+- **[Tipo movimentação (Recorrência)](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md):** Você define o tipo de movimento que mais ocorre;
+- **[Tipo movimentação Destino (Recorrência)](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md):** Você pode escolher a movimentação de destino que mais acontece;
+- **[Tipo de negociação (Venda/Recorrência)](/erp-v2/funcionalidades/financeiro/tipo_negociacao.md):** Escolher o tipo de negociação, dinheiro, boleto, cartão e afins, que estiverem cadastrados;
+- **[Produtos venda online](/erp-v2/funcionalidades/produtos_servicos/produtos.md):** Aqui você marca todos os produtos que ficarão disponibilizados para venda, precisando marcar um a um;
 
-![](/erp-v2/assets//unidades/aba_unidade_add_guia_geral4.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral4.png)
 
 <br>
 
 No final tem um botão chamado `Ver links(s)` ao clicar nele você vê o link da sua loja online para vendas:
 
-![](/erp-v2/assets//unidades/aba_unidade_add_guia_geral5.gif)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral5.gif)
 
 <br>
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova unidade/loja será salvo, e algumas mudanças acontecem, primeiro será o menu da guia, que recebe dois novos itens:
 
 - <img src="/erp-v2/assets/icon_paleta_cores.png" alt="" data-size="line"> Alterar cores da landing page;
-- <img src="/erp-v2/assets//icon_editar_cinza.png" alt="" data-size="line"> Adicionar/Tocar código;
+- <img src="/erp-v2/assets/funcionalidades/icon_editar_cinza.png" alt="" data-size="line"> Adicionar/Tocar código;
 
 <br>
 
-![](/erp-v2/assets//unidades/aba_unidade_add_guia_geral6.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral6.png)
 
 <br>
 
@@ -221,25 +221,25 @@ Se você observou na imagem acima, deixamos marcado também as novas guias que f
 
 Você terá uma lista de todos os vendedores dessa unidade, podendo também fazer adição, alteração e até exclusão.
 
-![](/erp-v2/assets//unidades/aba_unidade_vendedores.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_vendedores.png)
 
 Poderá utilizar os filtros para efetuar buscas específicas e organizar a ordem de visualização.
 
-![](/erp-v2/assets//unidades/aba_unidades_vendedores_filtroa.gif)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidades_vendedores_filtroa.gif)
 
 E também terá acesso ao dashboard com quantidade de vendedores por centro de resultado e por local de estoque:
 
-![](/erp-v2/assets//unidades/aba_unidade_vendedores_dashboard.gif)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_vendedores_dashboard.gif)
 
 <br>
 
 {% hint style="warning" %}
-**Atenção:** Se você quer saber mais sobre cadastro, edição e exclusão de vendedores, [clique aqui!](/erp-v2//usuarios_vendedores/vendedores_compradores.md)
+**Atenção:** Se você quer saber mais sobre cadastro, edição e exclusão de vendedores, [clique aqui!](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md)
 {% endhint %}
 
 <br>
 
 Fechando as guias disponíveis, temos a de **`Histórico`** com todos os registros/dados que tiverem nesta unidade, se você observar o primeiro registro é o de criação, trazendo o nome do usuário que fez, o que foi feito e a data/hora realizada.
 
-![](/erp-v2/assets//unidades/aba_unidade_guia_historico.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_guia_historico.png)
 

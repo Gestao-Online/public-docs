@@ -14,7 +14,7 @@ Aqui você tem a visão do estoque de produtos na plataforma **Gestão.Online**,
 
 <br>
 
-![](/erp-v2/assets//movimentacao_estoque/aba_movimentacao_estoque.gif)
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque.gif)
 
 <br>
 
@@ -26,7 +26,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar movimentação no estoque.
 
-![](/erp-v2/assets//movimentacao_estoque/aba_movimentacao_estoque_menu.png)
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_menu.png)
 
 <br>
 
@@ -38,7 +38,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de movimentações mostradas para até 1000 itens na página:
 
-![](/erp-v2/assets//servicos/aba_servicos_paginacao.png)
+![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_paginacao.png)
 
 <br>
 
@@ -46,13 +46,13 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto ao estoque, confira abaixo o procedimento para fazer a adição corretamente:
 
-![](/erp-v2/assets//estoque_produto/aba_estoque_add.png)
+![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add.png)
 
 <br>
 
 Ao clicar neste botão, você será direcionado para esta página, para criar uma movimentação de estoque:
 
-![](/erp-v2/assets//movimentacao_estoque/aba_movimentacao_estoque_add_inicio.png)
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_inicio.png)
 
 <br>
 
@@ -63,7 +63,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-![](/erp-v2/assets//movimentacao_estoque/aba_movimentacao_estoque_add_menu.png)
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_menu.png)
 
 <br>
 
@@ -72,20 +72,20 @@ Olhando para criação de movimentação, quando você for criar uma nova movime
 - **Tipo** (Transferência, venda, compra, devolução e ajuste);
 - **Data Lançamento** (Definir o dia que está sendo feita a movimentação);
 - **Quantidade** (Itens a mais ou a menos);
-- **Produto** (Defina qual produto terá a movimentação, para maiores informações [clique aqui](/erp-v2//produtos_servicos/produtos.md));
-- **Local de Estoque** (Defina qual local está o produto, para maiores informações [clique aqui](/erp-v2//unidades_locais_estoque/local_estoque.md));
-- **Empresa** (Defina qual empresa tem o produto, para maiores informações [clique aqui](/erp-v2//unidades_locais_estoque/unidades_lojas.md));
+- **Produto** (Defina qual produto terá a movimentação, para maiores informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md));
+- **Local de Estoque** (Defina qual local está o produto, para maiores informações [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md));
+- **Empresa** (Defina qual empresa tem o produto, para maiores informações [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md));
 - **Lançamento** (Entrada ou saída);
 - **Descrição** (Motivo da movimentação).
 
 <br>
 
-![](/erp-v2/assets//movimentacao_estoque/aba_movimentacao_estoque_itens.png)
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_itens.png)
 
 <br>
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova movimentação será adicionada:
 
-![](/erp-v2/assets//estoque_produto/aba_estoque_add_produto_salvar.gif)
+![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_produto_salvar.gif)
 
 <br>

@@ -14,7 +14,7 @@ Aqui você tem a visão do estoque de produtos na plataforma **Gestão.Online**,
 
 <br>
 
-![](/erp-v2/assets//estoque_produto/aba_estoque.gif)
+![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque.gif)
 
 <br>
 
@@ -26,7 +26,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar produto no estoque.
 
-![](/erp-v2/assets//estoque_produto/aba_estoque_menu.png)
+![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_menu.png)
 
 <br>
 
@@ -38,7 +38,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de itens mostrados para até 1000 itens na página:
 
-![](/erp-v2/assets//servicos/aba_servicos_paginacao.png)
+![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_paginacao.png)
 
 <br>
 
@@ -46,13 +46,13 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto ao estoque, confira abaixo o procedimento para fazer a adição corretamente:
 
-![](/erp-v2/assets//estoque_produto/aba_estoque_add.png)
+![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add.png)
 
 <br>
 
 Ao clicar neste botão, você será levado para esta página, para fazer o direcionamento do produto ao estoque:
 
-![](/erp-v2/assets//estoque_produto/aba_estoque_add_inicio.png)
+![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_inicio.png)
 
 <br>
 
@@ -63,26 +63,26 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-![](/erp-v2/assets//estoque_produto/aba_estoque_add_menu.png)
+![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_menu.png)
 
 <br>
 
 Olhando para a guia **`Geral`**, por padrão, quando você for criar adicionar um produto ao estoque, é exigido produto, local e empresa. 
 
-- **Produto** (Para maiores informações [clique aqui](/erp-v2//parametrizacoes/unidade_medida_produto_servico.md));
-- **Local** (Para maiores informações [clique aqui](/erp-v2//produtos_servicos/grupo_produto.md));
-- **Empresa** (Para maiores informações [clique aqui](/erp-v2//produtos_servicos/grupo_produto.md));
+- **Produto** (Para maiores informações [clique aqui](/erp-v2/funcionalidades/parametrizacoes/unidade_medida_produto_servico.md));
+- **Local** (Para maiores informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md));
+- **Empresa** (Para maiores informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md));
 - **Quantidade mínima**.
 
 <br>
 
-![](/erp-v2/assets//estoque_produto/aba_estoque_add_produto_itens.png)
+![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_produto_itens.png)
 
 <br>
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo produto será adicionado ao estoque:
 
-![](/erp-v2/assets//estoque_produto/aba_estoque_add_produto_salvar.gif)
+![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_produto_salvar.gif)
 
 <br>
 
@@ -94,19 +94,19 @@ Nesta guia ficarão todas as movimentações automáticas deste produto, sejam e
 
 Você pode também organizar e procurar usando os filtros existentes nela.
 
-![](/erp-v2/assets//estoque_produto/aba_estoque_add_produto_guia_estoque.png)
+![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_produto_guia_estoque.png)
 
 <br>
 
 Existe a possibilidade de fazer alterações manuais nas movimentações (Se tiver nível de acesso administrativo). Consegue modificar uma movimentação, ou até mesmo excluí-la. 
 
-![](/erp-v2/assets//estoque_produto/guia_movimentacoes_edit.png)
+![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_edit.png)
 
 <br>
 
 É possível também fazer a adição de uma movimentação, acompanhe a seguir:
 
-![](/erp-v2/assets//estoque_produto/guia_movimentacoes_add.png)
+![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_add.png)
 
 <br>
 
@@ -118,20 +118,20 @@ Atenção, para salvar este registro é necessário que todos os itens sejam pre
 - **Lançamento** (Entrada ou saída);
 - **Descrição** (Motivo da movimentação).
 
-![](/erp-v2/assets//estoque_produto/guia_movimentacoes_add_inicio.png)
+![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_add_inicio.png)
 
 .
 
-![](/erp-v2/assets//estoque_produto/guia_movimentacoes_add_inicio.gif)
+![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_add_inicio.gif)
 
 <br>
 
 Observe que após salvar, ficará registrado o usuário, data e hora na alteração que foi feita:
 
-![](/erp-v2/assets//estoque_produto/guia_movimentacoes_add_salvar.png)
+![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_add_salvar.png)
 
 <br>
 
 Finalizando assim, com o registro aparecendo na tela inicial:
 
-![](/erp-v2/assets//estoque_produto/guia_movimentacoes_add_final.png)
+![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_add_final.png)

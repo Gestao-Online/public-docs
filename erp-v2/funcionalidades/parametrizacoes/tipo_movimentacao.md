@@ -12,7 +12,7 @@ Estas movimentações serão utilizadas em vendas, vendas recorrentes, pedidos d
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao.gif)
 
 <br>
 
@@ -25,7 +25,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Empresa.
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_menu.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_menu.png)
 
 {% hint style="warning" %}
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
@@ -35,7 +35,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo item, confira abaixo o procedimento para fazer a adição corretamente:
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_add.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add.png)
 
 <br>
 
@@ -47,7 +47,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_add_menu.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_menu.png)
 
 <br>
 
@@ -59,13 +59,13 @@ Ao clicar no botão de restrições/exceções uma nova janela irá de abrir. Aq
 **Atenção:** Esta alteração só ficará disponível quando o **`Tipo de movimentação`** já estiver criado. Caso faça antes de criar, uma janela de aviso aparecerá informando que não será possível prosseguir. 😉
 {% endhint %}
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_btn_restricao.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_btn_restricao.png)
 
 Seguindo o exemplo demostrado abaixo, você pode definir por exemplo um tipo de negociação em dinheiro e definir se ele será sem restrição, restrição (Só pode ser utilizado com) e exceção (Só não pode ser utilizado com).
 
 E essa configuração pode ser feita com grupo de produto, um produto, uma empresa, vendedor, unidade e até um parceiro. Fazendo assim com que a possibilidade de erro por falta de atenção em alguma venda não aconteça, pois a restrição/exceção entrará em ação assim que for preciso.
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_btn_restricao.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_btn_restricao.gif)
 
 ## Campos de preenchimento obrigatório
 
@@ -77,7 +77,7 @@ Sendo eles descrição, status e tipo. Estes itens são o mínimo necessário pa
 **Informativo:** Os outros dois campos **Usuário** e **Data de Alteração** serão preenchidos por nossa plataforma, dados estes que não podem ser alterados por nenhum usuário. 😉👍
 {% endhint %}
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_add_movimentacao.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_movimentacao.png)
 
 <br>
 
@@ -95,7 +95,7 @@ Você tem vários tipos para definir qual movimentação será, estão entre ele
 - Financeiro;
 - Importação;
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_add_tipos.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipos.png)
 
 ## Tipo Venda
 
@@ -107,13 +107,13 @@ Não só estas definições, mas descendo um pouco no menu, você verá os `Requ
 **Informativo:** As configurações não se limitam só as estes campos apresentações, pois a cada opçõa marcada um novo menu é aberto ao fim da página, com as configurações específicas daquele campos que você marcou. 😉👍
 {% endhint %}
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_add_tipo_venda.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_venda.gif)
 
 ## Tipo Venda recorrente
 
 No tipo venda recorrente, você pode ativar permissão de desconto, permitir geração de comissão para indicador. Não só estas opções como tambem as funções de `Requisitos da movimentação` citados acima no tipo venda.
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_add_tipo_recorrente.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_recorrente.gif)
 
 ## Tipo Pedido de venda
 
@@ -121,36 +121,36 @@ No tipo pedido de venda, você define se a tabela de preço secundária será cu
 
 Lembrando que cada item marcado pode abrir um novo menu de opções na parte de baixo da página!
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_add_tipo_pedido.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_pedido.gif)
 
 ## Tipo Compra
 
 No tipo compra, você pode atualizar o financeiro, estoque, controle de unidade (Seja comercial/saldo ou produtivo/fechamento) e também gerar fiscal. Lembrando que cara item marcado um novo menu será disponibilizado com mais opções para preencimento. Agora os campos de usuário e data de alteração sempre será inalterados, pois servem para controle da nossa plataforma.
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_add_tipo_compra.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_compra.gif)
 
 ## Tipo Pedido de compra
 
 Já o tipo pedido de compra não possui menus alternativos para preenchimento, sendo ele uma função do tipo única, sem necessidade de intervenção. Mas não esqueça que o botão de restrições se aplica nele, caso necessite.
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_add_tipo_pedido_compra.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_pedido_compra.png)
 
 ## Tipo Financeiro
 
 No tipo financeiro você pode ativar a atualização de controle da unidade (Comercial/saldo), sendo assim definir o controle contrato entre despesa e receita de venda/financeiro, receita e despesa de custo/comissão. E no tipo de controle de contrato você tem como definir ao confirmar movimentação/venda/financeiro ou ao baixar financeiro.
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_add_tipo_financeiro.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_financeiro.gif)
 
 ## Tipo Importação
 
 Agora o tipo importação também não possui menus alternativos para preenchimento, sendo uma função única, sem necessidade de intervenção. Mas não esqueça que o botão de restrições se aplica nele, caso necessite.
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_add_tipo_importacao.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_importacao.png)
 
 <br>
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo tipo de movimentação será salvo:
 
-![](/erp-v2/assets//parametrizacao/aba_movimentacao_add_salvar.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_salvar.gif)
 
 <br>

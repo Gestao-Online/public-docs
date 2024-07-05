@@ -16,7 +16,7 @@ Estas empresas serão utilizadas em cadastro de estoques, lojas e vinculos com p
 
 <br>
 
-![](/erp-v2/assets//parametrizacao/aba_empresas.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas.gif)
 
 <br>
 
@@ -28,7 +28,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Empresa.
 
-![](/erp-v2/assets//parametrizacao/aba_empresas_menu.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_menu.png)
 
 <br>
 
@@ -40,7 +40,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
 
-![](/erp-v2/assets//parametrizacao/aba_empresas_add.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add.png)
 
 <br>
 
@@ -51,7 +51,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-![](/erp-v2/assets//parametrizacao/aba_empresas_add_menu.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_menu.png)
 
 <br>
 
@@ -63,7 +63,7 @@ Sendo eles CNPJ, nome fantasia e razão social, estes itens são o mínimo neces
 **Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada emrpesa 😉👍
 {% endhint %}
 
-![](/erp-v2/assets//parametrizacao/aba_empresas_add_empresa.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa.png)
 
 <br>
 
@@ -73,7 +73,7 @@ Você pode adicionar uma imagem para empresa, facilitando assim a identificaçã
 **Importante:** A foto de perfil precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite que é de apenas 5MB! 🖼️
 {% endhint %}
 
-![](/erp-v2/assets//parametrizacao/aba_empresas_add_imagem.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_imagem.gif)
 
 <br>
 
@@ -81,13 +81,13 @@ Outro item importante no momento de salvar uma nova empresa é o número de celu
 
 Logo abaixo, você tem os dados de endereço da empresa, com o sistema de autocompletar a partir do momento que preencher o CEP, depois é só preencher o número, caso tenha e o complemento do local se for necessário 😁
 
-![](/erp-v2/assets//parametrizacao/aba_empresas_add_endereco.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_endereco.gif)
 
 <br>
 
 Chegando ao final da página de cadastro da nova empresa, no deparamos com os dados fiscais, preencha eles em conformidade com a orientação do contador da empresa.
 
-![](/erp-v2/assets//parametrizacao/aba_empresas_add_fiscais.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_fiscais.png)
 
 <br>
 
@@ -99,11 +99,11 @@ Nos dados fiscais você também pode adicionar o certificado digital da empresa,
 **Importante:** Os certificados digitais são aceitos em **`.pfx`** ou **`.p12`**.
 {% endhint %}
 
-![](/erp-v2/assets//parametrizacao/aba_empresas_add_certificado.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_certificado.png)
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova empresa será salvo:
 
-![](/erp-v2/assets//parametrizacao/aba_empresas_add_salvar.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_salvar.gif)
 
 <br>
 
@@ -119,9 +119,9 @@ Duas novas guias ficam disponíveis a partir do momento que você salva uma nova
     - Comprovante da atividade exercida (cartão de visita, link de site, nota fiscal de compra de produtos ou prestação de serviços, etc);
     - Outros Documentos;
     - Outros arquivos de processamento.
-    - ![](/erp-v2/assets//parametrizacao/aba_empresas_add_guia_anexo.png)
+    - ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_guia_anexo.png)
 
 ## Guia Anexos arquivos de processamento
 
 - Anexos arquivos de processamento, vão aparecer todos os arquivos utilizados em transações realizadas por esta empresa na plataforma da **Gestão.Online**.
-    - ![](/erp-v2/assets//parametrizacao/aba_empresas_add_guia_arquivos.png)
+    - ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_guia_arquivos.png)

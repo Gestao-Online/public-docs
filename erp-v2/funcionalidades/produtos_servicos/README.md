@@ -20,10 +20,10 @@ Neste módulo você encontrará os itens serviços, kits de produtos/serviço, e
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//produtos_servicos/servicos.md">README.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servicos/servicos.md">README.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_servicoss.png">icon_servicoss.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_servicoss.png">icon_servicoss.png</a>
             </td>
         </tr>
         <tr>
@@ -33,10 +33,10 @@ Neste módulo você encontrará os itens serviços, kits de produtos/serviço, e
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//produtos_servicos/kits.md">kits.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servicos/kits.md">kits.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_kitss.png">icon_kitss.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_kitss.png">icon_kitss.png</a>
             </td>
         </tr>
         <tr>
@@ -46,10 +46,10 @@ Neste módulo você encontrará os itens serviços, kits de produtos/serviço, e
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//produtos_servicos/estoque_produto.md">estoque_produto.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servicos/estoque_produto.md">estoque_produto.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_estoque_produtoo.png">icon_estoque_produtoo.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_estoque_produtoo.png">icon_estoque_produtoo.png</a>
             </td>
         </tr>
         <tr>
@@ -59,10 +59,10 @@ Neste módulo você encontrará os itens serviços, kits de produtos/serviço, e
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//produtos_servico/movimentacao_estoque.md">README.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servico/movimentacao_estoque.md">README.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_movimentacao_estoque.png">icon_movimentacao_estoque.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_movimentacao_estoque.png">icon_movimentacao_estoque.png</a>
             </td>
         </tr>
         <tr>
@@ -72,10 +72,10 @@ Neste módulo você encontrará os itens serviços, kits de produtos/serviço, e
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//produtos_servico/fiscal/produtos.md">produtos.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servico/fiscal/produtos.md">produtos.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_produtoss.png">icon_produtoss.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_produtoss.png">icon_produtoss.png</a>
             </td>
         </tr>
         <tr>
@@ -85,10 +85,10 @@ Neste módulo você encontrará os itens serviços, kits de produtos/serviço, e
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//produtos_servico/categoria_produto.md">categoria_produto.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servico/categoria_produto.md">categoria_produto.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_estoque_produtoo.png">icon_estoque_produtoo.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_estoque_produtoo.png">icon_estoque_produtoo.png</a>
             </td>
         </tr>
         <tr>
@@ -98,10 +98,10 @@ Neste módulo você encontrará os itens serviços, kits de produtos/serviço, e
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//produtos_servico/grupo_produto.md">grupo_produto.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servico/grupo_produto.md">grupo_produto.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_grupo_produtoss.png">icon_grupo_produtoss.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_grupo_produtoss.png">icon_grupo_produtoss.png</a>
             </td>
         </tr>
         <tr>
@@ -111,10 +111,10 @@ Neste módulo você encontrará os itens serviços, kits de produtos/serviço, e
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//produtos_servico/vouchers.md">vouchers.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servico/vouchers.md">vouchers.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_voucherss.png">icon_voucherss.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_voucherss.png">icon_voucherss.png</a>
             </td>
         </tr>
     </tbody>

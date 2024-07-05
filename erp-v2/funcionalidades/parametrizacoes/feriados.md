@@ -6,7 +6,7 @@ O cadastro de feriados na plataforma **Gestão.Online** é essencial para o bom 
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-![](/erp-v2/assets//parametrizacao/aba_feriados.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados.gif)
 
 <br>
 
@@ -24,7 +24,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Feriado.
 
-![](/erp-v2/assets//parametrizacao/aba_feriados_menu.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados_menu.png)
 
 {% hint style="warning" %}
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
@@ -34,7 +34,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
 
-![](/erp-v2/assets//parametrizacao/aba_feriados_add.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados_add.png)
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
@@ -43,7 +43,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-![](/erp-v2/assets//parametrizacao/aba_feriados_add_menu.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados_add_menu.png)
 
 Quando você for adicionar um novo feriado, é exigido descrição, dia, mês e tipo. 
 
@@ -55,12 +55,12 @@ Quando você for adicionar um novo feriado, é exigido descrição, dia, mês e 
 
 <br>
 
-![](/erp-v2/assets//parametrizacao/aba_feriados_add_feriado_itens.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados_add_feriado_itens.gif)
 
 <br>
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do feriado será salvo:
 
-![](/erp-v2/assets//parametrizacao/aba_feriados_add_feriado_salvar.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados_add_feriado_salvar.gif)
 
 <br>

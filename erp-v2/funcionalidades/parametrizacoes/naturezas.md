@@ -12,7 +12,7 @@ Aqui você tem a visão de todas as receitas e despesas que estão diretamente r
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-![](/erp-v2/assets//parametrizacao/aba_naturezas.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_naturezas.gif)
 
 <br>
 
@@ -24,7 +24,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Natureza.
 
-![](/erp-v2/assets//parametrizacao/aba_naturezas_menu.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_naturezas_menu.png)
 
 <br>
 
@@ -36,7 +36,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo tipo de natureza, confira abaixo o procedimento para fazer a adição corretamente:
 
-![](/erp-v2/assets//parametrizacao/aba_naturezas_add.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_naturezas_add.png)
 
 <br>
 
@@ -48,7 +48,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Com as seg
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-![](/erp-v2/assets//parametrizacao/aba_naturezas_add_menu.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_naturezas_add_menu.png)
 
 <br>
 
@@ -59,19 +59,19 @@ Olhando para os campos disponíveis, por padrão, quando você for criar um novo
 - **Descrição** (Nome para identificar o novo item a ser criado);
 - **Identificador** (Código de identificação gerado automaticamente por nossa plataforma);
 - **Analítica** (Quando ativado, significa ser um item único, quando desativada fica disponível possuir itens dependentes);
-    - ![](/erp-v2/assets//parametrizacao/aba_naturezas_add_imagem.gif)
+    - ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_naturezas_add_imagem.gif)
 - **Status** (Se este item estará ativou ou não);
 - **Tipo** (Definir se é receita ou despesa).
 
 <br>
 
-![](/erp-v2/assets//parametrizacao/aba_naturezas_add_itens.png)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_naturezas_add_itens.png)
 
 <br>
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo item será salvo:
 
-![](/erp-v2/assets//parametrizacao/aba_naturezas_add_salvar.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_naturezas_add_salvar.gif)
 
 <br>
 

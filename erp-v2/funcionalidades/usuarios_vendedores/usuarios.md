@@ -10,7 +10,7 @@ Aqui você tem a visão de todos os usuários cadastrados na plataforma **Gestã
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-![](/erp-v2/assets//modulo_usuario.gif)
+![](/erp-v2/assets/funcionalidades/modulo_usuario.gif)
 
 <br>
 
@@ -23,7 +23,7 @@ Nesta aba está um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar usuário.
 
-![](/erp-v2/assets//menu_guia_usuarios.png)
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios.png)
 
 <br>
 
@@ -31,7 +31,7 @@ Nesta aba está um menu ao lado direito da tela com as seguintes funções:
 
 Ao clicar no primeiro item do menu vamos para o envio de notificação aos usuários, o preenchimento é bem simples e intuitivo.
 
-![](/erp-v2/assets//menu_guia_usuarios_notificacao.png)
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao.png)
 
 <br>
 
@@ -43,7 +43,7 @@ Você precisa definir primeiro nível de criticidade da notificação, das opç�
 - Alto;
 - Urgente.
 
-![](/erp-v2/assets//menu_guia_usuarios_notificacao_criticidade.png)
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_criticidade.png)
 
 <br>
 
@@ -57,24 +57,24 @@ Após a definição do nível, seguimos para o perfil de usuário que irá receb
 - Super administrador.
 
 
-![](/erp-v2/assets//menu_guia_usuarios_notificacao_perfil.png)
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_perfil.png)
 
 <br>
 
 Depois de definido o tipo de usuário, agora vamos para a mensagem, deixamos um editor de texto com algumas funções para você poder escrever a sua notificação:
 
-- <img src="/erp-v2/assets//icon_tamanho_texto.png" alt="" data-size="line"> Escolha de tamanho do texto;
-- <img src="/erp-v2/assets//icon_negrito.png" alt="" data-size="line"> Negrito;
-- <img src="/erp-v2/assets//icon_italico.png" alt="" data-size="line"> Itálico;
-- <img src="/erp-v2/assets//icon_sublinhado.png" alt="" data-size="line"> Sublinhado
-- <img src="/erp-v2/assets//icon_hiperlink.png" alt="" data-size="line"> Hiperlink;
-- <img src="/erp-v2/assets//icon_lista_ordenada.png" alt="" data-size="line"> Lista ordenada;
-- <img src="/erp-v2/assets//icon_lista_nao_ordenada.png" alt="" data-size="line"> Lista não ordenada;
-- <img src="/erp-v2/assets//icon_limpar_formatacao.png" alt="" data-size="line"> Limpar formatação. 
+- <img src="/erp-v2/assets/funcionalidades/icon_tamanho_texto.png" alt="" data-size="line"> Escolha de tamanho do texto;
+- <img src="/erp-v2/assets/funcionalidades/icon_negrito.png" alt="" data-size="line"> Negrito;
+- <img src="/erp-v2/assets/funcionalidades/icon_italico.png" alt="" data-size="line"> Itálico;
+- <img src="/erp-v2/assets/funcionalidades/icon_sublinhado.png" alt="" data-size="line"> Sublinhado
+- <img src="/erp-v2/assets/funcionalidades/icon_hiperlink.png" alt="" data-size="line"> Hiperlink;
+- <img src="/erp-v2/assets/funcionalidades/icon_lista_ordenada.png" alt="" data-size="line"> Lista ordenada;
+- <img src="/erp-v2/assets/funcionalidades/icon_lista_nao_ordenada.png" alt="" data-size="line"> Lista não ordenada;
+- <img src="/erp-v2/assets/funcionalidades/icon_limpar_formatacao.png" alt="" data-size="line"> Limpar formatação. 
 
 <!-- Nesta parte perguntar ao Paulo as restrições de envio de notificação para deixar o aviso na página para os demais usuários -->
 
-![](/erp-v2/assets//menu_guia_usuarios_notificacao_enviada.gif)
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_enviada.gif)
 
 <br>
 
@@ -86,13 +86,13 @@ Depois de definido o tipo de usuário, agora vamos para a mensagem, deixamos um 
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo usuário, confira abaixo o procedimento para fazer o cadastro corretamente:
 
-![](/erp-v2/assets//menu_guia_ususarios_menu_add_user.png)
+![](/erp-v2/assets/funcionalidades/menu_guia_ususarios_menu_add_user.png)
 
 <br>
 
 Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados do novo usuário:
 
-![](/erp-v2/assets//menu_guia_usuario_add_user.png)
+![](/erp-v2/assets/funcionalidades/menu_guia_usuario_add_user.png)
 
 <br>
 
@@ -103,7 +103,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-![](/erp-v2/assets//menu_guia_usuario_add_user_menu.png)
+![](/erp-v2/assets/funcionalidades/menu_guia_usuario_add_user_menu.png)
 
 <br>
 
@@ -122,7 +122,7 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar uma conta �
 
 <br>
 
-![](/erp-v2/assets//menu_guia_usuario_add_user_itens.png)
+![](/erp-v2/assets/funcionalidades/menu_guia_usuario_add_user_itens.png)
 
 <br>
 
@@ -140,5 +140,5 @@ Uma informação importante sobre os tipos de Perfis:
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do usuário será salvo e enviado para o email cadastrado, uma mensagem para finalizar o registro:
 
-![](/erp-v2/assets//menu_guia_usuarios_salvar.gif)
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_salvar.gif)
 

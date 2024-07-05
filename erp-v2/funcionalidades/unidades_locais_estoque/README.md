@@ -20,10 +20,10 @@ Neste módulos você encontra os itens unidades, lojas e local de estoque, para 
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//unidades_locais_estoque/unidades_lojas.md">unidades_lojas.md</a>
+                <a href="/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md">unidades_lojas.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_unidade.png">icon_unidade.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_unidade.png">icon_unidade.png</a>
             </td>
         </tr>
         <tr>
@@ -33,10 +33,10 @@ Neste módulos você encontra os itens unidades, lojas e local de estoque, para 
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2//unidades_locais_estoque/local_estoque.md">local_estoque.md</a>
+                <a href="/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md">local_estoque.md</a>
             </td>
             <td>
-                <a href="/erp-v2/assets//icon_estoque.png">icon_estoque.png</a>
+                <a href="/erp-v2/assets/funcionalidades/icon_estoque.png">icon_estoque.png</a>
             </td>
         </tr>
     </tbody>

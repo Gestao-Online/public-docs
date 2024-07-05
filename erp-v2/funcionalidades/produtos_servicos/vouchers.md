@@ -14,7 +14,7 @@ Aqui você tem a visão de todos os vouchers cadastrados na plataforma **Gestão
 
 <br>
 
-![](/erp-v2/assets//vouchers/aba_vouchers.gif)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers.gif)
 
 <br>
 
@@ -26,7 +26,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Voucher.
 
-![](/erp-v2/assets//vouchers/aba_vouchers_menu.png)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_menu.png)
 
 <br>
 
@@ -38,7 +38,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de vouchers mostrados para até 1000 itens na página:
 
-![](/erp-v2/assets//vouchers/aba_vouchers_paginacao.png)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_paginacao.png)
 
 <br>
 
@@ -46,13 +46,13 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo voucher, confira abaixo o procedimento para fazer a adição corretamente:
 
-![](/erp-v2/assets//vouchers/aba_vouchers_add.png)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add.png)
 
 <br>
 
 Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento das informações do novo voucher:
 
-![](/erp-v2/assets//vouchers/aba_vouchers_add_inicio.png)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_inicio.png)
 
 <br>
 
@@ -64,7 +64,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-![](/erp-v2/assets//vouchers/aba_vouchers_add_menu.png)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_menu.png)
 
 <br>
 
@@ -76,23 +76,23 @@ Quando você for criar um voucher, é exigido produto, status e permissão de pr
 
 <br>
 
-![](/erp-v2/assets//vouchers/aba_vouchers_add_voucher_itens.png)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_voucher_itens.png)
 
 <br>
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo voucher será salvo:
 
-![](/erp-v2/assets//vouchers/aba_vouchers_add_voucher_salvar.gif)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_voucher_salvar.gif)
 
 <br>
 
 Ainda falando do menu dessa aba temos <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> o ícone de restrições/exceções, quando clicamos nele, uma janela pop-up será aberta com algumas configurações disponíveis para você preencher:
 
-![](/erp-v2/assets//vouchers/aba_vouchers_add_restricoes.png)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_restricoes.png)
 
 São três campos para preenchimento das informações, sendo eles o tipo de movimentação, unidade e vendedor, e cada um tendo ao lado a opção para definir, que tipo de restrição terá, das opções sem restrições,  restrição (Só pode ser utilizado com) e exceção (Só não pode ser utilizado com)
 
-![](/erp-v2/assets//vouchers/aba_vouchers_add_restricoes2.png)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_restricoes2.png)
 
 Observe que após salvar as informações, a janela `Voucher Item` passará a ficar disponível, nela temos outro menu:
 
@@ -103,7 +103,7 @@ Observe que após salvar as informações, a janela `Voucher Item` passará a fi
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar código;
 
-![](/erp-v2/assets//vouchers/aba_vouchers_add_menu_guia_itens.png)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_menu_guia_itens.png)
 
 <br>
 
@@ -113,13 +113,13 @@ Na primeira opção do menu, temos o `Importar códigos`, você pode pegar uma l
 **Atenção:** O formato de arquivo aceito para essa importação é **" .txt "**, confira antes de tentar fazer a importação.
 {% endhint %}
 
-![](/erp-v2/assets//vouchers/aba_vouchers_add_importar.gif)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_importar.gif)
 
 <br>
 
 Mas caso queira, pode fazer a inserção do código de voucher manualmente, é bem rápido e prático, dá uma olhadinha aqui abaixo 😁
 
-![](/erp-v2/assets//vouchers/aba_vouchers_add_codigo.gif)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_codigo.gif)
 
 <br>
 
@@ -127,4 +127,4 @@ Não esqueça que são duas guias, a primeira de itens, onde adicionamos os cód
 
 Esse histórico trás ID, código, movimentação, se está disponível para uso e a data/hora que foi utilizado:
 
-![](/erp-v2/assets//vouchers/aba_vouchers_add_guia_historico.png)
+![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_guia_historico.png)

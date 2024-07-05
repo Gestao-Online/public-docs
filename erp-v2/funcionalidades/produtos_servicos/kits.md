@@ -14,7 +14,7 @@ Aqui você tem a visão de todos os kits de produto/serviço cadastrados na plat
 
 <br>
 
-![](/erp-v2/assets//kits/aba_kits.gif)
+![](/erp-v2/assets/funcionalidades/kits/aba_kits.gif)
 
 <br>
 
@@ -27,7 +27,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Kits.
 
-![](/erp-v2/assets//kits/aba_kits_menu.png)
+![](/erp-v2/assets/funcionalidades/kits/aba_kits_menu.png)
 
 <br>
 
@@ -39,14 +39,14 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras abas da plataforma, sendo eles:
 
-- <img src="/erp-v2/assets//icon_produtos_servicos.png" alt="" data-size="line"> Todos os produtos/serviços;
-- <img src="/erp-v2/assets//icon_produto.png" alt="" data-size="line"> [Produtos](/erp-v2//produtos_servicos/produtos.md);
-- <img src="/erp-v2/assets//icon_servicos.png" alt="" data-size="line"> [Serviços](/erp-v2//produtos_servicos/servicos.md);
-- <img src="/erp-v2/assets//icon_kits.png" alt="" data-size="line"> Kits (Aba atual);
+- <img src="/erp-v2/assets/funcionalidades/icon_produtos_servicos.png" alt="" data-size="line"> Todos os produtos/serviços;
+- <img src="/erp-v2/assets/funcionalidades/icon_produto.png" alt="" data-size="line"> [Produtos](/erp-v2/funcionalidades/produtos_servicos/produtos.md);
+- <img src="/erp-v2/assets/funcionalidades/icon_servicos.png" alt="" data-size="line"> [Serviços](/erp-v2/funcionalidades/produtos_servicos/servicos.md);
+- <img src="/erp-v2/assets/funcionalidades/icon_kits.png" alt="" data-size="line"> Kits (Aba atual);
 
 Clicando no ícone da seta você exibe de forma completa, e clicando nela novamente, volta ao modo recolhido, confira exemplo abaixo: 
 
-![](/erp-v2/assets//kits/aba_kits_menu_esquerdo.gif)
+![](/erp-v2/assets/funcionalidades/kits/aba_kits_menu_esquerdo.gif)
 
 <br>
 
@@ -54,7 +54,7 @@ Clicando no ícone da seta você exibe de forma completa, e clicando nela novame
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de kits mostrados para até 1000 itens na página:
 
-![](/erp-v2/assets//servicos/aba_servicos_paginacao.png)
+![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_paginacao.png)
 
 <br>
 
@@ -62,13 +62,13 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
 
-![](/erp-v2/assets//kits/aba_kits_add.png)
+![](/erp-v2/assets/funcionalidades/kits/aba_kits_add.png)
 
 <br>
 
 Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento das informações do novo kit:
 
-![](/erp-v2/assets//kits/aba_kits_add_inicio.png)
+![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_inicio.png)
 
 <br>
 
@@ -79,7 +79,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-![](/erp-v2/assets//kits/aba_kits_add_menu.png)
+![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_menu.png)
 
 <br>
 
@@ -87,12 +87,12 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo kit
 
 - **Descrição** (Nome para identificar o novo kit a ser criado);
 - **Imagem (Principal)** (Para facilitar identificação do kit);
-    - ![](/erp-v2/assets//kits/aba_kits_add_imagem.gif)
+    - ![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_imagem.gif)
 - **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
 - **Código** (SKU ou código de barras referente ao kit);
 - **Status** (Com duas opções para selecionar, entre ativado e desativado);
-- **Unidade/Medida** (Serão mostradas as opções cadastradas [aqui](/erp-v2//parametrizacoes/unidade_medida_produto_servico.md));
-- **Grupo** (Serão mostradas as opções cadastradas [aqui](/erp-v2//produtos_servicos/grupo_produto.md));
+- **Unidade/Medida** (Serão mostradas as opções cadastradas [aqui](/erp-v2/funcionalidades/parametrizacoes/unidade_medida_produto_servico.md));
+- **Grupo** (Serão mostradas as opções cadastradas [aqui](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md));
 - **Valor Custo** (Aqui você declara o valor deste kit);
 - **Tipo de entrega:**
     - **Digital** Não mostrará as opções de NFe/NFCe;
@@ -101,13 +101,13 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo kit
 
 <br>
 
-![](/erp-v2/assets//kits/aba_kits_add_kit_itens.png)
+![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_kit_itens.png)
 
 <br>
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo kit de produto/serviço será salvo:
 
-![](/erp-v2/assets//kits/aba_kits_add_kit_salvar.gif)
+![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_kit_salvar.gif)
 
 <br>
 
@@ -117,27 +117,27 @@ Nesta guia você pode vincular um produto/serviço ao kit que você acabou de cr
 
 Pode também utilizar os filtros disponíveis caso tenha muitos itens sendo exibidos. Depois é só salvar e aparecerá, confira abaixo:
 
-![](/erp-v2/assets//kits/aba_kits_add_kit_guia_itens.gif)
+![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_kit_guia_itens.gif)
 
 <br>
 
 Agora na guia de `Categorias`, você pode definir uma categoria para o kit cadastrado, ao clicar em adicionar será mostrada a lista para você escolher uma opção, essas opções já estão pré cadastradas na aba categoria de produto
 
 {% hint style="warning" %}
-**Informativo:** Se você deseja saber mais informações sobre categoria de produto [clique aqui](/erp-v2//produtos_servicos/categoria_produto.md)
+**Informativo:** Se você deseja saber mais informações sobre categoria de produto [clique aqui](/erp-v2/funcionalidades/produtos_servicos/categoria_produto.md)
 {% endhint %}
 
-![](/erp-v2/assets//kits/aba_kits_add_kit_guia_categoria.gif)
+![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_kit_guia_categoria.gif)
 
 <br>
 
 Por último na guia `Tabelas de preço` você pode adicionar um valor ou percentual e de qual tabela de preço existente irá ser vinculado:
 
 {% hint style="warning" %}
-**Informativo:** Se você deseja saber mais informações sobre tabela de preço [clique aqui](/erp-v2//parametrizacoes/tabelas_precos.md)
+**Informativo:** Se você deseja saber mais informações sobre tabela de preço [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md)
 {% endhint %}
 
-![](/erp-v2/assets//kits/aba_kits_add_kit_guia_tabela_preco.gif)
+![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_kit_guia_tabela_preco.gif)
 
 <br>
 
@@ -155,4 +155,4 @@ Confira abaixo o procedimento:
 
 <!-- Em conversa com o Werick, ele me explicou que está padronizado para cadastrar o tipo para SERVIÇO e que teria que alterar depois pq a demanda é maior para serviço do que para produto, por isso sempre que importar, será aplicado o tipo serviço. -->
 
-![](/erp-v2/assets//kits/aba_kits_importar.gif)
+![](/erp-v2/assets/funcionalidades/kits/aba_kits_importar.gif)

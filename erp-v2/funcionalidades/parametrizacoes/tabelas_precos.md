@@ -14,6 +14,6 @@ Estas tabelas serão utilizadas em cadastro de produtos, registro de vendas e re
 
 <br>
 
-![](/erp-v2/assets//parametrizacao/aba_tabelas_precos.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_precos.gif)
 
 <br>
