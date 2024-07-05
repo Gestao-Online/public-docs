@@ -31,40 +31,6 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
 {% endhint %}
 
-### Paginação aba vendedores
-
-Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de vendedores mostrados para até 1000 itens na página:
-
-![](/erp-v2/assets/modulos/vendedores/aba_vendedores_paginacao.png)
-
-<br>
-
-### Dashboard vendedores 
-
-Assim que se acessa a página inicial dos vendedores/compradores você pode ver um ícone na lateral esquerda da tela se mexendo, ao clicarmos nele uma janela lateral aparecerá com algumas informações, vejamos abaixo:
-
-![](/erp-v2/assets/modulos/vendedores/aba_vendedores_dashboard.gif)
-
-<br>
-
-Explicando cada card, temos primeiro os indicadores de quantidade, vendedores ativos e inativos. Esses números são atualizados em tempo real na plataforma, podendo também utilizar o botão <img src="/erp-v2/assets/modulos/icon_refresh.png" alt="" data-size="line"> refresh para atualizar os dados:
-
-![](/erp-v2/assets/modulos/vendedores/aba_vendedores_dashboard_1.png)
-
-<br>
-
-Logo abaixo das quantidades, nós temos um gráfico de coluna com a quantidade de vendedores por centro de resultado:
-
-![](/erp-v2/assets/modulos/vendedores/aba_vendedores_dashboard_2.png)
-
-<br>
-
-E por último você vê um gráfico de barras, a quantidade de vendedores por local de estoque:
-
-![](/erp-v2/assets/modulos/vendedores/aba_vendedores_dashboard_3.png)
-
-<br>
-
 ### Adicionar novo vendedor
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo vendedor, confira abaixo o procedimento para fazer o cadastro corretamente:

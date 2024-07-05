@@ -74,9 +74,11 @@
     * [Cadastro de Certificado](erp/guias/cadastro_empresa_certificado.md) -->
 
 * [🖥️ ERP V2](erp-v2/README.md)
+  
   * [👩‍💻 Criar e/ou Recuperar acesso](erp-v2/criar_recuperar_acesso/README.md)
     * [✅ Email de confirmação de cadastro de usuário](erp-v2/criar_recuperar_acesso/email_cad_usuario_novo.md)
     * [🔐 Recuperar acesso e ativar conta](erp-v2/criar_recuperar_acesso/recuperar_acesso.md)
+  
   * [🥇 Como utilizar](erp-v2/primeiro_acesso/README.md)
     * [🧑‍🏫 Apresentação da barra de navegação (abas, botões)](erp-v2/primeiro_acesso/apresentacao_barra_navegacao.md)
     * [🔔 Notificações internas](erp-v2/primeiro_acesso/notificacao_interna.md)
@@ -89,6 +91,7 @@
     * [📊 Dashboards na GRID](erp-v2/primeiro_acesso/relatorios_dashboard_grid.md)
     * [📤 Exportar](erp-v2/primeiro_acesso/exportar.md)
     * [📥 Importar](erp-v2/primeiro_acesso/importar.md)
+ 
   * [⚙️ Minhas preferências](erp-v2/minhas_preferencias/README.md)
     * [🎲 Editando meus dados](erp-v2/minhas_preferencias/edit_meus_dados.md)
     * [🔑 Alterando minha senha](erp-v2/minhas_preferencias/alt_minha_senha.md)
@@ -181,6 +184,7 @@
 * [👨🏻‍💻Portal do parceiro](portal/README.md)
   * [🤝 Modo Indicador](portal/indicador.md)
   * [💰 Modo Cliente](portal/cliente.md)
+
 * [🔗 Área do desenvolvedor (Integrações)](api/README.md)
   * [Testando Pagamentos](api/payment_tests.md)
   * [Mensagens de Erro](api/error_messages.md)
