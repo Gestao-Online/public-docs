@@ -2,10 +2,10 @@
 
 Aqui você tem a visão de todos as empresas cadastradas na plataforma **Gestão.Online**, podendo cadastrar uma nova empresa, editar informações existentes e até excluir uma empresa cadastrada.
 
-Estas empresas serão utilizadas em cadastro de estoques, lojas e vinculos com produtos e serviços.
+Estas empresas serão utilizadas em cadastro de estoques, lojas e vínculos com produtos e serviços.
 
 {% hint style="danger" %}
-**Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -20,7 +20,7 @@ Estas empresas serão utilizadas em cadastro de estoques, lojas e vinculos com p
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
@@ -75,7 +75,7 @@ Você pode adicionar uma imagem para empresa, facilitando assim a identificaçã
 
 <br>
 
-Outro item importante no momento de salvar uma nova empresa é o número de celular, pois pode ser utilizado para hyperlinks do whatsapp, telegram e outros mensageiros.
+Outro item importante no momento de salvar uma nova empresa é o número de celular, pois pode ser utilizado para hiperlinks do WhatsApp, Telegram e outros mensageiros.
 
 Logo abaixo, você tem os dados de endereço da empresa, com o sistema de autocompletar a partir do momento que preencher o CEP, depois é só preencher o número, caso tenha e o complemento do local se for necessário 😁
 
@@ -83,7 +83,7 @@ Logo abaixo, você tem os dados de endereço da empresa, com o sistema de autoco
 
 <br>
 
-Chegando ao final da página de cadastro da nova empresa, no deparamos com os dados fiscais, preencha eles em conformidade com a orientação do contador da empresa.
+Chegando ao final da página de cadastro da nova empresa, nos deparamos com os dados fiscais, preencha-os conforme a orientação do contador da empresa.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_fiscais.png)
 
@@ -109,12 +109,12 @@ Duas novas guias ficam disponíveis a partir do momento que você salva uma nova
 
 ## Guia Anexar documentos
 
-- Anexos documentos, nesta primeira guia você pode inserir uma descrição, fazer uploado arquivo em definir o tipo com as opções disponíveis abaixo:
+- Anexos documentos, nesta primeira guia, você pode inserir uma descrição, fazer upload do arquivo e definir o tipo com as opções disponíveis abaixo:
     - Cópia do cartão do CNPJ ou cópia do contrato social da empresa;
     - Documento de identidade com foto (RG e CPF ou CNH) do proprietário/sócios;
     - Comprovante de residência em seu nome (ou familiares) do proprietário/sócios;
-    - Comprovante da atividade exercida (cartão de visita, link de site, nota fiscal de compra de produtos ou prestação de serviços, etc);
-    - Comprovante da atividade exercida (cartão de visita, link de site, nota fiscal de compra de produtos ou prestação de serviços, etc);
+    - Comprovante da atividade exercida (cartão de visita, link de site, nota fiscal de compra de produtos ou prestação de serviços, etc.);
+    - Comprovante da atividade exercida (cartão de visita, link de site, nota fiscal de compra de produtos ou prestação de serviços, etc.);
     - Outros Documentos;
     - Outros arquivos de processamento.
     - ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_guia_anexo.png)
