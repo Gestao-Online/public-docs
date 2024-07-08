@@ -88,3 +88,9 @@ Nos dois últimos campos de preenchimento, temos o **modo de uso** com dois mduy
 
 Por último, você tem o **modo de configuração**, ele tem algumas opções, dependendo da que você precisa novos campos para preencher ficarão disponíveis. Vejamos abaixo a explicação das opções disponíveis:
 
+- **Valor Fixo por produto/serviço:** Esta opção não possui campos adicionais para preencher.;
+- **Valor fixo e/ou percentual por produto/serviço de outra tabela:** Nesta opção você precisará indicar uma tabela de preço já existente para vinculação. Precisa definir se irá computar percentual, e você pode preencher esse percentual. E por último definir um grupo de produto para vinculo com a tabela que está criando.;
+    - ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_modo_config_2.png)
+- **Valor percentual da venda/movimentação:** Ao selecionar esta opção, é possível definir o percentual para cada movimentação e escolher a qual grupo de produtos ele estará vinculado.;
+    - - ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_modo_config_3.png)
+- **Valor da venda/movimentação subtraindo o valor produto/serviço de outra tabela:** 
