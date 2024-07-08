@@ -4,13 +4,17 @@ A opção **`Exportar`** está à sua disposição caso deseje realizar uma aná
 
 O ícone de acesso a ele está logo ao lado do botão de configurar a grid:
 
+{% hint style="warning" %}
+**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+{% endhint %}
+
 ![](/erp-v2/assets/exportar_aba_vendas.png)
 
 Ao clicar nele, uma janela pop-up será aberta e nela você tem algumas funções pré-programadas para utilizar.
 
 Com a janela aberta, você pode selecionar um dos modelos sugeridos, entre resumido ou detalhado, e consegue ver os favoritos, tanto resumido quanto detalhado (No momento, eles estão vazios, mas criaremos um no decorrer da explicação):
 
-{% hint style="warning" %}
+{% hint style="info" %}
 **Atenção:** Os filtros que você aplicar na aba, irão interferir diretamente no resultado gerado pelos relatórios que você exportar!  😉👍
 {% endhint %}
 

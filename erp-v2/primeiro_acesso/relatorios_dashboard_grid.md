@@ -2,6 +2,10 @@
 
 Sempre que abre uma aba na plataforma **Gestão.Online**, você deve ter observado que em algumas abas, no lado esquerdo, um ícone fica se movimentando indicando que tem mais informações a serem mostradas, esse é o ícone de dashboard flutuante. Nele, você tem relatórios visuais sobre a aba que está aberta:
 
+{% hint style="warning" %}
+**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+{% endhint %}
+
 ![](/erp-v2/assets/relatorios_dashboard_aba.gif)
 
 <br>
