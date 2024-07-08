@@ -1,9 +1,9 @@
 # 📚 Funcionalidades
 
-Nesta seção iremos explicar cada um dos itens agrupados no menu (Funcionalidades) e suas respectivas telas disponíveis na nossa plataforma **Gestão.Online** e a melhor maneira de você utilizar cada um. As funcionalidades estão dispostas no menu principal e você pode favoritar as que mais utiliza no menu de [`favoritos`](/erp-v2/primeiro_acesso/favoritos.md) para ter eles disponíveis sempre quando abrir a plataforma. Para saber mais sobre os itens do menu e suas funcionalidades, clique abaixo no de sua preferência:
+Nesta seção explicamos cada um dos itens agrupados no menu (Funcionalidades) e suas respectivas telas disponíveis na nossa plataforma **Gestão.Online**, e a melhor maneira de você utilizar cada um. As funcionalidades estão dispostas no menu principal e você pode favoritar as que mais utiliza no menu de [`favoritos`](/erp-v2/primeiro_acesso/favoritos.md) para ter eles disponíveis sempre quando abrir a plataforma. Para saber mais sobre os itens do menu e suas funcionalidades, clique abaixo no de sua preferência:
 
 {% hint style="danger" %}
-**Atenção:** As funcionalidades e o menu mudam de acordo com o que foi autorizado a ser exibido pelo administrador para cada perfil de usuário, por isso talvez, algumas informações podem não aparecer para você.
+**Atenção:** As funcionalidades e o menu mudam conforme o que foi autorizado a ser exibido pelo administrador para cada perfil de usuário, por isso, talvez, algumas informações podem não aparecer para você.
 {% endhint %}
 
 <table data-view="cards">

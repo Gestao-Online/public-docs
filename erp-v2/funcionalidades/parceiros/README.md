@@ -1,19 +1,19 @@
 # 👥 Parceiros
 
-Dentro do conjunto de funcionalidades de "Parceiros", abordaremos os principais cenários de uso de cada "persona" de parceiro dentro do sistema. Vamos separar pelos seguintes tipos:
+No conjunto de funcionalidades de **`Parceiros`**, abordaremos os principais cenários de uso de cada "persona" de parceiro no sistema. Vamos separar pelos seguintes tipos:
 
-- Cliente: Persona do parceiro que é um "cliente" da empresa (realiza compras da empresa).
-- Fornecedor: Cenário do parceiro que é um "fornecedor" da empresa (presta algum tipo de serviço ou vende produtos para a empresa).
-- Indicadores: Cenário do parceiro que é um "indicador" da empresa (tem algum tipo de parceria onde indica os serviços/produtos da empresa).
-- Transportadoras: Cenário do parceiro que é um "fornecedor" da empresa, especificamente para o serviço de transporte (frete).
+- **Cliente:** Persona do parceiro que é um **"cliente"** da empresa (realiza compras da empresa).
+- **Fornecedor:** Ambiente do parceiro que é um **"fornecedor"** da empresa (presta algum tipo de serviço ou vende produtos para a empresa).
+- **Indicadores:** Cenário do parceiro que é um **"indicador"** da empresa (tem algum tipo de parceria onde indica os serviços/produtos da empresa).
+- **Transportadoras:** Cenário do parceiro que é um **"fornecedor"** da empresa, especificamente para o serviço de transporte (frete).
 
-De modo geral, um parceiro é uma "Empresa" ou uma "Pessoa" que pode assumir diversas relações com a empresa. A importância de separar pelos tipos corretos é que o sistema será mais assertivo durante as sugestões e até mesmo nas permissões internas. Por exemplo: Para que o vendedor durante uma venda possa vincular um parceiro no campo de "Parceiro Indicador", o cadastro desse parceiro deve ter sido previamente configurado com esse tipo para permitir esse vínculo. 
+De modo geral, um parceiro é uma **"Empresa"** ou uma **"Pessoa"** que pode assumir diversas relações com a empresa. A importância de separar pelos tipos corretos é que o sistema será mais assertivo durante as sugestões e até mesmo nas permissões internas. Por exemplo: Para que o vendedor durante uma venda possa vincular um parceiro no campo de **"Parceiro Indicador"**, o cadastro desse parceiro deve ter sido previamente configurado com esse tipo para permitir esse vínculo. 
 
-O sistema também irá moldar a tela de parceiro para os campos especificos de cada tipo de parceiro, como por exemplo:
+O sistema também irá moldar a tela de parceiro para os campos específicos de cada tipo de parceiro, como, por exemplo:
 
-O tipo "Indicador" poderá ter campos relacinados a como funciona essa parceria de indicaçāo, se ela é remunerada ou nāo, se sim qual é a tabela de preço (como funciona o cálculo da comissāo) por essa indicaçāo, se essa parceria permite o "Indicador" ter um site de "Afiliado", quais produtos essa parceria envolve e etc.
+O tipo **"Indicador"** poderá ter campos relacionados a como funciona essa parceria de indicação, se ela é remunerada ou não, se sim qual é a tabela de preço (como funciona o cálculo da comissão) por essa indicação, se essa parceria permite o "Indicador" ter um site de "Afiliado", quais produtos essa parceria envolve, etc.
 
-Já o tipo "Cliente" terá somente os campos básicos e objetivos que sāo necessários para fazer uma venda para esse cliente.
+Já o tipo **"Cliente"** terá somente os campos básicos e objetivos necessários para fazer uma venda para esse cliente.
 
 <table data-view="cards">
     <thead>
