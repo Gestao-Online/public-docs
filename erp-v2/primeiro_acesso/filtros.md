@@ -78,7 +78,7 @@ Agora no filtro por **`Status`** existem duas opções para você utilizar nas b
 
 <br>
 
-Se você observar, sempre ao **`lado direito`** de cada item listado, você têm dois ou três botões:
+Se você observar, sempre ao **`lado direito`** de cada item listado, você tem dois ou três botões:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar item filho (Quando um item tem um dependente);
 - <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> Editar item;

@@ -14,13 +14,13 @@ O primeiro passo é abrir o menu principal, procurar a função que você irá u
 
 <br>
 
-Com a aba de vendas aberta (Lembrando que pode ser com qualquer outra tela ou dashboard), você irá novamente abrir o menu principal e agora iremos clicar no <img src="/erp-v2/assets/icone_caneta_favoritos.png" alt="" data-size="line"> ícone da caneta que está logo abaixo do nome `favoritos`. Isto, mudará de forma para o <img src="/erp-v2/assets/icone_visto_favoritos.png" alt="" data-size="line"> ícone de visto/check. 
+Com a aba de vendas aberta (Lembrando que pode ser com qualquer outra tela ou dashboard), você irá novamente abrir o menu principal e agora iremos clicar no <img src="/erp-v2/assets/icone_caneta_favoritos.png" alt="" data-size="line"> ícone da caneta que está logo abaixo do nome `favoritos`. Isto mudará de forma para o <img src="/erp-v2/assets/icone_visto_favoritos.png" alt="" data-size="line"> ícone de visto/check. 
 
 ![](/erp-v2/assets/menu_favoritos_editar.gif)
 
 <br>
 
-Após esses passos, você irá à aba aberta (No nosso caso a de vendas) e irá arrastá-la para dentro do menu de favoritos, e logo após clicar no <img src="/erp-v2/assets/icone_visto_favoritos.png" alt="" data-size="line"> ícone de visto/check para salvar as alterações:
+Após esses passos, você irá à aba aberta (No nosso caso, a de vendas) e irá arrastá-la para dentro do menu de favoritos, e logo após clicar no <img src="/erp-v2/assets/icone_visto_favoritos.png" alt="" data-size="line"> ícone de visto/check para salvar as alterações:
 
 ![](/erp-v2/assets/menu_favoritos_salvar.gif)
 

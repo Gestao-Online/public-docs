@@ -6,7 +6,7 @@
 
 **01 - Espaço para abas:** No primeiro item, está o espaço dedicado às abas, cada função da nossa plataforma ficará nesta área quando você estiver utilizando.
 
-- Observe quando tem muitas abas abertas ao mesmo tempo, a aba em uso ficará com a cor mais clara, e as demais com a cor mais escura, auxiliando assim sua visão sobre qual aba está no momento:
+- Observe quando tem muitas abas abertas ao mesmo tempo, a aba em uso ficará com a cor mais clara e as demais com a cor mais escura, auxiliando assim sua visão sobre qual aba está no momento:
 
 - ![](/erp-v2/assets/tela_abas_funcao.png)
 
@@ -14,7 +14,7 @@
 
 - ![](/erp-v2/assets/tela_abas_funcao1.gif)
 
-- Com o clique do botão direito do mouse você tem funções de recarregar a aba ou fechar a aba:
+- Com o clique do botão direito do mouse, você tem funções de recarregar a aba ou fechar a aba:
 
 - ![](/erp-v2/assets/tela_abas_funcao2.gif)
 
