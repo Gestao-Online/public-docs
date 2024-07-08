@@ -58,3 +58,10 @@ Sendo a descrição e sigla, estes itens são necessários para poder salvar uma
 
 <br>
 
+## Salvando centro de resultado
+
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do novo centro de resultado será salvo:
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_unidade_medida_add_salvar.gif)
+
+<br>
