@@ -44,7 +44,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
-- <img src="/erp-v2/assets/icon_folha_pdf.png" alt="" data-size="line"> Tabela de preço (em relatório);
+- <img src="/erp-v2/assets/icon_folha_pdf.png" alt="" data-size="line"> [Tabela de preço (em relatório)](https://docs.gestao.plus/erp-v2/funcionalidades/parametrizacoes/tabelas_precos#botao-tabela-de-precos-em-relatorio);
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
