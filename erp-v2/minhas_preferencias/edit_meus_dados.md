@@ -1,15 +1,15 @@
 # 🎲 Editando meus dados
 
-Aqui você pode completar seu cadastro na nossa plataforma, e acessar mais algumas informações, vejamos cada uma:
+Aqui você pode completar seu cadastro na nossa plataforma e acessar mais algumas informações, vejamos cada uma:
 
 ![](/erp-v2/assets/editando_meus_dados.gif)
 
 <br>
 
-Assim que entramos no meu de edição de usuário você pode ver um pequeno menu na cor cinza ao lado direito da tela. Temos algumas funções neles:
+Assim que entramos no meu de edição de usuário, você pode ver um pequeno menu na cor cinza ao lado direito da tela. Temos algumas funções neles:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
-- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
@@ -17,18 +17,18 @@ Assim que entramos no meu de edição de usuário você pode ver um pequeno menu
 
 <br>
 
-Olhando para a guia **`Geral`**, por padrão, quando sua conta é criada é exigido o nome de usuário, e-mail e unidade. Então essas informações você não precisa alterar, mas tem outros campos para preenchimento, são eles:
+Olhando para a guia **`Geral`**, por padrão, quando sua conta é criada é exigido o nome de usuário, e-mail e unidade. Então, essas informações você não precisa alterar, mas tem outros campos para preenchimento, são eles:
 
 - **Nome** (Aqui você pode colocar seu nome completo);
-- **Nome usuário** (Este é nome/código/cpf usado para fazer login na plataforma);
-- **Alterar senha** (Para mais informações [clique aqui](/erp-v2/minhas_preferencias/alt_minha_senha.md));
-- **Status** (Aqui define o status de usuário a plataforma, é um item alterado somente do administrador);
+- **Nome usuário** (Este é nome/código/CPF usado para fazer login na plataforma);
+- **Alterar senha** (Para mais informações, [clique aqui](/erp-v2/minhas_preferencias/alt_minha_senha.md));
+- **Status** (Aqui define o status de usuário da plataforma, é um item alterado somente do administrador);
 - **Perfil** (Aqui define que tipo de autorização você tem na plataforma, alterado somente por administrador);
 - **Unidade** (Nome do local/setor de trabalho, é bloqueado, alterado somente pelo administrador);
 - **E-mail** (Item obrigatório, você não pode modificar este e-mail, sua conta está vinculada exclusivamente a ele);
 - **Telefone**;
-- **Documento** (Pode colocar um documento seu de identificação RG/CPF/CNH);
-- **CEP** (Após inserir o CEP os demais dados serão preenchidos automaticamente);
+- **Documento** (Pode colocar um documento seu de identificação, RG/CPF/CNH);
+- **CEP** (Após inserir o CEP, os demais dados serão preenchidos automaticamente);
 
 <br>
 
@@ -36,13 +36,13 @@ Olhando para a guia **`Geral`**, por padrão, quando sua conta é criada é exig
 
 <br>
 
-Na parte de status, perfil e unidade, como usuário comum você não consegue fazer alterações, para cada um dos casos uma mensagem específica de erro irá aparecer:
+Na parte de status, perfil e unidade, como usuário comum, você não consegue fazer alterações. Para cada um dos casos, uma mensagem específica de erro irá aparecer:
 
 Estas opções permitem alterações somente pelo administrador 😉👍
 
 ![](/erp-v2/assets/edit_dados_bloqueados.gif)
 
-Agora na guia **`Notificações`** você tem controle de todas as notificações geradas para o seu usuário em nossa plataforma. Confira abaixo:
+Agora, na guia **`Notificações`** você tem controle de todas as notificações geradas para o seu usuário em nossa plataforma. Confira abaixo:
 
 ![](/erp-v2/assets/edit_dados_notificacao.png)
 
@@ -66,13 +66,13 @@ E você como usuário pode **`apagar`** as notificações recebidas (Não sendo 
 
 <br>
 
-Agora na guia **`Access Tokens`** você encontra o relatório de tokens de acesso gerado ao seu usuário e o período de duração de cada um em cada sessão que você esteve na nossa plataforma, e estas informações não são permitidas modificações em nenhum dos níveis de acesso. Pois são gravadas no banco de dados para registro:
+Agora, na guia **`Access Tokens`** você encontra o relatório de tokens de acesso gerado ao seu usuário e o período de duração de cada um em cada sessão em que você esteve na nossa plataforma, e estas informações não são permitidas modificações em nenhum dos níveis de acesso. Pois são gravadas no banco de dados para registro:
 
 ![](/erp-v2/assets/edit_dados_access_token.png)
 
 <br>
 
-Na guia **`Metadata`** ficam seus registros de perfil, modificação de foto de perfil, alteração de cor do tema, adição de itens nos favoritos ou até mesmo remoção. Todas as informações que você organizar na nossa plataforma, ficarão salvas e registradas nessa guia, para quando você fizer login tudo ficar do jeitinho que você deixou! 😁
+Na guia **`Metadata`** ficam seus registros de perfil, modificação de foto de perfil, alteração de cor do tema, adição de itens nos favoritos ou até mesmo remoção. Todas as informações que você organizar na nossa plataforma ficarão salvas e registradas nessa guia, para quando você fizer login tudo ficar do jeitinho que você deixou! 😁
 
 ![](/erp-v2/assets/edit_dados_metadata.png)
 

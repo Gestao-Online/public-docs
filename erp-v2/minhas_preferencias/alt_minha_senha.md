@@ -14,5 +14,5 @@ Após aberta a aba de alteração de dados da conta (Aba usuários), quando clic
 
 
 {% hint style="warning" %}
-**Informação:** Caso esteja procurando mais sobre recuperação de conta/senha [cliquei aqui!](/erp-v2/criar_recuperar_acesso/recuperar_acesso.md)
+**Informação:** Caso esteja procurando mais sobre recuperação de conta/senha, [cliquei aqui!](/erp-v2/criar_recuperar_acesso/recuperar_acesso.md)
 {% endhint %}

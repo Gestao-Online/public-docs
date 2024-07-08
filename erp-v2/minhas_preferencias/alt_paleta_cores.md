@@ -12,6 +12,10 @@ Estas são as opções de cores disponíveis até a atual versão:
 
 <br>
 
-Você pode clicar em uma das cores e logo em seguida será mostrada uma janela de notificação pop-up para você atualizar a página e então ser aplicada a cor escolhida, essa cor será gravada no seu perfil de usuário e sempre ficará definida quando você fizer login, observe o teste com cada uma das opções disponíveis:
+Clique em uma das cores e, logo após, uma janela de notificação pop-up será exibida para você atualizar a página e, então, aplicar a cor escolhida. 
+
+Essa cor será gravada no seu perfil de usuário e permanecerá definida quando você fizer login. 
+
+Observe o teste com cada uma das opções disponíveis:
 
 ![](/erp-v2/assets/escolhendo_tema.gif)
