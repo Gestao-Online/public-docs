@@ -93,4 +93,59 @@ Por último, você tem o **modo de configuração**, ele tem algumas opções, d
     - ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_modo_config_2.png)
 - **Valor percentual da venda/movimentação:** Ao selecionar esta opção, é possível definir o percentual para cada movimentação e escolher a qual grupo de produtos ele estará vinculado.;
     - - ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_modo_config_3.png)
-- **Valor da venda/movimentação subtraindo o valor produto/serviço de outra tabela:** 
+- **Valor da venda/movimentação subtraindo o valor produto/serviço de outra tabela:** Com este modo de configuração você define uma tabela de preço para subtrair o valor de outra tabela de produto ou serviço já criada.
+
+<br>
+
+## Salvando nova tabela de preços
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova tabela de preço será salva, e estará disponível para uso:
+
+![](/erp-v2/assets/funcionalidades/configuracoes/aba_tabelas_add_salvar.gif)
+
+## Guia Itens da tabela
+
+Assim que é criada a tabela de preços, duas guias aparecem disponíveis para uso, **itens da tabela** e **histórico**. Quando clicamos na guia de itens veremos a seguinte tela:
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_guia_itens.png)
+
+Aqui você pode adicionar itens a tabela de preços, precisando somente clicar no campo produto/serviço e começara digitar o nome para logo ele aparecer para você selecionar. Depois é só definir qual será o valor do item
+
+{% hint style="info" %}
+**Informativo:** Para adicionar um item a tabela de preços, ele precisa já estar cadastrado na aba produto/serviço! 😉👍
+Caso tenha alguma dúvida sobre produto/serviço [clique aqui!](/erp-v2/funcionalidades/produtos_servicos/README.md)
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_guia_itens.gif)
+
+## Guia histório
+
+Na guia de histórico você tem as movimentações que foram feitas nessa tabela que você criou, seja adicionar, alterar ou remover um item dela. Até alteração em valores, tudo ficará registrado informando o nome do usuário que fez a alteração, assim como a data e horario exato da modificação.
+
+Vale lembrar que estas informações não podem ser alteradas por nenhum dos usuário ou administradores da plataforma. Essas informações garantem o bom funcionamento e integridade do ERP da **Gestão.Online**.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_guia_historico.png)
+
+<br>
+
+## Botão duplicar
+
+Vale lembrar que no momento em que você salva uma tabela de preços, na guia geral dela o menu superior ganha novos botões.
+
+O botão duplicar para criar uma cópia da tabela já com as configurações e produtos que você adicionou:
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_menu_duplicar.png)
+
+## Botão importar
+
+Com o botão importar você pode trazer vários itens ao mesmo tempo para adicionar a sua tabela de preçso, podendo trazer essas informações de uma planilha:
+
+{% hint style="warning" %}
+**Filtros:** Caso queira informações sobre como utilizar as funções de importação [**`clique aqui`**](/erp-v2/primeiro_acesso/importar.md) para acessar a explicação.
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_menu_importar.png)
+
+## botão tabela de preços (em relatório)
+
+
