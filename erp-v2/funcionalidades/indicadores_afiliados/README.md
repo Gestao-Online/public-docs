@@ -41,7 +41,7 @@ No módulo Indicadores/Afiliados você encontra os itens comissão de parceiros,
             </tr>
             <tr>
                 <td>
-                    <strong>Pedido de venda</strong>
+                    <strong>Parceiros indicadores</strong>
                 </td>
                 <td></td>
                 <td></td>
