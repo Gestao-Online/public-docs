@@ -18,7 +18,7 @@ Aqui você tem a visão de todas as receitas e despesas que estão diretamente r
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
-- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Item.
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar centro de resultado.
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -53,22 +53,22 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-No momento do cadastro de um novo centro de resultado, você precisará preencher alguns campos obrigatórios que tem o asterisco vermelho. 
+No momento do cadastro de um novo centro de resultado, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. 
 
-Sendo a decrição, identificador e status, estes itens são o mínimo necessário para poder salvar um novo centro de resultado.
+Sendo a descrição, identificador e status, estes itens são o mínimo necessário para poder salvar um novo centro de resultado.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_centro_resultado_add_centro.png)
 
 <br>
 
-O único item não obrigatório é o modo analitico, pois ao ativar este modo o centro de resultado será único e não terá outros centros dependentes:
+O único item não obrigatório é o modo analítico, pois ao ativar este modo, o centro de resultado será único e não terá outros centros dependentes:
 
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_centro_resultado_add_menu.gif)
 
 ## Salvando centro de resultado
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo centro de resultado será salvo:
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do novo centro de resultado será salvo:
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_centro_resultado_add_salvar.gif)
 
