@@ -1,6 +1,6 @@
 # Unidade e Medida de produtos/serviços
 
-As unidades de medida permitem entender como os itens estão sendo controlados no estoque, como por exemplo, em unidades, caixas, pacotes, metros, quilos, entre outros. Isso facilita a gestão precisa do inventário e ajuda a garantir que os níveis de estoque sejam mantidos de acordo com a demanda e as necessidades operacionais.
+As unidades de medida permitem entender como os itens estão sendo controlados no estoque, como por exemplo, em unidades, caixas, pacotes, metros, quilos, entre outros. Isso facilita a gestão precisa do inventário e ajuda a garantir que os níveis de estoque sejam mantidos conforme a demanda e as necessidades operacionais.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -31,7 +31,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
-## Adicionar novo tipo de natureza
+## Adicionar nova unidade/medida
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo centro de resultado. Confira abaixo o procedimento para fazer a adição corretamente:
 
@@ -52,13 +52,13 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 No momento do cadastro de uma nova unidade/medida, você precisará preencher os campos obrigatórios que têm o asterisco vermelho. 
 
-Sendo a descrição e sigla, estes itens são necessários para poder salvar uma nova unidade/medida.
+Sendo a descrição e a sigla, estes itens são necessários para poder salvar uma nova unidade/medida.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_unidade_medida_add_unidade_medida.png)
 
 <br>
 
-## Salvando centro de resultado
+## Salvando unidade/medida
 
 Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do novo centro de resultado será salvo:
 
