@@ -111,7 +111,7 @@ Neste módulo você vai encontrar os itens de empresas, naturezas, centro de res
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/parametrizacao/cupom_desconto.md">cupom_desconto.md</a>
+                    <a href="/erp-v2/funcionalidades/parametrizacoes/cupom_desconto.md">cupom_desconto.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_voucherss.png">icon_voucherss.png</a>
