@@ -20,7 +20,7 @@ Neste módulo você vai encontrar os itens de empresas, naturezas, centro de res
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/parametrizacao/tipo_movimentacao.md">tipo_movimentacao.md</a>
+                    <a href="/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md">tipo_movimentacao.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_movimentacao.png">icon_movimentacao.png</a>
@@ -33,7 +33,7 @@ Neste módulo você vai encontrar os itens de empresas, naturezas, centro de res
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/parametrizacao/empresas.md">empresas.md</a>
+                    <a href="/erp-v2/funcionalidades/parametrizacoes/empresas.md">empresas.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_empresas.png">icon_empresas.png</a>
@@ -46,7 +46,7 @@ Neste módulo você vai encontrar os itens de empresas, naturezas, centro de res
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/parametrizacao/naturezas.md">naturezas.md</a>
+                    <a href="/erp-v2/funcionalidades/parametrizacoes/naturezas.md">naturezas.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_naturezas.png">icon_naturezas.png</a>
@@ -59,7 +59,7 @@ Neste módulo você vai encontrar os itens de empresas, naturezas, centro de res
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/parametrizacao/tabelas_precos.md">tabelas_precos.md</a>
+                    <a href="/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md">tabelas_precos.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_tabelas.png">icon_tabelas.png</a>
@@ -72,7 +72,7 @@ Neste módulo você vai encontrar os itens de empresas, naturezas, centro de res
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/parametrizacao/centro_resultado.md">centro_resultado.md</a>
+                    <a href="/erp-v2/funcionalidades/parametrizacoes/centro_resultado.md">centro_resultado.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_comercial.png">icon_comercial.png</a>
@@ -85,7 +85,7 @@ Neste módulo você vai encontrar os itens de empresas, naturezas, centro de res
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/parametrizacao/feriados.md">feriados.md</a>
+                    <a href="/erp-v2/funcionalidades/parametrizacoes/feriados.md">feriados.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_feriados.png">icon_feriados.png</a>
@@ -98,7 +98,7 @@ Neste módulo você vai encontrar os itens de empresas, naturezas, centro de res
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/parametrizacao/unidade_medida_produto_servico.md">unidade_medida_produto_servico.md</a>
+                    <a href="/erp-v2/funcionalidades/parametrizacoes/unidade_medida_produto_servico.md">unidade_medida_produto_servico.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_regua.png">icon_regua.png</a>
