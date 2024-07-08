@@ -146,6 +146,12 @@ Com o botão importar você pode trazer vários itens ao mesmo tempo para adicio
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_menu_importar.png)
 
-## botão tabela de preços (em relatório)
+## Botão tabela de preços (em relatório)
 
+Caso você queira ver um relatório PDF de todos os itens cadastrados na tabela de preços, basta um clique e será exibido para você. Observe o exemplo que fizemos abaixo:
 
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_menu_relatorio.gif)
+
+<br>
+
+<br>
