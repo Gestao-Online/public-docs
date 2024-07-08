@@ -3,7 +3,7 @@
 O cadastro de feriados na plataforma **Gestão.Online** é essencial para o bom funcionamento das operações empresariais. Tendo mais precisão no cálculo de prazos e entregas, datas de pagamento, planejamento de recursos e relatórios e análises. Em resumo, manter o cadastro de feriados atualizado na plataforma é crucial para eficiência e conformidade. 📅✨
 
 {% hint style="danger" %}
-**Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados.gif)
@@ -18,11 +18,11 @@ O cadastro de feriados na plataforma **Gestão.Online** é essencial para o bom 
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
-- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Feriado.
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar feriado.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados_menu.png)
 
@@ -39,19 +39,19 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
-- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados_add_menu.png)
 
-Quando você for adicionar um novo feriado, é exigido descrição, dia, mês e tipo. 
+Quando você for adicionar um novo feriado, é exigida descrição, dia, mês e tipo.
 
 - **Descrição** (Nome para identificar o feriado a ser adicionado);
-- **Dia** (Defina o dia que acontece o feriado);
-- **Mês** (Defina o mês que acontece o feriado);
+- **Dia** (Defina o dia em que acontece o feriado);
+- **Mês** (Defina o mês em que acontece o feriado);
 - **Tipo** (Defina o tipo entre nacional, estadual e municipal);
-    - Neste item em específico serão mostrados novos campos de preenchimento se escolher nacional ou municipal.
+    - Neste item em específico serão mostrados novos campos de preenchimento, se escolher nacional ou municipal.
 
 <br>
 
@@ -59,7 +59,7 @@ Quando você for adicionar um novo feriado, é exigido descrição, dia, mês e 
 
 <br>
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro do feriado será salvo:
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do feriado será salvo:
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados_add_feriado_salvar.gif)
 
