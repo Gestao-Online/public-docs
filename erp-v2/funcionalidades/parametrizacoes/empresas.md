@@ -8,8 +8,6 @@ Estas empresas serão utilizadas em cadastro de estoques, lojas e vinculos com p
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-<br>
-
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
@@ -60,7 +58,7 @@ No momento do cadastro de uma nova empresa, você precisará preencher alguns ca
 Sendo eles CNPJ, nome fantasia e razão social, estes itens são o mínimo necessário para poder salvar uma nova empresa.
 
 {% hint style="info" %}
-**Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada emrpesa 😉👍
+**Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada empresa 😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa.png)
