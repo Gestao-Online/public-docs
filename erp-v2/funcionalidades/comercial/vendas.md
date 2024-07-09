@@ -97,3 +97,20 @@ Por último você tem os campos de **observação**, onde você pode colocar alg
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_5_e_6.gif)
 
+<br>
+
+## Salvando uma nova venda
+
+Após o preenchimento destas informações você pode salvar o rascunho para adicionar os itens da venda. Observe no nossa exemplo abaixo que ao salvar o status da venda passa para atendimento:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_venda.gif)
+
+## Guia de itens
+
+Observe que agora novas guias apareceram para você, a primeira é de itens, e pouco abaixo dela tem um novo menu de opções, vamos clicar no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar item, para adicionarmos um produto para a venda:
+
+{% hint style="info" %}
+**Informativo:** Para adicionar um produto/serviço para venda, é necessário cadastrar ele primeiro na aba de produtos/serviços, para mais informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item.gif)
