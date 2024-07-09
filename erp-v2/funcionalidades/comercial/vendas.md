@@ -69,6 +69,31 @@ Aqui o único item obrigatório para preenchimento é o tipo de negociação, po
 **Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada empresa. 😉👍
 {% endhint %}
 
-![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_empresa.png)
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_venda.png)
 
 <br>
+
+Para o preenchimento do primeiro campo, você precisará ter cadastrados os tipos de movimentação que utilizará. Caso tenha dúvidas sobre os tipos de movimentações acesse nosso guia [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md). Com o tipo já cadastrado, ao clicar no campo as opções disponíveis aparecem para você, mas se preferir, pode digitar o nome da movimentação que a nossa plataforma começará a fazer a busca para você.
+
+O mesmo aconteceu com o preenchimento do tipo de negociação, os exemplos já estão pré-cadastrados no nosso sistema para você utilizar.
+
+Veja esse exemplo abaixo:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_1_e_2.gif)
+
+<br>
+
+Agora nos campos de Cliente/Parceiro e Parceiro indicador, nós temos alguns botões extras com funções pra facilitar seu dia a dia com o nosso sistema. Quando você clica no campo para buscar um cliente e este ainda não possui um cadastro, você tem o botão <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> adicionar, uma janela será aberta para que você possa cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
+
+Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> abrirá a aba deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
+
+Para o campo de parceiro indicador as funções trabalham da mesma maneira. Veja o exemplo que fizemos abaixo:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_3_e_4.gif)
+
+<br>
+
+Por último você tem os campos de **observação**, onde você pode colocar algum lembrete, ou informação especial sobre esta venda que esta sendo criada, e o campo de **unidade** que só aparecerá os itens para você selecionar se você já tiver cadastrado as unidades/lojas, e se tiver alguma dúvida sobre as unidades, pode ver nosso guia passo a passo [clicando aqui](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_5_e_6.gif)
+
