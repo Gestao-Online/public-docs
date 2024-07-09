@@ -5,7 +5,7 @@ Nesta aba você tem acesso administrativo ao controle de exlusão de notificaç�
 ![](/erp-v2/assets/funcionalidades/configuracoes/aba_notificacoes.gif)
 
 {% hint style="danger" %}
-**Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -16,7 +16,7 @@ Nesta aba você tem acesso administrativo ao controle de exlusão de notificaç�
 
 Nesta aba está um menu ao lado direito da tela com as seguintes funções:
 
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;

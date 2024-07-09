@@ -3,7 +3,7 @@
 Aqui você tem a visão de todos os usuários cadastrados na plataforma **Gestão.Online**, podendo fazer cadastro, enviar notificações e até excluir um usuário cadastrado.
 
 {% hint style="danger" %}
-**Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -61,7 +61,7 @@ Após a definição do nível, seguimos para o perfil de usuário que irá receb
 
 <br>
 
-Depois de definido o tipo de usuário, agora vamos para a mensagem, deixamos um editor de texto com algumas funções para você poder escrever a sua notificação:
+Após definido o tipo de usuário, agora vamos para a mensagem, deixamos um editor de texto com algumas funções para você poder escrever a sua notificação:
 
 - <img src="/erp-v2/assets/funcionalidades/icon_tamanho_texto.png" alt="" data-size="line"> Escolha de tamanho do texto;
 - <img src="/erp-v2/assets/funcionalidades/icon_negrito.png" alt="" data-size="line"> Negrito;
@@ -110,7 +110,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 Olhando para a guia **`Geral`**, por padrão, quando você for criar uma conta é exigido o perfil e e-mail. Agora os outros campos para preenchimento podem deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
 
 - **Nome** (Nome completo do usuário, podendo preencher depois);
-- **Nome usuário** (É usado para login na plataforma, podendo ser um nome/código/cpf);
+- **Nome usuário** (É usado para login na plataforma, podendo ser um nome/código/CPF);
 - **Alterar senha** (Para mais informações [clique aqui](/erp-v2/minhas_preferencias/alt_minha_senha.md));
 - **Status** (Aqui você define o status do usuário, sendo ativado, desativado ou aguardando registro);
 - **Perfil** (Item obrigatório, aqui define que tipo de autorização que terá na plataforma);
@@ -128,17 +128,17 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar uma conta �
 
 Uma informação importante sobre os tipos de Perfis:
 
-- **Usuário :** Terá acesso básico a plataforma, é responsável pelo cadastro de clientes, realizar vendas e gerar relatórios.
+- **Usuário:** Terá acesso básico à plataforma, é responsável pelo cadastro de clientes, realizar vendas e gerar relatórios.
 
-- **Coordenador :** Além das permissões de usuário, possui acesso ao financeiro e aos dashboards de sua unidade.
+- **Coordenador:** Além das permissões de usuário, possui acesso ao financeiro e aos dashboards de sua unidade.
 
-- **Gerente :** Também pode visualizar os relatórios financeiros de outras unidades, cadastrar vendedores (porém não pode apagá-los) além de cadastrar novos usuários de perfil tipo `usuário`.
+- **Gerente:** Também pode visualizar os relatórios financeiros de outras unidades, cadastrar vendedores (porém não pode apagá-los), além de cadastrar novos usuários de perfil tipo `usuário`.
 
-- **Administrador :** Possui acesso à maioria das funcionalidades, pode cadastrar novos usuários como administrador ou usuário, visualizar o histórico de todas as unidades, alterar ou remover vendedores/usuários ou clientes, alterar entradas no financeiro, cadastrar tabelas de preço e alterar detalhes em formas de pagamento, tipos de negociação e contas bancárias.
+- **Administrador:** Possui acesso à maioria das funcionalidades, pode cadastrar novos usuários como administrador ou usuário, visualizar o histórico de todas as unidades, alterar ou remover vendedores/usuários, ou clientes, alterar entradas no financeiro, cadastrar tabelas de preço e alterar detalhes em formas de pagamento, tipos de negociação e contas bancárias.
 
-- **Super administrador :** Este perfil tem acesso total a plataforma e também pode realizar alterações em eventos e geração de relatórios em páginas como `Notification Template` e `Reports and Widgets`.
+- **Super administrador:** ste perfil tem acesso total à plataforma e também pode realizar alterações em eventos e geração de relatórios em páginas como `Notification Template` e `Reports and Widgets`.
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro do usuário será salvo e enviado para o email cadastrado, uma mensagem para finalizar o registro:
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do usuário será salvo e enviado para o e-mail cadastrado, uma mensagem para finalizar o registro:
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_salvar.gif)
 
