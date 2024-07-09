@@ -6,8 +6,6 @@ Aqui você tem a visão do estoque de produtos na plataforma **Gestão.Online**,
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-<br>
-
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
@@ -31,18 +29,10 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 <br>
 
 {% hint style="warning" %}
-**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
+**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
-### Paginação aba Estoque produtos
-
-Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de itens mostrados para até 1000 itens na página:
-
-![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_paginacao.png)
-
-<br>
-
-### Adicionar novo produto ao estoque
+## Adicionar novo produto ao estoque
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto ao estoque, confira abaixo o procedimento para fazer a adição corretamente:
 
@@ -69,9 +59,9 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 Olhando para a guia **`Geral`**, por padrão, quando você for criar adicionar um produto ao estoque, é exigido produto, local e empresa. 
 
-- **Produto** (Para maiores informações [clique aqui](/erp-v2/funcionalidades/parametrizacoes/unidade_medida_produto_servico.md));
-- **Local** (Para maiores informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md));
-- **Empresa** (Para maiores informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md));
+- **Produto** (Para maiores informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md));
+- **Local** (Para maiores informações [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md));
+- **Empresa** (Para maiores informações [clique aqui](/erp-v2/funcionalidades/parametrizacoes/empresas.md));
 - **Quantidade mínima**.
 
 <br>
@@ -86,7 +76,7 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo
 
 <br>
 
-### Guia movimentação estoque
+## Guia movimentação estoque
 
 A partir do momento que você concluir o registro de um novo produto, ficará disponível a guia `Movimentações/Transferências`.
 

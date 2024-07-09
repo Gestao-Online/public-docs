@@ -28,10 +28,10 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 <br>
 
 {% hint style="warning" %}
-**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
+**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
-### Adicionar novo vendedor
+## Adicionar novo vendedor
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo vendedor, confira abaixo o procedimento para fazer o cadastro corretamente:
 
@@ -93,7 +93,7 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do usu�
 
 <br>
 
-### Guias adicionais após criar vendedor
+## Guias adicionais após criar vendedor
 
 Se você observar na parte superior, após criar o vendedor, três guias ficarão na cor azul disponíveis para você editar as informações, vejamos um pouco mais sobre elas:
 
