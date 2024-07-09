@@ -3,7 +3,7 @@
 Aqui você tem a visão de todos os produtos cadastrados na plataforma **Gestão.Online**, podendo cadastrar um novo produto, editar informações existentes e até excluir um produto cadastrado.
 
 {% hint style="danger" %}
-**Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -19,7 +19,7 @@ Aqui você tem a visão de todos os produtos cadastrados na plataforma **Gestão
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar;
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
@@ -42,7 +42,7 @@ No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras a
 - <img src="/erp-v2/assets/funcionalidades/icon_servicos.png" alt="" data-size="line"> [Serviços](/erp-v2/funcionalidades/produtos_servicos/servicos.md);
 - <img src="/erp-v2/assets/funcionalidades/icon_kits.png" alt="" data-size="line"> [Kits](/erp-v2/funcionalidades/produtos_servicos/kits.md);
 
-Clicando no ícone da seta você exibe de forma completa, e clicando nela novamente, volta ao modo recolhido, confira exemplo abaixo: 
+Clicando no ícone da seta, você exibe completamente, e clicando nela novamente, volta ao modo recolhido, confira exemplo abaixo:
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_menu_esquerdo.gif)
 
@@ -65,7 +65,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
-- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
@@ -105,7 +105,7 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo
 
 <br>
 
-## Guias adcionais ao criar um produto
+## Guias adicionais ao criar um produto
 
 A partir do momento que você concluir a criação de um novo produto, ficarão disponíveis três guias para você acessar, a primeira é de `Estoque`.
 
@@ -113,7 +113,7 @@ A partir do momento que você concluir a criação de um novo produto, ficarão 
 **Informativo:** Só aparecerão três guias, se você escolher as opções unidade ou transporte no tipo de entrega.
 {% endhint %}
 
-Você pode cadastrar seu produto no estoque, definindo local, empresa e até quantidade mínima para envio de email.
+Você pode cadastrar seu produto no estoque, definindo local, empresa e até quantidade mínima para envio de e-mail.
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_guia_estoque.gif)
 
@@ -121,7 +121,7 @@ Você pode cadastrar seu produto no estoque, definindo local, empresa e até qua
 
 ## Guia Categorias
 
-Agora na guia de `Categorias`, você pode definir uma categoria para o produto cadastrado. Ao clicar em adicionar será mostrada a lista para você escolher uma opção, essas opções já estão pré cadastradas na aba categoria de produto
+Agora, na guia de **`Categorias`**, você pode definir uma categoria para o produto cadastrado. Ao clicar em adicionar, será mostrada a lista para você escolher uma opção. Essas opções já estão pré-cadastradas na aba categoria de produto:
 
 {% hint style="warning" %}
 **Informativo:** Se você deseja saber mais informações sobre categoria de produto [clique aqui](/erp-v2/funcionalidades/produtos_servicos/categoria_produto.md)
@@ -133,7 +133,7 @@ Agora na guia de `Categorias`, você pode definir uma categoria para o produto c
 
 ## Guia tabelas de preço
 
-Por último na guia `Tabelas de preço`  você pode adicionar um valor ou percentual, e qual tabela de preço existente irá ser vinculado:
+Por último, na guia `Tabelas de preço`  você pode adicionar um valor ou percentual, e qual tabela de preço existente irá ser vinculado:
 
 {% hint style="warning" %}
 **Informativo:** Se você deseja saber mais informações sobre tabela de preço [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md)
@@ -147,12 +147,12 @@ Por último na guia `Tabelas de preço`  você pode adicionar um valor ou percen
 
 Esta função será de grande ajuda caso você já tenha uma lista com os produtos que deseja cadastrar. 
 
-No botão de importação ao clicar nele será aberta uma janela pop-up para você fazer a importação da planilha com os dados, logo após importar, precisa definir manualmente os campos relacionados para que a nossa plataforma possa fazer a importação. 
+No botão de importação, ao clicar nele, será aberta uma janela pop-up para você fazer a importação da planilha com os dados. Logo após importar, precisa definir manualmente os campos relacionados para a nossa plataforma poder fazer a importação.
 
 Confira abaixo o procedimento:
 
 {% hint style="info" %}
-**Info:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "** ou **" .csv "**
+**Informativo:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "** ou **" .csv "**
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_importar.gif)
