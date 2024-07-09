@@ -1,6 +1,6 @@
 # 🎫 Cupom de desconto
 
-Para aplicar uma promoção para clientes específicos em unidade/loja, você pode criar cupons promocionais. O cupom funciona como um código, que deve ser inserido na finalização da compra para que o desconto seja aplicado na venda/serviço.
+Para aplicar uma promoção para clientes específicos em unidade/loja, você pode criar cupons promocionais. O cupom funciona como um código, que deve ser inserido na finalização da compra para o desconto ser aplicado na venda/serviço.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -42,7 +42,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
-- <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> Restrições/Excessões;
+- <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> Restrições/Exceções;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
@@ -93,7 +93,7 @@ Ao marcar a opção limitado um novo campo será mostrado logo abaixo para você
 
 Logo abaixo tem o período de uso, também com duas opções, entre limitado e ilimitado.
 
-Quando escolher por limitado, dois novos campos ficarão disponíveis para você definir a data de duração deste compum de desconto que você está criando, veja o exemplo:
+Quando escolher por limitado, dois novos campos ficarão disponíveis para você definir a data de duração deste cupom de desconto que você está criando, veja o exemplo:
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_periodo.gif)
 
@@ -115,13 +115,13 @@ Assim que é criado o cupom de desconto, duas guias aparecem disponíveis para u
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_guia_itens.png)
 
-Nesta guia você pode adicionar as informações dos cupons de desconto que serão utilizados. Observando o menu que aparece nessa gui,a temos dois botões para darmos atenção.
+Nesta guia, você pode adicionar as informações dos cupons de desconto que serão utilizados. Observando o menu que aparece nessa guia, temos dois botões para darmos atenção.
 
 ## Botão novo código
 
 O primeiro botão se chama **Novo código** e com ele uma janela menor é aberta com um campo para você preencher com o nome que será utilizado no cupom. 
 
-Veja o exemplo que criamos, nós digitamos o o nome NATAL10, para um cupom fictício de 10% de desconto:
+Veja o exemplo que criamos, nós digitamos o nome NATAL10, para um cupom fictício de 10% de desconto:
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_novo_cod.gif)
 
@@ -129,7 +129,7 @@ Veja o exemplo que criamos, nós digitamos o o nome NATAL10, para um cupom fict�
 
 ## Botão código aleatório
 
-No segundo botão que se chama **Novo código aleatório** o um valor é criado automaticamente por nossa plataforma, agilizando assim o processo para você.
+No segundo botão, que se chama **Novo código aleatório**, um valor é criado automaticamente por nossa plataforma, agilizando assim o processo para você.
 
 Veja o exemplo que criamos para dois cupom fictício om código aleatório, de 10% de desconto:
 
