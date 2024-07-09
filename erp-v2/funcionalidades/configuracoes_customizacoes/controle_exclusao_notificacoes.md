@@ -72,5 +72,5 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do cont
 ![](/erp-v2/assets/funcionalidades/configuracoes/aba_notificações_add_exclusao_salvar.gif)
 
 {% hint style="warning" %}
-**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
+**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}

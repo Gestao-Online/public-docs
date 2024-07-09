@@ -6,8 +6,6 @@ Aqui você tem a visão de todos os vouchers cadastrados na plataforma **Gestão
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-<br>
-
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
@@ -31,7 +29,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 <br>
 
 {% hint style="warning" %}
-**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
+**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
 ## Paginação da aba vouchers
