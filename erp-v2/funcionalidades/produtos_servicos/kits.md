@@ -6,8 +6,6 @@ Aqui você tem a visão de todos os kits de produto/serviço cadastrados na plat
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-<br>
-
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
@@ -35,7 +33,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
 {% endhint %}
 
-# Menu lateral esquerdo
+## Menu lateral esquerdo
 
 No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras abas da plataforma, sendo eles:
 
@@ -50,7 +48,7 @@ Clicando no ícone da seta você exibe de forma completa, e clicando nela novame
 
 <br>
 
-### Paginação aba produtos
+## Paginação aba produtos
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de kits mostrados para até 1000 itens na página:
 
@@ -58,7 +56,7 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 <br>
 
-### Adicionar novo produto
+## Adicionar novo produto
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
 
@@ -152,7 +150,5 @@ Confira abaixo o procedimento:
 {% hint style="info" %}
 **Info:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "**
 {% endhint %}
-
-<!-- Em conversa com o Werick, ele me explicou que está padronizado para cadastrar o tipo para SERVIÇO e que teria que alterar depois pq a demanda é maior para serviço do que para produto, por isso sempre que importar, será aplicado o tipo serviço. -->
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_importar.gif)

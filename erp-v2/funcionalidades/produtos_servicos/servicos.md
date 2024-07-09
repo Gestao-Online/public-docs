@@ -3,10 +3,8 @@
 Aqui você tem a visão de todos os serviços cadastrados na plataforma **Gestão.Online**, podendo cadastrar um novo serviço, editar informações existentes e até excluir um serviço cadastrado.
 
 {% hint style="danger" %}
-**Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
-
-<br>
 
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
@@ -21,7 +19,7 @@ Aqui você tem a visão de todos os serviços cadastrados na plataforma **Gestã
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar;
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
@@ -116,7 +114,7 @@ Nesta guia você pode vincular um produto/serviço ao que você acabou de criar,
 
 <br>
 
-Agora na guia de `Categorias`, você pode definir uma categoria para o serviço cadastrado, ao clicar em adicionar será mostrada a lista para você escolher uma opção, essas opções já estão pré cadastradas na aba categoria de produto
+Agora, na guia de `Categorias`, você pode definir uma categoria para o serviço cadastrado. Ao clicar em adicionar, será mostrada a lista para você escolher uma opção. Essas opções já estão pré-cadastradas na aba de categoria de produto.
 
 {% hint style="warning" %}
 **Informativo:** Se você deseja saber mais informações sobre categoria de produto [clique aqui](/erp-v2/funcionalidades/produtos_servicos/categoria_produto.md)
@@ -145,7 +143,7 @@ No botão de importação ao clicar nele será aberta uma janela pop-up para voc
 Confira abaixo o procedimento:
 
 {% hint style="info" %}
-**Info:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "**
+**Informativo:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "**
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_importar.gif)
