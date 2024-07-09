@@ -107,4 +107,41 @@ Por último no preenchimento antes de salvar o novo cupom, você tem o tipo de d
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo cupom de desconto será salvo, e estará disponível para uso:
 
-![](/erp-v2/assets/funcionalidades/configuracoes/aba_cupom_add_salvar.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_salvar.gif)
+
+## Guia Itens
+
+Assim que é criado o cupom de desconto, duas guias aparecem disponíveis para uso, **itens** e **histórico**. Quando clicamos na guia de itens veremos a seguinte tela:
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_guia_itens.png)
+
+Nesta guia você pode adicionar as informações dos cupons de desconto que serão utilizados. Observando o menu que aparece nessa gui,a temos dois botões para darmos atenção.
+
+## Botão novo código
+
+O primeiro botão se chama **Novo código** e com ele uma janela menor é aberta com um campo para você preencher com o nome que será utilizado no cupom. 
+
+Veja o exemplo que criamos, nós digitamos o o nome NATAL10, para um cupom fictício de 10% de desconto:
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_novo_cod.gif)
+
+<br>
+
+## Botão código aleatório
+
+No segundo botão que se chama **Novo código aleatório** o um valor é criado automaticamente por nossa plataforma, agilizando assim o processo para você.
+
+Veja o exemplo que criamos para dois cupom fictício om código aleatório, de 10% de desconto:
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_novo_cod_aleatorio.gif)
+
+<br>
+
+## Guia histórico
+
+Na guia de **histórico** ficará o registro de utilização dos cupons que você criou na guia de itens. No exemplo abaixo tem uma movimentação no histórico do cupom fictício NATAL10 que criamos logo acima para demonstração de uso. 
+
+Veja abaixo como aparece a informação para você pode acompanhar:
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_guia_historico.png)
+
