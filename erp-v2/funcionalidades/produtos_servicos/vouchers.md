@@ -3,7 +3,7 @@
 Aqui você tem a visão de todos os vouchers cadastrados na plataforma **Gestão.Online**, podendo cadastrar um novo voucher, editar os existentes e até excluir um voucher cadastrado.
 
 {% hint style="danger" %}
-**Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -18,7 +18,7 @@ Aqui você tem a visão de todos os vouchers cadastrados na plataforma **Gestão
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
@@ -58,7 +58,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 - <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> Restrições/Exceções;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
-- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
@@ -123,6 +123,6 @@ Mas caso queira, pode fazer a inserção do código de voucher manualmente, é b
 
 Não esqueça que são duas guias, a primeira de itens, onde adicionamos os códigos dos vouchers e a segunda de histórico de uso do nosso voucher.
 
-Esse histórico trás ID, código, movimentação, se está disponível para uso e a data/hora que foi utilizado:
+Esse histórico traz ID, código, movimentação, se está disponível para uso e a data/hora utilizada:
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_guia_historico.png)
