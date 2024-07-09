@@ -101,7 +101,7 @@ Por último, você tem o **modo de configuração**, ele tem algumas opções, d
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova tabela de preço será salva, e estará disponível para uso:
 
-![](/erp-v2/assets/funcionalidades/configuracoes/aba_tabelas_add_salvar.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_salvar.gif)
 
 ## Guia Itens da tabela
 
