@@ -6,8 +6,6 @@ Aqui você tem a visão de todos os produtos cadastrados na plataforma **Gestão
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-<br>
-
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
@@ -32,7 +30,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 <br>
 
 {% hint style="warning" %}
-**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação. 
+**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
 ## Menu lateral esquerdo
@@ -107,6 +105,8 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo
 
 <br>
 
+## Guias adcionais ao criar um produto
+
 A partir do momento que você concluir a criação de um novo produto, ficarão disponíveis três guias para você acessar, a primeira é de `Estoque`.
 
 {% hint style="warning" %}
@@ -119,6 +119,8 @@ Você pode cadastrar seu produto no estoque, definindo local, empresa e até qua
 
 <br>
 
+## Guia Categorias
+
 Agora na guia de `Categorias`, você pode definir uma categoria para o produto cadastrado. Ao clicar em adicionar será mostrada a lista para você escolher uma opção, essas opções já estão pré cadastradas na aba categoria de produto
 
 {% hint style="warning" %}
@@ -128,6 +130,8 @@ Agora na guia de `Categorias`, você pode definir uma categoria para o produto c
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_guia_categorias.gif)
 
 <br>
+
+## Guia tabelas de preço
 
 Por último na guia `Tabelas de preço`  você pode adicionar um valor ou percentual, e qual tabela de preço existente irá ser vinculado:
 
@@ -150,7 +154,5 @@ Confira abaixo o procedimento:
 {% hint style="info" %}
 **Info:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "** ou **" .csv "**
 {% endhint %}
-
-<!-- Em conversa com o Werick, ele me explicou que está padronizado para cadastrar o tipo para SERVIÇO e que teria que alterar depois pq a demanda é maior para serviço do que para produto, por isso sempre que importar, será aplicado o tipo serviço. -->
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_importar.gif)
