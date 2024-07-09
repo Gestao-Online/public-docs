@@ -20,3 +20,19 @@ Este menu de vendas vai estar disponível para vocâ tanto no menu principal qua
 
 <br>
 
+Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
+- <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Empresa.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_menu.png)
+
+<br>
+
+{% hint style="warning" %}
+**Exportar:** Caso queira mais informações sobre como utilizar o botão <img src="/erp-v2/assets/icon_exportar.png" alt="" data-size="line"> exportar movimentações [**`clique aqui`**](/erp-v2/primeiro_acesso/exportar.md) para acessar a explicação sobre cada parte desta função.
+{% endhint %}
+
