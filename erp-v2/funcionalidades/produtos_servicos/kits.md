@@ -3,7 +3,7 @@
 Aqui você tem a visão de todos os kits de produto/serviço cadastrados na plataforma **Gestão.Online**, podendo cadastrar um novo kit, editar informações existentes e até excluir um kit cadastrado.
 
 {% hint style="danger" %}
-**Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -19,7 +19,7 @@ Aqui você tem a visão de todos os kits de produto/serviço cadastrados na plat
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar;
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
@@ -42,7 +42,7 @@ No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras a
 - <img src="/erp-v2/assets/funcionalidades/icon_servicos.png" alt="" data-size="line"> [Serviços](/erp-v2/funcionalidades/produtos_servicos/servicos.md);
 - <img src="/erp-v2/assets/funcionalidades/icon_kits.png" alt="" data-size="line"> Kits (Aba atual);
 
-Clicando no ícone da seta você exibe de forma completa, e clicando nela novamente, volta ao modo recolhido, confira exemplo abaixo: 
+Clicando no ícone da seta, você exibe completamente, e clicando nela novamente, volta ao modo recolhido, confira exemplo abaixo:
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_menu_esquerdo.gif)
 
@@ -111,7 +111,7 @@ Pode também utilizar os filtros disponíveis caso tenha muitos itens sendo exib
 
 <br>
 
-Agora na guia de `Categorias`, você pode definir uma categoria para o kit cadastrado, ao clicar em adicionar será mostrada a lista para você escolher uma opção, essas opções já estão pré cadastradas na aba categoria de produto
+Agora, na guia de **`Categorias`**, você pode definir uma categoria para o kit cadastrado. Ao clicar em adicionar, será mostrada a lista para você escolher uma opção. Essas opções já estão pré-cadastradas na aba categoria de produto:
 
 {% hint style="warning" %}
 **Informativo:** Se você deseja saber mais informações sobre categoria de produto [clique aqui](/erp-v2/funcionalidades/produtos_servicos/categoria_produto.md)
@@ -121,7 +121,7 @@ Agora na guia de `Categorias`, você pode definir uma categoria para o kit cadas
 
 <br>
 
-Por último na guia `Tabelas de preço` você pode adicionar um valor ou percentual e de qual tabela de preço existente irá ser vinculado:
+Por último na guia **`Tabelas de preço`** você pode adicionar um valor ou percentual e de qual tabela de preço existente irá ser vinculado:
 
 {% hint style="warning" %}
 **Informativo:** Se você deseja saber mais informações sobre tabela de preço [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md)
@@ -135,12 +135,12 @@ Por último na guia `Tabelas de preço` você pode adicionar um valor ou percent
 
 Esta função será de grande ajuda caso você já tenha uma lista com os serviços que deseja cadastrar. 
 
-No botão de importação ao clicar nele será aberta uma janela pop-up para você fazer a importação da planilha com os dados, logo após, você importar, precisa definir manualmente os campos relacionados para que a nossa plataforma possa fazer a importação. 
+No botão de importação, ao clicar nele, será aberta uma janela pop-up para você fazer a importação da planilha com os dados. Logo após, você importar, precisa definir manualmente os campos relacionados para a nossa plataforma poder fazer a importação.
 
 Confira abaixo o procedimento:
 
 {% hint style="info" %}
-**Info:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "**
+**Informativo:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "**
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_importar.gif)
