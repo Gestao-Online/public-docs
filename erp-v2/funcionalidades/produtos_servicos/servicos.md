@@ -35,7 +35,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
 {% endhint %}
 
-# Menu lateral esquerdo
+## Menu lateral esquerdo
 
 No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras abas da plataforma, sendo eles:
 
@@ -50,7 +50,7 @@ Clicando no ícone da seta você exibe de forma completa, e clicando nela novame
 
 <br>
 
-### Paginação aba serviços
+## Paginação aba serviços
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
 
@@ -58,7 +58,7 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 <br>
 
-### Adicionar novo serviço
+## Adicionar novo serviço
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo serviço, confira abaixo o procedimento para fazer a adição corretamente:
 
@@ -136,7 +136,7 @@ Por último na guia `Tabelas de preço`  você pode adicionar um valor ou percen
 
 <br>
 
-### Importar serviços
+## Importar serviços
 
 Esta função será de grande ajuda caso você já tenha uma lista com os serviços que deseja cadastrar. 
 
