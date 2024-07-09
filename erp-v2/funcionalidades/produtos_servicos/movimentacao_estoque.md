@@ -31,10 +31,11 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 <br>
 
 {% hint style="warning" %}
-**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
+**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
-### Paginação aba movimentação estoque
+
+## Paginação aba movimentação estoque
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de movimentações mostradas para até 1000 itens na página:
 
@@ -42,7 +43,7 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 <br>
 
-### Adicionar nova movimentação de estoque
+## Adicionar nova movimentação de estoque
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto ao estoque, confira abaixo o procedimento para fazer a adição corretamente:
 
@@ -74,7 +75,7 @@ Olhando para criação de movimentação, quando você for criar uma nova movime
 - **Quantidade** (Itens a mais ou a menos);
 - **Produto** (Defina qual produto terá a movimentação, para maiores informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md));
 - **Local de Estoque** (Defina qual local está o produto, para maiores informações [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md));
-- **Empresa** (Defina qual empresa tem o produto, para maiores informações [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md));
+- **Empresa** (Defina qual empresa tem o produto, para maiores informações [clique aqui](/erp-v2/funcionalidades/parametrizacoes/empresas.md));
 - **Lançamento** (Entrada ou saída);
 - **Descrição** (Motivo da movimentação).
 
@@ -83,6 +84,8 @@ Olhando para criação de movimentação, quando você for criar uma nova movime
 ![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_itens.png)
 
 <br>
+
+## Salvando movimentação de estoque
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova movimentação será adicionada:
 
