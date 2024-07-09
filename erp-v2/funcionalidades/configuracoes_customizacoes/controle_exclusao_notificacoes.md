@@ -1,6 +1,6 @@
 # 🔔 Controle de exclusão em notificações
 
-Nesta aba você tem acesso administrativo ao controle de exlusão de notificações na plataforma **Gestão.Online**:
+Nesta aba você tem acesso administrativo ao controle de exclusão de notificações na plataforma **Gestão.Online**:
 
 ![](/erp-v2/assets/funcionalidades/configuracoes/aba_notificacoes.gif)
 
@@ -47,7 +47,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
-- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
@@ -55,10 +55,10 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Com a página aberta, por padrão, quando você for criar uma exclusão é exigido o valor, tipo e tipo expiração. Agora os outros campos só serão liberados após o preenchimento desses outros:
+Com a página aberta, por padrão, quando você for criar uma exclusão é exigido o valor, tipo e tipo expiração. Os outros campos serão liberados somente após o preenchimento destes campos:
 
 - **Valor** (Informação do motivo da exclusão, se será temporária ou permanente);
-- **Tipo** (Define o tipo entre e-mail. telefone ou documento);
+- **Tipo** (Define o tipo entre e-mail, telefone ou documento);
 - **Tipo Expiração** (Sendo permanente ou temporária);
 - **Data Expiração** (Ativo caso marque tipo expiração temporário);
 - **Data criação** (Este item não é alterado, é preenchido automaticamente pela plataforma).
@@ -69,6 +69,6 @@ Com a página aberta, por padrão, quando você for criar uma exclusão é exigi
 
 <br>
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro do controle de exclusão em notificações será salvo e ativará naquele momento:
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do controle de exclusão em notificações será salvo e ativará naquele momento:
 
 ![](/erp-v2/assets/funcionalidades/configuracoes/aba_notificações_add_exclusao_salvar.gif)
