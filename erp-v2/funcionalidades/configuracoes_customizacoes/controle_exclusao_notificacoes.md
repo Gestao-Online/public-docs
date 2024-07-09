@@ -8,8 +8,6 @@ Nesta aba você tem acesso administrativo ao controle de exlusão de notificaç�
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-<br>
-
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
@@ -27,6 +25,10 @@ Nesta aba está um menu ao lado direito da tela com as seguintes funções:
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios.png)
 
 <br>
+
+{% hint style="warning" %}
+**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
+{% endhint %}
 
 ## Adicionar novo controle de exclusão em notificações
 
@@ -70,7 +72,3 @@ Com a página aberta, por padrão, quando você for criar uma exclusão é exigi
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do controle de exclusão em notificações será salvo e ativará naquele momento:
 
 ![](/erp-v2/assets/funcionalidades/configuracoes/aba_notificações_add_exclusao_salvar.gif)
-
-{% hint style="warning" %}
-**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
-{% endhint %}
