@@ -3,7 +3,7 @@
 Aqui você tem a visão do estoque de produtos na plataforma **Gestão.Online**, podendo cadastrar um novo produto, editar informações existentes e até excluir um produto cadastrado.
 
 {% hint style="danger" %}
-**Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -18,7 +18,7 @@ Aqui você tem a visão do estoque de produtos na plataforma **Gestão.Online**,
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
@@ -40,7 +40,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 <br>
 
-Ao clicar neste botão, você será levado para esta página, para fazer o direcionamento do produto ao estoque:
+Ao clicar neste botão, você será levado para esta página para fazer o direcionamento do produto ao estoque:
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_inicio.png)
 
@@ -49,7 +49,7 @@ Ao clicar neste botão, você será levado para esta página, para fazer o direc
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
-- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
@@ -59,9 +59,9 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 Olhando para a guia **`Geral`**, por padrão, quando você for criar adicionar um produto ao estoque, é exigido produto, local e empresa. 
 
-- **Produto** (Para maiores informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md));
-- **Local** (Para maiores informações [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md));
-- **Empresa** (Para maiores informações [clique aqui](/erp-v2/funcionalidades/parametrizacoes/empresas.md));
+- **Produto** (Para mais informações, [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md));
+- **Local** (Para mais informações, [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md));
+- **Empresa** (Para mais informações, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/empresas.md));
 - **Quantidade mínima**.
 
 <br>
@@ -70,13 +70,13 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar adicionar u
 
 <br>
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo produto será adicionado ao estoque:
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do novo produto será adicionado ao estoque:
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_produto_salvar.gif)
 
 <br>
 
-## Guia movimentação estoque
+## Guia de movimentação de estoque
 
 A partir do momento que você concluir o registro de um novo produto, ficará disponível a guia `Movimentações/Transferências`.
 
@@ -116,7 +116,7 @@ Atenção, para salvar este registro é necessário que todos os itens sejam pre
 
 <br>
 
-Observe que após salvar, ficará registrado o usuário, data e hora na alteração que foi feita:
+Observe que, após salvar, ficará registrado o usuário, data e hora na alteração que foi feita:
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_add_salvar.png)
 
