@@ -62,6 +62,49 @@ Ao clicar no botão de restrições/exceções, uma nova janela irá de abrir. A
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_btn_restricao.png)
 
-Seguindo o exemplo demonstrado abaixo, você pode definir, por exemplo, um tipo de negociação em dinheiro e definir se ele será sem restrição, restrição (Só pode ser utilizado com) e exceção (Só não pode ser utilizado com).
+Seguindo o exemplo demonstrado abaixo, você pode definir, por exemplo, um tipo de cupom válido somente em dinheiro e definir se ele será sem restrição:
+
+- Restrição (Só pode ser utilizado com);
+- Exceção (Só não pode ser utilizado com).
 
 E essa configuração pode ser feita com grupo de produto, um produto, uma empresa, vendedor, unidade e até um parceiro. Fazendo assim com que a possibilidade de erro por falta de atenção em alguma venda não aconteça, pois a restrição/exceção entrará em ação assim que for preciso.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_btn_restricao.gif)
+
+No momento da criação de um novo cupom de desconto, você não precisará preencher campos obrigatórios. Mas recomendamos que preencha a descrição do cupom, status, tipo de desconto e o valor que será descontado.
+
+{% hint style="info" %}
+**Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados de cada cupom de desconto criado! 😉👍
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_cupom.png)
+
+<br>
+
+## Limitação e período de uso
+
+Após você preencher a descrição e definir o status para ativado, você pode definir o tipo de uso do cupom, entre ilimitado ou limitado.
+
+Ao marcar a opção limitado um novo campo será mostrado logo abaixo para você definir a quantidade de vezes que esse cupom poderá ser utilizado na plataforma:
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_limitado.gif)
+
+<br>
+
+Logo abaixo tem o período de uso, também com duas opções, entre limitado e ilimitado.
+
+Quando escolher por limitado, dois novos campos ficarão disponíveis para você definir a data de duração deste compum de desconto que você está criando, veja o exemplo:
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_periodo.gif)
+
+<br>
+
+Por último no preenchimento antes de salvar o novo cupom, você tem o tipo de desconto. Nele também são duas opções para você escolher, sendo elas valor em reais, ou em percentual. Utilize o que melhor se aplica para sua situação. 😁
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_tipo_desconto.gif)
+
+## Salvando novo cupom de desconto
+
+Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo cupom de desconto será salvo, e estará disponível para uso:
+
+![](/erp-v2/assets/funcionalidades/configuracoes/aba_cupom_add_salvar.gif)
