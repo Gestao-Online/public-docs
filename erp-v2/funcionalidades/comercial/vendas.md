@@ -39,3 +39,12 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 {% hint style="Info" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
+
+## Adicionar nova venda
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add.png)
+
+<br>
+

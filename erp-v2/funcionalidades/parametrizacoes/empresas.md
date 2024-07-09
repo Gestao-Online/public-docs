@@ -36,7 +36,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ## Adicionar nova empresa
 
-No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar nova empresa, confira abaixo o procedimento para fazer a adição corretamente:
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add.png)
 
