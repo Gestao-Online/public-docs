@@ -3,7 +3,7 @@
 Aqui você tem a visão do estoque de produtos na plataforma **Gestão.Online**, podendo cadastrar um novo produto, editar informações existentes e até excluir um produto cadastrado.
 
 {% hint style="danger" %}
-**Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -18,7 +18,7 @@ Aqui você tem a visão do estoque de produtos na plataforma **Gestão.Online**,
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
@@ -58,7 +58,7 @@ Ao clicar neste botão, você será direcionado para esta página, para criar um
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
-- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
@@ -66,14 +66,14 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando para criação de movimentação, quando você for criar uma nova movimentação de estoque, é ncessário preencher todos os campos marcados com o asterisco vermelho: 
+Olhando para a criação de movimentação, quando você for criar uma nova movimentação de estoque, é necessário preencher todos os campos marcados com o asterisco vermelho:
 
 - **Tipo** (Transferência, venda, compra, devolução e ajuste);
-- **Data Lançamento** (Definir o dia que está sendo feita a movimentação);
+- **Data Lançamento** (Definir o dia em que está sendo feita a movimentação);
 - **Quantidade** (Itens a mais ou a menos);
-- **Produto** (Defina qual produto terá a movimentação, para maiores informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md));
-- **Local de Estoque** (Defina qual local está o produto, para maiores informações [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md));
-- **Empresa** (Defina qual empresa tem o produto, para maiores informações [clique aqui](/erp-v2/funcionalidades/parametrizacoes/empresas.md));
+- **Produto** (Defina qual produto terá a movimentação, para mais informações, [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md));
+- **Local de Estoque** (Defina qual local está o produto, para mais informações, [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md));
+- **Empresa** (Defina qual empresa tem o produto, para mais informações, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/empresas.md));
 - **Lançamento** (Entrada ou saída);
 - **Descrição** (Motivo da movimentação).
 
@@ -85,7 +85,7 @@ Olhando para criação de movimentação, quando você for criar uma nova movime
 
 ## Salvando movimentação de estoque
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova movimentação será adicionada:
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro da nova movimentação será adicionado:
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_produto_salvar.gif)
 
