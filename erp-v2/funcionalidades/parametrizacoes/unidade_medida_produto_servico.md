@@ -44,7 +44,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
-- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_unidade_medida_add_menu.png)
 
