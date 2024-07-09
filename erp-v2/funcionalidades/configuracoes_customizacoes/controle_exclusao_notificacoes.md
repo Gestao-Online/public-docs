@@ -28,7 +28,7 @@ Nesta aba está um menu ao lado direito da tela com as seguintes funções:
 
 <br>
 
-### Adicionar novo controle de exclusão em notificações
+## Adicionar novo controle de exclusão em notificações
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo controle de exclusão em notificações, confira abaixo o procedimento para fazer o preenchimento corretamente:
 

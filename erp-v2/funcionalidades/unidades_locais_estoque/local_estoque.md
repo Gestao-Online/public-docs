@@ -34,7 +34,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
-### Paginação aba local de estoque
+## Paginação aba local de estoque
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
 
@@ -42,7 +42,7 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 <br>
 
-### Adicionar novo local de estoque
+## Adicionar novo local de estoque
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo local de estoque, confira abaixo o procedimento para fazer o cadastro corretamente:
 

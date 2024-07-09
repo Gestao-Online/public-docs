@@ -20,7 +20,7 @@ Com a janela aberta, você pode selecionar um dos modelos sugeridos, entre resum
 
 ![](/erp-v2/assets/exportar_aba_vendas_janela.png)
 
-### Botão começar exportação (Padrão) 
+## Botão começar exportação (Padrão) 
 
 O primeiro botão é **`Começar exportação (Padrão)`**, conheceremos um pouco mais sobre ele:
 
@@ -30,7 +30,7 @@ Na tela de configuração você pode escolher a **forma de exportação dos dado
 
 ![](/erp-v2/assets/exportar_aba_vendas_plan_pdf.gif)
 
-### Modo configuração padrão
+## Modo configuração padrão
 
 Na escolha de um dos itens você duas opções, no modo *Configuração padrão* você tem os cards de preencher com todos os campos dentro. Enquanto isso, no modo de *Configuração e visualização* você tem uma tela com a pré-visualização da estrutura do relatório.
 
@@ -69,7 +69,7 @@ Finalizando, você pode escolher se o cabeçalho personalizado irá aparecer ou 
 
 ![](/erp-v2/assets/exportar_aba_calc_exportar.gif)
 
-### Modo configuração e visualização
+## Modo configuração e visualização
 
 Quando você ativa o **`Modo de configuração de visualização`**, uma tela interativa é aberta para você, podendo mover as colunas usando o mouse. Até as configurações de cálculo já aparecem na parte inferior  para você poder definir.
 
@@ -77,7 +77,7 @@ Observe a demonstração que fizemos logo abaixo:
 
 ![](/erp-v2/assets/exportar_aba_modo_visual.gif)
 
-### Salvando favoritos
+## Salvando favoritos
 
 Finalizando o modo de exportação, saiba que esse modelo que criamos você pode salvar nos favoritos, e salvar quantos favoritos precisar, para utilizar sempre que quiser! 😁
 
@@ -105,7 +105,7 @@ Mas sempre que precisar, você pode editar o modelo que salvou clicando no botã
 
 ![](/erp-v2/assets/exportar_favoritos_editar.png)
 
-### Modelos sugeridos
+## Modelos sugeridos
 
 Os modelos sugeridos são oferecidos conforme a aba que você estiver tentando exportar as informações, com campos já pré-selecionados com base no que você possivelmente precisará ver no relatório que será gerado. 
 

@@ -40,7 +40,7 @@ Se você observou, nós colocamos <img src="/erp-v2/assets/funcionalidades/icon_
 
 <br>
 
-### Paginação aba unidades/lojas
+## Paginação aba unidades/lojas
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
 
@@ -48,7 +48,7 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 <br>
 
-### Dashboard vendedores 
+## Dashboard vendedores 
 
 Assim que se acessa a página inicial das unidades/lojas você pode ver um ícone na lateral esquerda da tela se mexendo, ao clicarmos nele uma janela lateral aparecerá com algumas informações, vejamos abaixo:
 
@@ -100,7 +100,7 @@ Por último temos a `Quantidade de unidades por UF` onde colocamos na nossa plat
 
 <br>
 
-### Adicionar nova unidade/loja
+## Adicionar nova unidade/loja
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar nova unidade/loja, confira abaixo o procedimento para fazer o cadastro corretamente:
 

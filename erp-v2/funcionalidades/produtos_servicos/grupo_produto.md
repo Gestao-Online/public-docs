@@ -6,8 +6,6 @@ Os grupos de produtos são utilizados para classificar os itens em seu estoque o
 **Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-<br>
-
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
@@ -31,10 +29,10 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 <br>
 
 {% hint style="warning" %}
-**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
+**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
-### Paginação aba grupo de produto
+## Paginação aba grupo de produto
 
 Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de grupos de produto mostrados para até 1000 itens na página:
 
@@ -42,7 +40,7 @@ Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantid
 
 <br>
 
-### Adicionar novo grupo de produto
+## Adicionar novo grupo de produto
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar uma novo grupo de produto, confira abaixo o procedimento para fazer a adição corretamente:
 

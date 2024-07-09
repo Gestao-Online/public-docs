@@ -27,7 +27,7 @@ Nesta aba está um menu ao lado direito da tela com as seguintes funções:
 
 <br>
 
-### Criar notificação
+## Criar notificação
 
 Ao clicar no primeiro item do menu vamos para o envio de notificação aos usuários, o preenchimento é bem simples e intuitivo.
 
@@ -82,7 +82,7 @@ Depois de definido o tipo de usuário, agora vamos para a mensagem, deixamos um 
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação.
 {% endhint %}
 
-### Adicionar novo usuário
+## Adicionar novo usuário
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo usuário, confira abaixo o procedimento para fazer o cadastro corretamente:
 
