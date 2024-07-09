@@ -1,12 +1,10 @@
 # 🏪 Unidades/Lojas
 
-Aqui você tem a visão de todos as unidades/lojas cadastradas na plataforma **Gestão.Online**, podendo fazer cadastro, editar informações e até excluir um item cadastrado.
+Aqui você tem a visão de todas as unidades/lojas cadastradas na plataforma **Gestão.Online**, podendo fazer cadastro, editar informações e até excluir um item cadastrado.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
-
-<br>
 
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
@@ -119,7 +117,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 - <img src="/erp-v2/assets/icon_paleta_cores.png" alt="" data-size="line"> Alterar cores da landing page (Este item só fica disponível caso você faça a configuração para venda online);
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
-- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
@@ -152,7 +150,7 @@ Aos campos extras exibidos, nós temos:
 
 - **Parceiro:** Que é o responsável pela unidade;
 - **Telefone:** Telefone fixo caso a unidade tenha;
-- **Celular:** Pode ser usado para hiperlinks do whatsapp, telegram e outros;
+- **Celular:** Pode ser usado para hiperlinks do WhatsApp, Telegram e outros;
 - **Email:** Email da unidade para contato.
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral1.png)
@@ -162,7 +160,7 @@ Aos campos extras exibidos, nós temos:
 Aqui na parte de `endereço da unidade` já colocamos em nossa plataforma o preenchimento automático assim que você inserir o CEP, confira abaixo:
 
 {% hint style="info" %}
-**Atenção:** Os campos `Número` e `Complemento` não são preenchido automaticamente, sendo necessário sua intervenção.
+**Atenção:** Os campos `Número` e `Complemento` não são preenchidos automaticamente, sendo necessária sua intervenção.
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_guia_geral2.gif)
@@ -187,7 +185,7 @@ Na última parte, fica a **`Configuração para venda online`** vejamos um pouco
     - ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral4.gif)
 
 - **Gerar Link:** É criado um link para efetuar vendas online se marcar como ativado;
-- **Unidade padrão:** É definida como unidade padrão para vendas online se marcado como ativado;
+- **Unidade padrão:** É definida como unidade padrão para vendas online se marcada como ativado;
 - **[Tabela de preço (Venda)](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md):** Você pode clicar para acessar as tabelas de preços que serão utilizadas nas vendas online;
 - **[Tipo movimentação](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md):** Aqui você define o tipo de venda que será realizada com base nas já cadastradas;
 - **[Tabela de preço (Recorrência)](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md):** Mostrará as tabelas de preço, podendo escolher as de recorrência, lembrando que ficam todas no mesmo local;
@@ -200,13 +198,13 @@ Na última parte, fica a **`Configuração para venda online`** vejamos um pouco
 
 <br>
 
-No final tem um botão chamado `Ver links(s)` ao clicar nele você vê o link da sua loja online para vendas:
+No final tem um botão chamado `Ver links(s)`. Ao clicar nele, você vê o link da sua loja online para vendas:
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral5.gif)
 
 <br>
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova unidade/loja será salvo, e algumas mudanças acontecem, primeiro será o menu da guia, que recebe dois novos itens:
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro da nova unidade/loja será salvo, e algumas mudanças acontecem. Primeiro, será o menu da guia, que recebe dois novos itens:
 
 - <img src="/erp-v2/assets/icon_paleta_cores.png" alt="" data-size="line"> Alterar cores da landing page;
 - <img src="/erp-v2/assets/funcionalidades/icon_editar_cinza.png" alt="" data-size="line"> Adicionar/Tocar código;
@@ -217,7 +215,7 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova
 
 <br>
 
-Se você observou na imagem acima, deixamos marcado também as novas guias que ficaram disponíveis após criarmos uma nova unidade, vamos falar um pouco melhor sobre cada uma, com a primeira **`Vendedores/Compradores`**.
+Se você observou na imagem acima, deixamos marcados também as novas guias que ficaram disponíveis após criarmos uma nova unidade. Vamos falar um pouco melhor sobre cada uma, com a primeira **`Vendedores/Compradores`**.
 
 Você terá uma lista de todos os vendedores dessa unidade, podendo também fazer adição, alteração e até exclusão.
 
@@ -239,7 +237,6 @@ E também terá acesso ao dashboard com quantidade de vendedores por centro de r
 
 <br>
 
-Fechando as guias disponíveis, temos a de **`Histórico`** com todos os registros/dados que tiverem nesta unidade, se você observar o primeiro registro é o de criação, trazendo o nome do usuário que fez, o que foi feito e a data/hora realizada.
-
+Fechando as guias disponíveis, temos a de **`Histórico`** com todos os registros/dados que tiverem nesta unidade. Se você observar, o primeiro registro é o de criação, trazendo o nome do usuário que fez, o que foi feito e a data/hora realizada.
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_guia_historico.png)
 

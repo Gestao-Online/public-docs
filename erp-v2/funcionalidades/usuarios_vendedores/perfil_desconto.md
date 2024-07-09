@@ -8,8 +8,6 @@ Para utilizar da melhor maneira possível o perfil de desconto na nossa platafor
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-<br>
-
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
@@ -38,7 +36,7 @@ No lado esquerdo da tela está o menu lateral, e você pode utilizar como um fil
 - <img src="/erp-v2/assets/funcionalidades/icon_receitas.png" alt="" data-size="line"> Receitas (Vendas);
 - <img src="/erp-v2/assets/funcionalidades/icon_despesas.png" alt="" data-size="line"> Despesas (Compras).
 
-Clicando no ícone da seta você exibe de forma completa e fixado, e clicando nela novamente, volta ao modo recolhido, confira exemplo abaixo: 
+Clicando no ícone da seta, você exibe de forma completa e fixada, e clicando nela novamente, volta ao modo recolhido. Confira o exemplo abaixo:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_menu_lateral.gif)
 
@@ -50,13 +48,13 @@ Clicando no ícone da seta você exibe de forma completa e fixado, e clicando ne
 
 ## Adicionar novo perfil de desconto
 
-No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo vendeperfil de desconto, confira abaixo o procedimento para fazer o cadastro corretamente:
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo perfil de desconto. Confira abaixo o procedimento para fazer o cadastro corretamente:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_perfil.png)
 
 <br>
 
-Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados do novo perfil de desconto:
+Ao clicar neste botão, você será direcionado para esta página para fazer o preenchimento dos dados do novo perfil de desconto:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_perfil_desconto.png)
 
@@ -65,7 +63,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
-- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
@@ -89,7 +87,9 @@ Por padrão, quando você for criar um perfil de desconto, é exigido preencher 
 
 <br>
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro do perfil de desconto será disponibilizado para o vendedor poder utilizar:
+## Salvando perfil de desconto
+
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do perfil de desconto será disponibilizado para o vendedor poder utilizar:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_salvar.gif)
 
