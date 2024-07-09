@@ -28,7 +28,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_menu.png)
 
 {% hint style="warning" %}
-**Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
+**Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
 ## Menu lateral esquerdo

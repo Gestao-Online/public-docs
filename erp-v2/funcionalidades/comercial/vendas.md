@@ -36,3 +36,6 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Exportar:** Caso queira mais informações sobre como utilizar o botão <img src="/erp-v2/assets/icon_exportar.png" alt="" data-size="line"> exportar movimentações [**`clique aqui`**](/erp-v2/primeiro_acesso/exportar.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
+{% hint style="Info" %}
+**Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
+{% endhint %}
