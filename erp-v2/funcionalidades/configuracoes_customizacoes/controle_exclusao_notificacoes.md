@@ -38,7 +38,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 <br>
 
-Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados da nova exclusão de notificação:
+Ao clicar neste botão, você será direcionado para esta página para fazer o preenchimento dos dados da nova exclusão de notificação:
 
 ![](/erp-v2/assets/funcionalidades/configuracoes/aba_notificacoes_add_exclusao_1.png)
 
