@@ -114,3 +114,27 @@ Observe que agora novas guias apareceram para você, a primeira é de itens, e p
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item.gif)
+
+<!--  FALAR COM PAULO O PROCEDIMENTO/CONDIÇÃO CORRETO(A) PARA ADICIONAR UM PRODUTO -->
+
+Se você observou o menu superior da venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda.
+
+Lembrando que esta venda está em atendimento ainda, pois acabamos de inserir o item que será vendido.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo.png)
+
+## Guia de liberação
+
+Nesta guia é mostrado o relatório completo de quem autorizou alguma venda que ficou pendente de liberação. Uma venda pode ficar pendente de liberação caso tenha valores incorretos, descontos fora dos limites ou abaixo do padrão que já foi determinado nas tabelas de preços.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_liberacao.png)
+
+## Guia anexos
+
+Esta guia pode anexar documentos como Boleto, NF-e, NFS-e, NFC-e e outros. Você pode preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
+
+Os boletos aparecem automaticamente na guia de anexos por ser uma configuração do nosso sistema. Agora as notas fiscais precisam estar com as configurações/definições alinhadas para que possamos trazê-la para a guia e deixar pronto para você acessar.
+
+<!-- Aqui eu preciso confirmar com o Paulo se procede essa informação -->
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos.png)
