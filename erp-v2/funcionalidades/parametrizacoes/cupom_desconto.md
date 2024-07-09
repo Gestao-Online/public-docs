@@ -145,3 +145,7 @@ Veja abaixo como aparece a informação para você pode acompanhar:
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_guia_historico.png)
 
+<br>
+
+<br>
+
