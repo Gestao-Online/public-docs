@@ -3,7 +3,7 @@
 Os grupos de produtos são utilizados para classificar os itens em seu estoque ou catálogo de uma forma relevante para a gestão do negócio. 
 
 {% hint style="danger" %}
-**Atenção:** As informações aparecem de acordo com o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -18,7 +18,7 @@ Os grupos de produtos são utilizados para classificar os itens em seu estoque o
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder info;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
@@ -32,23 +32,15 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Filtros:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
-## Paginação aba grupo de produto
-
-Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de grupos de produto mostrados para até 1000 itens na página:
-
-![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_paginacao.png)
-
-<br>
-
 ## Adicionar novo grupo de produto
 
-No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar uma novo grupo de produto, confira abaixo o procedimento para fazer a adição corretamente:
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um novo grupo de produto, confira abaixo o procedimento para fazer a adição corretamente:
 
 ![](/erp-v2/assets/funcionalidades/grupo_produto/aba_grupo_produto_add.png)
 
 <br>
 
-Ao clicar neste botão, você será levado para esta página, para fazer a adição do grupo de produto:
+Ao clicar neste botão, você será levado para esta página para fazer a adição do grupo de produto:
 
 ![](/erp-v2/assets/funcionalidades/grupo_produto/aba_grupo_produto_add_inicio.png)
 
@@ -58,7 +50,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar item dependente;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
-- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
@@ -66,7 +58,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar um grupo de produto, é exigido descrição, identificador e status, para que seja salvo. 
+Olhando para a guia **`Geral`**, por padrão, quando você for criar um grupo de produto, é exigido preencher os campos de descrição, identificador e status para ser salvo.
 
 - **Descrição** (Descreva o grupo de produto que está criando);
 - **Identificador** (Número gerado automaticamente por nossa plataforma);
@@ -81,7 +73,7 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um grupo de
 
 <br>
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro do grupo de produto será salvo:
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do grupo de produto será salvo:
 
 ![](/erp-v2/assets/funcionalidades/grupo_produto/aba_grupo_produto_add_produto_salvar.gif)
 
@@ -93,12 +85,12 @@ A partir do momento que você concluir a criação de um novo grupo de produto, 
 **Informativo:** Esta guia só ficará disponível a partir do momento que você salvar este item.
 {% endhint %}
 
-Você pode cadastrar os produtos no grupo manualmente, definindo descrição, código, status, tipo e até unidade/medida para envio de email.
+Você pode cadastrar os produtos no grupo manualmente, definindo descrição, código, status, tipo e até unidade/medida para envio de e-mail.
 
 ![](/erp-v2/assets/funcionalidades/grupo_produto/aba_grupo_produto_add_produto_guia_estoque.png)
 
 {% hint style="danger" %}
-**Atenção:** Se você deseja saber mais informações sobre produtos [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md)
+**Atenção:** Se você deseja saber mais informações sobre produtos, [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md)
 {% endhint %}
 
 <br>
