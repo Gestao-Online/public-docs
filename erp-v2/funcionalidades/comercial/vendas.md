@@ -177,5 +177,8 @@ Lembrando que esta venda está em atendimento e agora vai para o status liberado
 
 Após você adicionar os itens para venda e confirmar, o status desta venda muda conforme mostrado acima, e o menu superior dela também, trazendo novas funções.
 
-Podendo clicar no ícone <img src="/erp-v2/assets/icon_cancelar.png" alt="" data-size="line"> cancelar uma venda, ou no ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-size="line"> enviar uma notificação ao cliente sobre o resumo da movimentação:
+Podendo clicar no ícone <img src="/erp-v2/assets/icon_cancelar.png" alt="" data-size="line"> cancelar uma venda, ou no ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-size="line"> enviar uma notificação ao cliente sobre o resumo da movimentação.
 
+Para cancelar uma venda, é necessário que escreva um motivo para que fique no registro da venda, essa função serve para mantermos a integridade da nossa plataforma:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_cancelar.png)
