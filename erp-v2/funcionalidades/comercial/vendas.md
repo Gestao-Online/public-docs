@@ -103,7 +103,7 @@ Por último, há os campos de **observação**, nos quais é possível incluir u
 
 <br>
 
-## Salvando uma nova venda
+## Salvando rascunho de uma nova venda
 
 Após o preenchimento destas informações, você pode salvar o rascunho para adicionar os itens da venda. Após salvar o rascunho, essa venda entra no status de atendimento automaticamente. Observe no nosso exemplo abaixo:
 
@@ -160,7 +160,7 @@ Abaixo está uma venda de exemplo com históricos registrados:
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_historico.png)
 
 
-## Menu superior alterado
+## Confirmando venda
 
 Se você observou o menu superior da venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda. As informações mostradas neste menu vão depender diretamentamente das configurações do tipo de movimentação que você configurou.
 
@@ -168,6 +168,14 @@ Se você observou o menu superior da venda que estamos editando está diferente,
 **Informativo:** Para mais informações sobre configuração do tipo de movimentação, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md). 😉👍
 {% endhint %}
 
-Lembrando que esta venda está em atendimento ainda, pois acabamos de inserir o item que será vendido.
+Lembrando que esta venda está em atendimento e agora vai para o status liberado, pois acabamos de inserir o item que será vendido e vamos confirmar a venda:
 
-![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo.png)
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo.gif)
+
+
+## Menu venda após confirmação
+
+Após você adicionar os itens para venda e confirmar, o status desta venda muda conforme mostrado acima, e o menu superior dela também, trazendo novas funções.
+
+Podendo clicar no ícone <img src="/erp-v2/assets/icon_cancelar.png" alt="" data-size="line"> cancelar uma venda, ou no ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-size="line"> enviar uma notificação ao cliente sobre o resumo da movimentação:
+
