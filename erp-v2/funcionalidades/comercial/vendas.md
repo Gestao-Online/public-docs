@@ -6,11 +6,11 @@ Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de pre�
 
 Este menu de vendas estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [clique aqui](/erp-v2/primeiro_acesso/favoritos.md)).
 
-{% hint style="danger" %}
+{% hint style=“danger” %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style=“warning” %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
@@ -32,11 +32,11 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 <br>
 
-{% hint style="warning" %}
+{% hint style=“warning” %}
 **Exportar:** Caso queira mais informações sobre como utilizar o botão <img src="/erp-v2/assets/icon_exportar.png" alt="" data-size="line"> exportar movimentações [**`clique aqui`**](/erp-v2/primeiro_acesso/exportar.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-{% hint style="Info" %}
+{% hint style=“Info” %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
@@ -65,7 +65,7 @@ No momento do cadastro de uma nova venda, você precisará preencher alguns camp
 
 Aqui, o único item obrigatório para preenchimento é o tipo de negociação, pois a venda pode ser preenchida depois, salvando como rascunho. 😁
 
-{% hint style="info" %}
+{% hint style=“info” %}
 **Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada empresa. 😉👍
 {% endhint %}
 
@@ -73,11 +73,15 @@ Aqui, o único item obrigatório para preenchimento é o tipo de negociação, p
 
 <br>
 
-Para o preenchimento do primeiro campo, você precisará ter cadastrados os tipos de movimentação que utilizará. Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md). Com o tipo já cadastrado, ao clicar no campo, as opções disponíveis aparecem para você, mas se preferir, pode digitar o nome da movimentação que a nossa plataforma começará a fazer a busca para você.
+Para o preenchimento do primeiro campo, você precisará ter cadastrados os tipos de movimentação que utilizará. Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+
+Lembrando que a origem (PDV, venda online, venda online unidade, venda online indicador, fechamento) do tipo de movimento podem interferir no momento de adicionar itens a depender da definição criada.
+
+Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções disponíveis aparecem para você, mas se preferir, pode digitar o nome da movimentação que a nossa plataforma começará a fazer a busca para você.
 
 O mesmo aconteceu com o preenchimento do tipo de negociação, os exemplos já estão pré-cadastrados no nosso sistema para você utilizar.
 
-Veja esse exemplo abaixo:
+Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que está configurada para origem do tipo PDV, e escolheremos o tipo de negociação **Boleto - GOPag** somente como exemplo:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_1_e_2.gif)
 
@@ -101,7 +105,7 @@ Por último, há os campos de **observação**, nos quais é possível incluir u
 
 ## Salvando uma nova venda
 
-Após o preenchimento destas informações, você pode salvar o rascunho para adicionar os itens da venda. Observe no nosso exemplo abaixo que, ao salvar, o status da venda passa para atendimento:
+Após o preenchimento destas informações, você pode salvar o rascunho para adicionar os itens da venda. Após salvar o rascunho, essa venda entra no status de atendimento automaticamente. Observe no nosso exemplo abaixo:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_venda.gif)
 
@@ -109,23 +113,27 @@ Após o preenchimento destas informações, você pode salvar o rascunho para ad
 
 Observe que agora novas guias apareceram para você, a primeira é de itens, e pouco abaixo dela tem um novo menu de opções. Clicamos no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar item para adicionarmos um produto para a venda:
 
-{% hint style="info" %}
+{% hint style=“info” %}
 **Informativo:** Para adicionar um produto/serviço para venda, é necessário cadastrar ele primeiro na aba de produtos/serviços, para mais informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
 {% endhint %}
 
-![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item.gif)
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item.png)
 
-<!--  FALAR COM PAULO O PROCEDIMENTO/CONDIÇÃO CORRETO(A) PARA ADICIONAR UM PRODUTO -->
+Quando clicamos neste botão, é mostrado as opções para inserirmos um produto. São duas opções, o campo **produto/serviço** e **quantidade**. O campo de produtos tem busca automatica assim que clicado, mas você pode digitar o nome do produto/serviço para buscar caso queira:
 
-Se você observou o menu superior da venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda. As informações mostradas neste menu vão depender diretamentamente das configurações do tipo de movimentação que você configurou.
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item_campos.gif)
 
-{% hint style="warning" %}
-**Informativo:** Para mais informações sobre configuração do tipo de movimentação, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md). 😉👍
+**Pronto, o produto/serviço foi carregado com sucesso para ser adicionado!**
+
+Essa parte é importante para você observar, pois o produto já veio com o preço que estava determinado na tabela de preço. E assim você pode adicionar todos os demais produtos/serviços que precisa. 
+
+Montamos um infográfico para exemplificar melhor como funciona o vínculo de cada aba para realizar uma venda dentro do nosso sistema:
+
+{% hint style="info" %}
+**Informativo:** Caso esteja utilizando um produto com controle de estoque, o produto precisa estar vinculado ao local de estoque e ter quantidade para poder vender. Para mais informações sobre estoque,  [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md). 😉👍
 {% endhint %}
 
-Lembrando que esta venda está em atendimento ainda, pois acabamos de inserir o item que será vendido.
-
-![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo.png)
+![](/erp-v2/assets/funcionalidades/comercial/infografico-passos-venda.png)
 
 ## Guia de liberação
 
@@ -151,3 +159,15 @@ Abaixo está uma venda de exemplo com históricos registrados:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_historico.png)
 
+
+## Menu superior alterado
+
+Se você observou o menu superior da venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda. As informações mostradas neste menu vão depender diretamentamente das configurações do tipo de movimentação que você configurou.
+
+{% hint style=“warning” %}
+**Informativo:** Para mais informações sobre configuração do tipo de movimentação, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md). 😉👍
+{% endhint %}
+
+Lembrando que esta venda está em atendimento ainda, pois acabamos de inserir o item que será vendido.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo.png)
