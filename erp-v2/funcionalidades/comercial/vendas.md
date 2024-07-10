@@ -93,7 +93,7 @@ Para o campo de parceiro indicador as funções trabalham da mesma maneira. Veja
 
 <br>
 
-Por último, há os campos de **observação**, nos quais é possível incluir um lembrete ou informação adicional sobre a venda que está sendo criada, e o campo de **unidade**, onde somente serão exibidos os itens se você já tiver cadastrado as unidades/lojas. Se você tiver alguma dúvida sobre as unidades, é possível acessar nosso guia passo a passo[clicando aqui](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+Por último, há os campos de **observação**, nos quais é possível incluir um lembrete ou informação adicional sobre a venda que está sendo criada, e o campo de **unidade**, onde somente serão exibidos os itens se você já tiver cadastrado as unidades/lojas. Se você tiver alguma dúvida sobre as unidades, é possível acessar nosso guia passo a passo [clicando aqui](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_5_e_6.gif)
 
