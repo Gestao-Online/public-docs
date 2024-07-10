@@ -1,1 +1,1 @@
-# 🔁 Vendas recorrente
+# Vendas recorrente
