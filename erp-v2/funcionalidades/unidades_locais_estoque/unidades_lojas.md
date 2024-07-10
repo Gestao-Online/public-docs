@@ -38,15 +38,7 @@ Se você observou, nós colocamos <img src="/erp-v2/assets/funcionalidades/icon_
 
 <br>
 
-## Paginação aba unidades/lojas
-
-Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
-
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_paginacao.png)
-
-<br>
-
-## Dashboard vendedores 
+<!-- ## Dashboard vendedores 
 
 Assim que se acessa a página inicial das unidades/lojas você pode ver um ícone na lateral esquerda da tela se mexendo, ao clicarmos nele uma janela lateral aparecerá com algumas informações, vejamos abaixo:
 
@@ -96,7 +88,7 @@ Por último temos a `Quantidade de unidades por UF` onde colocamos na nossa plat
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_qtd_uf.gif)
 
-<br>
+<br> -->
 
 ## Adicionar nova unidade/loja
 
@@ -169,9 +161,9 @@ Aqui na parte de `endereço da unidade` já colocamos em nossa plataforma o pree
 
 Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas da nossa plataforma da **Gestão.Online**, abaixo explicamos um pouco melhor sobre cada uma, para o caso de você querer saber mais sobre alguma [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md):
 
-- **Tabela de preço principal:** Esta é a tabela de preço de venda para o cliente final;
+- **Tabela de preço principal:** Esta é a tabela de preço de venda para o cliente final (Precisa estar cadastrada no produto/serviço que você deseja vender);
 - **Tabela de preço secundária (Custo):** Aqui é a tabela de preço de custo da unidade parceira;
-- **Tabela de preço secundária (Comissão):** Esta tabela é de comissão da unidade parceira;
+- **Tabela de preço secundária (Comissão):** Esta tabela é de comissão da unidade parceira (Precisa estar cadastrada no parceiro indicador para que seja contabilizada sua comissão por venda realizada);
 - **Tabela de preço indicação padrão:** Aqui você informa qual será a tabela de preço que tem os ganhos/comissão dos novos indicadores;
 - **Tabela de preço de comissão de entrega:** Por último aqui é para indicar tabela de preço de comissão de entrega.
 
