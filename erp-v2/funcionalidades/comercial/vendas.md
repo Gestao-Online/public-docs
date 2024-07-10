@@ -117,7 +117,11 @@ Observe que agora novas guias apareceram para você, a primeira é de itens, e p
 
 <!--  FALAR COM PAULO O PROCEDIMENTO/CONDIÇÃO CORRETO(A) PARA ADICIONAR UM PRODUTO -->
 
-Se você observou o menu superior da venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda.
+Se você observou o menu superior da venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda. As informações mostradas neste menu vão depender diretamentamente das configurações do tipo de movimentação que você configurou.
+
+{% hint style="warning" %}
+**Informativo:** Para mais informações sobre configuração do tipo de movimentação, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md). 😉👍
+{% endhint %}
 
 Lembrando que esta venda está em atendimento ainda, pois acabamos de inserir o item que será vendido.
 
@@ -138,3 +142,12 @@ Os boletos aparecem automaticamente na guia de anexos por ser uma configuração
 <!-- Aqui eu preciso confirmar com o Paulo se procede essa informação -->
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos.png)
+
+## Guia histórico
+
+Nesta guia ficam registrados os casos adversos que acontecem com a venda, exemplo disso seria a utilização de um voucher, cancelamento de uma venda, liberação de entrega manual, ou até mesmo o bloqueio da venda.
+
+Abaixo está uma venda de exemplo com históricos registrados:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_historico.png)
+
