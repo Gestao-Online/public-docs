@@ -159,6 +159,14 @@ Apartir de agora, um gestor deve liberar a solicitação de desconto para que a 
 **Cuidado**: Os valores de uma venda, assim como o seu desconto não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
 {% endhint %}
 
+## Guia de financeiro
+
+Após gerar o boleto ou o link de pagamento, uma nova guia surgirá. Esta é a de **financeiro**, com ela você pode acompanhar a movimentação do pagamento desta venda. 
+
+Observe que ela traz informações como, a forma de pagamento escolhida, o tipo se é receita ou despesa, o valor de desdobramento, valor da baixa e outros.
+
+
+
 ## Guia de liberação
 
 Nesta guia é mostrado o relatório completo de quem autorizou alguma venda que ficou pendente de liberação. Uma venda pode ficar pendente de liberação caso tenha valores incorretos, descontos fora dos limites ou abaixo do padrão que já foi determinado nas tabelas de preços.
@@ -199,11 +207,40 @@ Lembrando que esta venda está em atendimento e agora vai para o status liberado
 
 Após você adicionar os itens para venda e confirmar, o status desta venda muda conforme mostrado acima, e o menu superior dela também, trazendo novas funções.
 
-Podendo clicar no ícone <img src="/erp-v2/assets/icon_cancelar.png" alt="" data-size="line"> cancelar uma venda, ou no ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-size="line"> enviar uma notificação ao cliente sobre o resumo da movimentação.
+### Botão gerar boleto
 
-Para cancelar uma venda, é necessário que escreva um motivo para que fique no registro da venda, essa função serve para mantermos a integridade da nossa plataforma:
+Dos novos botões que aparecem nesse menu superior, nós temos o de **gerar boleto**, ao clicar nele o boleto será gerado e você pode encaminhar para o cliente efetuar o pagamento:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_boleto.png)
+
+### Botão gerar link
+
+Logo ao lado desse botão temos o de **gerar link**, ao clicar nele uma nova janela vai ser abrir e criará um link de pagamento personalizado com a marca da sua empresa, para que possa encaminhar ao cliente para que ele efetue o pagamento. Observe o nosso exemplo abaixo, na parte final estão dados fictícios:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_gerar_link.gif)
+
+### Botão cancelar uma venda
+
+Ainda no novos botões disponíveis, temos no ícone <img src="/erp-v2/assets/icon_cancelar.png" alt="" data-size="line"> cancelar uma venda. 
+
+Antes de clicar neste botão, tenha certeza de que não existem movimentações fiscais ou baixas no financeiro dessa venda, e caso exista, efetue o estorno.
+
+Para cancelar uma venda, é necessário que escreva um motivo para que fique no registro dela, essa função serve para mantermos a integridade da nossa plataforma:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_cancelar.png)
+
+### Botão notificar cliente
+
+Por último no ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-size="line"> enviar uma notificação, ele te perguntará se tem certeza de enviar as notificações ao cliente sobre o resumo da movimentação, e após confirmação, fará o envio.
+
+Lembrando que os dados do cliente devem estar preenchidos para que o envio seja realizado para ele pelos meios digitais (E-mail, WhatsApp, Telegram). 
+
+{% hint style=“warning” %}
+**Cadastro cliente:** Para mais informações sobre configuração do tipo de movimentação, [clique aqui](/erp-v2/funcionalidades/parceiros/clientes.md). 😉👍
+{% endhint %}
+
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_cancelar.png)
 
 ### Status da Venda
 
