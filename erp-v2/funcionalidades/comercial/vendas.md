@@ -73,7 +73,7 @@ Aqui, o único item obrigatório para preenchimento é o tipo de negociação, p
 
 <br>
 
-Para o preenchimento do primeiro campo, você precisará ter cadastrados os tipos de movimentação que utilizará. Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+Para o preenchimento do primeiro campo, você precisará ter cadastrado os tipos de movimentação que utilizará. Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
 
 Lembrando que a origem (PDV, venda online, venda online unidade, venda online indicador, fechamento) do tipo de movimento pode interferir no momento de adicionar itens a depender da definição criada.
 
@@ -105,7 +105,7 @@ Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Vej
 
 <br>
 
-Por último, há os campos de **observação**, nos quais é possível incluir um lembrete ou informação adicional sobre a venda que está sendo criada, e o campo de **unidade**, onde somente serão exibidos os itens se você já tiver cadastrado as unidades/lojas. Se você tiver alguma dúvida sobre as unidades, é possível acessar nosso guia passo a passo [**`clicando aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+Mais abaixo, o campo de **observação**, no qual é possível incluir um lembrete ou informação adicional sobre a venda que está sendo criada, e o campo de **unidade**, onde somente serão exibidos os itens se você já tiver cadastrado as unidades/lojas. Se você tiver alguma dúvida sobre as unidades, é possível acessar nosso guia passo a passo [**`clicando aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_5_e_6.gif)
 
