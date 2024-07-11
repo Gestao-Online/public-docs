@@ -59,7 +59,7 @@ Vale lembrar que esse menu mudará trazendo novas opções, mas somente quando v
 
 <br>
 
-No momento do cadastro de uma nova venda, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho.
+No momento do cadastro de uma nova venda recorrente, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Importante ressaltar que os campos de preenchimento de uma venda recorrente tem mais campos que uma venda padrão. 
 
 Aqui, o único item obrigatório para preenchimento é o tipo de negociação, pois a venda recorrente pode ser preenchida depois, salvando como rascunho. 😁
 
@@ -67,7 +67,36 @@ Aqui, o único item obrigatório para preenchimento é o tipo de negociação, p
 **Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada empresa. 😉👍
 {% endhint %}
 
-![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_venda.png)
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_venda.png)
 
 <br>
+
+Para o preenchimento do primeiro e segundo campo, você precisará ter cadastrado os tipos de movimentação que utilizará. 
+
+Lembrando que a origem (PDV, venda online, venda online unidade, venda online indicador, fechamento) do tipo de movimento pode interferir no momento de adicionar itens a depender da definição criada.
+
+Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções disponíveis aparecem para você, mas se preferir, pode digitar o nome da movimentação que a nossa plataforma começará a fazer a busca para você.
+
+Por mais que uma venda recorrente tenha suas configurações, ela precisa estar vinculada a uma movimentação destino, no caso as de tipo venda.
+
+{% hint style=“info” %}
+**Informativo:** Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia, [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+{% endhint %}
+
+Observe abaixo, iremos utilizara a movimentação **Venda recorrente - Exemplo (Online)** e o tipo de movimentação destino será **Venda - E-commerce** que ja possui as configurações para vendas do tipo online:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_1_e_2.gif)
+
+
+O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na aba **tipo de negociação**.
+
+{% hint style=“Info” %}
+**Tipo de negociação:** Caso queira informações sobre como cadastrar o tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
+{% endhint %}
+
+Veja esse exemplo abaixo,  escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado à aba **listar contas**, somente como exemplo:
+
+{% hint style=“Info” %}
+**Listar contas:** Caso queira informações sobre como cadastrar as contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
+{% endhint %}
 
