@@ -189,6 +189,10 @@ Esta guia pode anexar documentos como Boleto, NF-e, NFS-e, NFC-e, e outros. Voc�
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos.png)
 
+Os boletos aparecem automaticamente na guia de anexos após clicar no botão de gerar boleto, por ser uma configuração do nosso sistema. O mesmo acontece com as notas fiscais, o download é feito, desde que elas estejam previamente configuradas com as informações no cadastro da empresa.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos_itens.png)
+
 ## Guia histórico
 
 Nesta guia ficam registrados os casos adversos que acontecem com a venda, exemplo disso seria a utilização de um voucher, cancelamento de uma venda, liberação de entrega manual, ou até mesmo o bloqueio da venda.
@@ -231,7 +235,9 @@ Dos novos botões que aparecem nesse menu superior, nós temos o de **gerar bole
 
 ### Botão gerar link
 
-Logo ao lado desse botão temos o de **gerar link**, ao clicar nele uma nova janela vai ser abrir e criará um link de pagamento personalizado com a marca da sua empresa, para que possa encaminhar ao cliente para que ele efetue o pagamento. Observe o nosso exemplo abaixo, na parte final estão dados fictícios:
+Logo ao lado desse botão temos o de **gerar link**, ao clicar nele uma nova janela vai ser abrir e criará um link de pagamento personalizado com a marca da sua empresa, para que possa encaminhar ao cliente para que ele efetue o pagamento. 
+
+Observe o nosso exemplo abaixo, na parte final estão dados fictícios:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_gerar_link.gif)
 
@@ -239,7 +245,7 @@ Logo ao lado desse botão temos o de **gerar link**, ao clicar nele uma nova jan
 
 O botão de gerar NF só ficará disponível caso o **tipo de movimentação** escolhido tenha ativo a opção **gera fiscal**. Neste caso com esta opção ativa, quando você confirmar uma venda, este botão ficará disponível.
 
-Clicando nele será feito o download da nota fiscal e ela ficará disponível na guia de anexos para você poder baixar.
+Clicando nele será feito o download da nota fiscal e ela ficará disponível na guia de **anexos** para você poder baixar.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_gerar_nf.png)
 
