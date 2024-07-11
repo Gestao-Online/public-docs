@@ -128,3 +128,9 @@ Nos dois campos **Recorrência início contrato** e **Recorrência validade cont
 Observe nosso exemplo abaixo com uma venda recorrente de um ano de duração para este serviço digital fictício:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_10_e_11.gif)
+
+Chegando então no último campo de **Recorrência periodicidade**, podendo escolher uma das opções disponíveis. Para nosso exemplo utilizaremos a opção de recorrência mensal:
+
+aba_vendas_recorrentes_add_campo_12
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_12.png)
