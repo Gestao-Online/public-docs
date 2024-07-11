@@ -105,7 +105,7 @@ Para o campo de parceiro indicador as funções trabalham da mesma maneira. Veja
 
 <br>
 
-Por último, há os campos de **observação**, nos quais é possível incluir um lembrete ou informação adicional sobre a venda que está sendo criada, e o campo de **unidade**, onde somente serão exibidos os itens se você já tiver cadastrado as unidades/lojas. Se você tiver alguma dúvida sobre as unidades, é possível acessar nosso guia passo a passo [clicando aqui](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+Por último, há os campos de **observação**, nos quais é possível incluir um lembrete ou informação adicional sobre a venda que está sendo criada, e o campo de **unidade**, onde somente serão exibidos os itens se você já tiver cadastrado as unidades/lojas. Se você tiver alguma dúvida sobre as unidades, é possível acessar nosso guia passo a passo [**`clicando aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_5_e_6.gif)
 
@@ -122,7 +122,7 @@ Após o preenchimento destas informações, você pode salvar o rascunho para ad
 Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaixo dela tem um novo menu de opções. Clicamos no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar item para colocarmos um produto para a venda:
 
 {% hint style=“info” %}
-**Informativo:** Para adicionar um produto/serviço para venda, é necessário cadastrar ele primeiro na aba de produtos/serviços, para mais informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
+**Informativo:** Para adicionar um produto/serviço para venda, é necessário cadastrar ele primeiro na aba de produtos/serviços, para mais informações [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item.png)
@@ -136,7 +136,7 @@ Quando clicamos neste botão, é mostrado as opções para inserirmos um produto
 Montamos um infográfico para exemplificar melhor como funciona o vínculo de cada aba para realizar uma venda dentro do nosso sistema:
 
 {% hint style="info" %}
-**Informativo:** Caso esteja utilizando um produto com controle de estoque, o produto precisa estar vinculado ao local de estoque e ter quantidade para poder vender. Para mais informações sobre estoque,  [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md). 😉👍
+**Informativo:** Caso esteja utilizando um produto com controle de estoque, o produto precisa estar vinculado ao local de estoque e ter quantidade para poder vender. Para mais informações sobre estoque,  [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md). 😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/infografico-passos-venda.png)
@@ -206,7 +206,7 @@ Abaixo está uma venda de exemplo com históricos registrados:
 Se você observou o menu superior da venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda. As informações mostradas neste menu vão depender diretamentamente das configurações do tipo de movimentação que você configurou.
 
 {% hint style=“warning” %}
-**Informativo:** Para mais informações sobre configuração do tipo de movimentação, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md). 😉👍
+**Informativo:** Para mais informações sobre configuração do tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md). 😉👍
 {% endhint %}
 
 Lembrando que esta venda está em atendimento e agora vai para o status liberado, pois acabamos de inserir o item que será vendido e vamos confirmar a venda:
@@ -266,7 +266,7 @@ Por último no ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-s
 Lembrando que os dados do cliente devem estar preenchidos para que o envio seja realizado para ele pelos meios digitais (E-mail, WhatsApp, Telegram). 
 
 {% hint style=“warning” %}
-**Cadastro cliente:** Para mais informações sobre configuração do tipo de movimentação, [clique aqui](/erp-v2/funcionalidades/parceiros/clientes.md). 😉👍
+**Cadastro cliente:** Para mais informações sobre configuração do tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parceiros/clientes.md). 😉👍
 {% endhint %}
 
 
@@ -282,10 +282,10 @@ Como podemos ver, a venda que criamos como exemplo, foi confirmada, ainda não h
 
 Além do status de venda confirmada, temos outros:
 
-| | |
-|-|-|
-| ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_baixado.png) |Venda com financeiro baixado |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_parcial.png)  |Parcialmente baixado (Apenas uma ou algumas parcelas foram pagas) |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_autorizado.png)  |Financeiro baixado, nota fiscal autorizada e itens entregues. |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)   |Nota fiscal rejeitada |
+|                                                                                   |                                                                  |
+|-----------------------------------------------------------------------------------|------------------------------------------------------------------|
+| ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_baixado.png)       |Venda com financeiro baixado                                      |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_parcial.png)        |Parcialmente baixado (Apenas uma ou algumas parcelas foram pagas) |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_autorizado.png)     |Financeiro baixado, nota fiscal autorizada e itens entregues.     |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)   |Nota fiscal rejeitada                                             |
 
