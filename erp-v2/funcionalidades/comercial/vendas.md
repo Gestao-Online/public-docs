@@ -165,7 +165,17 @@ Após gerar o boleto ou o link de pagamento, uma nova guia surgirá. Esta é a d
 
 Observe que ela traz informações como, a forma de pagamento escolhida, o tipo se é receita ou despesa, o valor de desdobramento, valor da baixa e outros.
 
+### Vencimento de boleto
 
+No caso de vencimento de um boleto, você pode emitir um novo editando o boleto que aparece na guia de **financeiro**, precisando apenas clicar no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar, conforme mostrado abaixo:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit.png)
+
+Lembrando que essa opção só está disponível caso não tenha ocorrido uma baixa no financeiro. 😉👍
+
+Após aberto para edição, você precisa somente alterar a data de vencimento do boleto, para uma data válida mais a frente, e depois clicar no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line">salvar, e depois clicar no botão gerar boleto no menu superior:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_boleto.gif)
 
 ## Guia de liberação
 
@@ -176,10 +186,6 @@ Nesta guia é mostrado o relatório completo de quem autorizou alguma venda que 
 ## Guia anexos
 
 Esta guia pode anexar documentos como Boleto, NF-e, NFS-e, NFC-e, e outros. Você pode preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
-
-Os boletos aparecem automaticamente na guia de anexos por ser uma configuração do nosso sistema. Agora as notas fiscais precisam estar com as configurações/definições alinhadas para podermos trazê-la para a guia e deixar pronto para você acessar.
-
-<!-- Aqui eu preciso confirmar com o Paulo se procede essa informação -->
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos.png)
 
