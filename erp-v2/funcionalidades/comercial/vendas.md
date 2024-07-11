@@ -272,7 +272,7 @@ Lembrando que os dados do cliente devem estar preenchidos para que o envio seja 
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_cancelar.png)
 
-### Status da Venda
+## Status da Venda
 
 Através da aba de **vendas**, podemos acompanhar os status de cada item na coluna **status**. Para saber se está ou não em atendimento, situação da nota fiscal, se houve baixa ou não, e até mesmo se os itens vendidos foram entregues.
 
