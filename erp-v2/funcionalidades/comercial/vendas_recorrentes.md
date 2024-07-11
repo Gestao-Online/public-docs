@@ -139,3 +139,4 @@ Chegando então no último campo de **Recorrência periodicidade**, podendo esco
 Após o preenchimento destas informações, você pode salvar o rascunho para adicionar os itens da venda recorrente. Após salvar o rascunho, essa venda recorrente entra no status de atendimento automaticamente. Observe no nosso exemplo abaixo:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_venda.gif)
+
