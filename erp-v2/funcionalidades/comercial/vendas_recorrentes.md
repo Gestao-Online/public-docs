@@ -110,3 +110,21 @@ Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Vej
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_4_e_5.gif)
 
 <br>
+
+Mais abaixo, o campo de **observação**, no qual é possível incluir um lembrete ou informação adicional sobre a venda que está sendo criada, e o campo de **unidade**, onde somente serão exibidos os itens se você já tiver cadastrado as unidades/lojas. Se você tiver alguma dúvida sobre as unidades, é possível acessar nosso guia passo a passo [**`clicando aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_7_e_8.gif)
+
+<br>
+
+Dando sequência ao preenchimento dos campos, temos o **Recorrência número contrato**, aqui você pode colocar o número do contrato (Caso exista) para ficar salvo com o registro da venda recorrente. Lembrando que este campo não é obrigatório o preenchimento.
+
+No exemplo, utilizamos um número de contrato ficticio, e este:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_9.png)
+
+Nos dois campos **Recorrência início contrato** e **Recorrência validade contrato**, você precisa marcar a data de duração da venda recorrente, os campos já abrem um calendário no momento que você clicar sobre ele.
+
+Observe nosso exemplo abaixo com uma venda recorrente de um ano de duração para este serviço digital fictício:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_10_e_11.gif)
