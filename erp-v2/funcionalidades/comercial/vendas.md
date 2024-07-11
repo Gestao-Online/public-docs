@@ -26,7 +26,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
-- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Empresa.
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar venda.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_menu.png)
 
@@ -42,7 +42,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ## Adicionar nova venda
 
-No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar uma nova venda, confira abaixo o procedimento para fazer a adição corretamente:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add.png)
 
