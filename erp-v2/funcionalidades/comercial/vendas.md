@@ -2,9 +2,9 @@
 
 Aqui você tem a visão de todas as vendas/movimentações na plataforma **Gestão.Online**, podendo cadastrar uma nova venda, editar informações existentes e até excluir uma venda existente.
 
-Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de preço, tabela de custo, tabela de comissão, unidade, empresa e parceiro indicador. São muitos vínculos, mas isso que faz o sistema da Gestão.Online ser preciso nos resultados.
+Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de preço, tabela de custo, tabela de comissão, unidade, empresa e parceiro indicador. São muitos vínculos, mas isso faz o sistema da Gestão.Online ser preciso nos resultados.
 
-Este menu de vendas estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [clique aqui](/erp-v2/primeiro_acesso/favoritos.md)).
+Este menu de vendas estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [**`clique aqui`**](/erp-v2/primeiro_acesso/favoritos.md)).
 
 {% hint style=“danger” %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -75,20 +75,20 @@ Aqui, o único item obrigatório para preenchimento é o tipo de negociação, p
 
 Para o preenchimento do primeiro campo, você precisará ter cadastrados os tipos de movimentação que utilizará. Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
 
-Lembrando que a origem (PDV, venda online, venda online unidade, venda online indicador, fechamento) do tipo de movimento podem interferir no momento de adicionar itens a depender da definição criada.
+Lembrando que a origem (PDV, venda online, venda online unidade, venda online indicador, fechamento) do tipo de movimento pode interferir no momento de adicionar itens a depender da definição criada.
 
 Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções disponíveis aparecem para você, mas se preferir, pode digitar o nome da movimentação que a nossa plataforma começará a fazer a busca para você.
 
-O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparece mse você cadastrá-las na aba **tipo de negociação**.
+O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na aba **tipo de negociação**.
 
 {% hint style=“Info” %}
-**Tipo de negociação:** Caso queira informações sobre como cadastrar os tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
+**Tipo de negociação:** Caso queira informações sobre como cadastrar o tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
 {% endhint %}
 
-Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que está configurada para origem do tipo PDV, e escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado a aba **listar contas**, somente como exemplo:
+Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que está configurada para origem do tipo PDV, e escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado à aba **listar contas**, somente como exemplo:
 
 {% hint style=“Info” %}
-**Listar contas:** Caso queira informações sobre como cadastrar os tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
+**Listar contas:** Caso queira informações sobre como cadastrar as contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_1_e_2.gif)
@@ -99,7 +99,7 @@ Agora, nos campos de cliente/parceiro e Parceiro indicador, nós temos alguns bo
 
 Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a aba deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
 
-Para o campo de parceiro indicador as funções trabalham da mesma maneira. Veja o exemplo que fizemos abaixo:
+Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Veja o exemplo que fizemos abaixo:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_3_e_4.gif)
 
@@ -127,7 +127,7 @@ Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaix
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item.png)
 
-Quando clicamos neste botão, é mostrado as opções para inserirmos um produto. São duas opções, o campo **produto/serviço** e **quantidade**. O campo de produtos tem busca automatica assim que clicado, mas você pode digitar o nome do produto/serviço para buscar caso queira:
+Quando clicamos neste botão, são mostradas as opções para inserirmos um produto. São duas opções, o campo **produto/serviço** e **quantidade**. O campo de produtos tem busca automática assim que clicado, mas você pode digitar o nome do produto/serviço para buscar caso queira:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item_campos.gif)
 
@@ -143,27 +143,27 @@ Montamos um infográfico para exemplificar melhor como funciona o vínculo de ca
 
 <br>
 
-Essa parte é importante para você observar, pois o produto já veio com o preço que estava determinado na tabela de preço. E assim você pode adicionar todos os demais produtos/serviços que precisa. 
+Essa parte é importante para você observar, pois o produto já veio com o preço determinado na tabela de preço. E assim você pode adicionar os demais produtos/serviços de que precisa.
 
-Se deseja adicionar um desconto nesse produto/serviço, selecione o desconto em percentual ou em valor.  Então esse valor ser aplicado ao produto/serviço:
+Se deseja adicionar um desconto nesse produto/serviço, selecione o desconto em percentual ou em valor. Então, esse valor será aplicado ao produto/serviço:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item_campos_desconto.png)
 
 ### Solicitando desconto
 
-Caso o desconto adicionado pelo vendedor seja maior que o seu **perfil de desconto**, uma nova entrada será criada na guia liberações, após a tentativa de confirmação da venda e um aviso de que a venda não pode ser confirmada.
+Caso o desconto adicionado pelo vendedor seja maior que o seu **perfil de desconto**, uma nova entrada será criada na guia de liberações, após a tentativa de confirmação da venda e um aviso de que a venda não pode ser confirmada.
 
-Apartir de agora, um gestor deve liberar a solicitação de desconto para que a venda seja confirmada.
+A partir de agora, um gestor deve liberar a solicitação de desconto para que a venda seja confirmada.
 
 {% hint style="danger" %}
-**Cuidado**: Os valores de uma venda, assim como o seu desconto não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
+**Cuidado**: Os valores de uma venda, assim como o seu desconto, não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
 {% endhint %}
 
 ## Guia de financeiro
 
 Após gerar o boleto ou o link de pagamento, uma nova guia surgirá. Esta é a de **financeiro**, com ela você pode acompanhar a movimentação do pagamento desta venda. 
 
-Observe que ela traz informações como, a forma de pagamento escolhida, o tipo se é receita ou despesa, o valor de desdobramento, valor da baixa e outros.
+Observe que ela traz informações como a forma de pagamento escolhida, o tipo, se é receita ou despesa, o valor de desdobramento, valor da baixa e outros.
 
 ### Vencimento de boleto
 
@@ -173,7 +173,7 @@ No caso de vencimento de um boleto, você pode emitir um novo editando o boleto 
 
 Lembrando que essa opção só está disponível caso não tenha ocorrido uma baixa no financeiro. 😉👍
 
-Após aberto para edição, você precisa somente alterar a data de vencimento do boleto, para uma data válida mais a frente, e depois clicar no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line">salvar, e depois clicar no botão gerar boleto no menu superior:
+Após aberto para edição, você precisa somente alterar a data de vencimento do boleto, para uma data válida mais adiante, e depois clicar no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line">salvar, e depois clicar no botão gerar boleto no menu superior:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_boleto.gif)
 
@@ -185,7 +185,7 @@ Nesta guia é mostrado o relatório completo de quem autorizou alguma venda que 
 
 ## Guia anexos
 
-Esta guia pode anexar documentos como Boleto, NF-e, NFS-e, NFC-e, e outros. Você pode preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
+Esta guia pode anexar documentos como boleto, NF-e, NFS-e, NFC-e, e outros. Você pode preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos.png)
 
@@ -203,25 +203,25 @@ Abaixo está uma venda de exemplo com históricos registrados:
 
 ## Confirmando venda
 
-Se você observou o menu superior da venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda. As informações mostradas neste menu vão depender diretamentamente das configurações do tipo de movimentação que você configurou.
+Se você observou, o menu superior da venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda. As informações mostradas neste menu vão depender diretamente das configurações do tipo de movimentação que você configurou.
 
 {% hint style=“warning” %}
 **Informativo:** Para mais informações sobre configuração do tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md). 😉👍
 {% endhint %}
 
-Lembrando que esta venda está em atendimento e agora vai para o status liberado, pois acabamos de inserir o item que será vendido e vamos confirmar a venda:
+Lembrando que esta venda está em atendimento e agora vai para o status liberado, pois acabamos de inserir o item que será vendido e confirmaremos a venda:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo.gif)
 
-## Menu venda após confirmação
+## Menu Venda após confirmação
 
 Após você adicionar os itens para venda e confirmar, o status desta venda muda conforme mostrado acima, e o menu superior dela também, trazendo novas funções.
 
 ### Botão adicionar voucher
 
-Ao clicar no botão adicionar voucher uma janela vai ser abrir e vocÊ poderá adicionar o código.
+Ao clicar no botão adicionar voucher, uma janela será aberta e você poderá adicionar o código.
 
-Esta opção é paara auxiliar clientes que utilizam um sistema de voucher diferente do presente em nossa plataforma.
+Esta opção é para auxiliar clientes que utilizam um sistema de voucher diferente do presente em nossa plataforma.
 
 <!-- REVISAR ESTA INFORMAÇÃO, FICOU MUITO FRACA -->
 
@@ -229,13 +229,13 @@ Esta opção é paara auxiliar clientes que utilizam um sistema de voucher difer
 
 ### Botão gerar boleto
 
-Dos novos botões que aparecem nesse menu superior, nós temos o de **gerar boleto**, ao clicar nele o boleto será gerado e ficará disponível para download na guia **anexos** e você pode encaminhar para o cliente efetuar o pagamento:
+Dos novos botões que aparecem nesse menu superior, nós temos o de **gerar boleto**, ao clicar nele, o boleto será gerado e ficará disponível para download na guia **anexos** e você pode encaminhar para o cliente efetuar o pagamento:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_boleto.png)
 
 ### Botão gerar link
 
-Logo ao lado desse botão temos o de **gerar link**, ao clicar nele uma nova janela vai ser abrir e criará um link de pagamento personalizado com a marca da sua empresa, para que possa encaminhar ao cliente para que ele efetue o pagamento. 
+Logo ao lado desse botão temos o de **gerar link**, ao clicar nele, uma nova janela será aberta e criará um link de pagamento personalizado com a marca da sua empresa, para poder encaminhar ao cliente para que ele efetue o pagamento.
 
 Observe o nosso exemplo abaixo, na parte final estão dados fictícios:
 
@@ -243,27 +243,27 @@ Observe o nosso exemplo abaixo, na parte final estão dados fictícios:
 
 ### Botão gerar NF
 
-O botão de gerar NF só ficará disponível caso o **tipo de movimentação** escolhido tenha ativo a opção **gera fiscal**. Neste caso com esta opção ativa, quando você confirmar uma venda, este botão ficará disponível.
+O botão de gerar NF só ficará disponível caso o **tipo de movimentação** escolhido tenha ativo a opção **gera fiscal**. Neste caso, com esta opção ativa, quando você confirmar uma venda, este botão ficará disponível.
 
-Clicando nele será feito o download da nota fiscal e ela ficará disponível na guia de **anexos** para você poder baixar.
+Clicando nele, será feito o download da nota fiscal e ela ficará disponível na guia de **anexos** para você poder baixar.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_gerar_nf.png)
 
 ### Botão cancelar uma venda
 
-Ainda no novos botões disponíveis, temos no ícone <img src="/erp-v2/assets/icon_cancelar.png" alt="" data-size="line"> cancelar uma venda. 
+Ainda nos novos botões disponíveis, temos no ícone <img src="/erp-v2/assets/icon_cancelar.png" alt="" data-size="line"> cancelar uma venda. 
 
 Antes de clicar neste botão, tenha certeza de que não existem movimentações fiscais ou baixas no financeiro dessa venda, e caso exista, efetue o estorno.
 
-Para cancelar uma venda, é necessário que escreva um motivo para que fique no registro dela, essa função serve para mantermos a integridade da nossa plataforma:
+Para cancelar uma venda, é necessário escrever um motivo para ficar no registro dela, essa função permite mantermos a integridade da nossa plataforma:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_cancelar.png)
 
 ### Botão notificar cliente
 
-Por último no ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-size="line"> enviar uma notificação, ele te perguntará se tem certeza de enviar as notificações ao cliente sobre o resumo da movimentação, e após confirmação, fará o envio.
+Por último, no ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-size="line"> enviar uma notificação, ele te perguntará se tem certeza de enviar as notificações ao cliente sobre o resumo da movimentação, e após confirmação, fará o envio.
 
-Lembrando que os dados do cliente devem estar preenchidos para que o envio seja realizado para ele pelos meios digitais (E-mail, WhatsApp, Telegram). 
+Lembrando que os dados do cliente devem estar preenchidos para o envio ser realizado para ele pelos meios digitais (E-mail, WhatsApp, Telegram).
 
 {% hint style=“warning” %}
 **Cadastro cliente:** Para mais informações sobre configuração do tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parceiros/clientes.md). 😉👍
@@ -272,20 +272,20 @@ Lembrando que os dados do cliente devem estar preenchidos para que o envio seja 
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_cancelar.png)
 
-## Status da Venda
+## Status da venda
 
 Através da aba de **vendas**, podemos acompanhar os status de cada item na coluna **status**. Para saber se está ou não em atendimento, situação da nota fiscal, se houve baixa ou não, e até mesmo se os itens vendidos foram entregues.
 
-Como podemos ver, a venda que criamos como exemplo, foi confirmada, ainda não houve baixa financeira, geração de nota fiscal e os itens vendidos ainda não foram entregues:
+Como podemos ver, a venda que criamos como exemplo foi confirmada, ainda não houve baixa financeira, geração de nota fiscal e os itens vendidos ainda não foram entregues:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_filtro_status.png)
 
 Além do status de venda confirmada, temos outros:
 
-|                                                                                   |                                                                  |
-|-----------------------------------------------------------------------------------|------------------------------------------------------------------|
-| ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_baixado.png)       |Venda com financeiro baixado                                      |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_parcial.png)        |Parcialmente baixado (Apenas uma ou algumas parcelas foram pagas) |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_autorizado.png)     |Financeiro baixado, nota fiscal autorizada e itens entregues.     |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)   |Nota fiscal rejeitada                                             |
+|                                                                                   |                                                                   |
+|-----------------------------------------------------------------------------------|-------------------------------------------------------------------|
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_baixado.png)        |Venda com o financeiro baixado.                                    |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_parcial.png)        |Parcialmente baixado (Apenas uma ou algumas parcelas foram pagas). |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_autorizado.png)     |Financeiro baixado, nota fiscal autorizada e itens entregues.      |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)   |Nota fiscal rejeitada.                                             |
 
