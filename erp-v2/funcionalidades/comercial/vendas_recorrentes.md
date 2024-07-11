@@ -131,6 +131,11 @@ Observe nosso exemplo abaixo com uma venda recorrente de um ano de duração par
 
 Chegando então no último campo de **Recorrência periodicidade**, podendo escolher uma das opções disponíveis. Para nosso exemplo utilizaremos a opção de recorrência mensal:
 
-aba_vendas_recorrentes_add_campo_12
-
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_12.png)
+
+
+## Salvando rascunho de uma nova venda recorrente
+
+Após o preenchimento destas informações, você pode salvar o rascunho para adicionar os itens da venda recorrente. Após salvar o rascunho, essa venda recorrente entra no status de atendimento automaticamente. Observe no nosso exemplo abaixo:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_venda.gif)
