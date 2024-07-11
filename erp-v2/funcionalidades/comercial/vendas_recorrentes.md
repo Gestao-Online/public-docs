@@ -24,7 +24,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
-- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Empresa.
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar venda recorrente.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_menu.png)
 
@@ -37,4 +37,37 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 {% hint style=“Info” %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
+
+## Adicionar nova venda recorrente
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar uma nova venda, confira abaixo o procedimento para fazer a adição corretamente:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add.png)
+
+<br>
+
+Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar rascunho;
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+Vale lembrar que esse menu mudará trazendo novas opções, mas somente quando você salvar uma venda, tudo depende do tipo de movimentação que será utilizada. 😉👍
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_menu.png)
+
+<br>
+
+No momento do cadastro de uma nova venda, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho.
+
+Aqui, o único item obrigatório para preenchimento é o tipo de negociação, pois a venda recorrente pode ser preenchida depois, salvando como rascunho. 😁
+
+{% hint style=“info” %}
+**Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada empresa. 😉👍
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_venda.png)
+
+<br>
 
