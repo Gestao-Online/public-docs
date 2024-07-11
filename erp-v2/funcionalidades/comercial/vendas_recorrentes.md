@@ -71,7 +71,7 @@ Aqui, o único item obrigatório para preenchimento é o tipo de negociação, p
 
 <br>
 
-Para o preenchimento do primeiro e segundo campo, você precisará ter cadastrado os tipos de movimentação que utilizará. 
+Para o preenchimento do primeiro e segundo campo, você precisará ter cadastrado os tipos de movimentação que utilizará.
 
 Lembrando que a origem (PDV, venda online, venda online unidade, venda online indicador, fechamento) do tipo de movimento pode interferir no momento de adicionar itens a depender da definição criada.
 
@@ -80,13 +80,12 @@ Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções dis
 Por mais que uma venda recorrente tenha suas configurações, ela precisa estar vinculada a uma movimentação destino, no caso as de tipo venda.
 
 {% hint style=“info” %}
-**Informativo:** Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia, [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+**Tipos de movimentação:** Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia, [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
 {% endhint %}
 
-Observe abaixo, iremos utilizara a movimentação **Venda recorrente - Exemplo (Online)** e o tipo de movimentação destino será **Venda - E-commerce** que ja possui as configurações para vendas do tipo online:
+Observe abaixo, iremos utilizar a movimentação **Venda recorrente - Exemplo (Online)** e o tipo de movimentação destino será **Venda - E-commerce** que ja possui as configurações para vendas do tipo online:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_1_e_2.gif)
-
 
 O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na aba **tipo de negociação**.
 
@@ -100,3 +99,14 @@ Veja esse exemplo abaixo,  escolheremos o tipo de negociação **Boleto - GOPag*
 **Listar contas:** Caso queira informações sobre como cadastrar as contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
 {% endhint %}
 
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_3.png)
+
+Agora, nos campos de cliente/parceiro e Parceiro indicador, nós temos alguns botões extras com funções para facilitar seu dia a dia com o nosso sistema. Quando você clica no campo para buscar um cliente e este ainda não possui um cadastro, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para que você possa cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
+
+Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a aba deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
+
+Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Veja o exemplo que fizemos abaixo:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_4_e_5.gif)
+
+<br>
