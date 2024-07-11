@@ -79,9 +79,17 @@ Lembrando que a origem (PDV, venda online, venda online unidade, venda online in
 
 Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções disponíveis aparecem para você, mas se preferir, pode digitar o nome da movimentação que a nossa plataforma começará a fazer a busca para você.
 
-O mesmo aconteceu com o preenchimento do tipo de negociação, os exemplos já estão pré-cadastrados no nosso sistema para você utilizar.
+O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparece mse você cadastrá-las na aba **tipo de negociação**.
 
-Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que está configurada para origem do tipo PDV, e escolheremos o tipo de negociação **Boleto - GOPag** somente como exemplo:
+{% hint style=“Info” %}
+**Tipo de negociação:** Caso queira informações sobre como cadastrar os tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
+{% endhint %}
+
+Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que está configurada para origem do tipo PDV, e escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado a aba **listar contas**, somente como exemplo:
+
+{% hint style=“Info” %}
+**Listar contas:** Caso queira informações sobre como cadastrar os tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
+{% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_1_e_2.gif)
 
@@ -111,7 +119,7 @@ Após o preenchimento destas informações, você pode salvar o rascunho para ad
 
 ## Guia de itens
 
-Observe que agora novas guias apareceram para você, a primeira é de itens, e pouco abaixo dela tem um novo menu de opções. Clicamos no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar item para adicionarmos um produto para a venda:
+Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaixo dela tem um novo menu de opções. Clicamos no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar item para colocarmos um produto para a venda:
 
 {% hint style=“info” %}
 **Informativo:** Para adicionar um produto/serviço para venda, é necessário cadastrar ele primeiro na aba de produtos/serviços, para mais informações [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
@@ -125,8 +133,6 @@ Quando clicamos neste botão, é mostrado as opções para inserirmos um produto
 
 **Pronto, o produto/serviço foi carregado com sucesso para ser adicionado!**
 
-Essa parte é importante para você observar, pois o produto já veio com o preço que estava determinado na tabela de preço. E assim você pode adicionar todos os demais produtos/serviços que precisa. 
-
 Montamos um infográfico para exemplificar melhor como funciona o vínculo de cada aba para realizar uma venda dentro do nosso sistema:
 
 {% hint style="info" %}
@@ -134,6 +140,24 @@ Montamos um infográfico para exemplificar melhor como funciona o vínculo de ca
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/infografico-passos-venda.png)
+
+<br>
+
+Essa parte é importante para você observar, pois o produto já veio com o preço que estava determinado na tabela de preço. E assim você pode adicionar todos os demais produtos/serviços que precisa. 
+
+Se deseja adicionar um desconto nesse produto/serviço, selecione o desconto em percentual ou em valor.  Então esse valor ser aplicado ao produto/serviço:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item_campos_desconto.png)
+
+### Solicitando desconto
+
+Caso o desconto adicionado pelo vendedor seja maior que o seu **perfil de desconto**, uma nova entrada será criada na guia liberações, após a tentativa de confirmação da venda e um aviso de que a venda não pode ser confirmada.
+
+Apartir de agora, um gestor deve liberar a solicitação de desconto para que a venda seja confirmada.
+
+{% hint style="danger" %}
+**Cuidado**: Os valores de uma venda, assim como o seu desconto não podem ser alterados após a sua liberação/confirmação. Estes dados podem ser modificados enquanto a venda for um rascunho.
+{% endhint %}
 
 ## Guia de liberação
 
@@ -159,7 +183,6 @@ Abaixo está uma venda de exemplo com históricos registrados:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_historico.png)
 
-
 ## Confirmando venda
 
 Se você observou o menu superior da venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda. As informações mostradas neste menu vão depender diretamentamente das configurações do tipo de movimentação que você configurou.
@@ -172,7 +195,6 @@ Lembrando que esta venda está em atendimento e agora vai para o status liberado
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo.gif)
 
-
 ## Menu venda após confirmação
 
 Após você adicionar os itens para venda e confirmar, o status desta venda muda conforme mostrado acima, e o menu superior dela também, trazendo novas funções.
@@ -182,3 +204,21 @@ Podendo clicar no ícone <img src="/erp-v2/assets/icon_cancelar.png" alt="" data
 Para cancelar uma venda, é necessário que escreva um motivo para que fique no registro da venda, essa função serve para mantermos a integridade da nossa plataforma:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_cancelar.png)
+
+### Status da Venda
+
+Através da aba de **vendas**, podemos acompanhar os status de cada item na coluna **status**. Para saber se está ou não em atendimento, situação da nota fiscal, se houve baixa ou não, e até mesmo se os itens vendidos foram entregues.
+
+Como podemos ver, a venda que criamos como exemplo, foi confirmada, ainda não houve baixa financeira, geração de nota fiscal e os itens vendidos ainda não foram entregues:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_filtro_status.png)
+
+Além do status de venda confirmada, temos outros:
+
+| | |
+|-|-|
+| ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_baixado.png) |Venda com financeiro baixado |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_parcial.png)  |Parcialmente baixado (Apenas uma ou algumas parcelas foram pagas) |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_autorizado.png)  |Financeiro baixado, nota fiscal autorizada e itens entregues. |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)   |Nota fiscal rejeitada |
+
