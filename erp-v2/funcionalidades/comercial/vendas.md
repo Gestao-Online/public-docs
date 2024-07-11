@@ -55,7 +55,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-Vale lembrar que esse menu mudará trazendo novas opções, mas somente quando você salvar uma venda, tudo depende do tipo de venda que será criada. 😉👍
+Vale lembrar que esse menu mudará trazendo novas opções, mas somente quando você salvar uma venda, tudo depende do tipo de movimentação que será utilizada. 😉👍
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu.png)
 
