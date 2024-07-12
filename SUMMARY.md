@@ -77,7 +77,8 @@
   
   * [👩‍💻 Criar e/ou Recuperar acesso](erp-v2/criar_recuperar_acesso/README.md)
     * [✅ Email de confirmação de cadastro de usuário](erp-v2/criar_recuperar_acesso/email_cad_usuario_novo.md)
-    * [🔐 Recuperar acesso e ativar conta](erp-v2/criar_recuperar_acesso/recuperar_acesso.md)
+    * [🔐 Recuperar aces
+    so e ativar conta](erp-v2/criar_recuperar_acesso/recuperar_acesso.md)
   
   * [🥇 Como utilizar](erp-v2/primeiro_acesso/README.md)
     * [🧑‍🏫 Apresentação da barra de navegação (abas, botões)](erp-v2/primeiro_acesso/apresentacao_barra_navegacao.md)
