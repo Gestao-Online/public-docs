@@ -140,3 +140,34 @@ Após o preenchimento destas informações, você pode salvar o rascunho para ad
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_venda.gif)
 
+## Guia de itens
+
+Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaixo dela tem um novo menu de opções. Clicamos no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar item para colocarmos um produto para a venda recorrente:
+
+{% hint style=“info” %}
+**Informativo:** Para adicionar um produto/serviço para venda, é necessário cadastrar ele primeiro na aba de produtos/serviços, para mais informações [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_item.png)
+
+Quando clicamos neste botão, são mostradas as opções para inserirmos um produto. São duas opções, o campo **produto/serviço** e **quantidade**. O campo de produtos tem busca automática assim que clicado, mas você pode digitar o nome do produto/serviço para buscar caso queira:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_item_campos.gif)
+
+**Pronto, o produto/serviço foi carregado com sucesso para ser adicionado!**
+
+Essa parte é importante para você observar, pois o produto já veio com o preço determinado na tabela de preço. E assim você pode adicionar os demais produtos/serviços de que precisa. Agora se você selecionou o produto e o preço não vier, quando for salvar uma mensagem de erro pode aparecer. Pois é necessário o vículo do produto com uma tabela de preço vinculada a unidade para a venda acontecer.
+
+Se deseja adicionar um desconto nesse produto/serviço, selecione o desconto em percentual ou em valor. Então, esse valor será aplicado ao produto/serviço se estiver disponível para aplicação:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_item_campos_desconto.png)
+
+### Solicitando desconto
+
+Caso o desconto adicionado pelo vendedor seja maior que o autorizado no seu **perfil de desconto**, uma nova entrada será criada na guia **liberação**, logo após a tentativa de confirmação da venda. Em seguida, um aviso de que a venda não pode ser confirmada será mostrado.
+
+A partir de agora, um gestor deve liberar a solicitação de desconto para que a venda seja confirmada.
+
+{% hint style="danger" %}
+**Cuidado**: Os valores de uma venda, assim como o seu desconto, não podem ser alterados após a sua liberação/confirmação. Estes dados só podem ser modificados enquanto a venda for um rascunho.
+{% endhint %}
