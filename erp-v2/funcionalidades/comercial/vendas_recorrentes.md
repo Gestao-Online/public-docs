@@ -93,7 +93,7 @@ O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe
 **Tipo de negociação:** Caso queira informações sobre como cadastrar o tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
 {% endhint %}
 
-Veja esse exemplo abaixo,  escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado à aba **listar contas**, somente como exemplo:
+Veja esse exemplo abaixo,  escolheremos o tipo de negociação **Cartão de crédito 1x**, que está configurado no tipo de negociação e vinculado à conta bancária na aba **listar contas**, somente como exemplo:
 
 {% hint style=“Info” %}
 **Listar contas:** Caso queira informações sobre como cadastrar as contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
@@ -156,7 +156,7 @@ Quando clicamos neste botão, são mostradas as opções para inserirmos um prod
 
 **Pronto, o produto/serviço foi carregado com sucesso para ser adicionado!**
 
-Essa parte é importante para você observar, pois o produto já veio com o preço determinado na tabela de preço. E assim você pode adicionar os demais produtos/serviços de que precisa. Agora se você selecionou o produto e o preço não vier, quando for salvar uma mensagem de erro pode aparecer. Pois é necessário o vículo do produto com uma tabela de preço vinculada a unidade para a venda acontecer.
+Essa parte é importante para você observar, pois o produto já veio com o preço determinado na tabela de preço. E assim você pode adicionar os demais produtos/serviços de que precisa. Agora se você selecionou o produto e o preço não vier, quando for salvar, uma mensagem de erro pode aparecer. Pois é necessário o vículo do produto com uma tabela de preço vinculada a unidade para a venda acontecer.
 
 Se deseja adicionar um desconto nesse produto/serviço, selecione o desconto em percentual ou em valor. Então, esse valor será aplicado ao produto/serviço se estiver disponível para aplicação:
 
@@ -171,3 +171,51 @@ A partir de agora, um gestor deve liberar a solicitação de desconto para que a
 {% hint style="danger" %}
 **Cuidado**: Os valores de uma venda, assim como o seu desconto, não podem ser alterados após a sua liberação/confirmação. Estes dados só podem ser modificados enquanto a venda for um rascunho.
 {% endhint %}
+
+## Guia de liberação
+
+Nesta guia é mostrado o relatório completo de quem autorizou alguma venda que ficou pendente de liberação. Uma venda pode ficar pendente de liberação caso tenha valores incorretos, descontos fora dos limites ou abaixo do padrão que já foi determinado nas tabelas de preços.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_guia_liberacao.png)
+
+## Guia anexos
+
+Esta guia pode anexar documentos como boleto, NF-e, NFS-e, NFC-e, e outros. Você pode preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_guia_anexos.png)
+
+Os boletos aparecem automaticamente na guia de anexos após clicar no botão de gerar boleto, por ser uma configuração do nosso sistema. O mesmo acontece com as notas fiscais, o download é feito, desde que elas estejam previamente configuradas com as informações no cadastro da empresa. Observe um exemplo abaixo:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos_itens.png)
+
+## Guia histórico
+
+Nesta guia ficam registrados os casos adversos que acontecem com a venda, exemplo disso seria a utilização de um voucher, cupom de desconto, cancelamento de uma venda, liberação de entrega manual, ou até mesmo o bloqueio da venda.
+
+Abaixo está uma venda de exemplo com históricos registrados:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_historico.png)
+
+## Guia movimentações
+
+Aqui estão presentes todas as movimentações da venda recorrente, em nosso exemplo fizemos uma venda de duraçã ode um ano, então serão doze movimentações ao todo que irão aparecer no decorrer do tempo nesta guia, com a liberação e pagamento (Caso cliente faça), ou atrasos no pagamento:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_guia_movimentacoes.png)
+
+## Guia cartões
+
+Nesta guia ficam registrados os cartões de crédito utilizados para pagamento da venda recorrente. Para possíveis verificações caso existam problemas no pagamento.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrente_add_guia_cartoes.png)
+
+## Menu Venda recorrente após confirmação
+
+Após você adicionar os itens para venda e confirmar, o status desta venda muda de atendimento para liberado, e o menu superior dela também, trazendo novas funções.
+
+### Botão gerar link
+
+Temos o botão de **gerar link**, ao clicar nele, uma nova janela será aberta e criará um link de pagamento personalizado com a marca da sua empresa e foto do produto/serviço (Se foi colocada no cadastro do produto), para poder encaminhar ao cliente para que ele efetue o pagamento.
+
+Observe o nosso exemplo abaixo, na parte final estão dados fictícios:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_menu_novo_btn_gerar_link.gif)
