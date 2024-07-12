@@ -219,3 +219,50 @@ Temos o botão de **gerar link**, ao clicar nele, uma nova janela será aberta e
 Observe o nosso exemplo abaixo, na parte final estão dados fictícios:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_menu_novo_btn_gerar_link.gif)
+
+
+### Botão cancelar uma venda recorrente
+
+Ainda nos novos botões disponíveis, temos no ícone <img src="/erp-v2/assets/icon_cancelar.png" alt="" data-size="line"> cancelar uma venda recorrente. 
+
+Antes de clicar neste botão, tenha certeza de que não existem movimentações fiscais ou baixas no financeiro dessa venda, e caso exista, efetue o estorno.
+
+Para cancelar uma venda recorrente, é necessário escrever um motivo para ficar no registro dela, essa função permite mantermos a integridade da nossa plataforma:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_cancelar.png)
+
+### Botão notificar cliente
+
+No ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-size="line"> enviar uma notificação, ele te perguntará se tem certeza de enviar as notificações ao cliente sobre o resumo da movimentação, e após confirmação, fará o envio.
+
+Lembrando que os dados do cliente devem estar preenchidos para o envio ser realizado para ele pelos meios digitais (E-mail, WhatsApp, Telegram).
+
+{% hint style=“warning” %}
+**Cadastro cliente:** Para mais informações sobre configuração do tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parceiros/clientes.md). 😉👍
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_notificars.png)
+
+## Botão alterar data de vencimento
+
+Por último no ícone <img src="/erp-v2/assets/icon_calendario.png" alt="" data-size="line"> alterar data da próxima fatura de recorrência. Você pode modificar uma data que ainda vai vencer na venda de recorrência. 
+
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_menu_novo_calendario.png)
+
+## Status da venda recorrente
+
+Através da aba de **vendas**, podemos acompanhar os status de cada item na coluna **status**. Para saber se está ou não em atendimento, situação da nota fiscal, se houve baixa ou não, e até mesmo se os itens vendidos foram entregues.
+
+Como podemos ver, a venda que criamos como exemplo foi confirmada, ainda não houve baixa financeira, geração de nota fiscal e os itens vendidos ainda não foram entregues:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_filtro_status.png)
+
+Além do status de venda confirmada, temos outros:
+
+|                                                                                   |                                                                   |
+|-----------------------------------------------------------------------------------|-------------------------------------------------------------------|
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_baixado.png)        |Venda com o financeiro baixado.                                    |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_parcial.png)        |Parcialmente baixado (Apenas uma ou algumas parcelas foram pagas). |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_autorizado.png)     |Financeiro baixado, nota fiscal autorizada e itens entregues.      |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)   |Nota fiscal rejeitada.                                             |
