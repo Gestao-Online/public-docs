@@ -6,15 +6,13 @@ Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de pre�
 
 Este menu de vendas estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [**`clique aqui`**](/erp-v2/primeiro_acesso/favoritos.md)).
 
-{% hint style=“danger” %}
+{% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-{% hint style=“warning” %}
+{% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
-
-<br>
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas.gif)
 
@@ -32,11 +30,11 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 <br>
 
-{% hint style=“warning” %}
+{% hint style="warning" %}
 **Exportar:** Caso queira mais informações sobre como utilizar o botão <img src="/erp-v2/assets/icon_exportar.png" alt="" data-size="line"> exportar movimentações [**`clique aqui`**](/erp-v2/primeiro_acesso/exportar.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-{% hint style=“Info” %}
+{% hint style="info" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
@@ -65,7 +63,7 @@ No momento do cadastro de uma nova venda, você precisará preencher alguns camp
 
 Aqui, o único item obrigatório para preenchimento é o tipo de negociação, pois a venda pode ser preenchida depois, salvando como rascunho. 😁
 
-{% hint style=“info” %}
+{% hint style="info" %}
 **Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada empresa. 😉👍
 {% endhint %}
 
@@ -81,13 +79,13 @@ Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções dis
 
 O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na aba **tipo de negociação**.
 
-{% hint style=“Info” %}
+{% hint style="info" %}
 **Tipo de negociação:** Caso queira informações sobre como cadastrar o tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
 {% endhint %}
 
 Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que está configurada para origem do tipo PDV, e escolheremos o tipo de negociação **Boleto - GOPag**, ue está configurado no tipo de negociação e vinculado à conta bancária na aba **listar contas**, somente como exemplo:
 
-{% hint style=“Info” %}
+{% hint style="info" %}
 **Listar contas:** Caso queira informações sobre como cadastrar as contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
 {% endhint %}
 
@@ -121,7 +119,7 @@ Após o preenchimento destas informações, você pode salvar o rascunho para ad
 
 Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaixo dela tem um novo menu de opções. Clicamos no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar item para colocarmos um produto para a venda:
 
-{% hint style=“info” %}
+{% hint style="info" %}
 **Informativo:** Para adicionar um produto/serviço para venda, é necessário cadastrar ele primeiro na aba de produtos/serviços, para mais informações [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
 {% endhint %}
 
@@ -205,7 +203,7 @@ Abaixo está uma venda de exemplo com históricos registrados:
 
 Se você observou, o menu superior da venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda. As informações mostradas neste menu vão depender diretamente das configurações do tipo de movimentação que você configurou.
 
-{% hint style=“warning” %}
+{% hint style="warning" %}
 **Informativo:** Para mais informações sobre configuração do tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md). 😉👍
 {% endhint %}
 
@@ -265,7 +263,7 @@ Por último, no ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-
 
 Lembrando que os dados do cliente devem estar preenchidos para o envio ser realizado para ele pelos meios digitais (E-mail, WhatsApp, Telegram).
 
-{% hint style=“warning” %}
+{% hint style="warning" %}
 **Cadastro cliente:** Para mais informações sobre configuração do tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parceiros/clientes.md). 😉👍
 {% endhint %}
 
