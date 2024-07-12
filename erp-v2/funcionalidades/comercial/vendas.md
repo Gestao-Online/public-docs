@@ -1,10 +1,10 @@
 # 💲 Vendas
 
-A aba pedido de venda  tem a função de consolidar vários certificados digitais em um único código. 
+A aba pedido de venda tem a função de consolidar vários certificados digitais em um único código. 
 
-Essa organização é realizada por meio da guia de movimentações. Por exemplo, ao adquirir 5 certificados digitais e precisar fazer a videoconferência para a liberação de uso, em uma situação comum, o cliente teria que fazer cinco compras distintas para obter cinco códigos de acesso para os certificados. 
+Essa organização é realizada por meio da guia de movimentações. Por exemplo, ao adquirir 5 certificados digitais, em uma situação comum, o cliente teria que fazer cinco compras distintas para obter cinco códigos de acesso para os certificados. 
 
-Com o pedido de venda, o cliente pode comprar os 5 certificados digitais em uma única transação, e na guia de movimentações é gerado um subcódigo de movimentação para cada certificado, simplificando a compra, pois agora este mesmo cliente poderá usar esse único código 5 vezes.
+Com o pedido de venda, o comprador pode adquirir os cinco certificados digitais em uma única transação. Além disso, é criado um sub código de movimentação para cada certificado, simplificando a compra, já que o cliente poderá usar esse único código por cinco vezes nas videoconferências de validação de identidade.
 
 Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de preço, tabela de custo, tabela de comissão, unidade, empresa e parceiro indicador. São muitos vínculos, mas isso faz o sistema da Gestão.Online ser preciso nos resultados.
 
