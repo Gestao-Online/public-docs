@@ -247,7 +247,6 @@ Lembrando que os dados do cliente devem estar preenchidos para o envio ser reali
 
 Por último no ícone <img src="/erp-v2/assets/icon_calendario.png" alt="" data-size="line"> alterar data da próxima fatura de recorrência. Você pode modificar uma data que ainda vai vencer na venda de recorrência. 
 
-
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_menu_novo_calendario.png)
 
 ## Status da venda recorrente
