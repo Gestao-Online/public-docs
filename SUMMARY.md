@@ -102,7 +102,7 @@
     
     * [🛍️ Comercial](erp-v2/funcionalidades/comercial/README.md)
       * [💲 Vendas](erp-v2/funcionalidades/comercial/vendas.md)
-      * [🔄️ Vendas recorrentes](erp-v2/funcionalidades/comercial/vendas_recorrentes.md)
+      * [Vendas recorrentes](erp-v2/funcionalidades/comercial/vendas_recorrentes.md)
       * [📄 Pedido de venda](erp-v2/funcionalidades/comercial/pedido_venda.md)
       * [🫴 Liberação de desconto](erp-v2/funcionalidades/comercial/liberacao_desconto.md)
     
