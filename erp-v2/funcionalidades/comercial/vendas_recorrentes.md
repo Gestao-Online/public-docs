@@ -4,11 +4,11 @@ Venda recorrente é quando as empresas oferecem produtos e serviços constanteme
 
 Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de preço, tabela de custo, tabela de comissão, unidade, empresa e parceiro indicador. São muitos vínculos, mas isso faz o sistema da Gestão.Online ter precisão nos seus resultados.
 
-{% hint style=“danger” %}
+{% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-{% hint style=“warning” %}
+{% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
@@ -30,11 +30,11 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 <br>
 
-{% hint style=“warning” %}
+{% hint style="warning" %}
 **Exportar:** Caso queira mais informações sobre como utilizar o botão <img src="/erp-v2/assets/icon_exportar.png" alt="" data-size="line"> exportar movimentações [**`clique aqui`**](/erp-v2/primeiro_acesso/exportar.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-{% hint style=“Info” %}
+{% hint style="info" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
@@ -63,7 +63,7 @@ No momento do cadastro de uma nova venda recorrente, você precisará preencher 
 
 Aqui, o único item obrigatório para preenchimento é o tipo de negociação, pois a venda recorrente pode ser preenchida depois, salvando como rascunho. 😁
 
-{% hint style=“info” %}
+{% hint style="info" %}
 **Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada empresa. 😉👍
 {% endhint %}
 
@@ -79,23 +79,23 @@ Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções dis
 
 Por mais que uma venda recorrente tenha suas configurações, ela precisa estar vinculada a uma movimentação destino, no caso as de tipo venda.
 
-{% hint style=“info” %}
+{% hint style="info" %}
 **Tipos de movimentação:** Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia, [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
 {% endhint %}
 
-Observe abaixo, iremos utilizar a movimentação **Venda recorrente - Exemplo (Online)** e o tipo de movimentação destino será **Venda - E-commerce** que ja possui as configurações para vendas do tipo online:
+Observe abaixo, iremos utilizar a movimentação **Venda recorrente - Exemplo (Online)** e o tipo de movimentação destino será **Venda - E-commerce** que já possui as configurações para vendas do tipo online:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_1_e_2.gif)
 
 O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na aba **tipo de negociação**.
 
-{% hint style=“Info” %}
+{% hint style="Info" %}
 **Tipo de negociação:** Caso queira informações sobre como cadastrar o tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
 {% endhint %}
 
 Veja esse exemplo abaixo,  escolheremos o tipo de negociação **Cartão de crédito 1x**, que está configurado no tipo de negociação e vinculado à conta bancária na aba **listar contas**, somente como exemplo:
 
-{% hint style=“Info” %}
+{% hint style="Info" %}
 **Listar contas:** Caso queira informações sobre como cadastrar as contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
 {% endhint %}
 
@@ -119,7 +119,7 @@ Mais abaixo, o campo de **observação**, no qual é possível incluir um lembre
 
 Dando sequência ao preenchimento dos campos, temos o **Recorrência número contrato**, aqui você pode colocar o número do contrato (Caso exista) para ficar salvo com o registro da venda recorrente. Lembrando que este campo não é obrigatório o preenchimento.
 
-No exemplo, utilizamos um número de contrato ficticio, e este:
+No exemplo, utilizamos um número de contrato fictício, e este:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_9.png)
 
@@ -156,7 +156,7 @@ Quando clicamos neste botão, são mostradas as opções para inserirmos um prod
 
 **Pronto, o produto/serviço foi carregado com sucesso para ser adicionado!**
 
-Essa parte é importante para você observar, pois o produto já veio com o preço determinado na tabela de preço. E assim você pode adicionar os demais produtos/serviços de que precisa. Agora se você selecionou o produto e o preço não vier, quando for salvar, uma mensagem de erro pode aparecer. Pois é necessário o vículo do produto com uma tabela de preço vinculada a unidade para a venda acontecer.
+Essa parte é importante para você observar, pois o produto já veio com o preço determinado na tabela de preço. E assim você pode adicionar os demais produtos/serviços de que precisa. Agora, se você selecionou o produto e o preço não vier, quando for salvar, uma mensagem de erro pode aparecer. Pois é necessário o vínculo do produto com uma tabela de preço vinculada à unidade para a venda acontecer.
 
 Se deseja adicionar um desconto nesse produto/serviço, selecione o desconto em percentual ou em valor. Então, esse valor será aplicado ao produto/serviço se estiver disponível para aplicação:
 
@@ -198,7 +198,7 @@ Abaixo está uma venda de exemplo com históricos registrados:
 
 ## Guia movimentações
 
-Aqui estão presentes todas as movimentações da venda recorrente, em nosso exemplo fizemos uma venda de duraçã ode um ano, então serão doze movimentações ao todo que irão aparecer no decorrer do tempo nesta guia, com a liberação e pagamento (Caso cliente faça), ou atrasos no pagamento:
+Aqui estão presentes todas as movimentações da venda recorrente, em nosso exemplo fizemos uma venda de duração de um ano, então serão doze movimentações ao todo que irão aparecer no decorrer do tempo nesta guia, com a liberação e pagamento (Caso o cliente faça), ou atrasos no pagamento:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_guia_movimentacoes.png)
 
@@ -237,7 +237,7 @@ No ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-size="line"> 
 
 Lembrando que os dados do cliente devem estar preenchidos para o envio ser realizado para ele pelos meios digitais (E-mail, WhatsApp, Telegram).
 
-{% hint style=“warning” %}
+{% hint style="warning" %}
 **Cadastro cliente:** Para mais informações sobre configuração do tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parceiros/clientes.md). 😉👍
 {% endhint %}
 
@@ -245,7 +245,7 @@ Lembrando que os dados do cliente devem estar preenchidos para o envio ser reali
 
 ## Botão alterar data de vencimento
 
-Por último no ícone <img src="/erp-v2/assets/icon_calendario.png" alt="" data-size="line"> alterar data da próxima fatura de recorrência. Você pode modificar uma data que ainda vai vencer na venda de recorrência. 
+Por último, no ícone <img src="/erp-v2/assets/icon_calendario.png" alt="" data-size="line"> de alterar data da próxima fatura de recorrência. Você pode modificar uma data que ainda vai vencer na venda de recorrência. 
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_menu_novo_calendario.png)
 
