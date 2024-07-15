@@ -207,3 +207,10 @@ Clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_guia_anexos.png)
 
+## Guia histórico
+
+Nesta guia ficam registrados os casos adversos que acontecem com a venda, exemplo disso seria a utilização de um voucher, cancelamento de uma venda, liberação de entrega manual, ou até mesmo o bloqueio da venda.
+
+Abaixo está uma venda de exemplo com históricos registrados:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_historico.png)
