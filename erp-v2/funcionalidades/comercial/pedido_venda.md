@@ -214,3 +214,30 @@ Nesta guia ficam registrados os casos adversos que acontecem com a venda, exempl
 Abaixo está uma venda de exemplo com históricos registrados:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_historico.png)
+
+## Confirmando venda
+
+Se você observou, o menu superior do pedido de venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda. As informações mostradas neste menu vão depender diretamente das configurações do tipo de movimentação que você configurou.
+
+{% hint style="warning" %}
+**Informativo:** Para mais informações sobre configuração do tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md). 😉👍
+{% endhint %}
+
+Lembrando que este pedido de venda está em atendimento e agora vai para o status liberado, pois acabamos de inserir o item que será vendido e confirmaremos a venda:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_menu_novo.gif)
+
+## Menu Venda após confirmação
+
+Após você adicionar os itens para venda e confirmar, o status desta venda muda conforme mostrado, e o menu superior dela também, trazendo novas funções.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_novo_status_venda.png)
+.
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_novo_menu.png)
+
+### Botão gerar boleto
+
+Dos novos botões que aparecem nesse menu superior, nós temos o de **gerar boleto**, ao clicar nele, o boleto será gerado e ficará disponível para download na guia **anexos** e você pode encaminhar para o cliente efetuar o pagamento:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_menu_novo_btn_boleto.png)
+
