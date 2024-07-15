@@ -146,3 +146,9 @@ Em nosso exemplo, iremos adicionar um serviço, e colocaremos ele com quantidade
 {% endhint %}
 
 <br>
+
+Essa parte é importante para você observar, pois o serviço de exemplo que adicionamos, já veio com o preço determinado na **tabela de preço**. E assim você pode adicionar os demais produtos/serviços de que precisa.
+
+Se deseja adicionar um desconto nesse, selecione o desconto em percentual ou em valor. Então, esse valor será aplicado ao produto/serviço:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_item_campos_desconto.png)
