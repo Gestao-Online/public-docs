@@ -187,3 +187,13 @@ Após aberto para edição, você precisa somente alterar a data de vencimento d
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_guia_financeiro_edit_boleto.gif)
 
+## Guia de liberação
+
+Nesta guia é mostrado o relatório completo de quem autorizou alguma venda que ficou pendente de liberação. Uma venda pode ficar pendente de liberação caso tenha valores incorretos, descontos fora dos limites ou abaixo do padrão que já foi determinado nas tabelas de preços.
+
+{% hint style="warning" %}
+**Liberação de desconto:** Caso queira mais informações sobre como utilizar a liberação de desconto [**`clique aqui`**](/erp-v2/funcionalidades/comercial/liberacao_desconto.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_guia_liberacao.png)
+
