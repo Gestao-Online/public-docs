@@ -115,3 +115,9 @@ Se você tiver alguma dúvida sobre as unidades, é possível acessar nosso guia
 
 <br>
 
+## Salvando o rascunho de um novo pedido de venda
+
+Após o preenchimento destas informações, você pode salvar o rascunho para adicionar os itens do pedido de venda. Após salvar o rascunho, esse pedido de venda entra no status de atendimento automaticamente. Observe no nosso exemplo abaixo:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_venda.gif)
+
