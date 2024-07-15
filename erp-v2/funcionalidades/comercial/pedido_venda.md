@@ -165,3 +165,10 @@ A partir de agora, um gestor deve liberar a solicitação de desconto para que o
 **Cuidado**: Os valores de um pedido de venda, assim como o seu desconto, não podem ser alterados após a sua liberação/confirmação. Estes dados só podem ser modificados enquanto o pedido de venda for um rascunho.
 {% endhint %}
 
+## Guia de financeiro
+
+Após gerar o boleto ou o link de pagamento, uma nova guia surgirá. Esta é a de **financeiro**, com ela você pode acompanhar a movimentação do pagamento deste pedido de venda. 
+
+Observe que ela traz informações como a forma de pagamento escolhida, o tipo, se é receita ou despesa, o valor de desdobramento, valor da baixa e outros.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_guia_financeiro.png)
