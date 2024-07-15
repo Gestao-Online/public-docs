@@ -249,3 +249,13 @@ Observe o nosso exemplo abaixo, na parte final estão dados fictícios:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_menu_novo_btn_gerar_link.gif)
 
+### Botão gerar NF
+
+O botão de gerar NF só ficará disponível caso o **tipo de movimentação** escolhido tenha ativo a opção **gera fiscal**. Neste caso, com esta opção ativa, quando você confirmar um pedido de venda, este botão ficará disponível.
+
+Clicando nele, será feito o download da nota fiscal e ela ficará disponível na guia de **anexos** para você poder baixar.
+
+Abaixo um exemplo de menu com o botão **gerar NF** e a nota fiscal presente na guia **anexos**
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_gerar_nf.png)
+
