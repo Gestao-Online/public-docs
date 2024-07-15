@@ -121,3 +121,13 @@ Após o preenchimento destas informações, você pode salvar o rascunho para ad
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_venda.gif)
 
+## Guia de itens
+
+Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaixo dela tem um novo menu de opções. Clicamos no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar item para colocarmos um produto para a venda:
+
+{% hint style="info" %}
+**Informativo:** Para adicionar um produto/serviço no pedido de venda, é necessário cadastrar ele primeiro na aba de produtos/serviços, para mais informações [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_item.png)
+
