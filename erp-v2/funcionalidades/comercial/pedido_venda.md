@@ -107,3 +107,11 @@ Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Vej
 
 <br>
 
+Mais abaixo, o campo de **Observação**, no qual é possível incluir um lembrete ou informação adicional sobre a venda que está sendo criada, e o campo de **Unidade**, onde somente serão exibidos os itens se você já tiver cadastrado as unidades/lojas. Em nosso exemplo, usaremos a **unidade SEDE/MATRIZ** que já está configurada com uma [**`tabela de preços`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md) e com um [**`vendedor`**](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md) cadastrado.
+
+Se você tiver alguma dúvida sobre as unidades, é possível acessar nosso guia passo a passo [**`clicando aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_campo_5_e_6.gif)
+
+<br>
+
