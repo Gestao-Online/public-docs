@@ -4,7 +4,7 @@ Na aba liberação de desconto você encontrará todas as solicitações de desc
 
 Estas solicitações são provenientes de vendas, pedido de venda ou compras, que ultrapassem o limite determinado de desconto no [**`perfil de desconto`**](/erp-v2/funcionalidades/usuarios_vendedores/perfil_desconto.md) de um vendedor, seja ele em valor ou percentual.
 
-Esta aba está vinculada diretamente a aba de vendas, venda recorrente, pedido de venda, perfil de deconto (venda/compra). São muitos vínculos, mas isso faz o sistema da **Gestão Online** ser preciso nos resultados.
+Esta aba está vinculada diretamente à aba de vendas, venda recorrente, pedido de venda, perfil de desconto (venda/compra). São muitos vínculos, mas isso faz o sistema da **Gestão Online** ser preciso nos resultados.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -39,7 +39,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ## Editando uma liberação de desconto
 
-As liberação surgirão automaticamente nesta aba sempre que houver uma solicitação de desconto, cada uma delas tem um botão de editar e outro de excluir, em nosso exemplo, temos uma solicitação de liberação aguardando análise, vamos clicar no ícone <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line">editar item, para acessarmos mais informações:
+As liberações surgirão automaticamente nesta aba sempre que houver uma solicitação de desconto, cada uma delas tem um botão de editar e outro de excluir. Em nosso exemplo, temos uma solicitação de liberação aguardando análise. Vamos clicar no ícone <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line">editar item para acessarmos mais informações:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar.png)
 
@@ -57,9 +57,9 @@ Ao abrir para editar, no lado direito da tela, você pode ver um pequeno menu na
 
 <br>
 
-Os campos já vem a maioria preenchidos com as informações da venda. Os disponíveis para alteração são o de **Status** que você define entre, negado, liberado e aguardando análise. Também o campo de **Tipo liberação de desconto**, onde você vai escolher se será desconto em valor ou porcentagem, e pos último o campo de observação para maior controle interno deixar escrito o motivo do desconto ou de não ter o desconto.
+Os campos já vêm quase todos preenchidos com as informações da venda. Os disponíveis para alteração são o de **Status** que você define entre negado, liberado e aguardando análise. Também o campo de **Tipo de liberação de desconto**, onde você vai escolher se será desconto em valor ou porcentagem, e por último o campo de observação para maior controle interno, deixar escrito o motivo do desconto ou de não ter o desconto.
 
-Para salvar alguma alteração nesta solicitação de liberação de desconto, é necessáio pelo menos o preenchimento do campo **Tipo liberação de desconto** que está marcado com asterisco:
+Para salvar alguma alteração nesta solicitação de liberação de desconto, é necessário pelo menos o preenchimento do campo **Tipo liberação de desconto** que está marcado com asterisco:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar_campos.png)
 
