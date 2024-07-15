@@ -36,3 +36,24 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 {% hint style="info" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
+
+## Editando uma liberação de desconto
+
+As liberação surgirão automaticamente nesta aba sempre que houver uma solicitação de desconto, cada uma delas tem um botão de editar e outro de excluir, em nosso exemplo, temos uma solicitação de liberação aguardando análise, vamos clicar no ícone <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line">editar item, para acessarmos mais informações:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar.png)
+
+<br>
+
+Ao abrir para editar, no lado direito da tela, você pode ver um pequeno menu na cor cinza. Veja abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar rascunho;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar_menu.png)
+
+<br>
+
