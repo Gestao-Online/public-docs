@@ -217,7 +217,7 @@ Lembrando que esta venda está em atendimento e agora vai para o status liberado
 
 ## Menu Venda após confirmação
 
-Após você adicionar os itens para venda e confirmar, o status desta venda muda conforme mostrado acima, e o menu superior dela também, trazendo novas funções.
+Após você adicionar os itens para venda e confirmar, o status desta venda muda conforme mostrado, e o menu superior dela também, trazendo novas funções.
 
 ### Botão adicionar voucher
 
