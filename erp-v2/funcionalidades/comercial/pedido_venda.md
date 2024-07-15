@@ -241,3 +241,11 @@ Dos novos botões que aparecem nesse menu superior, nós temos o de **gerar bole
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_menu_novo_btn_boleto.png)
 
+### Botão gerar link
+
+Logo ao lado desse botão temos o de **gerar link**, ao clicar nele, uma nova janela será aberta e criará um link de pagamento personalizado com a marca da sua empresa, para poder encaminhar ao cliente para que ele efetue o pagamento.
+
+Observe o nosso exemplo abaixo, na parte final estão dados fictícios:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_menu_novo_btn_gerar_link.gif)
+
