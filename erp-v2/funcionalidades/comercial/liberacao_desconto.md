@@ -57,3 +57,23 @@ Ao abrir para editar, no lado direito da tela, você pode ver um pequeno menu na
 
 <br>
 
+Os campos já vem a maioria preenchidos com as informações da venda. Os disponíveis para alteração são o de **Status** que você define entre, negado, liberado e aguardando análise. Também o campo de **Tipo liberação de desconto**, onde você vai escolher se será desconto em valor ou porcentagem, e pos último o campo de observação para maior controle interno deixar escrito o motivo do desconto ou de não ter o desconto.
+
+Para salvar alguma alteração nesta solicitação de liberação de desconto, é necessáio pelo menos o preenchimento do campo Tipo liberação de desconto que está marcado com asterisco:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar_campos.png)
+
+### Tipo liberação de desconto
+
+Neste campo você pode selecionar entre valor ou percentual, logo em seguida ao lado irá surgir um novo campo para você inserir o valor/percentual de desconto que realmente será aplicado aquela venda.
+
+Importante lembrar que a opção escolhida deve estar relacionada ao perfil de desconto do vendedor. O valor pode ser maior ou menor que o solicitado, quem decide é você.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar_tipo_liberacao.png)
+
+No exemplo acima, está sendo solicitado um desconto de R$ 60,00 na venda, mas deixamos o **valor liberado de desconto** igual ao que está pre-definido no perfil de desconto deste vendedor, para manter o controle do financeiro da empresa.
+
+Observe abaixo o perfil de desconto (venda) deste vendedor, ele tem perfil para desconto de até R$ 50,00 no tipo valor, e no tipo percentual tem até 10% para utilizar:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar_tipo_liberacao_aba_vendedor.png)
+
