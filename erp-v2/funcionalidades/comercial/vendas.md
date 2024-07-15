@@ -187,13 +187,13 @@ Nesta guia é mostrado o relatório completo de quem autorizou alguma venda que 
 
 ## Guia anexos
 
-Esta guia pode anexar documentos como boleto, NF-e, NFS-e, NFC-e, e outros. Você pode preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
-
-![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos.png)
-
 Os boletos aparecem automaticamente na guia de anexos após clicar no botão de gerar boleto, por ser uma configuração do nosso sistema. O mesmo acontece com as notas fiscais, o download é feito, desde que elas estejam previamente configuradas com as informações no cadastro da empresa.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos_itens.png)
+
+Clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">adicionar anexo no menu desta guia, você pode anexar documentos como, boleto, NF-e, NFS-e, NFC-e, e outros. Você pode preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos.png)
 
 ## Guia histórico
 
