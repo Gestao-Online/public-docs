@@ -83,7 +83,7 @@ O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe
 **Tipo de negociação:** Caso queira informações sobre como cadastrar o tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
 {% endhint %}
 
-Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que está configurada para origem do tipo PDV, e escolheremos o tipo de negociação **Boleto - GOPag**, ue está configurado no tipo de negociação e vinculado à conta bancária na aba **listar contas**, somente como exemplo:
+Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que está configurada para origem do tipo PDV, e escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado à conta bancária na aba **listar contas**, somente como exemplo:
 
 {% hint style="info" %}
 **Listar contas:** Caso queira informações sobre como cadastrar as contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)

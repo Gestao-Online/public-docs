@@ -75,3 +75,25 @@ Aqui, o único item obrigatório para preenchimento é o tipo de negociação, p
 
 <br>
 
+Para o preenchimento do primeiro campo, você precisará ter cadastrado os tipos de movimentação que utilizará. Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+
+Lembrando que a origem (PDV, venda online, venda online unidade, venda online indicador, fechamento) do tipo de movimento pode interferir no momento de adicionar itens a depender da definição criada.
+
+Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções disponíveis aparecem para você, mas se preferir, pode digitar o nome da movimentação que a nossa plataforma começará a fazer a busca para você.
+
+O mesmo acontece com o preenchimento do **tipo de negociação**, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na aba **tipo de negociação**.
+
+{% hint style="info" %}
+**Tipo de negociação:** Caso queira informações sobre como cadastrar o tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
+{% endhint %}
+
+Veja esse exemplo abaixo, iremos usar a movimentação **Venda - (Pedido de venda)** que está configurada para origem do tipo PDV, e escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado à conta bancária na aba **listar contas**, somente como exemplo:
+
+{% hint style="info" %}
+**Listar contas:** Caso queira informações sobre como cadastrar as contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_campo_1_e_2.gif)
+
+<br>
+
