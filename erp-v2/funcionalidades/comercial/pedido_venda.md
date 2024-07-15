@@ -57,8 +57,21 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-Vale lembrar que esse menu mudará trazendo novas opções, mas somente quando você salvar um pedido de venda, tudo depende do tipo de movimentação que será utilizada. 😉👍
+Vale lembrar que esse menu mudará trazendo novas opções, mas somente quando você salvar um pedido de venda, tudo depende do **tipo movimentação** que será utilizada. 😉👍
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_menu.png)
 
 <br>
+
+No momento do cadastro de uma nova venda, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho.
+
+Aqui, o único item obrigatório para preenchimento é o tipo de negociação, pois a venda pode ser preenchida depois, salvando como rascunho. 😁
+
+{% hint style="info" %}
+**Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada empresa. 😉👍
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_venda.png)
+
+<br>
+
