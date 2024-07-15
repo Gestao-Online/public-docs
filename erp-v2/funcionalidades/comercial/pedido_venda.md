@@ -269,3 +269,16 @@ Para cancelar um pedido de venda, é necessário escrever um motivo para ficar n
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_cancelar.png)
 
+### Botão notificar cliente
+
+Por último, no ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-size="line"> enviar uma notificação, ele te perguntará se tem certeza de enviar as notificações ao cliente sobre o resumo da movimentação, e após confirmação, fará o envio.
+
+Lembrando que os dados do cliente devem estar preenchidos para o envio ser realizado para ele pelos meios digitais (E-mail, WhatsApp, Telegram).
+
+{% hint style="warning" %}
+**Cadastro cliente:** Para mais informações sobre configuração do tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parceiros/clientes.md). 😉👍
+{% endhint %}
+
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_menu_novo_cancelar.png)
+
