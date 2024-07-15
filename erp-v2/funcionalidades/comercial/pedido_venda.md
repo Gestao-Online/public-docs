@@ -131,3 +131,18 @@ Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaix
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_item.png)
 
+<br>
+
+Quando clicamos neste botão, são mostradas as opções para inserirmos um produto. São duas opções, o campo **produto/serviço** e **quantidade**. O campo de produtos tem busca automática assim que clicado, mas você pode digitar o nome do produto/serviço para buscar caso queira. 
+
+Em nosso exemplo, iremos adicionar um serviço, e colocaremos ele com quantidade três, pois em movimentações ele irá gerar um código único para cada um dos serviços, conforme explicado no início da página desse guia:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_item_campos.gif)
+
+**Pronto, o produto/serviço foi adicionado com sucesso no pedido de venda!**
+
+{% hint style="info" %}
+**Informativo:** Caso esteja utilizando um produto/serviço com controle de estoque, o produto/serviço precisa estar vinculado ao local de estoque e ter quantidade para poder vender. Para mais informações sobre estoque,  [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md). 😉👍
+{% endhint %}
+
+<br>
