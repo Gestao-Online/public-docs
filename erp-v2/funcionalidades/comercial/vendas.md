@@ -151,7 +151,9 @@ Se deseja adicionar um desconto nesse produto/serviço, selecione o desconto em 
 
 Caso o desconto adicionado pelo vendedor seja maior que o autorizado no seu **perfil de desconto**, uma nova entrada será criada na guia **liberação**, logo após a tentativa de confirmação da venda. Em seguida, um aviso de que a venda não pode ser confirmada será mostrado.
 
-A partir de agora, um gestor deve liberar a solicitação de desconto para que a venda seja confirmada.
+Importante lembrar que as opções de desconto podem aparecer como disponíveis, mas a venda não poderá ser salva se o **Tipo movimentação** não estiver com a opção de desconto ativado.
+
+A partir de agora, um gestor deve liberar a solicitação de desconto para que a venda seja confirmada. Para mais informações sobre liberação de desconto [**`clique aqui`**](/erp-v2/funcionalidades/comercial/liberacao_desconto.md).
 
 {% hint style="danger" %}
 **Cuidado**: Os valores de uma venda, assim como o seu desconto, não podem ser alterados após a sua liberação/confirmação. Estes dados só podem ser modificados enquanto a venda for um rascunho.
