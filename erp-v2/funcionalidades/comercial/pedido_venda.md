@@ -259,3 +259,13 @@ Abaixo um exemplo de menu com o botão **gerar NF** e a nota fiscal presente na 
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_gerar_nf.png)
 
+### Botão cancelar um pedido de venda
+
+Ainda nos novos botões disponíveis, temos no ícone <img src="/erp-v2/assets/icon_cancelar.png" alt="" data-size="line"> cancelar um pedido de venda. 
+
+Antes de clicar neste botão, tenha certeza de que não existem movimentações fiscais ou baixas no financeiro deste pedido de venda, e caso exista, efetue o estorno.
+
+Para cancelar um pedido de venda, é necessário escrever um motivo para ficar no registro dela, essa função permite mantermos a integridade da nossa plataforma:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_cancelar.png)
+
