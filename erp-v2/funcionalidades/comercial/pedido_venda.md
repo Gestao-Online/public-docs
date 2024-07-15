@@ -282,3 +282,12 @@ Lembrando que os dados do cliente devem estar preenchidos para o envio ser reali
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_menu_novo_cancelar.png)
 
+## Status do pedido de venda
+
+Através da aba de **pedido de venda**, podemos acompanhar os status de cada item na coluna **status**. Para saber se está ou não em atendimento e se houve baixa ou não.
+
+Como podemos ver, a venda que criamos como exemplo foi confirmada, ainda não houve baixa financeira, geração de nota fiscal e os itens vendidos ainda não foram entregues:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_filtro_status.png)
+
+Além do status de venda confirmada, temos outros:
