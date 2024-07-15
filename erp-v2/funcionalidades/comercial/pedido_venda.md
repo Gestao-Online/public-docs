@@ -87,13 +87,23 @@ O mesmo acontece com o preenchimento do **tipo de negociação**, aqui você esc
 **Tipo de negociação:** Caso queira informações sobre como cadastrar o tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
 {% endhint %}
 
-Veja esse exemplo abaixo, iremos usar a movimentação **Venda - (Pedido de venda)** que está configurada para origem do tipo PDV, e escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado à conta bancária na aba **listar contas**, somente como exemplo:
+Veja esse exemplo abaixo, iremos usar a movimentação **Venda - (Pedido de venda)** que está configurada para origem do tipo PDV, na movimentação destino, usaremos a **Venda - Exemplo** e escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado à conta bancária na aba **listar contas**, somente como exemplo:
 
 {% hint style="info" %}
 **Listar contas:** Caso queira informações sobre como cadastrar as contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_campo_1_e_2.gif)
+
+<br>
+
+Agora, nos campos de **Cliente/Parceiro** e **Parceiro indicador**, nós temos alguns botões extras com funções para facilitar seu dia a dia com o nosso sistema. Quando você clica no campo para buscar um cliente e este ainda não possui um cadastro, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para que você possa cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
+
+Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a aba deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
+
+Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Veja o exemplo que fizemos abaixo:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_campo_3_e_4.gif)
 
 <br>
 
