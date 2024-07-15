@@ -152,3 +152,16 @@ Essa parte é importante para você observar, pois o serviço de exemplo que adi
 Se deseja adicionar um desconto nesse, selecione o desconto em percentual ou em valor. Então, esse valor será aplicado ao produto/serviço:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_item_campos_desconto.png)
+
+### Solicitando desconto
+
+Caso o desconto adicionado pelo vendedor seja maior que o autorizado no seu **perfil de desconto**, uma nova entrada será criada na guia **liberação**, logo após a tentativa de confirmação do pedido de venda. Em seguida, um aviso de que o pedido de venda não pode ser confirmada até um gestor liberar o valor do desconto será mostrado.
+
+Importante lembrar que as opções de desconto podem aparecer como disponíveis, mas o pedido de venda não poderá ser salvo se o **Tipo movimentação** não estiver com a opção de desconto ativado.
+
+A partir de agora, um gestor deve liberar a solicitação de desconto para que o pedido de venda seja confirmado. Para mais informações sobre liberação de desconto [**`clique aqui`**](/erp-v2/funcionalidades/comercial/liberacao_desconto.md).
+
+{% hint style="danger" %}
+**Cuidado**: Os valores de um pedido de venda, assim como o seu desconto, não podem ser alterados após a sua liberação/confirmação. Estes dados só podem ser modificados enquanto o pedido de venda for um rascunho.
+{% endhint %}
+
