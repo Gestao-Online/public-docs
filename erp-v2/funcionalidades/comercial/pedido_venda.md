@@ -286,8 +286,12 @@ Lembrando que os dados do cliente devem estar preenchidos para o envio ser reali
 
 Através da aba de **pedido de venda**, podemos acompanhar os status de cada item na coluna **status**. Para saber se está ou não em atendimento e se houve baixa ou não.
 
-Como podemos ver, a venda que criamos como exemplo foi confirmada, ainda não houve baixa financeira, geração de nota fiscal e os itens vendidos ainda não foram entregues:
+Como podemos ver, o pedido de venda que criamos como exemplo foi liberado e ainda não houve baixa financeira, no status temos as seguintes opções:
 
-![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_filtro_status.png)
+|                                                                                             |                                                                   |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+|![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_status_atendimento.png)        |Pedido de venda em atendimento (Salvo rascunho).                   |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_status_liberado.png)           |Pedido de venda confirmada aguardando o pagamento.                 |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_status_pago.png)               |Financeiro baixado, e pedido liberado.                             |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_status_cancelado.png)          |Pedido de venda cancelado.                                         |
 
-Além do status de venda confirmada, temos outros:
