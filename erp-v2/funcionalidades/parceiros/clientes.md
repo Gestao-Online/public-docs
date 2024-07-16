@@ -194,3 +194,17 @@ Observe abaixo o resultado:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_salvar.gif)
 
+## Guias após salvar novo cliente
+
+Depois que salvar as informações do novo cliente, novas guias ficarão disponíveos para você poder acessar, com contatos, parceiros indicados, histórico de indicações e histórico de movimentações/vendas.
+
+### Guia contatos
+
+Nesta guia você pode cadastrar os contatos que este cliente possui algum tipo de vínculo.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_contatos.png)
+
+E nesta mesma guia, quando vamos cadastrar um contato, além das informações básicas como nome, cpf e telefone. Nós colocamos as opções de dados bancários para situações em que precise:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_contatos_add.png)
+
