@@ -186,3 +186,11 @@ Por último o botão de **gerar link**, quando você clicar nele uma janela com 
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_dados_venda_btn_link.png)
 
+## Salvando um novo cliente
+
+Após o preenchimento destas informações, você pode salvar os dados do cliente, e neste momento algumas guias irão ficar disponíves para você acessar. 
+
+Observe abaixo o resultado:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_salvar.gif)
+
