@@ -131,4 +131,23 @@ Nesta parte você precisa preencher os dados conforme as orientações do contad
 
 ### Detalhes
 
+Na parte de detalhes sobre este cliente que você está cadastrando, pode colocar uma **etiqueta** para facilitar na busca/organização por este cliente, deixar alguma descrição importante caso precise. 
+
+E ainda pode definir um vendedor para atender este cliente, este vínculo faz com que somente este vendedor possa atender a este cliente, se deixar o espaço em branco, qualquer vendedor poderá atendê-lo em uma venda.
+
+{% hint style="warning" %}
+**Vendedores:** Caso queira mais informações sobre cadastro de vendedores, [**`clique aqui`**](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md).
+{% endhint %}
+
+
+Precisa também definir uma unidade de atendimento deste cliente, lembrando que o vínculo com a unidade, irá definir as tabelas de preços para custo e comissão, e também os produtos disponíveis a venda.
+
+{% hint style="warning" %}
+**Unidades:** Caso queira mais informações sobre cadastro de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+{% endhint %}
+
+Os demais campos serão preechidos por nosso sistema, para controle interno. Observe nosso exemplo de preenchimento:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_detalhes.png)
+
 ### Dados da parceria de indicação
