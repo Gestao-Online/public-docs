@@ -143,7 +143,7 @@ Montamos um infográfico para exemplificar melhor como funciona o vínculo de ca
 
 <br>
 
-Essa parte é importante para você observar, pois o produto já veio com o preço determinado na tabela de preço. E assim você pode adicionar os demais produtos/serviços de que precisa.
+Essa parte é importante para você observar, pois o produto já veio com o preço determinado na tabela de preço. E assim você pode adicionar os demais produtos/serviços de que precisa. Agora, caso o preço do produto não seja carregado quando você escolher, então algum item dessa sequência está faltando, vale a pena rever para não acontecer novamente. 😅
 
 Se deseja adicionar um desconto nesse produto/serviço, selecione o desconto em percentual ou em valor. Então, esse valor será aplicado ao produto/serviço:
 
