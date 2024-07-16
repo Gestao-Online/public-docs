@@ -10,10 +10,30 @@ Esta aba de clientes estará disponível para você tanto no menu principal quan
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-{% hint style="warning" %}
-**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
-{% endhint %}
+
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes.gif)
 
 <br>
+
+Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+
+- <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar clientes;
+- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
+- <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar cliente.
+
+{% hint style="warning" %}
+**Importar:** Caso queira mais informações sobre como importar clientes [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md).
+{% endhint %}
+
+{% hint style="warning" %}
+**Filtros:** Caso queira mais informações sobre como utilizar os filtros de busca [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_menu.png)
+
+<br>
+
