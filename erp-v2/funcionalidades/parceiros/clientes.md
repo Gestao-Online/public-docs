@@ -146,7 +146,7 @@ Precisa também definir uma unidade de atendimento deste cliente, lembrando que 
 **Unidades:** Caso queira mais informações sobre cadastro de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 {% endhint %}
 
-Os demais campos serão preechidos por nosso sistema, para controle interno. Observe nosso exemplo de preenchimento:
+Os demais campos serão preechidos por nosso sistema, para controle interno. Observe nosso exemplo de preenchimento, deixamos a etiqueta em branco pois não é um item obrigatório:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_detalhes.png)
 
