@@ -232,7 +232,8 @@ Lembrando que este pedido de venda está em atendimento e agora vai para o statu
 Após você adicionar os itens para venda e confirmar, o status desta venda muda conforme mostrado, e o menu superior dela também, trazendo novas funções.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_novo_status_venda.png)
-.
+
+
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_novo_menu.png)
 
 ### Botão gerar boleto
