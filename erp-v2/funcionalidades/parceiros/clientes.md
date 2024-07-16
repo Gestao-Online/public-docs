@@ -49,3 +49,28 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 <br>
 
+Após clicarmos no botão adicionar cliente, uma nova página será aberta e nela ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line"> Realizar venda;
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;   
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar rascunho;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+{% hint style="warning" %}
+**Vendas:** Caso queira informações sobre como realizar uma venda, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_menu.png)
+
+<br>
+
+No momento do cadastro de um novo cliente, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
+
+{% hint style="info" %}
+**Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados do cliente. 😉👍
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente.png)
+
+<br>
