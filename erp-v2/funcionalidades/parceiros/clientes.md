@@ -10,11 +10,7 @@ Esta aba de clientes estará disponível para você tanto no menu principal quan
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-
-
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes.gif)
-
-<br>
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
@@ -39,15 +35,11 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_menu.png)
 
-<br>
-
 ## Adicionar novo cliente
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um novo cliente, confira abaixo o procedimento para fazer o cadastro corretamente:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add.png)
-
-<br>
 
 Após clicarmos no botão adicionar cliente, uma nova página será aberta e nela ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
@@ -63,8 +55,6 @@ Após clicarmos no botão adicionar cliente, uma nova página será aberta e nel
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_menu.png)
 
-<br>
-
 No momento do cadastro de um novo cliente, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
 
 {% hint style="info" %}
@@ -73,15 +63,11 @@ No momento do cadastro de um novo cliente, você precisará preencher alguns cam
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente.png)
 
-<br>
-
 Para o primeiro e segundo campo de preenchimento você pode digitar o CPF para o tipo pessoa física, ou CNPJ para o tipo pessoa jurídica. Ao digitar o número, e clicar fora do campo, nosso sistema fará o reconhecimento dos dados automaticamente para você, e preencher o máximo de informações possíveis. 😁👍
 
 Observe abaixo nossa demonstração, iremos digitar somente números zero para este exemplo de uso:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_tipo_pessoa.gif)
-
-<br>
 
 Seguindo com o preenchimento dos campos, iremos cadastrar um cliente CNPJ, pois este tipo de cliente aborda mais campos de prenchimento que precisam de sua atenção.
 
@@ -91,13 +77,9 @@ Abaixo está nosso exemplo já preenchido, e nele vamos deixar o campo código v
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_nome_razao.png)
 
-<br>
-
 Ainda dos campos obrigatórios, o último é o de e-mail. Mas ao seu lado temos, telefone, celular e telefone comercial. Este contatos estão devidamente vinculados para o caso de uso de uma venda online. Por isso seu preenchimento é importante.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_email_telefones.png)
-
-<br>
 
 Descendo mais um pouco nos deparamos com três campos que tem vínculo com outras abas em nosso sistema. O primeiro é o tipo, aqui você define se este será um cliente, fornecedor, indicador ou transportadora. Este mesmo campo permite marcar mais de um tipo para esse cadastro que estamos fazendo.
 
@@ -120,8 +102,6 @@ Em nossa demonstração utilizaremos o parceito indicador **Gestão Online**. Ma
 Agora nos campos de endereço segue o padrão, ao inserir o CEP a maioria dos campos serão preenchidos automaticamente. Sobrando apenas alguns específicos para você completar:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_endereco.png)
-
-<br>
 
 ### Dados Fiscais
 
