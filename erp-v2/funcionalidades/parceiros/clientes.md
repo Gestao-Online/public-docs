@@ -208,3 +208,9 @@ E nesta mesma guia, quando vamos cadastrar um contato, além das informações b
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_contatos_add.png)
 
+### Guia parceiros indicados
+
+Nesta guia você coloca os parceiros indicados, lembrando que eles recebem comissão por vendas realizadas para este cliente. Nesta guia pode usar o botão de importação caso tenha muitos parceiros indicados, ou pode adicionar manualmente.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_parceiros_indicados_add.png)
+
