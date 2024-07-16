@@ -230,4 +230,10 @@ Nesta guia, todas as vendas realizadas com este cliente, ficarão registradas. E
 
 Logo após salvar o cliente, um novo botão <img src="/erp-v2/assets/icon_atualizar_cad.png" alt="" data-size="line"> para tualizar o cadastro deste cleinte, ficará disponível no menu superior.
 
+Ao clicar neste botão a plataforma da Gestão Online fará a busca dos dados do cliente e fará o preenchimento das informações automaticamente para você.
+
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_novo_menu.png)
+
+<br>
+
+<br>
