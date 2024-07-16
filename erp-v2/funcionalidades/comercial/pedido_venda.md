@@ -215,7 +215,7 @@ Abaixo está uma venda de exemplo com históricos registrados:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_historico.png)
 
-## Confirmando venda
+## Confirmando pedido de venda
 
 Se você observou, o menu superior do pedido de venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda. As informações mostradas neste menu vão depender diretamente das configurações do tipo de movimentação que você configurou.
 
@@ -227,7 +227,7 @@ Lembrando que este pedido de venda está em atendimento e agora vai para o statu
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_menu_novo.gif)
 
-## Menu Venda após confirmação
+## Menu pedido de venda após confirmação
 
 Após você adicionar os itens para venda e confirmar, o status desta venda muda conforme mostrado, e o menu superior dela também, trazendo novas funções.
 
