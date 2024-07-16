@@ -75,9 +75,9 @@ No momento do cadastro de um novo cliente, você precisará preencher alguns cam
 
 <br>
 
-Para o primeiro e segundo campo de preenchimento você pode digitar o CPF para o tipo pessoa física, ou CNPJ para o tipo pessoa jurídica. Ao digitar o número, e clicar fora do campo, nosso sistema fará o reconhecimento do tipo automaticamente para você. 😁👍
+Para o primeiro e segundo campo de preenchimento você pode digitar o CPF para o tipo pessoa física, ou CNPJ para o tipo pessoa jurídica. Ao digitar o número, e clicar fora do campo, nosso sistema fará o reconhecimento dos dados automaticamente para você, e preencher o máximo de informações possíveis. 😁👍
 
-Observe abaixo nossa demonstração, iremoss digitar somente números zero para este exemplo de uso
+Observe abaixo nossa demonstração, iremos digitar somente números zero para este exemplo de uso:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_tipo_pessoa.gif)
 
@@ -151,3 +151,16 @@ Os demais campos serão preechidos por nosso sistema, para controle interno. Obs
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_detalhes.png)
 
 ### Dados da parceria de indicação
+
+Por último em dados de parceria, você pode colocar uma descrição da parceria que ficará em páginas públicas, LandingPages/Venda Online, Link de pagamento etc. Pode também inserir uma imagem com a logo desse cliente para aparecer em links de vendas online
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_dados_parceria.gif)
+
+No campo categoria parceiro você pode organizar em casos de parceria de indicação usando as categorias cadastradas no sistema:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_categoria_parceiro.png)
+
+Ao lado no campo tabela de preço indicação, você coloca a tabela de preço que contenha os ganhos/comissões por indicação de vendas, e ao lado deste campo você coloca a data início da parceria de indicação. Para mais informações sobre as tabelas de indicações, [**`clique aqui`**](/erp-v2/funcionalidades/indicadores_afiliados/tabelas_indicacao.md)
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campo_tabela_indicacao.gif)
+
