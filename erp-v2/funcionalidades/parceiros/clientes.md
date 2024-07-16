@@ -214,3 +214,11 @@ Nesta guia você coloca os parceiros indicados, lembrando que eles recebem comis
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_parceiros_indicados_add.png)
 
+### Guia histórico de indicações
+
+Quando as vendas acontecem e o parceiro indicador é colocado, aqui fica registrado essas movimentações, com nome do parceiro indicador, valor da venda, valor de referência, data e status.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_historico_indicacoes.png)
+
+### Guia histórico de movimentações/vendas
+
