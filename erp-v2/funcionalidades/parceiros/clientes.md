@@ -225,3 +225,9 @@ Quando as vendas acontecem e o parceiro indicador é colocado, aqui fica registr
 Nesta guia, todas as vendas realizadas com este cliente, ficarão registradas. Esta guia tem a mesma funcionalidade da guia de vendas, podendo acompanhar somente as vendas deste cliente. Para mais informações sobre a aba de vendas e suas funcionalidades, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_historico_movimentacoes.png)
+
+## Menu após salvar novo cliente
+
+Logo após salvar o cliente, um novo botão <img src="/erp-v2/assets/icon_atualizar_cad.png" alt="" data-size="line"> para tualizar o cadastro deste cleinte, ficará disponível no menu superior.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_novo_menu.png)
