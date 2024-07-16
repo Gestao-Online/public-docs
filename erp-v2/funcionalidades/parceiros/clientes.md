@@ -164,3 +164,25 @@ Ao lado no campo tabela de preço indicação, você coloca a tabela de preço q
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campo_tabela_indicacao.gif)
 
+### Dados para parceria com venda online
+
+Quando ativamos a opção **Gerar link venda online**, mais opções ficam disponíveis para preenchermos:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_dados_venda_online.png)
+
+O primeiro campo para preencher é o de **Tabela de preço venda online**, essas tabelas já devem estar criadas e configuradas na aba **Tabela de preços**. Para mais informações sobre as tabelas de preços, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_dados_venda_online_tabela.gif)
+
+No campo **tipo de negociação venda online** você pode escolher uma das opções cadastrados que tem vínculo com a aba [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md). Para nosso exemplo iremos marcar a opção **Boleto - GOPag**:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_dados_tipo_negociacao.png)
+
+No campo de produtos venda online, você vai informar os produtos liberados para venda online desta parceria. Para mais informações sobre o cadastro de produtos, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md)
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_dados_venda_produtos.png)
+
+Por último o botão de **gerar link**, quando você clicar nele uma janela com o link único de acesso será mostrado para você:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_dados_venda_btn_link.png)
+
