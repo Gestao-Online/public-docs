@@ -31,4 +31,11 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse).
 {% endhint %}
 
-![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_menu.png)
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_menu.png)
+
+## Adicionar novo fornecedor
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um novo fornecedor, confira abaixo o procedimento para fazer o cadastro corretamente:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add.png)
+
