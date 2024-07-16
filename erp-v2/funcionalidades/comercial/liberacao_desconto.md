@@ -77,13 +77,15 @@ Observe abaixo o perfil de desconto (venda) deste vendedor, ele tem perfil para 
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar_tipo_liberacao_aba_vendedor.png)
 
-## Salvando rascunho de uma nova venda
+## Salvando liberação de desconto
 
 Após o preenchimento destas informações, você precisa alterar o campo de **status** para definir o rumo da liberação. Observe no nosso exemplo abaixo, definimos o valor e agora vamos liberar o desconto para a venda poder ser realizada. Inserimos também uma descrição para ficar registrado a situação em casos futuros de checagem:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar_tipo_liberacao_salvando.png)
 
-Clicando no botão de salvar, uma janela de confirmação irá aparecer, e agora saindo do modo de edição, podemos ver que a liberação de desconto foi aprovada, e a venda pode seguir, ficando os registros da venda na guia **liberação**. Observe abaixo nossa demonstração:
+Clicando no botão de salvar, uma janela de confirmação irá aparecer, e agora saindo do modo de edição, podemos ver que a liberação de desconto foi aprovada, e a venda pode seguir, ficando os registros da venda na guia **liberação**. 
+
+Observe abaixo nossa demonstração:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar_tipo_liberacao_salvando.gif)
 
