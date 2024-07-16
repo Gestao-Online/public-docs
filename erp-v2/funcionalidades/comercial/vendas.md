@@ -64,7 +64,7 @@ No momento do cadastro de uma nova venda, você precisará preencher alguns camp
 Aqui, o único item obrigatório para preenchimento é o tipo de negociação, pois a venda pode ser preenchida depois, salvando como rascunho. 😁
 
 {% hint style="info" %}
-**Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada empresa. 😉👍
+**Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada venda. 😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_venda.png)
