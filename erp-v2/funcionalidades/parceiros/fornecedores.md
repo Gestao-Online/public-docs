@@ -168,3 +168,12 @@ No campo de **produtos venda online**, você informará os produtos liberados pa
 Por último, o botão de **gerar link**, quando você clicar nele, uma janela com o link único de acesso será mostrada para você:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_dados_venda_btn_link.png)
+
+## Salvando um novo fornecedor
+
+Após o preenchimento destas informações, você pode salvar os dados do novo fornecedor, e atualmente algumas guias ficarão disponíveis para você acessar.
+
+Observe abaixo o resultado:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_salvar.gif)
+
