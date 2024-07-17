@@ -96,3 +96,10 @@ Essa classificação pode ser feita por você clicando no botão <img src="/erp-
 Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo marcaremos a opção PJ.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campo_tipo_parceiro.gif)
+
+No campo **parceiro indicador**, você coloca o nome de um cliente/parceiro que indicou este cliente para cadastro. Este campo está vinculado ao sistema de pagamento de comissões, que está presente no momento da realização de uma venda. Caso queira mais informações sobre **parceiros indicadores** [**`clique aqui`**](/erp-v2/funcionalidades/indicadores_afiliados/parceiros_indicadores.md).
+
+Em nossa demonstração, utilizaremos o parceiro indicador **Gestão Online**. Mas veja que é possível cadastrar um novo parceiro na mesma página, e até editar um parceiro em uma nova aba:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campo_tipo_parceiro_indicador.gif)
+
