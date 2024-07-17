@@ -2,7 +2,7 @@
 
 Nesta aba você encontra todos os clientes cadastrados na plataforma da **Gestão Online**. E caso tenha algum cliente faltando pode efetuar o cadastro dele seguindo este manual.
 
-É importante lembrar que dependendo do cliente que você cadastrar na **aba Clientes**, nas configurações, pode também definir este mesmo cliente como um **fornecedor**, **indicador** ou **transportador**. (Informação explicada no menu [**`Definição de tipo`**](/erp-v2/funcionalidades/parceiros/clientes.md#campo-definicao-de-tipo))
+ <img src="/erp-v2/assets/placa-aviso.png" alt="" data-size="line"> É importante lembrar que dependendo do cliente que você cadastrar na **aba Clientes**, nas configurações, pode também definir este mesmo cliente como um **fornecedor**, **indicador** ou **transportador**. (Informação explicada no menu [**`Definição de tipo`**](/erp-v2/funcionalidades/parceiros/clientes.md#campo-definicao-de-tipo))
 
 Esta aba de clientes estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [**`clique aqui`**](/erp-v2/primeiro_acesso/favoritos.md)).
 
