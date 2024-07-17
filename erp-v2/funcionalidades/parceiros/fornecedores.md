@@ -209,3 +209,14 @@ Nesta guia, todas as vendas realizadas com este cliente/fornecedor ficarão regi
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_guia_historico_movimentacoes.png)
 
+## Menu após salvar novo fornecedor
+
+Logo após salvar o novo fornecedor, um novo botão <img src="/erp-v2/assets/icon_atualizar_cad.png" alt="" data-size="line">para atualizar o cadastro deste fornecedor ficará disponível no menu superior, esta função se aplica apenas para o uso de CNPJ.
+
+Ao clicar neste botão a plataforma da Gestão Online fará a busca dos dados do fornecedor por CNPJ e fará o preenchimento das informações automaticamente para você.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_novo_menu.png)
+
+<br>
+
+<br>
