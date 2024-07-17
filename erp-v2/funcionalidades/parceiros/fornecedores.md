@@ -197,3 +197,8 @@ Nesta guia, você coloca os parceiros indicados, lembrando que eles recebem comi
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_guia_parceiros_indicados_add.png)
 
+### Guia histórico de indicações
+
+Quando as vendas acontecem e o parceiro indicador é colocado, aqui ficam registradas essas movimentações, com nome do parceiro indicador, valor da venda, valor de referência, data e status.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_guia_historico_indicacoes.png)
