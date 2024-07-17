@@ -70,3 +70,12 @@ Ao digitar um CNPJ, e clicar fora do campo, nosso sistema fará o reconhecimento
 Observe abaixo nossa demonstração, digitamos o CNPJ da Gestão.Online e observe que os dados são carregador automaticamente:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campos_tipo_pessoa.gif)
+
+Seguindo com o preenchimento dos campos, cadastraremos um indicador CNPJ, pois este tipo aborda mais campos de preenchimento que precisam de sua atenção.
+
+O campo **Nome** e **Razão social** precisam ser preenchidos conforme documentação do indicador, e logo ao lado do campo nome tem o campo **Código** que pode ser utilizado caso esteja trazendo informações deste indicador de outro sistema.
+
+Abaixo está nosso exemplo já preenchido, e nele deixaremos o campo código vazio, por não ter necessidade de uso em nosso caso.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campos_nome_razao.png)
+
