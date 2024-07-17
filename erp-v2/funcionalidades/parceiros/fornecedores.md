@@ -147,3 +147,13 @@ Ao lado, no campo tabela de preço indicação, você coloca a tabela de preço 
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campo_tabela_indicacao.gif)
 
+### Dados para parceria com venda online
+
+Quando ativamos a opção **Gerar link venda online**, mais opções ficam disponíveis para preenchermos:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_dados_venda_online.png)
+
+O primeiro campo para preencher é o de **Tabela de preço venda online**, essas tabelas já devem estar criadas e configuradas na aba **Tabela de preços**. Para mais informações sobre as tabelas de preços, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_dados_venda_online_tabela.gif)
+
