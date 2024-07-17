@@ -164,3 +164,7 @@ No campo **tipo de negociação venda online**, você pode escolher uma das opç
 No campo de **produtos venda online**, você informará os produtos liberados para venda online desta parceria. Para mais informações sobre o cadastro de produtos, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md)
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_dados_venda_produtos.png)
+
+Por último, o botão de **gerar link**, quando você clicar nele, uma janela com o link único de acesso será mostrada para você:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_dados_venda_btn_link.png)
