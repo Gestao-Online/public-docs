@@ -8,5 +8,5 @@ Nesta aba você encontra todos os indicadores cadastrados na plataforma da **Ges
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores.gif)
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicadores.gif)
 
