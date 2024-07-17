@@ -55,6 +55,7 @@ Após clicarmos no botão adicionar cliente, uma nova página será aberta e nel
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_menu.png)
 
+
 No momento do cadastro de um novo cliente, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
 
 {% hint style="info" %}
