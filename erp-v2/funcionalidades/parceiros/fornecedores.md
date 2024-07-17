@@ -202,3 +202,10 @@ Nesta guia, você coloca os parceiros indicados, lembrando que eles recebem comi
 Quando as vendas acontecem e o parceiro indicador é colocado, aqui ficam registradas essas movimentações, com nome do parceiro indicador, valor da venda, valor de referência, data e status.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_guia_historico_indicacoes.png)
+
+### Guia histórico de movimentações/vendas
+
+Nesta guia, todas as vendas realizadas com este cliente/fornecedor ficarão registradas. Esta guia tem a mesma funcionalidade da guia de vendas, podendo acompanhar somente as vendas deste cliente/fornecedor. Para mais informações sobre a aba de vendas e suas funcionalidades, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_guia_historico_movimentacoes.png)
+
