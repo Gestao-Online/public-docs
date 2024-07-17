@@ -89,3 +89,10 @@ Observe a demonstração abaixo utilizando esta opção. Mas seguiremos somente 
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campo_tipo.gif)
 
+Ao lado dele, temos o **Tipo parceiro** que serve como uma forma de classificar esse cadastro que estamos fazendo, para auxiliar nas buscas da **aba de parceiros**. 
+
+Essa classificação pode ser feita por você clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar novo tipo de parceiro. Ou clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o tipo selecionado.
+
+Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo marcaremos a opção PJ.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campo_tipo_parceiro.gif)
