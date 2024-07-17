@@ -157,3 +157,7 @@ O primeiro campo para preencher é o de **Tabela de preço venda online**, essas
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_dados_venda_online_tabela.gif)
 
+No campo **tipo de negociação venda online**, você pode escolher uma das opções cadastradas que tem vínculo com a aba [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md). Para nosso exemplo, iremos marcar a opção **Boleto - GOPag**:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_dados_tipo_negociacao.png)
+
