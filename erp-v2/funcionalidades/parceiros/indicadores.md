@@ -79,3 +79,9 @@ Abaixo está nosso exemplo já preenchido, e nele deixaremos o campo código vaz
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campos_nome_razao.png)
 
+### Campo definição de tipo
+
+Ainda dos campos obrigatórios, o último é o de e-mail. Mas ao seu lado temos telefone, celular e telefone comercial. Estes contatos estão devidamente vinculados para o caso de uso de uma venda online. Por isso, seu preenchimento é importante.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_email_telefones.png)
+
