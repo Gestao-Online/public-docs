@@ -61,7 +61,7 @@ No momento do cadastro de um novo cliente, você precisará preencher alguns cam
 **Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados do cliente. 😉👍
 {% endhint %}
 
-![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente.png)
+![Exemplo de campos obrigatórios para CPF](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente.png)
 
 Para o primeiro e segundo campo de preenchimento você pode digitar o CPF para o tipo pessoa física, ou CNPJ para o tipo pessoa jurídica. Ao digitar um CNPJ, e clicar fora do campo, nosso sistema fará o reconhecimento dos dados automaticamente para você, e preencher o máximo de informações possíveis. 😁👍
 
@@ -87,7 +87,7 @@ Observe a demonstração abaixo utilizando esta opção. Mas seguiremos somente 
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campo_tipo.gif)
 
-Ao lado dele, temos o **Tipo parceiro** que serve como uma forma de classificar esse cadastro que estamos fazendo, para auxiliar nas buscas da **aba de parceiros**. Essa classificação pode ser feita por você clicando no botão <img src="/erp-v2/assets/funcionalidade/icon_adds.png" alt="" data-size="line"> adicionar novo tipo de parceiro. Ou clicando no botão <img src="/erp-v2/assets/funcionalidade/icon_nova_aba.png" alt="" data-size="line"> para editar o tipo selecionado.
+Ao lado dele, temos o **Tipo parceiro** que serve como uma forma de classificar esse cadastro que estamos fazendo, para auxiliar nas buscas da **aba de parceiros**. Essa classificação pode ser feita por você clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar novo tipo de parceiro. Ou clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o tipo selecionado.
 
 Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo marcaremos a opção PJ.
 
@@ -207,7 +207,7 @@ Nesta guia, todas as vendas realizadas com este cliente ficarão registradas. Es
 
 ## Menu após salvar novo cliente
 
-Logo após salvar o cliente, um novo botão <img src="/erp-v2/assets/icon_atualizar_cad.png" alt="" data-size="line">para atualizar o cadastro deste cliente ficará disponível no menu superior.
+Logo após salvar o cliente, um novo botão <img src="/erp-v2/assets/icon_atualizar_cad.png" alt="" data-size="line">para atualizar o cadastro deste cliente ficará disponível no menu superior, esta função se aplica apenas para o uso de CNPJ.
 
 Ao clicar neste botão a plataforma da Gestão Online fará a busca dos dados do cliente e fará o preenchimento das informações automaticamente para você.
 
