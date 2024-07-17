@@ -177,3 +177,16 @@ Observe abaixo o resultado:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_salvar.gif)
 
+## Guias após salvar novo fornecedor
+
+Depois que salvar as informações do novo fornecedor, novas guias ficarão disponíveis para você poder acessar, com contatos, parceiros indicados, histórico de indicações e histórico de movimentações/vendas.
+
+### Guia contatos
+
+Nesta guia, você pode cadastrar os contatos com os quais este fornecedor possui algum tipo de vínculo.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_guia_contatos.png)
+
+E nesta mesma guia, quando cadastraremos um contato, além das informações básicas como nome, CPF e telefone. Colocamos as opções de dados bancários para situações em que precise:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_contatos_add.png)
