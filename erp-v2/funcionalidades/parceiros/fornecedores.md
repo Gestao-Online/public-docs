@@ -103,3 +103,6 @@ Em nossa demonstração, utilizaremos o parceiro indicador **Gestão Online**. M
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campo_tipo_parceiro_indicador.gif)
 
+Agora nos campos de endereço segue o padrão, ao inserir o CEP a maioria dos campos serão preenchidos automaticamente. Sobrando apenas alguns específicos para você completar:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campos_endereco.png)
