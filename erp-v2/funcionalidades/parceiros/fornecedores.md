@@ -55,3 +55,19 @@ Lembrando que este menu ganhará um novo botão quando salvarmos este novo forne
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_menu.png)
 
+No momento do cadastro de um novo fornecedor, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
+
+{% hint style="info" %}
+**Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados do fornecedor. 😉👍
+{% endhint %}
+
+![Exemplo de campos obrigatórios para CNPJ](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor.png)
+
+Para o primeiro e segundo campo de preenchimento você pode digitar o CPF para o tipo pessoa física, ou CNPJ para o tipo pessoa jurídica. 
+
+Ao digitar um CNPJ, e clicar fora do campo, nosso sistema fará o reconhecimento dos dados automaticamente para você, e preencher o máximo de informações possíveis. 😁👍
+
+Observe abaixo nossa demonstração, digitamos o CNPJ da Gestão.Online e observe que os dados são carregador automaticamente:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campos_tipo_pessoa.gif)
+
