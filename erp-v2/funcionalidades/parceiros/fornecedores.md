@@ -2,7 +2,7 @@
 
 Nesta aba você encontra todos os fornecedores cadastrados na plataforma da **Gestão Online**. E caso tenha algum fornecedor faltando pode efetuar o cadastro dele seguindo este manual.
 
-É importante lembrar que dependendo do cliente que você cadastrar na **aba Cliente**, nas configurações pode definir ele como um fornecedor. Com isso, ele aparecerá na **aba Fornecedores**.
+É importante lembrar que dependendo do cliente que você cadastrar na **aba Clientes**, nas configurações, pode também definir este mesmo cliente como um **fornecedor**, **indicador** ou **transportador**. (Informação explicada no menu [**`Definição de tipo`**](/erp-v2/funcionalidades/parceiros/clientes.md#campo-definicao-de-tipo))
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.

@@ -2,7 +2,7 @@
 
 Nesta aba você encontra todos os clientes cadastrados na plataforma da **Gestão Online**. E caso tenha algum cliente faltando pode efetuar o cadastro dele seguindo este manual.
 
-É importante lembrar que a base de clientes demanda tempo para cadastrar, porém, com ela completa, fará com que as demais funções do sistema trabalhem mais rápido.
+É importante lembrar que dependendo do cliente que você cadastrar na **aba Clientes**, nas configurações, pode também definir este mesmo cliente como um **fornecedor**, **indicador** ou **transportador**. (Informação explicada no menu [**`Definição de tipo`**](/erp-v2/funcionalidades/parceiros/clientes.md#campo-definicao-de-tipo))
 
 Esta aba de clientes estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [**`clique aqui`**](/erp-v2/primeiro_acesso/favoritos.md)).
 
@@ -81,7 +81,9 @@ Ainda dos campos obrigatórios, o último é o de e-mail. Mas ao seu lado temos 
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_email_telefones.png)
 
-Descendo mais um pouco nos deparamos com três campos que tem vínculo com outras abas em nosso sistema. O primeiro é o tipo, aqui você define se este será um cliente, fornecedor, indicador ou transportadora. Este mesmo campo permite marcar mais de um tipo para esse cadastro que estamos fazendo.
+### Campo definição de tipo
+
+Descendo mais um pouco nos deparamos com três campos que tem vínculo com outras abas em nosso sistema. O primeiro é o tipo, aqui você define se este será um **cliente**, **fornecedor**, **indicador** ou **transportadora**. Este mesmo campo permite marcar mais de um tipo para esse cadastro que estamos fazendo.
 
 Observe a demonstração abaixo utilizando esta opção. Mas seguiremos somente com o tipo cliente selecionado.
 
