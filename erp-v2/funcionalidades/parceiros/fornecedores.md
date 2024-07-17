@@ -83,3 +83,9 @@ Ainda dos campos obrigatórios, o último é o de e-mail. Mas ao seu lado temos 
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campo_email_telefones.png)
 
+Descendo mais um pouco nos deparamos com três campos que tem vínculo com outras abas em nosso sistema. O primeiro é o tipo, aqui você define se este será um cliente, fornecedor, indicador ou transportadora. Este mesmo campo permite marcar mais de um tipo para esse cadastro que estamos fazendo.
+
+Observe a demonstração abaixo utilizando esta opção. Mas seguiremos somente com o tipo fornecedores selecionado.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campo_tipo.gif)
+
