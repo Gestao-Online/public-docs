@@ -39,3 +39,5 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add.png)
 
+
+
