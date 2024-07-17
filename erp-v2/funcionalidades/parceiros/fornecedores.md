@@ -112,3 +112,24 @@ Agora nos campos de endereço segue o padrão, ao inserir o CEP a maioria dos ca
 Nesta parte você precisa preencher os dados conforme as orientações do contador da sua empresa. Possui apenas dois campos para preenchimento o de **retenção de ISS** sobre a emissão de NFS-e, e o de **Indicador de Incrição Estadual**:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_dados_fiscais.png)
+
+### Detalhes
+
+Na parte de detalhes sobre este fornecedor que você está cadastrando, pode colocar uma **etiqueta** para facilitar na busca/organização, deixar alguma descrição importante para caso precise. 
+
+E ainda pode definir um vendedor para atender este fornecedor. Este vínculo faz com que somente este vendedor atenda a ele. Se deixar o espaço em branco, qualquer vendedor poderá atendê-lo em uma venda.
+
+{% hint style="warning" %}
+**Vendedores:** Caso queira mais informações sobre cadastro de vendedores, [**`clique aqui`**](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md).
+{% endhint %}
+
+Precisa também definir uma unidade de atendimento deste fornecedor, lembrando que o vínculo com a unidade irá definir as tabelas de preços para custo e comissão, e também os produtos disponíveis para a aba de venda.
+
+{% hint style="warning" %}
+**Unidades:** Caso queira mais informações sobre cadastro de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+{% endhint %}
+
+Os demais campos serão preenchidos por nosso sistema, para controle interno. Observe nosso exemplo de preenchimento, deixamos a etiqueta em branco, pois não é um item obrigatório:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campos_detalhes.png)
+
