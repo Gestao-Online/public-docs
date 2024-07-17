@@ -71,9 +71,9 @@ Observe abaixo nossa demonstração, digitamos o CNPJ da Gestão.Online e observ
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campos_tipo_pessoa.gif)
 
-Seguindo com o preenchimento dos campos, cadastraremos um cliente CNPJ, pois este tipo de cliente aborda mais campos de preenchimento que precisam de sua atenção.
+Seguindo com o preenchimento dos campos, cadastraremos um fornecedor CNPJ, pois este tipo aborda mais campos de preenchimento que precisam de sua atenção.
 
-O campo **Nome** e **Razão social** precisam ser preenchidos conforme documentação do cliente, e logo ao lado do campo nome tem o campo **Código** que pode ser utilizado caso esteja trazendo informações deste cliente de outro sistema.
+O campo **Nome** e **Razão social** precisam ser preenchidos conforme documentação do fornecedor, e logo ao lado do campo nome tem o campo **Código** que pode ser utilizado caso esteja trazendo informações deste fornecedor de outro sistema.
 
 Abaixo está nosso exemplo já preenchido, e nele deixaremos o campo código vazio, por não ter necessidade de uso em nosso caso.
 
