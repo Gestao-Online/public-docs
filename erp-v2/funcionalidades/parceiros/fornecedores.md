@@ -189,4 +189,11 @@ Nesta guia, você pode cadastrar os contatos com os quais este fornecedor possui
 
 E nesta mesma guia, quando cadastraremos um contato, além das informações básicas como nome, CPF e telefone. Colocamos as opções de dados bancários para situações em que precise:
 
-![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_contatos_add.png)
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedores_guia_contatos_add.png)
+
+### Guia parceiros indicados
+
+Nesta guia, você coloca os parceiros indicados, lembrando que eles recebem comissão por vendas realizadas para este cliente/fornecedor. Nesta guia, pode usar o botão de importação caso tenha muitos parceiros indicados, ou pode adicionar manualmente. Caso tenha dúvidas sobre como funciona o sistema de importação, [**`Clique aqui`**](/erp-v2/primeiro_acesso/importar.md).
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_guia_parceiros_indicados_add.png)
+
