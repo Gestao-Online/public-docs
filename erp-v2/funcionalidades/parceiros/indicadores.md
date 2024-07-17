@@ -62,3 +62,11 @@ No momento do cadastro de um novo indicador, você precisará preencher alguns c
 {% endhint %}
 
 ![Exemplo de campos obrigatórios para CNPJ](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador.png)
+
+Para o primeiro e segundo campo de preenchimento você pode digitar o CPF para o tipo pessoa física, ou CNPJ para o tipo pessoa jurídica. 
+
+Ao digitar um CNPJ, e clicar fora do campo, nosso sistema fará o reconhecimento dos dados automaticamente para você, e preencher o máximo de informações possíveis. 😁👍
+
+Observe abaixo nossa demonstração, digitamos o CNPJ da Gestão.Online e observe que os dados são carregador automaticamente:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campos_tipo_pessoa.gif)
