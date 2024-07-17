@@ -33,3 +33,9 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicadores_menu.png)
 
+## Adicionar novo indicador
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um novo indicador, confira abaixo o procedimento para fazer o cadastro corretamente:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add.png)
+
