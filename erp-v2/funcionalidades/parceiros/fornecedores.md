@@ -2,7 +2,7 @@
 
 Nesta aba você encontra todos os fornecedores cadastrados na plataforma da **Gestão Online**. E caso tenha algum fornecedor faltando pode efetuar o cadastro dele seguindo este manual.
 
-É importante lembrar que dependendo do cliente que você cadastrar na **aba Clientes**, nas configurações, pode também definir este mesmo cliente como um **fornecedor**, **indicador** ou **transportador**. (Informação explicada no menu [**`Definição de tipo`**](/erp-v2/funcionalidades/parceiros/clientes.md#campo-definicao-de-tipo))
+É importante lembrar que dependendo do cliente que você cadastrar na **aba Clientes**, nas configurações, pode também definir este mesmo cliente como um **fornecedor**, **indicador** ou **transportador**. (Informação explicada no menu [**`Definição de tipo`**](/erp-v2/funcionalidades/parceiros/fornecedores.md#campo-definicao-de-tipo))
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -78,6 +78,8 @@ O campo **Nome** e **Razão social** precisam ser preenchidos conforme documenta
 Abaixo está nosso exemplo já preenchido, e nele deixaremos o campo código vazio, por não ter necessidade de uso em nosso caso.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campos_nome_razao.png)
+
+### Campo definição de tipo
 
 Ainda dos campos obrigatórios, o último é o de e-mail. Mas ao seu lado temos telefone, celular e telefone comercial. Estes contatos estão devidamente vinculados para o caso de uso de uma venda online. Por isso, seu preenchimento é importante.
 
