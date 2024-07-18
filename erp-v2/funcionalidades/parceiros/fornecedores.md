@@ -20,7 +20,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar fornecedor.
 
 {% hint style="warning" %}
-**Importar:** Caso queira mais informações sobre como importar clientes [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md).
+**Importar:** Caso queira mais informações sobre como importar fornecedores [**`clique aqui`**](/erp-v2/primeiro_acesso/importar.md).
 {% endhint %}
 
 {% hint style="warning" %}
