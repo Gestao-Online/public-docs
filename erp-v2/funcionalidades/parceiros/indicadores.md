@@ -104,3 +104,7 @@ No campo **parceiro indicador**, você coloca o nome de um cliente/parceiro que 
 Em nossa demonstração, não utilizaremos o parceiro indicador, pois este cadastro se trata justamente desta função.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_tipo_parceiro_indicador.png)
+
+Agora nos campos de endereço, segue o padrão, ao inserir o CEP a maioria dos campos serão preenchidos automaticamente. Sobrando apenas alguns específicos para você completar, esses campos para o caso de CNPJ podem já estar preenchidos conforme explicamos no primeiro campo no inicio:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campos_endereco.png)
