@@ -145,3 +145,30 @@ Observe abaixo o resultado:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_salvar.gif)
 
+## Guias após salvar nova transportadora
+
+Depois que salvar as informações da nova transportadora, novas guias ficarão disponíveis para você poder acessar, com contatos, parceiros indicados, histórico de indicações e histórico de movimentações/vendas.
+
+Em nosso exemplo como não definimos um **tipo parceiro** ou **parceiro indicador**, o cadastro fica mais simples, e irá aparecer somente a guia de contatos.
+
+### Guia contatos
+
+Nesta guia, você pode cadastrar os contatos com os quais esta transportadora possui algum tipo de vínculo.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_guia_contatos.png)
+
+E nesta mesma guia, quando cadastraremos um contato, além das informações básicas como nome, CPF e telefone. Colocamos as opções de dados bancários para situações em que precise:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_guia_contatos_add.png)
+
+## Menu após salvar a nova transportadora
+
+Logo após salvar a nova transportadora, um novo botão <img src="/erp-v2/assets/icon_atualizar_cad.png" alt="" data-size="line">para atualizar o cadastro desta transportadora ficará disponível no menu superior. Esta função se aplica apenas para o uso de CNPJ.
+
+Ao clicar neste botão, a plataforma da Gestão Online fará a busca dos dados da transportadora por CNPJ e fará o preenchimento das informações automaticamente para você.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_novo_menu.png)
+
+<br>
+
+<br>
