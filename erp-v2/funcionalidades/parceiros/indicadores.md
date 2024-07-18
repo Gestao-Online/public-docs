@@ -162,3 +162,11 @@ O primeiro campo para preencher é o de **Tabela de preço venda online**, essas
 No campo **tipo de negociação venda online**, você pode escolher uma das opções cadastradas que tem vínculo com a aba [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md). Para nosso exemplo, iremos marcar a opção **Boleto - GOPag**:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_tipo_negociacao.png)
+
+No campo de **produtos venda online**, você informará os produtos liberados para venda online desta parceria. Para mais informações sobre o cadastro de produtos, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md)
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_venda_produtos.png)
+
+Por último, o botão de **gerar link**, quando você clicar nele, uma janela com o link único de acesso será mostrada para você:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_venda_btn_link.png)
