@@ -71,3 +71,11 @@ Observe abaixo nossa demonstração, digitamos o CNPJ da Gestão.Online e observ
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_campos_tipo_pessoa.gif)
 
+Seguindo com o preenchimento dos campos, cadastraremos uma transportadora com CNPJ, pois este tipo aborda mais campos de preenchimento que precisam de sua atenção.
+
+O campo **Nome** e **Razão social** precisam ser preenchidos conforme documentação da transportadora, e logo ao lado do campo nome tem o campo **Código** que pode ser utilizado caso esteja trazendo informações desta transportadora de outro sistema.
+
+Abaixo está nosso exemplo já preenchido, e nele deixaremos o campo código vazio, por não ter necessidade de uso em nosso caso.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_campos_nome_razao.png)
+
