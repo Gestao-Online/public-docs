@@ -61,7 +61,7 @@ No momento do cadastro de um novo indicador, você precisará preencher alguns c
 **Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados do indicador. 😉👍
 {% endhint %}
 
-![Exemplo de campos obrigatórios para CNPJ](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador.png)
+![Exemplo de campos obrigatórios para CPF](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador.png)
 
 Para o primeiro e segundo campo de preenchimento você pode digitar o CPF para o tipo pessoa física, ou CNPJ para o tipo pessoa jurídica. 
 
