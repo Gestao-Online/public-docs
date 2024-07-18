@@ -108,3 +108,10 @@ Em nossa demonstração, não utilizaremos o parceiro indicador, pois este cadas
 Agora nos campos de endereço, segue o padrão, ao inserir o CEP a maioria dos campos serão preenchidos automaticamente. Sobrando apenas alguns específicos para você completar, esses campos para o caso de CNPJ podem já estar preenchidos conforme explicamos no primeiro campo no inicio:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campos_endereco.png)
+
+### Dados Fiscais
+
+Nesta parte você precisa preencher os dados conforme as orientações do contador da sua empresa. Possui apenas dois campos para preenchimento o de **retenção de ISS** sobre a emissão de NFS-e, e o de **Indicador de Incrição Estadual**. Estas informações são importantes para que o sistema de NFS-e funcione corretamente em nossa plataforma:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_fiscais.png)
+
