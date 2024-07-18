@@ -148,3 +148,13 @@ No campo **Categoria parceiro**, você pode organizar em casos de parceria de in
 Ao lado, no campo tabela de preço indicação, você coloca a tabela de preço que contenha os ganhos/comissões por indicação de vendas, e ao lado deste campo você coloca a data de início da parceria de indicação.  Para mais informações sobre as tabelas de indicações, [**`clique aqui`**](/erp-v2/funcionalidades/indicadores_afiliados/tabelas_indicacao.md)
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_tabela_indicacao.gif)
+
+### Dados para parceria com venda online
+
+Quando ativamos a opção **Gerar link venda online**, mais opções ficam disponíveis para preenchermos:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_venda_online.png)
+
+O primeiro campo para preencher é o de **Tabela de preço venda online**, essas tabelas já devem estar criadas e configuradas na aba **Tabela de preços**. Para mais informações sobre as tabelas de preços, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_venda_online_tabela.gif)
