@@ -26,3 +26,20 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_contas_menu.png)
+
+## Botão relatório de fluxo de caixa financeiro
+
+Ao clicar neste botão uma janela será aberta para que você preencha os dados para emitir um relatório. De forma simples, podemos dizer que este relatório de fluxo de caixa é usado por você para acompanhar a situação financeira da sua empresa.
+
+Nesta janela aberta tem alguns campos de preenchimento obrigatório, sendo eles **Conta** e **Tipo**. Conforme marcado na imagem abaixo:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_contas_btn_fluxo_caixa.png)
+
+Ao clicar no primeiro campo de **Conta** será carregado as contas cadastradas na plataforma. Lembrando que estas são as contas que aparecem nesta aba.
+
+Você pode definir a **data de inicio e fim** dos relatórios que serão exibidos, e o **tipo de arquivo**, que pode ser `PDF` ou `EXCEL` para efeutar o download.
+
+Observe abaixo o exemplo que fizemos, o relatório é mostrado em uma nova aba permitindo o download ou impressão. Nosso relatório é somente para ilustrar, não possui dados de entrada ou saída.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_contas_btn_fluxo_caixa_conta.gif)
+
