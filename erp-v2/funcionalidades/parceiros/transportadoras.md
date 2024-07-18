@@ -79,3 +79,23 @@ Abaixo está nosso exemplo já preenchido, e nele deixaremos o campo código vaz
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_campos_nome_razao.png)
 
+### Campo definição de tipo
+
+Ainda dos campos obrigatórios, o último é o de e-mail. Mas ao seu lado temos telefone, celular e telefone comercial. Estes contatos estão devidamente vinculados para o caso de uso de uma venda online. Por isso, seu preenchimento é importante.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_campo_email_telefones.png)
+
+Descendo mais um pouco nos deparamos com três campos que tem vínculo com outras abas em nosso sistema. O primeiro é o tipo, aqui você define se este será um **cliente**, **fornecedor**, **indicador** ou **transportadora**. Este mesmo campo permite marcar mais de um tipo para esse cadastro que estamos fazendo.
+
+Observe a demonstração abaixo utilizando esta opção. Mas seguiremos somente com o tipo transportadora selecionado.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadora_add_transportadora_campo_tipo.gif)
+
+Ao lado dele, temos o **Tipo parceiro** que serve como uma forma de classificar esse cadastro que estamos fazendo, para auxiliar nas buscas da **aba de parceiros**. 
+
+Essa classificação pode ser feita por você clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar novo tipo de parceiro. Ou clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o tipo selecionado.
+
+Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo não iremos marcar nenhuma opção, pois será um cadastro simples.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_campo_tipo_parceiro.gif)
+
