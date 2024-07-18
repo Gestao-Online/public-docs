@@ -215,9 +215,9 @@ Nesta guia, todas as vendas realizadas com este cliente/fornecedor/indicador fic
 
 ## Menu após salvar novo indicadores
 
-Logo após salvar o novo indicador, um novo botão <img src="/erp-v2/assets/icon_atualizar_cad.png" alt="" data-size="line">para atualizar o cadastro deste indicador ficará disponível no menu superior, esta função se aplica apenas para o uso de CNPJ.
+Logo após salvar o novo indicador, um novo botão <img src="/erp-v2/assets/icon_atualizar_cad.png" alt="" data-size="line">para atualizar o cadastro deste indicador ficará disponível no menu superior. Esta função se aplica apenas para o uso de CNPJ.
 
-Ao clicar neste botão a plataforma da Gestão Online fará a busca dos dados do indicador por CNPJ e fará o preenchimento das informações automaticamente para você.
+Ao clicar neste botão, a plataforma da Gestão Online fará a busca dos dados do indicador por CNPJ e fará o preenchimento das informações automaticamente para você.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicadores_novo_menu.png)
 
