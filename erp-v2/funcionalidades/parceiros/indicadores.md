@@ -135,3 +135,16 @@ Os demais campos serão preenchidos por nosso sistema, para controle interno. Ob
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campos_detalhes.png)
 
+### Dados da parceria de indicação
+
+Por último, em dados de parceria, você pode colocar uma descrição da parceria que ficará em páginas públicas, LandingPages/Venda Online, Link de pagamento, etc. Pode também inserir uma imagem com a logo desse indicador para aparecer em links de vendas online.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campos_dados_parceria.gif)
+
+No campo **Categoria parceiro**, você pode organizar em casos de parceria de indicação usando as categorias cadastradas no sistema:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campos_categoria_parceiro.png)
+
+Ao lado, no campo tabela de preço indicação, você coloca a tabela de preço que contenha os ganhos/comissões por indicação de vendas, e ao lado deste campo você coloca a data de início da parceria de indicação.  Para mais informações sobre as tabelas de indicações, [**`clique aqui`**](/erp-v2/funcionalidades/indicadores_afiliados/tabelas_indicacao.md)
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_tabela_indicacao.gif)
