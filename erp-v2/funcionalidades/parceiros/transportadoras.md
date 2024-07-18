@@ -111,3 +111,9 @@ Agora, nos campos de endereço, será o padrão, ao inserir o CEP, a maioria dos
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_campos_endereco.png)
 
+### Dados Fiscais
+
+Nesta parte, você precisa preencher os dados conforme as orientações do contador da sua empresa. Possui apenas dois campos para preenchimento, o de **retenção de ISS** sobre a emissão de NFS-e, e o de **Indicador de Inscrição Estadual**. Estas informações são importantes para que o sistema de NFS-e funcione corretamente em nossa plataforma:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_dados_fiscais.png)
+
