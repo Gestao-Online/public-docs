@@ -39,3 +39,19 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add.png)
 
+Após clicarmos no botão adicionar transportadora, uma nova página será aberta e nela, ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line"> Realizar venda;
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;   
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar rascunho;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+Lembrando que este menu ganhará um novo botão quando salvarmos este novo transportadora.
+
+{% hint style="warning" %}
+**Vendas:** Caso queira informações sobre como realizar uma venda, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_menu.png)
+
