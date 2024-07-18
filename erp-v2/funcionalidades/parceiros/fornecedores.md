@@ -137,7 +137,7 @@ Os demais campos serão preenchidos por nosso sistema, para controle interno. Ob
 
 ### Dados da parceria de indicação
 
-Por último, em dados de parceria, você pode colocar uma descrição da parceria que ficará em páginas públicas, LandingPages/Venda Online, Link de pagamento, etc. Pode também inserir uma imagem com a logo desse cliente para aparecer em links de vendas online.
+Por último, em dados de parceria, você pode colocar uma descrição da parceria que ficará em páginas públicas, LandingPages/Venda Online, Link de pagamento, etc. Pode também inserir uma imagem com a logo desse fornecedor para aparecer em links de vendas online.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_campos_dados_parceria.gif)
 
