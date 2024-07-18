@@ -99,3 +99,8 @@ Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo marcar
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_tipo_parceiro.gif)
 
+No campo **parceiro indicador**, você coloca o nome de um cliente/parceiro que fez a indicação para o cadastro. Este campo está vinculado ao sistema de pagamento de comissões, que está presente no momento da realização de uma venda. Caso queira mais informações sobre **parceiros indicadores** [**`clique aqui`**](/erp-v2/funcionalidades/indicadores_afiliados/parceiros_indicadores.md).
+
+Em nossa demonstração, não utilizaremos o parceiro indicador, pois este cadastro se trata justamente desta função.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_tipo_parceiro_indicador.png)
