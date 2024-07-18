@@ -170,3 +170,57 @@ No campo de **produtos venda online**, você informará os produtos liberados pa
 Por último, o botão de **gerar link**, quando você clicar nele, uma janela com o link único de acesso será mostrada para você:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_venda_btn_link.png)
+
+## Salvando um novo indicador
+
+Após o preenchimento destas informações, você pode salvar os dados do novo indicador, e atualmente algumas guias ficarão disponíveis para você acessar.
+
+Observe abaixo o resultado:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_salvar.gif)
+
+## Guias após salvar novo indicador
+
+Depois que salvar as informações do novo indicador, novas guias ficarão disponíveis para você poder acessar, com contatos, parceiros indicados, histórico de indicações e histórico de movimentações/vendas.
+
+### Guia contatos
+
+Nesta guia, você pode cadastrar os contatos com os quais este indicador possui algum tipo de vínculo.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_guia_contatos.png)
+
+E nesta mesma guia, quando cadastraremos um contato, além das informações básicas como nome, CPF e telefone. Colocamos as opções de dados bancários para situações em que precise:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_guia_contatos_add.png)
+
+### Guia parceiros indicados
+
+Nesta guia, você coloca os parceiros indicados, lembrando que eles recebem comissão por vendas realizadas para este cliente/fornecedor/indicador. Nesta guia, pode usar o botão de importação caso tenha muitos parceiros indicados, ou pode adicionar manualmente. 
+
+Caso tenha dúvidas sobre como funciona o sistema de importação, [**`Clique aqui`**](/erp-v2/primeiro_acesso/importar.md).
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_guia_parceiros_indicados_add.png)
+
+### Guia histórico de indicações
+
+Quando as vendas acontecem e o parceiro indicador é colocado, aqui ficam registradas essas movimentações, com nome do parceiro indicador, valor da venda, valor de referência, data e status.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_guia_histórico_indicacoes.png)
+
+### Guia histórico de movimentações/vendas
+
+Nesta guia, todas as vendas realizadas com este cliente/fornecedor/indicador ficarão registradas. Esta guia tem a mesma funcionalidade da guia de vendas, podendo acompanhar somente as vendas deste cliente/fornecedor/indicador. Para mais informações sobre a aba de vendas e suas funcionalidades, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_guia_historico_movimentacoes.png)
+
+## Menu após salvar novo indicadores
+
+Logo após salvar o novo indicador, um novo botão <img src="/erp-v2/assets/icon_atualizar_cad.png" alt="" data-size="line">para atualizar o cadastro deste indicador ficará disponível no menu superior, esta função se aplica apenas para o uso de CNPJ.
+
+Ao clicar neste botão a plataforma da Gestão Online fará a busca dos dados do indicador por CNPJ e fará o preenchimento das informações automaticamente para você.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicadores_novo_menu.png)
+
+<br>
+
+<br>
