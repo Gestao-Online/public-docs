@@ -107,7 +107,7 @@ Agora nos campos de endereço segue o padrão, ao inserir o CEP a maioria dos ca
 
 ### Dados Fiscais
 
-Nesta parte você precisa preencher os dados conforme as orientações do contador da sua empresa. Possui apenas dois campos para preenchimento o de **retenção de ISS** sobre a emissão de NFS-e, e o de **Indicador de Incrição Estadual**:
+Nesta parte você precisa preencher os dados conforme as orientações do contador da sua empresa. Possui apenas dois campos para preenchimento o de **retenção de ISS** sobre a emissão de NFS-e, e o de **Indicador de Inscrição Estadual**:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_dados_fiscais.png)
 
