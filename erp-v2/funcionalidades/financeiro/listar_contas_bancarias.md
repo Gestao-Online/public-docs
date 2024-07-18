@@ -64,4 +64,17 @@ No momento do cadastro de uma nova conta bancária, você precisará preencher a
 **Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados da conta bancária. 😉👍
 {% endhint %}
 
-![](/erp-v2/assets/funcionalidades/parceiros/aba_listar_add_cliente.png)
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta.png)
+
+No primeiro campo temos as opções de contas, cada uma mostrará novos campos para você preencher e complementar o cadastro da conta bancária, vejamos cada uma das opções abaixo.
+
+### Conta tipo caixinha
+
+Usado por exemplo para o caixa de uma loja, esta opção exibe somente os campos de **Descrição** e escolha da empresa, as informações bloqueadas de alteração são **Saldo inicial**, **Data Saldo inicial** e **Tipo conciliação**.
+
+Na descrição você pode colocar um nome que facilite a identificação desta conta bancária quando precisa buscá-la para uso.
+
+Já no campo de empresa, o vínculo é feito com a **aba empresas**, e você pode escolher uma empresa cadastrada. E para mais informações sobre a aba Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md)
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_caixinha.png)
+
