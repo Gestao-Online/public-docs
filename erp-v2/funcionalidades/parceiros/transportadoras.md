@@ -117,3 +117,31 @@ Nesta parte, você precisa preencher os dados conforme as orientações do conta
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_dados_fiscais.png)
 
+### Detalhes
+
+Na parte de detalhes sobre esta transportadora que você está cadastrando, pode colocar uma **etiqueta** para facilitar na busca/organização, deixar alguma descrição importante para caso precise. 
+
+E ainda pode definir um vendedor para atender esta transportadora. Este vínculo faz com que somente este vendedor atenda a ele. Se deixar o espaço em branco, qualquer vendedor poderá atendê-lo em uma venda.
+
+{% hint style="warning" %}
+**Vendedores:** Caso queira mais informações sobre cadastro de vendedores, [**`clique aqui`**](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md).
+{% endhint %}
+
+Precisa também definir uma unidade de atendimento desta transportadora, lembrando que o vínculo com a unidade irá definir as tabelas de preços para custo e comissão, e também os produtos disponíveis para a aba de venda.
+
+{% hint style="warning" %}
+**Unidades:** Caso queira mais informações sobre cadastro de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+{% endhint %}
+
+Os demais campos serão preenchidos por nosso sistema, para controle interno. Observe nosso exemplo de preenchimento, deixamos a etiqueta em branco, pois não é um item obrigatório:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_campos_detalhes.png)
+
+## Salvando uma nova transportadora
+
+Após o preenchimento destas informações, você pode salvar os dados da nova transportadora, e atualmente algumas guias ficarão disponíveis para você acessar.
+
+Observe abaixo o resultado:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_salvar.gif)
+
