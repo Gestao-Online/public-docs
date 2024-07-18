@@ -180,7 +180,7 @@
       * [🎁 Produtos](erp-v2/funcionalidades/produtos_servicos/produtos.md)
       * [🫙 Categoria de Produto](erp-v2/funcionalidades/produtos_servicos/categoria_produto.md)
       * [🧩 Grupo de produto](erp-v2/funcionalidades/produtos_servicos/grupo_produto.md)
-      * [🎟️ Vouchers](/erp-v2/funcionalidades/produtos_servicos/vouchers.md)
+      * [🎟️ Vouchers/Vale presente](/erp-v2/funcionalidades/produtos_servicos/vouchers.md)
 
   * [📒 Guia de utilizaçāo](erp-v2/guia/README.md)
     * [Como configurar o sistema para emissão de notas fiscais de serviço (NFSe)](erp-v2/guia//.md)
