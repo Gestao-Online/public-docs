@@ -63,3 +63,11 @@ No momento do cadastro de uma nova transportadora, você precisará preencher al
 
 ![Exemplo de campos obrigatórios para CNPJ](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras.png)
 
+Para o primeiro e segundo campo de preenchimento você pode digitar o CPF para o tipo pessoa física, ou CNPJ para o tipo pessoa jurídica. 
+
+Ao digitar um CNPJ, e clicar fora do campo, nosso sistema fará o reconhecimento dos dados automaticamente para você, e preencher o máximo de informações possíveis. 😁👍
+
+Observe abaixo nossa demonstração, digitamos o CNPJ da Gestão.Online e observe que os dados são carregados automaticamente:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_campos_tipo_pessoa.gif)
+
