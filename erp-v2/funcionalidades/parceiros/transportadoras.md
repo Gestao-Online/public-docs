@@ -99,3 +99,15 @@ Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo não i
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_campo_tipo_parceiro.gif)
 
+No campo **parceiro indicador**, você coloca o nome de um cliente/parceiro que fez a indicação para o cadastro. Este campo está vinculado ao sistema de pagamento de comissões, que está presente no momento da realização de uma venda. 
+
+Caso queira mais informações sobre **parceiros indicadores** [**`clique aqui`**](/erp-v2/funcionalidades/indicadores_afiliados/parceiros_indicadores.md).
+
+Em nossa demonstração, não utilizaremos o campo parceiro indicador, pois será um cadastro simples de transportadora.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_campo_tipo_parceiro_indicador.png)
+
+Agora, nos campos de endereço, será o padrão, ao inserir o CEP, a maioria dos campos será preenchida automaticamente. Sobrando apenas alguns específicos para você completar, esses campos para o caso de CNPJ podem já estar preenchidos conforme explicamos no primeiro campo no início:
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_campos_endereco.png)
+
