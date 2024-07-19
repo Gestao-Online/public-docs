@@ -68,7 +68,7 @@ No momento do cadastro de uma nova conta bancária, você precisará preencher a
 
 No primeiro campo temos as opções de contas, cada uma mostrará novos campos para você preencher e complementar o cadastro da conta bancária, vejamos cada uma das opções abaixo.
 
-### Conta tipo caixinha
+## Conta tipo caixinha
 
 Usado por exemplo para o caixa de uma loja, esta opção exibe somente os campos de **Descrição** e escolha da empresa, as informações bloqueadas de alteração são **Saldo inicial**, **Data Saldo inicial** e **Tipo conciliação**.
 
@@ -78,7 +78,7 @@ Já no campo de empresa, o vínculo é feito com a **aba empresas**, e você pod
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_caixinha.png)
 
-### Conta tipo poupança
+## Conta tipo poupança e Corrente
 
 Além dos campos padrões **Tipo**, **Descrição** e **Empresa**, também fica disponível o campo de **Banco**, **Agência bancária** e **Conta**.
 
@@ -93,13 +93,13 @@ Nestes campos você pode clicar e nossa plataforma fará a busca dos bancos cada
 
 Na parte final da página, tem o botão **Pagamento Boleto**, podendo ser utilizando em pagamentos do tipo online ou PDV (Ponto De Venda), nisso novos campos serão mostrados para você preencher, temos então as duas opções:
 
-#### Dados para geração de transação
+### Dados para geração de transação
 
 Este **Token e/ou Número Convênio** tem uma relação direta e fundamental com a emissão de um boleto bancário, pois ele identifica a empresa ou entidade que está emitindo o boleto dentro do sistema do banco. Cada cedente possui um código único que permite ao banco distinguir entre diferentes empresas que utilizam seus serviços de cobrança.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_convenio.png)
 
-#### Dados para geração do boleto
+### Dados para geração do boleto
 
 Dos campos para preenchimento você tem, **Nosso Número Sequência**, nele o código do /Convênio é frequentemente utilizado como parte da fórmula para gerar o "Nosso Número", que é o identificador único de cada boleto. A inclusão do código ajuda a garantir que cada "Nosso Número" seja único e rastreável.
 
@@ -141,6 +141,21 @@ Os últimos dois campos para preenchimento são, os **Dias Limite** para definir
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_dias_variacao.png)
 
-<br>
+## Conta tipo cartão de crédito
 
-<br>
+Com a opção tipo **Cartão de Crédito** definida, será solicitado o banco. Lembrando que você pode adicionar um novo banco com o atalho do ícone <img src="/erp-v2/assets/icon_adds.png" alt="" data-size="line">, ou então editar um banco já cadastrado clicando no ícone <img src="/erp-v2/assets/icon_nova_aba.png" alt="" data-size="line">. 
+
+{% hint style="warning" %}
+**Bancos:** Caso queira mais informações sobre como cadastrar novos bancos, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/bancos.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_cc_banco.png)
+
+Já no campo de empresa, o vínculo é feito com a **aba empresas**, e você pode escolher uma empresa cadastrada. E para mais informações sobre a aba Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md)
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_cc_empresa.png)
+
+Os últimos campos para configurar são os de **Multa percentual** e **Juro percentual** quando o cliente atrasa o pagamento da fatura. O Código de Defesa do Consumidor (CDC) estabelece que essa multa é de 2% ao mês, independentemente do número de dias de atraso. Além disso, também há a cobrança de juros de mora, que não pode ultrapassar 1% ao mês. Assim, a soma da multa por atraso e dos juros de mora pode chegar a 3% ao mês.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_cc_multa_juro.png)
+
