@@ -20,7 +20,7 @@ Aqui você encontrará os itens de conta bancária, bancos, agências bancárias
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/fiscal/listar_contas_bancarias.md">listar_contas_bancarias.md</a>
+                    <a href="/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md">listar_contas_bancarias.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_carteira.png">icon_carteira.png</a>
@@ -33,7 +33,7 @@ Aqui você encontrará os itens de conta bancária, bancos, agências bancárias
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/fiscal/extratos_conta_bancaria.md">extratos_conta_bancaria.md</a>
+                    <a href="/erp-v2/funcionalidades/financeiro/extratos_conta_bancaria.md">extratos_conta_bancaria.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_folha.png">icon_folha.png</a>
@@ -46,7 +46,7 @@ Aqui você encontrará os itens de conta bancária, bancos, agências bancárias
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/fiscal/movimentacao_conta_bancaria.md">movimentacao_conta_bancaria.md</a>
+                    <a href="/erp-v2/funcionalidades/financeiro/movimentacao_conta_bancaria.md">movimentacao_conta_bancaria.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_movimentacao.png">icon_movimentacao.png</a>
@@ -59,7 +59,7 @@ Aqui você encontrará os itens de conta bancária, bancos, agências bancárias
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/fiscal/bancos.md">bancos.md</a>
+                    <a href="/erp-v2/funcionalidades/financeiro/bancos.md">bancos.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_banco.png">icon_banco.png</a>
@@ -72,7 +72,7 @@ Aqui você encontrará os itens de conta bancária, bancos, agências bancárias
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/fiscal/agencia_bancaria.md">agencia_bancaria.md</a>
+                    <a href="/erp-v2/funcionalidades/financeiro/agencia_bancaria.md">agencia_bancaria.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_banco.png">icon_banco.png</a>
@@ -85,7 +85,7 @@ Aqui você encontrará os itens de conta bancária, bancos, agências bancárias
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/fiscal/contas_pagar.md">contas_pagar.md</a>
+                    <a href="/erp-v2/funcionalidades/financeiro/contas_pagar.md">contas_pagar.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_folha_up.png">icon_folha_up.png</a>
@@ -98,7 +98,7 @@ Aqui você encontrará os itens de conta bancária, bancos, agências bancárias
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/fiscal/tipo_negociacao.md">tipo_negociacao.md</a>
+                    <a href="/erp-v2/funcionalidades/financeiro/tipo_negociacao.md">tipo_negociacao.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_baloes.png">icon_baloes.png</a>
@@ -111,7 +111,7 @@ Aqui você encontrará os itens de conta bancária, bancos, agências bancárias
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/fiscal/contas_receber.md">contas_receber.md</a>
+                    <a href="/erp-v2/funcionalidades/financeiro/contas_receber.md">contas_receber.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_folha_down.png">icon_folha_down.png</a>
@@ -124,7 +124,7 @@ Aqui você encontrará os itens de conta bancária, bancos, agências bancárias
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/fiscal/titulos_avulsos.md">titulos_avulsos.md</a>
+                    <a href="/erp-v2/funcionalidades/financeiro/titulos_avulsos.md">titulos_avulsos.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_financeiro.png">icon_financeiro.png</a>
@@ -137,7 +137,7 @@ Aqui você encontrará os itens de conta bancária, bancos, agências bancárias
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/fiscal/fluxo_caixa.md">fluxo_caixa.md</a>
+                    <a href="/erp-v2/funcionalidades/financeiro/fluxo_caixa.md">fluxo_caixa.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_fluxo.png">icon_fluxo.png</a>
