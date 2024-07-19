@@ -78,3 +78,69 @@ Já no campo de empresa, o vínculo é feito com a **aba empresas**, e você pod
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_caixinha.png)
 
+### Conta tipo poupança
+
+Além dos campos padrões **Tipo**, **Descrição** e **Empresa**, também fica disponível o campo de **Banco**, **Agência bancária** e **Conta**.
+
+Nestes campos você pode clicar e nossa plataforma fará a busca dos bancos cadastrados, observe o exemplo abaixo:
+
+{% hint style="warning" %}
+**Bancos:** Caso queira mais informações sobre como cadastrar novos bancos, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/bancos.md).
+**Agências:** E para mais informações sobre cadastrar agências bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/agencia_bancaria.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca.gif)
+
+Na parte final da página, tem o botão **Pagamento Boleto**, podendo ser utilizando em pagamentos do tipo online ou PDV (Ponto De Venda), nisso novos campos serão mostrados para você preencher, temos então as duas opções:
+
+#### Dados para geração de transação
+
+Este **Token e/ou Número Convênio** tem uma relação direta e fundamental com a emissão de um boleto bancário, pois ele identifica a empresa ou entidade que está emitindo o boleto dentro do sistema do banco. Cada cedente possui um código único que permite ao banco distinguir entre diferentes empresas que utilizam seus serviços de cobrança.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_convenio.png)
+
+#### Dados para geração do boleto
+
+Dos campos para preenchimento você tem, **Nosso Número Sequência**, nele o código do /Convênio é frequentemente utilizado como parte da fórmula para gerar o "Nosso Número", que é o identificador único de cada boleto. A inclusão do código ajuda a garantir que cada "Nosso Número" seja único e rastreável.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_nosso_numero.png)
+
+Logo na sequência tem os campos de **mensagem personalizada** e **Local pagamento**, podem ser utilizadas para explicar sobre multas e juros que serão aplicadas ao boleto, e dar instruções sobre o local de pagamento.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_mensagens.png)
+
+Agora no tipo de multa você tem três opções disponívei, sendo elas, **isento**, **valor em reais** e **valor em percentual**. Ao escolher reais ou percentual, um novo campo será mostrado para você definir o valor:
+
+{% hint style="warning" %}
+**Valor Multa:** De acordo com o **Código Tributário Nacional** o valor da multa para boletos não pode passar de 2%.
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_multa.png)
+
+Pode também configurar o juro mora ou moratórios, podendo ser em dinheiro ou porcentagem igual o exemplo da multa que mostramos acima.
+
+{% hint style="warning" %}
+**Valor Juro:** Esses juros consistem em uma taxa aplicada sobre o atraso no pagamento de uma conta, sendo possível colocar 1% ao mês no máximo, conforme estabelecido pelo **Código Tributário Nacional**.
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_juro.png)
+
+**Espécie do documento**, as espécies precisam ser usadas de acordo com o tipo de documento que você vai usar para pagar, ou se o banco pedir um tipo específico. Pois garante a segurança e a finalidade do boleto emitido.
+
+Das espécies mais comuns nós temos:
+
+- **DM - Duplicata mercantil:** um título de crédito no qual o comprador se compromete a pagar o valor indicado na fatura dentro de um prazo mínimo de 30 dias.
+
+- **DR - Duplicata Rural:** usada para vendas a prazo de bens agrícolas, extrativos ou pastoris, realizadas diretamente por produtores rurais ou suas cooperativas, também pode ser utilizada como título de crédito.
+
+- **NP - Nota promissória:** é um documento que serve como promessa de pagamento de uma dívida.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_especie.png)
+
+Os últimos dois campos para preenchimento são, os **Dias Limite** para definir a quantidade de dias limite para pagamento após o vencimento do boleto. E o campo **Variação da carteira** que é usado somente pelo Banco do Brasil:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_dias_variacao.png)
+
+<br>
+
+<br>
