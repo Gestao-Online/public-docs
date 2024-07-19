@@ -159,3 +159,72 @@ Os últimos campos para configurar são os de **Multa percentual** e **Juro perc
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_cc_multa_juro.png)
 
+## Conta tipo meios de recebimento
+
+Opção essa também recomendada para o tipo loja física, pois deixa disponível várias opções de pagamento.
+
+As informações seguem sendo as mesmas dos demais tipos falados acima, sendo necessário informar o **Banco**, a **Descrição** e a **Empresa**. 
+
+O que diferencia são os vários tipo de forma de pagamento, a primeira sendo o [**`Boleto`**](https://docs.gestao.plus/erp-v2/funcionalidades/financeiro/listar_contas_bancarias#dados-para-geracao-do-boleto), que já foi explicado logo acima, o segundo sendo o **`Cartão`** que já foi explicado também no tópico anterior.
+
+Agora na opção **`Cartão físico`** é usado para pagamento por máquina física POS m-POS e/ou PINPAD.
+
+E por último o pagamento por PIX, precisando somente do banco para o recebimento dos pagamentos.
+
+Todas as transações estarão vinculadas ao Token/número do convênio, que explicamos acima, para revê-lo [**`clique aqui`**](https://docs.gestao.plus/erp-v2/funcionalidades/financeiro/listar_contas_bancarias#dados-para-geracao-de-transacao)
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_cc_formas_pagamento.png)
+
+## Salvando uma conta bancária
+
+Após fazer o preenchimento dos dados e definir qual conta você precisa cadastrar, voocê pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para que ela seja registrada e fique disponível para utilização:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_salvar.gif)
+
+## Guias após salvar nova conta
+
+Assim que você salvar a conta bancária as novas guias estarão disponíveis pra você utilizar. Delas são a de **Movimentações/Transferências**, **Saldo**, **Arquivo remessa** e **Arquivos retorno**. 
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia.png)
+
+### Guia Movimentações/Transferências
+
+Aqui estão todas as movimentações bancárias entre as contas, desde saques, resgates, aplicações ou até mesmo depósitos.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes.png)
+
+As movimentações podem ser inseridas manualmente, ao clicar em adicionar uma nova movimentação/transferência você terá alguns campos para preencher, o primeiro é o tipo, com algumas opções para você escolher. Em nosso exemplo de demonstração, vamos marcar a opção depósito:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_tipo.png)
+
+Logo em seguida, é preciso preencher a data de lançamento, lmebrando que este item é obrigatório.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_data_lancamento.png)
+
+Na sequência, temos os campos de valor, para definir qual a quantia da movimentação, a conta (Que é preenchida automaticamente não podendo ser modificada), e o tipo de lançamento, sendo um débito ou crédito.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_valor_conta_lancamento.png)
+
+
+
+### Guia Saldo
+
+Nesta guia ficam os valores do saldo da conta cadastrada desde o seu saldo inicial.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_saldo.png)
+
+### Guia Arquivo remessa
+
+O arquivo de remessa é um documento enviado ao banco ou instituição financeira para notificar a emissão de uma cobrança registrada, como um boleto, por exemplo. 
+
+Esse arquivo inclui informações que possibilitam registrar ou dar baixas em cobranças, realizar pagamentos de títulos, impostos e processar a folha de pagamento.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_remessa.png)
+
+### Guia Arquivos retorno
+
+O arquivo de retorno é a resposta do banco às transações registradas no arquivo de remessa. 
+
+Ele contém informações detalhadas sobre as transações originadas a partir da remessa, incluindo, por exemplo, a confirmação do pagamento das taxas condominiais pelos condôminos.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_retorno.png)
