@@ -77,8 +77,7 @@
   
   * [👩‍💻 Criar e/ou Recuperar acesso](erp-v2/criar_recuperar_acesso/README.md)
     * [✅ Email de confirmação de cadastro de usuário](erp-v2/criar_recuperar_acesso/email_cad_usuario_novo.md)
-    * [🔐 Recuperar aces
-    so e ativar conta](erp-v2/criar_recuperar_acesso/recuperar_acesso.md)
+    * [🔐 Recuperar acesso e ativar conta](erp-v2/criar_recuperar_acesso/recuperar_acesso.md)
   
   * [🥇 Como utilizar](erp-v2/primeiro_acesso/README.md)
     * [🧑‍🏫 Apresentação da barra de navegação (abas, botões)](erp-v2/primeiro_acesso/apresentacao_barra_navegacao.md)
@@ -119,15 +118,14 @@
       * [#️⃣ Tipo de agendamentos](erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos.md)
 
     * [💰 Financeiro](erp-v2/funcionalidades/financeiro/README.md)
+      * [💳 Listar contas](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md)
+      * [🧾 Extratos de conta bancária](/erp-v2/funcionalidades/financeiro/extratos_conta_bancaria.md)
+      * [🔁 Movimentação conta bancária](/erp-v2/funcionalidades/financeiro/movimentacao_conta_bancaria.md)
       * [📄 Fluxo de caixa](/erp-v2/funcionalidades/financeiro/fluxo_caixa.md)
       * [⬆️ Contas a pagar (Despesas)](/erp-v2/funcionalidades/financeiro/contas_pagar.md)
       * [⬇️ Contas a receber (Receitas)](/erp-v2/funcionalidades/financeiro/contas_receber.md)
       * [🏦 Bancos](/erp-v2/funcionalidades/financeiro/bancos.md)
       * [🏦 Agência bancária](/erp-v2/funcionalidades/financeiro/agencia_bancaria.md)
-      * [🪪 Conta bancária](/erp-v2/funcionalidades/financeiro/conta_bancaria.md)
-        * [💳 Listar contas](/erp-v2/funcionalidades/financeiro/listar_contas.md)
-        * [🧾 Extratos de conta bancária](/erp-v2/funcionalidades/financeiro/extratos_conta_bancaria.md)
-        * [🔁 Movimentação conta bancária](/erp-v2/funcionalidades/financeiro/movimentacao_conta_bancaria.md)
       * [🪙 Títulos avulsos](/erp-v2/funcionalidades/financeiro/titulos_avulsos.md)
       * [💱 Tipo de negociação](erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
 
