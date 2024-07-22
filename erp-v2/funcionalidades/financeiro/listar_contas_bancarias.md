@@ -209,11 +209,13 @@ Por último, temos a descrição da movimentação, para poder identificar a mov
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_descricao.png)
 
-Após salvar esta movimentação, ela ficará com um status definido como **Pendente de conciliação**
+Após salvar esta movimentação, ela ficará com um status definido como **Pendente de conciliação**, caso já tenha confirmado a conciliação, você pode mudar o status manualmente clicando com o botão direito do mouse sobre a movimentação, observe nosso exemplo abaixo, mudando essa movimentação do tipo depósito.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_mudar_concilicaca.gif)
 
 ### Guia Saldo
 
-Nesta guia ficam os valores do saldo da conta cadastrada desde o seu saldo inicial.
+Nesta guia ficam os valores do saldo da conta cadastrada desde o seu saldo inicial, todas as movimentações registradas aqui são feitas automaticamente, somente para pareciação, não tendo opção de adicionar/remover manualmente.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_saldo.png)
 
@@ -224,6 +226,10 @@ O arquivo de remessa é um documento enviado ao banco ou instituição financeir
 Esse arquivo inclui informações que possibilitam registrar ou dar baixas em cobranças, realizar pagamentos de títulos, impostos e processar a folha de pagamento.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_remessa.png)
+
+Você pode adicionar o arquivo remessa manualmente, clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar 
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_remessa_add.png)
 
 ### Guia Arquivos retorno
 
