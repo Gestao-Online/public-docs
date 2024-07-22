@@ -51,13 +51,34 @@ A primeira opção para preenchimento é o tipo de movimentação, das opções 
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campo_tipo.png)
 
-Com a opção tipo transferência selecionado, é necessário definir uma conta de destino. Essa conta de destino precisa já estar cadastrada na aba **Listar contas**. Caso queira mais informações sobre esta aba, [**`Clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md).
+Com a opção tipo transferência selecionado, é necessário definir uma conta de destino. Essa conta de destino precisa já estar cadastrada na aba **Listar contas**.
 
 Além de definir a conta de destino, você também precisa marcar qual tipo de destino será, sendo débito ou crédito.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campo_tipo_transferencia.png)
 
-Para nosso exemplo, vamos marcar o campo **Tipo** para saque, e definir a data de lançamento. Observe abaixo nossa demonstração.
+Para nosso exemplo, vamos marcar o campo **Tipo** para saque, e definir a **data de lançamento** e o valor para esta movimentação que estamos fazendo. Observe abaixo nossa demonstração.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campo_data_lancamento.gif)
 
+Agora você precisa escolher a qual conta será feita a movimentação que você está cadastrando. Não esqueça que esse campo em específico, está vinculado diretamente a aba de **Listar contas**. Então se for uma movimentação para um conta diferente, é necessário fazer o seu cadastro. Caso queira mais informações sobre a aba de **Listar contas**, [**`Clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md).
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campo_conta.png)
+
+Por último temos dois últimos campos, o de **Lançamento**, sendo débito ou crédito. E a descrição para ficar registrado o motivo da movimentação.
+
+Em nossa demonstração vamos marcar a opção débito e colocaremos uma descrição simples, observe abaixo.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campo_lancamento_descricao.png)
+
+Após o preechimento das informações obrigatórias, você pode clicar no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line">salvar para o registro ser feito.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_salvar.gif)
+
+## Conciliação de movimentação
+
+Após confirmar a criação da movimentação, você pode observar que o status fica **pendente de conciliação**, e nessa movimentação simples, você pode clicar com o botão direito do mouse para sobre essa movimentação e escolher a opção **Conciliar**.
+
+Observe nossa demonstração abaixo. 
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_concilicacao.gif)
