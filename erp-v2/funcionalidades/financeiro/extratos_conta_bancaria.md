@@ -36,3 +36,14 @@ Em seguida você define de qual conta será gerado esse financeiro, lembrando qu
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_conta.png)
 
+Logo abaixo, está o campo da Taxa parceiro fornecedor, para você selecionar o parceiro/fornecedor do lançamento da taxa. Ex: GOPag, Cielo ou Banco do Brasil. E este campo está diretamente ligado a aba [**`Parceiros`**](/erp-v2/funcionalidades/parceiros/fornecedores.md).
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_fornecedor.png)
+
+Em penúltimo para preenchimento, temos o taxa natureza, basicamente ele serve para indicar o tipo de natureza que definirá esse financeiro que está sendo gerado. E assim como os campos anteriores você tem uma ligação direta deste campo com a aba [**`Naturezas`**](/erp-v2/funcionalidades/parametrizacoes/naturezas.md)
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_natureza.png)
+
+Por último, fica o campo de modo, nele você escolhe a quantidade de resultados a serem mostrados, como por exemplo, definir para mostrar só os 100 primeiros resultados, etc. Observe a demonstração abaixo:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_modo.png)
