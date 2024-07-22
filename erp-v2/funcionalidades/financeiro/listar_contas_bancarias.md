@@ -175,6 +175,18 @@ Todas as transações estarão vinculadas ao Token/número do convênio, que exp
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_cc_formas_pagamento.png)
 
+<!-- 
+
+CONFIRMAR COM O PAULO SOBRE O MODO DE ATIVAR OS TIPOS DE CONCILIAÇÃO BANCÁRIA
+
+##  Tipos de conciliação
+
+### Tipo conciliação - Desativado
+
+### Tipo conciliação - Simples
+
+### Tipo conciliação - Integrado -->
+
 ## Salvando uma conta bancária
 
 Após fazer o preenchimento dos dados e definir qual conta você precisa cadastrar, voocê pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para que ela seja registrada e fique disponível para utilização:
@@ -227,9 +239,12 @@ Esse arquivo inclui informações que possibilitam registrar ou dar baixas em co
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_remessa.png)
 
-Você pode adicionar o arquivo remessa manualmente, clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar 
-
+Você pode adicionar o arquivo remessa manualmente, clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar, esta tela será mostrada a você. Pode adicionar a descrição do arquivo, e clicar no botão **Escolher arquivo** para poder 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_remessa_add.png)
+
+É possível também atráves do menu superior, clicar no botão gerar remessa, e o arquivo será criado para você automaticamente.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_remessa_btn_gerar.png)
 
 ### Guia Arquivos retorno
 
@@ -238,3 +253,7 @@ O arquivo de retorno é a resposta do banco às transações registradas no arqu
 Ele contém informações detalhadas sobre as transações originadas a partir da remessa, incluindo, por exemplo, a confirmação do pagamento das taxas condominiais pelos condôminos.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_retorno.png)
+
+Você pode adicionar o arquivo retorno da conta bancária clicando no ícone <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar, e então você verá a essa tela com as informações para preenchimento, com descrição e o botão apra fazer upload do arquivo.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_retorno_add.png)
