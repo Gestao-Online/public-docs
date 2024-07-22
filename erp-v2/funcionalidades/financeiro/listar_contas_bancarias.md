@@ -205,7 +205,11 @@ Na sequência, temos os campos de valor, para definir qual a quantia da moviment
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_valor_conta_lancamento.png)
 
+Por último, temos a descrição da movimentação, para poder identificar a movimentação realizada, lembrando que é também um item obrigatório.
 
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_descricao.png)
+
+Após salvar esta movimentação, ela ficará com um status definido como **Pendente de conciliação**
 
 ### Guia Saldo
 
