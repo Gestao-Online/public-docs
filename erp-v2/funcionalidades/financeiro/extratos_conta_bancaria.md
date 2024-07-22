@@ -1,6 +1,6 @@
 # 🧾 Extratos de conta bancária
 
-Nesta aba você encontra listados todos os extratos bancários interados ao banco da conta na plataforma da **Gestão Online**. 
+Nesta aba você encontra listados todos os extratos bancários integrados ao banco da conta na plataforma da **Gestão Online**. 
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
