@@ -57,3 +57,7 @@ Além de definir a conta de destino, você também precisa marcar qual tipo de d
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campo_tipo_transferencia.png)
 
+Para nosso exemplo, vamos marcar o campo **Tipo** para saque, e definir a data de lançamento. Observe abaixo nossa demonstração.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campo_data_lancamento.gif)
+
