@@ -1,6 +1,6 @@
 # 💳 Listar contas
 
-Nesta aba você encontra listadas todas as contas bancárias cadastradas na plataforma da **Gestão Online**. E caso tenha alguma conta faltando. você pode efetuar o cadastro seguindo este manual.
+Nesta aba você encontra listadas todas as contas bancárias cadastradas na plataforma da **Gestão Online**. E caso tenha alguma conta faltando, você pode efetuar o cadastro seguindo este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -37,7 +37,7 @@ Nesta janela aberta tem alguns campos de preenchimento obrigatório, sendo eles 
 
 Ao clicar no primeiro campo de **Conta** será carregado as contas cadastradas na plataforma. Lembrando que estas são as contas que aparecem nesta aba.
 
-Você pode definir a **data de inicio e fim** dos relatórios que serão exibidos, e o **tipo de arquivo**, que pode ser `PDF` ou `EXCEL` para efeutar o download.
+Você pode definir a **data de inicio e fim** dos relatórios que serão exibidos, e o **tipo de arquivo**, que pode ser `PDF` ou `EXCEL` para efetuar o download.
 
 Observe abaixo o exemplo que fizemos, o relatório é mostrado em uma nova aba permitindo o download ou impressão. Nosso relatório é somente para ilustrar, não possui dados de entrada ou saída.
 
@@ -70,7 +70,7 @@ No primeiro campo temos as opções de contas, cada uma mostrará novos campos p
 
 ## Conta tipo caixinha
 
-Usado por exemplo para o caixa de uma loja, esta opção exibe somente os campos de **Descrição** e escolha da empresa, as informações bloqueadas de alteração são **Saldo inicial**, **Data Saldo inicial** e **Tipo conciliação**.
+Usado, por exemplo, para o caixa de uma loja, esta opção exibe somente os campos de **Descrição** e para escolher a empresa. As informações bloqueadas de alteração são **Saldo inicial**, **Data Saldo inicial** e **Tipo conciliação**.
 
 Na descrição você pode colocar um nome que facilite a identificação desta conta bancária quando precisa buscá-la para uso.
 
@@ -91,17 +91,17 @@ Nestes campos você pode clicar e nossa plataforma fará a busca dos bancos cada
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca.gif)
 
-Na parte final da página, tem o botão **Pagamento Boleto**, podendo ser utilizando em pagamentos do tipo online ou PDV (Ponto De Venda), nisso novos campos serão mostrados para você preencher, temos então as duas opções:
+No final da página, há o botão de **Pagamento Boleto**, que pode ser usado para pagamentos online ou PDV (Ponto De Venda). Em seguida, novos campos serão exibidos para você preencher, resultando em duas opções:
 
 ### Dados para geração de transação
 
-Este **Token e/ou Número Convênio** tem uma relação direta e fundamental com a emissão de um boleto bancário, pois ele identifica a empresa ou entidade que está emitindo o boleto dentro do sistema do banco. Cada cedente possui um código único que permite ao banco distinguir entre diferentes empresas que utilizam seus serviços de cobrança.
+Este **Token e/ou Número Convênio** tem uma relação direta e fundamental com a emissão de um boleto bancário, ao identificar a empresa ou entidade que está emitindo o boleto no sistema do banco. Cada cedente possui um código único que permite ao banco distinguir entre diferentes empresas que utilizam seus serviços de cobrança.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_convenio.png)
 
 ### Dados para geração do boleto
 
-Dos campos para preenchimento você tem, **Nosso Número Sequência**, nele o código do /Convênio é frequentemente utilizado como parte da fórmula para gerar o "Nosso Número", que é o identificador único de cada boleto. A inclusão do código ajuda a garantir que cada "Nosso Número" seja único e rastreável.
+Dos campos para preenchimento, você tem **Nosso Número Sequência**, nele o código do convênio é frequentemente utilizado como parte da fórmula para gerar o "Nosso Número", sendo o identificador único de cada boleto. A inclusão do código ajuda a garantir que cada "Nosso Número" seja único e rastreável.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_nosso_numero.png)
 
@@ -109,10 +109,10 @@ Logo na sequência tem os campos de **mensagem personalizada** e **Local pagamen
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_mensagens.png)
 
-Agora no tipo de multa você tem três opções disponívei, sendo elas, **isento**, **valor em reais** e **valor em percentual**. Ao escolher reais ou percentual, um novo campo será mostrado para você definir o valor:
+Agora, no tipo de multa, você tem três opções disponíveis: **isento**, **valor em reais** e **valor em percentual**. Ao escolher reais ou percentual, um novo campo será mostrado para você definir o valor:
 
 {% hint style="warning" %}
-**Valor Multa:** De acordo com o **Código Tributário Nacional** o valor da multa para boletos não pode passar de 2%.
+**Valor Multa:** Conforme o **Código Tributário Nacional**, o valor da multa para boletos não pode passar de 2%.
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_multa.png)
@@ -125,11 +125,11 @@ Pode também configurar o juro mora ou moratórios, podendo ser em dinheiro ou p
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_juro.png)
 
-**Espécie do documento**, as espécies precisam ser usadas de acordo com o tipo de documento que você vai usar para pagar, ou se o banco pedir um tipo específico. Pois garante a segurança e a finalidade do boleto emitido.
+**Espécie do documento**, as espécies precisam ser usadas conforme o tipo de documento que você usa para pagar, ou se o banco pedir um tipo específico. Pois garante a segurança e a finalidade do boleto emitido.
 
-Das espécies mais comuns nós temos:
+Das espécies mais comuns, temos:
 
-- **DM - Duplicata mercantil:** um título de crédito no qual o comprador se compromete a pagar o valor indicado na fatura dentro de um prazo mínimo de 30 dias.
+- **DM - Duplicata mercantil:** um título de crédito no qual o comprador se compromete a pagar o valor indicado na fatura num prazo mínimo de 30 dias.
 
 - **DR - Duplicata Rural:** usada para vendas a prazo de bens agrícolas, extrativos ou pastoris, realizadas diretamente por produtores rurais ou suas cooperativas, também pode ser utilizada como título de crédito.
 
@@ -137,7 +137,7 @@ Das espécies mais comuns nós temos:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_especie.png)
 
-Os últimos dois campos para preenchimento são, os **Dias Limite** para definir a quantidade de dias limite para pagamento após o vencimento do boleto. E o campo **Variação da carteira** que é usado somente pelo Banco do Brasil:
+Os últimos dois campos para preenchimento são os **Dias Limite**, para definir a quantidade de dias limite para pagamento após o vencimento do boleto. E o campo **Variação da carteira**, o qual é usado somente pelo Banco do Brasil:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_poupanca_boleto_dias_variacao.png)
 
@@ -161,11 +161,11 @@ Os últimos campos para configurar são os de **Multa percentual** e **Juro perc
 
 ## Conta tipo meios de recebimento
 
-Opção essa também recomendada para o tipo loja física, pois deixa disponível várias opções de pagamento.
+Opção essa também recomendada para o tipo loja física, ao deixar disponível várias opções de pagamento.
 
 As informações seguem sendo as mesmas dos demais tipos falados acima, sendo necessário informar o **Banco**, a **Descrição** e a **Empresa**. 
 
-O que diferencia são os vários tipo de forma de pagamento, a primeira sendo o [**`Boleto`**](https://docs.gestao.plus/erp-v2/funcionalidades/financeiro/listar_contas_bancarias#dados-para-geracao-do-boleto), que já foi explicado logo acima, o segundo sendo o **`Cartão`** que já foi explicado também no tópico anterior.
+O que diferencia são os vários tipos de forma de pagamento, a primeira sendo o [**`Boleto`**](https://docs.gestao.plus/erp-v2/funcionalidades/financeiro/listar_contas_bancarias#dados-para-geracao-do-boleto), que já foi explicado logo acima, o segundo sendo o **`Cartão`** que já foi explicado também no tópico anterior.
 
 Agora na opção **`Cartão físico`** é usado para pagamento por máquina física POS m-POS e/ou PINPAD.
 
@@ -189,13 +189,13 @@ CONFIRMAR COM O PAULO SOBRE O MODO DE ATIVAR OS TIPOS DE CONCILIAÇÃO BANCÁRIA
 
 ## Salvando uma conta bancária
 
-Após fazer o preenchimento dos dados e definir qual conta você precisa cadastrar, voocê pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para que ela seja registrada e fique disponível para utilização:
+Após fazer o preenchimento dos dados e definir qual conta você precisa cadastrar, você pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para que ela seja registrada e fique disponível para utilização.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_salvar.gif)
 
 ## Guias após salvar nova conta
 
-Assim que você salvar a conta bancária as novas guias estarão disponíveis pra você utilizar. Delas são a de **Movimentações/Transferências**, **Saldo**, **Arquivo remessa** e **Arquivos retorno**. 
+Assim que você salvar a conta bancária, as novas guias estarão disponíveis para você utilizar. Elas são a de **Movimentações/Transferências**, **Saldo**, **Arquivo remessa** e **Arquivos retorno**. 
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia.png)
 
@@ -205,15 +205,15 @@ Aqui estão todas as movimentações bancárias entre as contas, desde saques, r
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes.png)
 
-As movimentações podem ser inseridas manualmente, ao clicar em adicionar uma nova movimentação/transferência você terá alguns campos para preencher, o primeiro é o tipo, com algumas opções para você escolher. Em nosso exemplo de demonstração, vamos marcar a opção depósito:
+As movimentações podem ser inseridas manualmente, ao clicar em adicionar uma nova movimentação/transferência, você terá alguns campos para preencher, o primeiro é o tipo, com algumas opções para você escolher. Em nosso exemplo de demonstração, marcamos a opção depósito:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_tipo.png)
 
-Logo em seguida, é preciso preencher a data de lançamento, lmebrando que este item é obrigatório.
+Logo em seguida, é preciso preencher a data de lançamento, lembrando que este item é obrigatório.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_data_lancamento.png)
 
-Na sequência, temos os campos de valor, para definir qual a quantia da movimentação, a conta (Que é preenchida automaticamente não podendo ser modificada), e o tipo de lançamento, sendo um débito ou crédito.
+Na sequência, temos os campos de valor, para definir qual a quantia da movimentação, a conta (A qual é preenchida automaticamente, não podendo ser modificada), e o tipo de lançamento, sendo um débito ou crédito.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_valor_conta_lancamento.png)
 
@@ -221,13 +221,13 @@ Por último, temos a descrição da movimentação, para poder identificar a mov
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_descricao.png)
 
-Após salvar esta movimentação, ela ficará com um status definido como **Pendente de conciliação**, caso já tenha confirmado a conciliação, você pode mudar o status manualmente clicando com o botão direito do mouse sobre a movimentação, observe nosso exemplo abaixo, mudando essa movimentação do tipo depósito.
+Após salvar esta movimentação, ela ficará com um status definido como **Pendente de conciliação**, caso já tenha confirmado a conciliação, você pode mudar o status clicando manualmente com o botão direito do mouse sobre a movimentação, observe nosso exemplo abaixo, mudando essa movimentação do tipo depósito.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_mudar_concilicaca.gif)
 
 ### Guia Saldo
 
-Nesta guia ficam os valores do saldo da conta cadastrada desde o seu saldo inicial, todas as movimentações registradas aqui são feitas automaticamente, somente para pareciação, não tendo opção de adicionar/remover manualmente.
+Nesta guia ficam os valores do saldo da conta cadastrada desde o seu saldo inicial, todas as movimentações registradas aqui são feitas automaticamente, somente para apreciação, não tendo opção de adicionar/remover manualmente.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_saldo.png)
 
@@ -242,7 +242,7 @@ Esse arquivo inclui informações que possibilitam registrar ou dar baixas em co
 Você pode adicionar o arquivo remessa manualmente, clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar, esta tela será mostrada a você. Pode adicionar a descrição do arquivo, e clicar no botão **Escolher arquivo** para poder 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_remessa_add.png)
 
-É possível também atráves do menu superior, clicar no botão gerar remessa, e o arquivo será criado para você automaticamente.
+É possível também, através do menu superior, clicar no botão gerar remessa, e o arquivo será criado para você automaticamente.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_remessa_btn_gerar.png)
 
@@ -254,6 +254,6 @@ Ele contém informações detalhadas sobre as transações originadas a partir d
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_retorno.png)
 
-Você pode adicionar o arquivo retorno da conta bancária clicando no ícone <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar, e então você verá a essa tela com as informações para preenchimento, com descrição e o botão apra fazer upload do arquivo.
+Você pode adicionar o arquivo retorno da conta bancária clicando no ícone <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar, e então você verá a essa tela com as informações para preenchimento, com descrição e o botão para fazer upload do arquivo.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_retorno_add.png)
