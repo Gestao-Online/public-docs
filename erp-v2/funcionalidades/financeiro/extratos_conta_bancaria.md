@@ -26,3 +26,13 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu.png)
 
+No primeiro botão do menu superior, temos o ícone <img src="/erp-v2/assets/icon_caixa.png" alt="" data-size="line"> para gerar financeiro para conciliação das taxas de vendas/movimentações.
+
+Ao clicar neste ícone uma janela será aberta para você preencher algumas informações para gerar o financeiro. De ínicio ele pede a data de início e fim do extrato do financeiro que será gerado:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar.gif)
+
+Em seguida você define de qual conta será gerado esse financeiro, lembrando que este campos está diretamente ligado a aba [**`Listar contas`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md), pois traz todas as contas 
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_conta.png)
+
