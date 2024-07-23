@@ -32,3 +32,23 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add.png)
 
+Após clicarmos no botão adicionar nova conta a receber, uma nova página será aberta e nela ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Baixar;
+- <img src="/erp-v2/assets/icon_estornar.png" alt="" data-size="line"> Estornar;
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar rascunho;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_menu.png)
+
+## Campos obrigatórios
+
+No momento do cadastro de uma nova conta a receber, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
+
+{% hint style="info" %}
+**Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados da conta a pagar. 😉👍
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta.png)
