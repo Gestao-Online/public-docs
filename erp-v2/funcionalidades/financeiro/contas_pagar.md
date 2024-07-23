@@ -92,3 +92,25 @@ Em nosso exemplo, selecionamos a natureza despesas gerais, e o centro de resulta
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_campo_natureza_centro_resultado.png)
 
+Em sequência, temos os campos de **Tipo negociação** e **Conta**, estes campos são de preenchimento obrigatório e tem cada um vínculo com sua própria aba. Nestes campos também estão presentes os atalhos que foram explicados logo acima. 😁👍
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_campo_tipo_negociacao_conta.gif)
+
+Logo abaixo a esses campos, temos os de **Data de vencimento** e **Data de negociação**. Esses campos de data são de preenchimento obrigatório, observe que ao clicar no campo um mini calendário se abre para que você possa escolher a data com mais agilidade.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_campo_data_vencimento_negociacao.gif)
+
+Nos últimos campos temos os valores, sendo eles **Valor de Desdobramento**, **Valor Juro** e **Valor Multa**. No desdobramento será o valor desta conta a receber. Agora o valor do juro e multa é opcional o preenchimento.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_campo_valores.png)
+
+No final da página temos os campos de **Histórico** e colocar uma descrição ou referência que ajuda a identificar a transação. E o botão de **Provisão**, caso queira deixar um valor reservado para cobrir possíveis riscos de não recebimento ou para ajustes futuros.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_campo_historico_provisao.png)
+
+## Salvando uma conta a pagar
+
+Após o preenchimento destas informações, você pode salvar os dados da nova conta a pagar, e logo em seguida algumas guias ficarão disponíveis para você acessar.
+
+Observe abaixo o resultado:
+
