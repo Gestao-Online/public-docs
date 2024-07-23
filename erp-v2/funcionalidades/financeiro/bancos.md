@@ -25,3 +25,27 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_menu.png)
+
+## Adicionar nova conta bancária
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um novo banco, confira abaixo o procedimento para fazer o cadastro corretamente:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add.png)
+
+Após clicarmos no botão adicionar novo banco, uma nova página será aberta e nela ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;   
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar rascunho;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_menu.png)
+
+No momento do cadastro de um novo banco, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
+
+{% hint style="info" %}
+**Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados do banco. 😉👍
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_banco.png)
+
