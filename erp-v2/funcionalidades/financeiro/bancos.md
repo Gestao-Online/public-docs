@@ -49,3 +49,17 @@ No momento do cadastro de um novo banco, você precisará preencher alguns campo
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_banco.png)
 
+No primeiro campo temos a **Sigla** desse banco, ela é um item obrigatório e serve para identificar esse banco que você está cadastrando no momento. 
+
+Para nosso exemplo, vamos preencher um banco ficticio com as informações da **Gestão Online**.
+
+Na sigla usaremos em minúsculo mesmo o nome **gopag**, mas caso queira pode usar letras e númerosda forma que desejar. 😁
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_campo_sigla.png)
+
+Aqui no campo **Código do banco** você preenche o código padrão que o banco possui, caso você não saiba o código do seu banco, pode conferir no site da FEBRABAN (Federação Brasileira de Bancos), lá tem os códigos de todos os bancos autorizados. Para acessar o site deles [**`Clique aqui`**](https://portal.febraban.org.br/pagina/3164/12/pt-br/associados).
+
+Como nosso exemplo é fictício, usaremos o mesmo texto da sigla, e preencheremos os campos de CNPJ com zeros.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_campo_codigo_cnpj.png)
+
