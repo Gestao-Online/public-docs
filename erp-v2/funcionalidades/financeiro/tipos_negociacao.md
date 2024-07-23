@@ -25,3 +25,10 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_menu.png)
+
+## Adicionar novo tipo de negociação
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um novo tipo de negociação, confira abaixo o procedimento para fazer o cadastro corretamente:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add.png)
+
