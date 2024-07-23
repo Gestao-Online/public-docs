@@ -61,3 +61,14 @@ Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="
 Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo definimos um cliente fictício.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_cliente_parceiro.gif)
+
+### Campos Empresa e Unidade
+
+Agora nos campos **Empresa** e **Unidade** você também tem os botões de atalho para adicionar uma nova, e abrir para editar em uma nova aba o que estiver selecionado.
+
+O campo de empresa tem um vínculo direto com a aba **Empresas**. Se você quiser mais informações sobre as funcionalidades desta aba, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
+
+A mesma informação vale para o campo de **Unidade**, você pode ter mais informações sobre as unidades de atendimento, criação, edição e exclusão, para saber mais, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_empresa_unidade.png)
+
