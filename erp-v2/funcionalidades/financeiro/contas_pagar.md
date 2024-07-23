@@ -114,3 +114,39 @@ Após o preenchimento destas informações, você pode salvar os dados da nova c
 
 Observe abaixo o resultado:
 
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_salvar.gif)
+
+## Guias após salvar uma conta a pagar
+
+### Guia Rateio
+
+Na guia de **Rateio** você especifica como o valor deve ser rateado. Isso pode incluir a escolha das contas ou centros de custo que receberão a parte correspondente.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_guia_rateio.png)
+
+Você pode incluir um rateio clicando no menu cinza no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">adicionar, e então preencher as informações de porcentagem do rateio, qual unidade será referência, qual centro de resultado levará essa parte do ratio e a natureza do mesmo.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_guia_rateio_add.png)
+
+### Guia Histórico
+
+Nesta guia ficam registradas todas as movimentações realizadas nessa conta a pagar, desde sua criação, a alteração e desconto. Tudo até o dia de sua baixa no sistema. Conforme mostrado abaixo.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_guia_historico.png)
+
+### Guia Anexos
+
+Nesta guia você pode anexar algum item para ficar registrado, sendo um boleto, nota fiscal ou outros, para poder ser acessado depois.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_guia_anexos.png)
+
+Você pode incluir um anexo clicando no menu cinza no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">adicionar, e então pode clicar no botão **Escolher arquivo**. Não esqueça de definir também o tipo de arquivo no campo ao lado.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_guia_anexos_add.png)
+
+## Baixando uma conta a pagar
+
+Após a conta a pagar criada, você pode clicar com o botão direito do mouse sobre a conta criada e clicar na opção com o botão <img src="/erp-v2/assets/funcionalidades/icon_add_item_filho.png" alt="" data-size="line"> **Baixar financeiro**. Quando clicar nesta opção, uma janela será mostrada a você para poder preencher os dados de baixa.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_baixando.gif)
+
