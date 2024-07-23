@@ -41,6 +41,8 @@ Após clicarmos no botão adicionar novo banco, uma nova página será aberta e 
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_menu.png)
 
+## Campos obrigatórios
+
 No momento do cadastro de um novo banco, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
 
 {% hint style="info" %}
@@ -57,11 +59,15 @@ Na sigla usaremos em minúsculo mesmo o nome **gopag**, mas caso queira pode usa
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_campo_sigla.png)
 
+## Código do banco
+
 Aqui no campo **Código do banco** você preenche o código padrão que o banco possui, caso você não saiba o código do seu banco, pode conferir no site da FEBRABAN (Federação Brasileira de Bancos), lá tem os códigos de todos os bancos autorizados. Para acessar o site deles [**`Clique aqui`**](https://portal.febraban.org.br/pagina/3164/12/pt-br/associados).
 
 Como nosso exemplo é fictício, usaremos o mesmo texto da sigla, e preencheremos os campos de CNPJ com zeros.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_campo_codigo_cnpj.png)
+
+## Adicionar imagem
 
 No campo de **Imagem** você pode adicionar uma imagem do banco a ser cadastrado. Você pode colocar a logo dele para ficar mais visual, e com isso em campos que solicitar os bancos, será mostrada essa imagem junto ao nome do banco cadastrado.
 
@@ -73,3 +79,8 @@ Por último, temos a descrição, esse será o texto que aparecerá nos campos d
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_campo_descricao.png)
 
+## Salvando novo banco
+
+Após fazer o preenchimento dos dados do novo banco, você pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para que seja registrado o banco e fique disponível para utilização.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_campo_salvar.gif)
