@@ -59,3 +59,9 @@ No primeiro campo, temos a opção de escolher o banco. Ao clicar nele, as opç�
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_agencia_add_campo_banco.gif)
 
+Os próximos campos de preenchimento obrigatório, são o do número da **Agência** e da **Descrição**. O campo da agência é preenchido com números, e a decrição é para identificar qual agência está cadastrando.
+
+Em nosso exemplo, preenchemos com dados ficticios o número da agência e a descrição.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_agencia_add_campo_agencia_descricao.png)
+
