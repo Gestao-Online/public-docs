@@ -52,3 +52,12 @@ No momento do cadastro de uma nova conta a receber, você precisará preencher a
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta.png)
+
+### Campo cliente/parceiro
+
+No campo de **Cliente/Parceiro**, você pode buscar digitando o nome, as informações mostradas aqui, tem um vínculo com a **aba de parceiros**. 
+Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adiciona um novo parceiro/cliente. Ou clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o parceiro/cliente selecionado em uma nova aba.
+
+Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo definimos um cliente fictício.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_cliente_parceiro.gif)
