@@ -59,6 +59,8 @@ E no campo de status você define se este tipo está ou não disponível para ut
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_campo_status.png)
 
+### Guia para parcelamentos
+
 O campo de descrição é somente para identificar melhor o tipo de movimentação que você vai usar em outras abas. O foco maior está na guia exibida na parte de baixo da página, onde você define se terá algum tipo de parcelamento.
 
 Para a demonstração de exemplo, colocamos um de tipo de negociação **Cartão de crédito 4x** e adicionamos os parcelamentos um conforme mostrado abaixo todos já inseridos.
@@ -68,3 +70,9 @@ Para a demonstração de exemplo, colocamos um de tipo de negociação **Cartão
 Fique atento ao momento de prencher os parcelamentos, você pode fazer manualmente uma a uma, ou utilizar a função que faz as parcelas automaticamente, precisando somente clicar com o botão direito do mouse sobre a primeira que você já configurou.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_parcelamento_btn.gif)
+
+## Salvando um tipo de negociação
+
+Após o preenchimento destas informações, você pode salvar os dados novo tipo de negociação. Observe abaixo o resultado:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_conta_salvar.gif)
