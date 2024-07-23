@@ -63,9 +63,13 @@ Como nosso exemplo é fictício, usaremos o mesmo texto da sigla, e preencheremo
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_campo_codigo_cnpj.png)
 
-no campo de **Imagem** você pode adicionar uma imagem do banco a ser cadastrado. Você pode colocar a logo dele para ficar mais visual, e com isso em campos que solicitar os bancos, será mostrada essa imagem junto ao nome do banco cadastrado.
+No campo de **Imagem** você pode adicionar uma imagem do banco a ser cadastrado. Você pode colocar a logo dele para ficar mais visual, e com isso em campos que solicitar os bancos, será mostrada essa imagem junto ao nome do banco cadastrado.
 
 Observe abaixo nosso exemplo de definição da foto. O procedimento é super fácil. 😎🙌
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_campo_imagem.gif)
+
+Por último, temos a descrição, esse será o texto que aparecerá nos campos de busca de banco que você vê em outras abas.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_campo_descricao.png)
 
