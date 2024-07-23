@@ -65,3 +65,12 @@ Em nosso exemplo, preenchemos com dados ficticios o número da agência e a desc
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_agencia_add_campo_agencia_descricao.png)
 
+Por último, você tem dois campos para fechar o registro da nova agência, podendo colocar o nome do gerente e o telefone de contato. Estas opções são para uma possível consulta/necessidade no futuro, não sendo um item obrigatóio para salvar os dados da nova agência.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_agencia_add_campo_gerente_telefone.png)
+
+## Salvando nova agência
+
+Após fazer o preenchimento dos dados da nova agência, você pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para que seja registrado a agência e fique disponível para utilização.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_agencia_add_salvar.gif)
