@@ -48,7 +48,7 @@ Após clicarmos no botão adicionar nova conta a receber, uma nova página será
 No momento do cadastro de uma nova conta a receber, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
 
 {% hint style="info" %}
-**Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados da conta a pagar. 😉👍
+**Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados da conta a receber. 😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta.png)
