@@ -72,3 +72,23 @@ A mesma informação vale para o campo de **Unidade**, você pode ter mais infor
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_empresa_unidade.png)
 
+### Campo Tipo movimentação
+
+Pouco mais abaixo, temos o campo obrigatório **Tipo movimentação**. Estes tipos podem ser cadastrados, editados e deletados na aba **Tipo movimentação**. Você pode ter mais informações sobre ela [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+
+Clicando no botão <img src="/erp-v2/assets/icon_lupa.png" alt="" data-size="line"> você pode buscar um tipo de movimentação. Ou clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> você pode editar o tipo de movimentação selecionado em uma nova aba.
+
+Em nossa demonstração, iremos utilizar o tipo de movimentação **Fin - pagamento diversos**.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_tipo_movimentacao.png)
+
+Em sequência, tem os campos de **Natureza**, para indicar o tipo de despesa que está sendo cadastrada, e o **Centro de Resultado** para saber de qual setor pertence essa conta a receber.
+
+Em específico com o campo de **Natureza**, você tem os botões de atalho <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adiciona um novo tipo de natureza, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o tipo de natureza selecionada em uma nova aba.
+
+Agora no campo de **Centro de Resultado**, você tem os botões de atalho <img src="/erp-v2/assets/icon_lupa.png" alt="" data-size="line"> para buscar um centro de resultado, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o centro de resultado selecionado em uma nova aba.
+
+Em nosso exemplo, selecionamos a natureza despesas gerais, e o centro de resultado definimos o administrativo. Observe abaixo:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_natureza_centro_resultado.png)
+
