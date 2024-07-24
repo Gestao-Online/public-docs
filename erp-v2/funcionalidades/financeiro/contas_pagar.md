@@ -100,7 +100,7 @@ Logo abaixo a esses campos, temos os de **Data de vencimento** e **Data de negoc
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_campo_data_vencimento_negociacao.gif)
 
-Nos últimos campos temos os valores, sendo eles **Valor de Desdobramento**, **Valor Juro** e **Valor Multa**. No desdobramento será o valor desta conta a receber. Agora o valor do juro e multa é opcional o preenchimento.
+Nos últimos campos temos os valores, sendo eles **Valor de Desdobramento**, **Valor Juro** e **Valor Multa**. No desdobramento será o valor desta conta a pagar. Agora o valor do juro e multa é opcional o preenchimento.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_campo_valores.png)
 
