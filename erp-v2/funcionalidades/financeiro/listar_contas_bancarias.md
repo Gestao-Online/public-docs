@@ -29,7 +29,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ## Botão relatório de fluxo de caixa financeiro
 
-Ao clicar neste botão uma janela será aberta para que você preencha os dados para emitir um relatório. De forma simples, podemos dizer que este relatório de fluxo de caixa é usado por você para acompanhar a situação financeira da sua empresa.
+Ao clicar neste botão, uma janela será aberta para que você preencha os dados para emitir um relatório. De forma simples, podemos dizer que este relatório de fluxo de caixa é usado por você para acompanhar a situação financeira da sua empresa.
 
 Nesta janela aberta tem alguns campos de preenchimento obrigatório, sendo eles **Conta** e **Tipo**. Conforme marcado na imagem abaixo:
 
@@ -49,7 +49,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_contas_add.png)
 
-Após clicarmos no botão adicionar nova conta bancária, uma nova página será aberta e nela ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicarmos no botão adicionar nova conta bancária, uma nova página será aberta e nela, ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;   
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
