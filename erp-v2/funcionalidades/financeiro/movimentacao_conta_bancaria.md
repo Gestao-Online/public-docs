@@ -1,6 +1,6 @@
 # 🔁 Movimentação conta bancária
 
-Nesta aba você encontra listadas todas as movimentações bancárias registradas na plataforma da **Gestão Online**. E caso tenha alguma movimentação faltando/incorreta. você pode efetuar a edição ou o cadastro seguindo este manual.
+Nesta aba você encontra listadas todas as movimentações bancárias registradas na plataforma da **Gestão Online**. E caso tenha alguma movimentação faltando/incorreta, você pode efetuar a edição ou o cadastro seguindo este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -21,7 +21,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 {% endhint %}
 
 {% hint style="warning" %}
-**Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse).
+**Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse, [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_menu.png)
@@ -30,7 +30,7 @@ Neste mesmo menu, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" dat
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_movimentacao.png)
 
-Após clicarmos no botão adicionar nova movimentação, uma nova página será aberta e nela ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicarmos no botão adicionar nova movimentação, uma nova página será aberta e nela, ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;   
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
@@ -47,11 +47,11 @@ No momento do cadastro de uma nova movimentação, você precisará preencher al
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campos_obrigatorios.png)
 
-A primeira opção para preenchimento é o tipo de movimentação, das opções disponíveis a de transferência é a unica que cria dois novos campos para preenchimento.
+A primeira opção para preenchimento é o tipo de movimentação. Das opções disponíveis, a de transferência é a única que cria dois novos campos para preenchimento.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campo_tipo.png)
 
-Com a opção tipo transferência selecionado, é necessário definir uma conta de destino. Essa conta de destino precisa já estar cadastrada na aba **Listar contas**.
+Com a opção **Tipo transferência** selecionada, é necessário definir uma conta de destino. Essa conta de destino precisa já estar cadastrada na aba **Listar contas**.
 
 Além de definir a conta de destino, você também precisa marcar qual tipo de destino será, sendo débito ou crédito.
 
@@ -61,23 +61,23 @@ Para nosso exemplo, vamos marcar o campo **Tipo** para saque, e definir a **data
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campo_data_lancamento.gif)
 
-Agora você precisa escolher a qual conta será feita a movimentação que você está cadastrando. Não esqueça que esse campo em específico, está vinculado diretamente a aba de **Listar contas**. Então se for uma movimentação para um conta diferente, é necessário fazer o seu cadastro. Caso queira mais informações sobre a aba de **Listar contas**, [**`Clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md).
+Agora você precisa escolher a qual conta será feita a movimentação que você está cadastrando. Não esqueça que esse campo em específico está vinculado diretamente à aba de **Listar contas**. Então, se for uma movimentação para uma conta diferente, é necessário fazer o seu cadastro. Caso queira mais informações sobre a aba de **Listar contas**, [**`Clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md).
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campo_conta.png)
 
-Por último temos dois últimos campos, o de **Lançamento**, sendo débito ou crédito. E a descrição para ficar registrado o motivo da movimentação.
+Por último, temos dois últimos campos, o de **Lançamento**, sendo débito ou crédito. E a descrição para ficar registrado o motivo da movimentação.
 
-Em nossa demonstração vamos marcar a opção débito e colocaremos uma descrição simples, observe abaixo.
+Em nossa demonstração, vamos marcar a opção débito e colocaremos uma descrição simples, observe abaixo.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campo_lancamento_descricao.png)
 
-Após o preechimento das informações obrigatórias, você pode clicar no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line">salvar para o registro ser feito.
+Após o preenchimento das informações obrigatórias, você pode clicar no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line">salvar para o registro ser feito.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_salvar.gif)
 
 ## Conciliação de movimentação
 
-Após confirmar a criação da movimentação, você pode observar que o status fica **pendente de conciliação**, e nessa movimentação simples, você pode clicar com o botão direito do mouse para sobre essa movimentação e escolher a opção **Conciliar**.
+Após confirmar a criação da movimentação, você pode observar que o status fica **pendente de conciliação**, e nessa movimentação simples, você pode clicar com o botão direito do mouse sobre essa movimentação e escolher a opção **Conciliar**.
 
 Observe nossa demonstração abaixo. 
 
