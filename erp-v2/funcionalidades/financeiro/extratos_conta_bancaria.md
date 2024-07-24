@@ -36,7 +36,7 @@ Em seguida, você define de qual conta será gerado esse financeiro, lembrando q
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_conta.png)
 
-Logo abaixo, está o campo da Taxa do parceiro fornecedor, para você selecionar o parceiro/fornecedor do lançamento da taxa. Ex: GOPag, Cielo ou Banco do Brasil. E este campo está diretamente ligado à aba [**`Parceiros`**](/erp-v2/funcionalidades/parceiros/fornecedores.md).
+Logo abaixo, está o campo da **Taxa do parceiro fornecedor**, para você selecionar o parceiro/fornecedor do lançamento da taxa. Ex: GOPag, Cielo ou Banco do Brasil. E este campo está diretamente ligado à aba [**`Parceiros`**](/erp-v2/funcionalidades/parceiros/fornecedores.md).
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_fornecedor.png)
 
