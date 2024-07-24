@@ -96,3 +96,9 @@ No final da página temos os campos de **Histórico** e colocar uma descrição 
 Quando selecionamos o campo **Pagamento Tipo**, mais opções ficam disponíveis para você, são as opções de dados da transação de pagamento. Aqui ficarão alguns campos não editáveis, com número da transação, sequência e código de barras (Para o caso de uso do Boleto e Pix).
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_titulos_add_titulo_campo_pgto_tipo_boleto.png)
+
+## Salvando um Título Avulso
+
+Após o preenchimento destas informações, você pode salvar os dados do novo título avulso. Observe abaixo o resultado:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_titulos_add_titulo_salvar.gif)
