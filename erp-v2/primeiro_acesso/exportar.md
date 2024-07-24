@@ -38,6 +38,10 @@ No modo `Configuração padrão`, os campos de dentro você pode arrastar para m
 
 ![](/erp-v2/assets/exportar_aba_config_padrao.gif)
 
+Se por exemplo eu quiser selecionar os campos de um **Cliente/Parceiro**, ou um **Parceiro indicador**, e trazer seu nome, telefone ou mail, posso utilizar esta funcionalidade. Conseguindo assim uma visibilidade melhor das informações mostradas no arquivo **PDF** ou **Planilha** que você for exportar.
+
+![](/erp-v2/assets/exportar_aba_config_padrao_campo_cliente.gif)
+
 **Como você pode ver, são muitas opções para personalizar a exportação! 😁**
 
 Além da opção de `Campos para exportação` que foi demonstrado acima, você tem a de `Agrupar coluna`, com ela, você pode separar os resultados exibidos com agrupamentos.
