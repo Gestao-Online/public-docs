@@ -88,7 +88,11 @@ Em específico com o campo de **Natureza**, você tem os botões de atalho <img 
 
 Agora no campo de **Centro de Resultado**, você tem os botões de atalho <img src="/erp-v2/assets/icon_lupa.png" alt="" data-size="line"> para buscar um centro de resultado, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o centro de resultado selecionado em uma nova aba.
 
-Em nosso exemplo, selecionamos a natureza despesas gerais, e o centro de resultado definimos o administrativo. Observe abaixo:
+Em nosso exemplo, selecionamos a natureza receitas, e o centro de resultado definimos o administrativo. Observe abaixo:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_natureza_centro_resultado.png)
+
+Em sequência, temos os campos de **Tipo negociação** e **Conta**, estes campos são de preenchimento obrigatório e tem cada um vínculo com sua própria aba. Nestes campos também estão presentes os atalhos que foram explicados logo acima. 😁👍
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_tipo_negociacao_conta.gif)
 
