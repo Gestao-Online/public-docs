@@ -1,5 +1,7 @@
 # 🪙 Títulos avulsos
 
+<!-- PEDIR AJUDA AO PAULO SOBRE ESTA ABA, POIS AS OPÇÕES DE PAGAMENTO TIPO E PAGAMENTO STATUS FICAM NÃO UTILIZÁVEIS -->
+
 Nesta aba você encontra todos os títulos avulsos cadastrados na plataforma da **Gestão Online**. E caso tenha algum faltando, você pode efetuar o cadastro ou editar um existente, precisando somente seguir este manual.
 
 {% hint style="danger" %}
