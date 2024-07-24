@@ -145,3 +145,9 @@ Nesta guia você pode anexar algum item para ficar registrado, sendo um boleto, 
 Você pode incluir um anexo clicando no menu cinza no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">adicionar, e então pode clicar no botão **Escolher arquivo**. Não esqueça de definir também o tipo de arquivo no campo ao lado.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_guia_anexos_add.png)
+
+## Baixando uma conta a receber
+
+Após a conta a receber criada, você pode clicar com o botão direito do mouse sobre a conta criada e clicar na opção com o botão <img src="/erp-v2/assets/funcionalidades/icon_add_item_filho.png" alt="" data-size="line"> **Baixar financeiro**. Quando clicar nesta opção, uma janela será mostrada a você para poder preencher os dados de baixa.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_baixando.gif)
