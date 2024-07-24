@@ -124,7 +124,7 @@ Na guia de **Rateio** você especifica como o valor deve ser rateado. Isso pode 
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_guia_rateio.png)
 
-Você pode incluir um rateio clicando no menu cinza no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">adicionar, e então preencher as informações de porcentagem do rateio, qual unidade será referência, qual centro de resultado levará essa parte do ratio e a natureza do mesmo.
+Você pode incluir um rateio clicando no menu cinza no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">adicionar, e então preencher as informações de porcentagem do rateio, qual unidade será referência, qual centro de resultado levará essa parte do rateio e a natureza do mesmo.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_guia_rateio_add.png)
 
