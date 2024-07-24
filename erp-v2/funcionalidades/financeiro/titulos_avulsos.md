@@ -1,6 +1,6 @@
 # 🪙 Títulos avulsos
 
-Nesta aba você encontra todas as contas a receber que estão cadastrados na plataforma da **Gestão Online**. E caso tenha alguma conta faltando, você pode efetuar o cadastro ou editar alguma conta existente, precisando somente seguir este manual.
+Nesta aba você encontra todos os títulos avulsos cadastrados na plataforma da **Gestão Online**. E caso tenha algum faltando, você pode efetuar o cadastro ou editar um existente, precisando somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -25,4 +25,13 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_titulos_menu.png)
+
+## Adicionar novo título avulso
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um novo título avulso, confira abaixo o procedimento para fazer o cadastro corretamente:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_titulos_add.png)
+
+
+
 
