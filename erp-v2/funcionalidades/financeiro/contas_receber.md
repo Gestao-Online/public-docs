@@ -100,3 +100,19 @@ Logo abaixo a esses campos, temos os de **Data de vencimento** e **Data de negoc
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_data_vencimento_negociacao.gif)
 
+Nos últimos campos temos os valores, sendo eles **Valor de Desdobramento**, **Valor Juro** e **Valor Multa**. No desdobramento será o valor desta conta a receber. Agora o valor do juro e multa é opcional o preenchimento.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_valores.png)
+
+No final da página temos os campos de **Histórico** e colocar uma descrição ou referência que ajuda a identificar a transação. E o botão de **Provisão**, caso queira deixar um valor reservado para cobrir possíveis riscos de não recebimento ou para ajustes futuros.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_historico_provisao.png)
+
+## Salvando uma conta a receber
+
+Após o preenchimento destas informações, você pode salvar os dados da nova conta a pagar, e logo em seguida algumas guias ficarão disponíveis para você acessar.
+
+Observe abaixo o resultado:
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_salvar.gif)
+
