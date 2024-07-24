@@ -116,3 +116,17 @@ Observe abaixo o resultado:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_salvar.gif)
 
+## Guias após salvar uma conta a receber
+
+### Guia Rateio
+
+Na guia de **Rateio** você especifica como o valor deve ser rateado. Isso pode incluir a escolha das contas ou centros de custo que receberão a parte correspondente.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_guia_rateio.png)
+
+Você pode incluir um rateio clicando no menu cinza no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">adicionar, e então preencher as informações de porcentagem do rateio, qual unidade será referência, qual centro de resultado levará essa parte do rateio e a natureza do mesmo.
+
+Importante lembrar que os campos de [**`Unidade`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md),  [**`Centro de Resultado`**](/erp-v2/funcionalidades/parametrizacoes/centro_resultado.md) e [**`Natureza`**](/erp-v2/funcionalidades/parametrizacoes/naturezas.md), tem vínculo direto cada um com sua própria aba, e caso queira adicionar uma nova opção para selecionar, será necessário acessar a guia de referência inserir o item que deseja.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_guia_rateio_add.png)
+
