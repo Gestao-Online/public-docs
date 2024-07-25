@@ -1,6 +1,6 @@
 # 🧾 Notas fiscais (Nfe)
 
-Aqui você poderá ver as notas fiscais baixadas pelo sistema na plataforma da **Gestão Online**. Podendo conferir as informações de qual movimentação (Venda/Compra) ela pertence, a situação (Processando, rejeitado e concluído), etc.
+Aqui você poderá ver as notas fiscais eletrônicas baixadas pelo sistema na plataforma da **Gestão Online**. Podendo conferir as informações de qual movimentação (Venda/Compra) ela pertence, a situação (Processando, rejeitado e concluído), etc.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
