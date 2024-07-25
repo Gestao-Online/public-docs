@@ -78,11 +78,11 @@ Pouco mais abaixo, temos o campo obrigatório **Tipo movimentação**. Estes tip
 
 Clicando no botão <img src="/erp-v2/assets/icon_lupa.png" alt="" data-size="line"> você pode buscar um tipo de movimentação. Ou clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> você pode editar o tipo de movimentação selecionado em uma nova aba.
 
-Em nossa demonstração, iremos utilizar o tipo de movimentação **Fin - pagamento diversos**.
+Em nossa demonstração, utilizaremos o tipo de movimentação **Fin - pagamento diversos**.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_campo_tipo_movimentacao.png)
 
-Em sequência, tem os campos de **Natureza**, para indicar o tipo de despesa que está sendo cadastrada, e o **Centro de Resultado** para saber de qual setor pertence essa conta a pagar.
+Dando sequência, tem os campos de **Natureza**, para indicar o tipo de despesa que está sendo cadastrada, e o **Centro de Resultado**, para saber a qual setor pertence essa conta a pagar.
 
 Em específico com o campo de **Natureza**, você tem os botões de atalho <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adiciona um novo tipo de natureza, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o tipo de natureza selecionada em uma nova aba.
 
@@ -92,7 +92,7 @@ Em nosso exemplo, selecionamos a natureza despesas gerais, e o centro de resulta
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_campo_natureza_centro_resultado.png)
 
-Em sequência, temos os campos de **Tipo negociação** e **Conta**, estes campos são de preenchimento obrigatório e tem cada um vínculo com sua própria aba. Nestes campos também estão presentes os atalhos que foram explicados logo acima. 😁👍
+Na sequência, temos os campos de **Tipo negociação** e **Conta**, estes campos são de preenchimento obrigatório e têm cada um vínculo com sua própria aba. Nestes campos também estão presentes os atalhos explicados logo acima. 😁👍
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_campo_tipo_negociacao_conta.gif)
 
@@ -100,7 +100,7 @@ Logo abaixo a esses campos, temos os de **Data de vencimento** e **Data de negoc
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_campo_data_vencimento_negociacao.gif)
 
-Nos últimos campos temos os valores, sendo eles **Valor de Desdobramento**, **Valor Juro** e **Valor Multa**. No desdobramento será o valor desta conta a pagar. Agora o valor do juro e multa é opcional o preenchimento.
+Nos últimos campos temos os valores, sendo eles, **Valor de Desdobramento**, **Valor Juro** e **Valor Multa**. No desdobramento, será o valor desta conta a pagar. Agora, o valor do juro e multa é opcional no preenchimento.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_campo_valores.png)
 
@@ -130,7 +130,7 @@ Você pode incluir um rateio clicando no menu cinza no botão <img src="/erp-v2/
 
 ### Guia Histórico
 
-Nesta guia ficam registradas todas as movimentações realizadas nessa conta a pagar, desde sua criação, a alteração e desconto. Tudo até o dia de sua baixa no sistema. Conforme mostrado abaixo.
+Nesta guia, ficam registradas todas as movimentações realizadas nessa conta a pagar, desde sua criação, a alteração e desconto. Tudo até o dia de sua baixa no sistema. Conforme mostrado abaixo.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_pagar_add_conta_guia_historico.png)
 
