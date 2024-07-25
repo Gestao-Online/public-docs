@@ -32,7 +32,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add.png)
 
-Após clicarmos no botão adicionar nova conta a receber, uma nova página será aberta e nela ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicarmos no botão adicionar nova conta a receber, uma nova página será aberta e nela, ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Baixar;
 - <img src="/erp-v2/assets/icon_estornar.png" alt="" data-size="line"> Estornar;
@@ -82,7 +82,7 @@ Em nossa demonstração, iremos utilizar o tipo de movimentação **Fin - pagame
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_tipo_movimentacao.png)
 
-Em sequência, tem os campos de **Natureza**, para indicar o tipo de despesa que está sendo cadastrada, e o **Centro de Resultado** para saber de qual setor pertence essa conta a receber.
+Na sequência, tem os campos de **Natureza**, para indicar o tipo de despesa que está sendo cadastrada, e o **Centro de Resultado**, para saber a qual setor pertence essa conta a receber.
 
 Em específico com o campo de **Natureza**, você tem os botões de atalho <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adiciona um novo tipo de natureza, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o tipo de natureza selecionada em uma nova aba.
 
@@ -92,7 +92,7 @@ Em nosso exemplo, selecionamos a natureza receitas, e o centro de resultado defi
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_natureza_centro_resultado.png)
 
-Em sequência, temos os campos de **Tipo negociação** e **Conta**, estes campos são de preenchimento obrigatório e tem cada um vínculo com sua própria aba. Nestes campos também estão presentes os atalhos que foram explicados logo acima. 😁👍
+Dando sequência, temos os campos, **Tipo negociação** e **Conta**, estes campos são de preenchimento obrigatório e têm cada um vínculo com sua própria aba. Nestes campos também estão presentes os atalhos explicados logo acima. 😁👍
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_tipo_negociacao_conta.gif)
 
@@ -100,7 +100,7 @@ Logo abaixo a esses campos, temos os de **Data de vencimento** e **Data de negoc
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_data_vencimento_negociacao.gif)
 
-Nos últimos campos temos os valores, sendo eles **Valor de Desdobramento**, **Valor Juro** e **Valor Multa**. No desdobramento será o valor desta conta a receber. Agora o valor do juro e multa é opcional o preenchimento.
+Nos últimos campos temos os valores, sendo eles, **Valor de Desdobramento**, **Valor Juro** e **Valor Multa**. No desdobramento, será o valor desta conta a receber. Agora, o valor do juro e multa é opcional no preenchimento.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_valores.png)
 
@@ -126,7 +126,7 @@ Na guia de **Rateio** você especifica como o valor deve ser rateado. Isso pode 
 
 Você pode incluir um rateio clicando no menu cinza no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">adicionar, e então preencher as informações de porcentagem do rateio, qual unidade será referência, qual centro de resultado levará essa parte do rateio e a natureza do mesmo.
 
-Importante lembrar que os campos de [**`Unidade`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md),  [**`Centro de Resultado`**](/erp-v2/funcionalidades/parametrizacoes/centro_resultado.md) e [**`Natureza`**](/erp-v2/funcionalidades/parametrizacoes/naturezas.md), tem vínculo direto cada um com sua própria aba, e caso queira adicionar uma nova opção para selecionar, será necessário acessar a guia de referência inserir o item que deseja.
+Importante lembrar que os campos de [**`Unidade`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md),  [**`Centro de Resultado`**](/erp-v2/funcionalidades/parametrizacoes/centro_resultado.md) e [**`Natureza`**](/erp-v2/funcionalidades/parametrizacoes/naturezas.md), têm vínculo direto, cada um com sua própria aba, e caso queira adicionar uma nova opção para selecionar, será necessário acessar a guia de referência e inserir o item que deseja.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_guia_rateio_add.png)
 
@@ -138,7 +138,7 @@ Nesta guia ficam registradas todas as movimentações realizadas nessa conta a r
 
 ### Guia Anexos
 
-Nesta guia você pode anexar algum item para ficar registrado, sendo um boleto, nota fiscal ou outros, para poder ser acessado depois.
+Nesta guia, você pode anexar algum item para ficar registrado, sendo um boleto, nota fiscal ou outros, para poder ser acessado depois.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_guia_anexos.png)
 
