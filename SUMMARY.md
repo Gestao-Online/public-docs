@@ -138,6 +138,8 @@
         * [🟰 Cfop - Código Fiscal de Operações e Prestações](/erp-v2/funcionalidades/fiscal/cfop.md)
         * [🟰 Cest - Código Especificador da Substituição Tributária](/erp-v2/funcionalidades/fiscal/cest.md)
       * [🛂 Nota fiscal (Nfse)](/erp-v2/funcionalidades/fiscal/nota_fiscal_nfse.md)
+        * [🧾 Notas fiscais (Nfse)](/erp-v2/funcionalidades/fiscal/nota_nfse.md)
+        * [🟰 Lc116 - Lista de serviço](/erp-v2/funcionalidades/fiscal/lc116.md)
     
     * [👥 Indicadores/Afiliados](erp-v2/funcionalidades/indicadores_afiliados/README.md)
       * [💲 Comissões de parceiros](/erp-v2/funcionalidades/indicadores_afiliados/comissoes_parceiros.md)
