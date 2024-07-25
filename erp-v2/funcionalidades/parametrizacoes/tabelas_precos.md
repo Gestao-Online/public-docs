@@ -1,6 +1,6 @@
 # Tabelas de preços
 
-Aqui estão concentradas todas as tabelas de preços utilizáveis na plataforma **Gestão.Online**, podendo cadastrar uma nova tabela, editar informações existentes e até excluir uma tabela cadastrada.
+Aqui estão concentradas todas as tabelas de preços utilizáveis na plataforma **Gestão Online**, podendo cadastrar uma nova tabela, editar informações existentes e até excluir uma tabela cadastrada.
 
 Estas tabelas serão utilizadas em cadastro de produtos, registro de vendas e repasse de comissões para parceiros.
 
@@ -122,7 +122,7 @@ Caso tenha alguma dúvida sobre produto/serviço [clique aqui!](/erp-v2/funciona
 
 Na guia de histórico você tem as movimentações que foram feitas nessa tabela que você criou, seja adicionando, alterando ou removendo um item dela. Até alteração em valores, tudo ficará registrado, informando o nome do usuário que fez a alteração, assim como a data e o horário exato da modificação.
 
-Vale lembrar que estas informações não podem ser alteradas por nenhum dos usuários ou administradores da plataforma. Essas informações garantem o bom funcionamento e integridade do ERP da **Gestão.Online**.
+Vale lembrar que estas informações não podem ser alteradas por nenhum dos usuários ou administradores da plataforma. Essas informações garantem o bom funcionamento e integridade do ERP da **Gestão Online**.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_guia_historico.png)
 

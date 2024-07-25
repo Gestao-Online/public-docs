@@ -1,6 +1,6 @@
 # 💲 Vendas
 
-Aqui você tem a visão das vendas/movimentações na plataforma **Gestão.Online**, podendo cadastrar uma nova venda, editar informações existentes e até excluir uma venda existente.
+Aqui você tem a visão das vendas/movimentações na plataforma **Gestão Online**, podendo cadastrar uma nova venda, editar informações existentes e até excluir uma venda existente.
 
 Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de preço, tabela de custo, tabela de comissão, unidade, empresa, conta bancária e parceiro indicador. São muitos vínculos, mas isso faz o sistema da Gestão.Online ser preciso nos resultados.
 

@@ -1,6 +1,6 @@
 # 🎟️ Vouchers/Vale Presente
 
-Aqui você tem a visão de todos os vouchers (Cartāo ou vale presentes) cadastrados na plataforma **Gestão.Online**, podendo cadastrar um novo voucher, editar os existentes e até excluir um voucher cadastrado.
+Aqui você tem a visão de todos os vouchers (Cartāo ou vale presentes) cadastrados na plataforma **Gestão Online**, podendo cadastrar um novo voucher, editar os existentes e até excluir um voucher cadastrado.
 
 O objetivo de um "Voucher", é uma forma de cadastrar produtos com entregas "digitais" que permite você gerenciar um estoque de códigos de tickets. 
 

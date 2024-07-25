@@ -1,6 +1,6 @@
 # 💱 Tipo de negociação
 
-Nesta aba você encontra todas os tipos de negociação que estão cadastrados na plataforma da **Gestão Online**. E caso tenha algum tipo faltando, você pode efetuar o cadastro ou editar um existente, precisando somente seguir este manual.
+Nesta aba você encontra todos os tipos de negociação que estão cadastrados na plataforma da **Gestão Online**. E caso tenha algum tipo faltando, você pode efetuar o cadastro ou editar um existente, precisando somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.

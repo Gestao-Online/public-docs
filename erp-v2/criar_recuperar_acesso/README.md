@@ -1,11 +1,11 @@
 # 👨‍🏫 Criar e/ou Recuperar acesso
 
-Você pode criar ou recuperar um acesso na Plataforma da **Gestão.Online** com poucos passos! 😉👍
+Você pode criar ou recuperar um acesso na Plataforma da **Gestão Online** com poucos passos! 😉👍
 
 Estas e outras informações estão disponíveis na sequência deste manual de usuário para poder te auxiliar.
 
 {% hint style="danger" %}
-**Importante:** O primeiro acesso à plataforma pelo administrador (Setor interno ou pessoa responsável na empresa) é criado pelo nosso time comercial. Assim que é habilitado, terá autonomia para criar os demais usuários na plataforma. Logo, o email de confirmação só chegará quando o administrador fizer os cadastros na plataforma da **Gestão.Online**.
+**Importante:** O primeiro acesso à plataforma pelo administrador (Setor interno ou pessoa responsável na empresa) é criado pelo nosso time comercial. Assim que é habilitado, terá autonomia para criar os demais usuários na plataforma. Logo, o email de confirmação só chegará quando o administrador fizer os cadastros na plataforma da **Gestão Online**.
 {% endhint %}
 
 Clique na opção de interesse abaixo para seguir:

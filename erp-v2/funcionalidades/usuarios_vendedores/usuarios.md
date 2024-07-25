@@ -1,6 +1,6 @@
 # 👤 Usuários
 
-Aqui você tem a visão de todos os usuários cadastrados na plataforma **Gestão.Online**, podendo fazer cadastro, enviar notificações e até excluir um usuário cadastrado.
+Aqui você tem a visão de todos os usuários cadastrados na plataforma **Gestão Online**, podendo fazer cadastro, enviar notificações e até excluir um usuário cadastrado.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.

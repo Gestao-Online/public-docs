@@ -1,6 +1,6 @@
 # 🏨 Empresas
 
-Aqui você tem a visão de todos as empresas cadastradas na plataforma **Gestão.Online**, podendo cadastrar uma nova empresa, editar informações existentes e até excluir uma empresa cadastrada.
+Aqui você tem a visão de todos as empresas cadastradas na plataforma **Gestão Online**, podendo cadastrar uma nova empresa, editar informações existentes e até excluir uma empresa cadastrada.
 
 Estas empresas serão utilizadas em cadastro de estoques, lojas e vínculos com produtos e serviços.
 
@@ -121,5 +121,5 @@ Duas novas guias ficam disponíveis a partir do momento que você salva uma nova
 
 ## Guia Anexos arquivos de processamento
 
-- Anexos arquivos de processamento, vão aparecer todos os arquivos utilizados em transações realizadas por esta empresa na plataforma da **Gestão.Online**.
+- Anexos arquivos de processamento, vão aparecer todos os arquivos utilizados em transações realizadas por esta empresa na plataforma da **Gestão Online**.
     - ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_guia_arquivos.png)

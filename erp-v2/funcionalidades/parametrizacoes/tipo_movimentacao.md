@@ -1,6 +1,6 @@
 # 🔁 Tipo de movimentação
 
-Aqui você tem a visão de todas as movimentações cadastradas na plataforma **Gestão.Online**, podendo cadastrar um novo tipo de movimentação, editar informações existentes e até excluir uma movimentação cadastrada.
+Aqui você tem a visão de todas as movimentações cadastradas na plataforma **Gestão Online**, podendo cadastrar um novo tipo de movimentação, editar informações existentes e até excluir uma movimentação cadastrada.
 
 Estas movimentações serão utilizadas em vendas, vendas recorrentes, pedidos de venda, compras, pedidos de compra, importações e financeiro.
 

@@ -1,6 +1,6 @@
 # 🔔 Controle de exclusão em notificações
 
-Nesta aba você tem acesso administrativo ao controle de exclusão de notificações na plataforma **Gestão.Online**:
+Nesta aba você tem acesso administrativo ao controle de exclusão de notificações na plataforma **Gestão Online**:
 
 ![](/erp-v2/assets/funcionalidades/configuracoes/aba_notificacoes.gif)
 

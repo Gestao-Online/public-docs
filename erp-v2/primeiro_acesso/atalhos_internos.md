@@ -1,6 +1,6 @@
 # ↪️ Atalhos internos
 
-Assim como você tem atalhos com o botão direito do mouse no seu sistema operacional, nós temos na plataforma **Gestão.Online** este recurso. Vamos conferir!
+Assim como você tem atalhos com o botão direito do mouse no seu sistema operacional, nós temos na plataforma **Gestão Online** este recurso. Vamos conferir!
 
 {% hint style="info" %}
 **Informação:** Para o exemplo, utilizamos a aba de clientes, esses atalhos podem mudar dependendo da aba que você estiver utilizando no momento! 😉👍
@@ -76,7 +76,7 @@ Não só a função do botão direito, você tem disponíveis em cada aba um men
 
 <br>
 
-Ainda mostrando os tipos de menus superiores, temos na aba de vendas outras opções disponíveis para facilitar o seu dia a dia com a plataforma **Gestão.Online**, veja abaixo:
+Ainda mostrando os tipos de menus superiores, temos na aba de vendas outras opções disponíveis para facilitar o seu dia a dia com a plataforma **Gestão Online**, veja abaixo:
 
 ![](/erp-v2/assets/atalho_menus_superiores2.gif)
 

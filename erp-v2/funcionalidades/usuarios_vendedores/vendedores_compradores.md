@@ -1,6 +1,6 @@
 # 👔 Vendedores & Compradores
 
-Aqui você tem a visão de todos os vendedores e compradores cadastrados na plataforma **Gestão.Online**, podendo fazer cadastro, edição e até excluir um vendedor/comprador cadastrado.
+Aqui você tem a visão de todos os vendedores e compradores cadastrados na plataforma **Gestão Online**, podendo fazer cadastro, edição e até excluir um vendedor/comprador cadastrado.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.

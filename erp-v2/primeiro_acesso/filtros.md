@@ -1,6 +1,6 @@
 # 📩 Usando os Filtros
 
-Observe abaixo como utilizar as funções que estão presentes em todas as abas da nossa plataforma da **Gestão.Online**.😁
+Observe abaixo como utilizar as funções que estão presentes em todas as abas da nossa plataforma da **Gestão Online**.😁
 
 Esse guia tem como intuito explicar os tipos de filtro e a melhor maneira de utilizá-los.
 

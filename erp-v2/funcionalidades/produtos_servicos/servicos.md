@@ -1,6 +1,6 @@
 # 🧰 Serviços
 
-Aqui você tem a visão de todos os serviços cadastrados na plataforma **Gestão.Online**, podendo cadastrar um novo serviço, editar informações existentes e até excluir um serviço cadastrado.
+Aqui você tem a visão de todos os serviços cadastrados na plataforma **Gestão Online**, podendo cadastrar um novo serviço, editar informações existentes e até excluir um serviço cadastrado.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
