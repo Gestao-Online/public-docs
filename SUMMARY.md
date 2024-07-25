@@ -130,14 +130,12 @@
       * [💱 Tipo de negociação](erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
 
     * [🕵️ Fiscal](erp-v2/funcionalidades/fiscal/README.md)
-      * [🛃 Nota fiscal (Nfe/Nfce)](/erp-v2/funcionalidades/fiscal/nota_fiscal_nfe_nfce.md)
         * [🧾 Notas fiscais (Nfe)](/erp-v2/funcionalidades/fiscal/nota_nfe.md)
         * [🧾 Notas fiscais (Nfce)](/erp-v2/funcionalidades/fiscal/nota_nfce.md)
         * [⏩ Tipo de tributação](/erp-v2/funcionalidades/fiscal/tipo_tributacao.md)
         * [🟰 Ncm - Nomenclatura Comum do Mercosul](/erp-v2/funcionalidades/fiscal/ncm.md)
         * [🟰 Cfop - Código Fiscal de Operações e Prestações](/erp-v2/funcionalidades/fiscal/cfop.md)
         * [🟰 Cest - Código Especificador da Substituição Tributária](/erp-v2/funcionalidades/fiscal/cest.md)
-      * [🛂 Nota fiscal (Nfse)](/erp-v2/funcionalidades/fiscal/nota_fiscal_nfse.md)
         * [🧾 Notas fiscais (Nfse)](/erp-v2/funcionalidades/fiscal/nota_nfse.md)
         * [🟰 Lc116 - Lista de serviço](/erp-v2/funcionalidades/fiscal/lc116.md)
     
