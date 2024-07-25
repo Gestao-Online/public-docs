@@ -1,6 +1,6 @@
 # 🧾 Notas fiscais (Nfe)
 
-Nesta aba você encontra todos Notas fiscais do tipo NF-e que estão cadastrados na plataforma da **Gestão Online**. E caso tenha alguma faltando, você pode efetuar o cadastro ou editar uma existente, precisando somente seguir este manual.
+Nesta aba você encontra todos Notas fiscais do tipo NF-e que estão cadastrados na plataforma da **Gestão Online**. Aqui 
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -49,4 +49,3 @@ Após preencher todas as informações, basta clicar no botão **Realizar Downlo
 Em nossa demonstração, baixamos o arquivos e abrimos ele para ter acesso as notas fiscais. O período que usamos as notas estão no formato XML e PDF. Observe abaixo:
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_nfe_menu_download_arquivos.gif)
-
