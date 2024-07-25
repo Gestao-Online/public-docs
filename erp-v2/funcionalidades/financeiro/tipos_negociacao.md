@@ -21,18 +21,18 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 {% endhint %}
 
 {% hint style="warning" %}
-**Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse).
+**Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse, [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_menu.png)
 
 ## Adicionar novo tipo de negociação
 
-No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um novo tipo de negociação, confira abaixo o procedimento para fazer o cadastro corretamente:
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um novo tipo de negociação. Confira abaixo o procedimento para fazer o cadastro corretamente:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add.png)
 
-Após clicarmos no botão adicionar novo tipo de negociação, uma nova página será aberta e nela ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicar no botão para adicionar um novo tipo de negociação, uma nova página será aberta e, ao lado direito da tela, é possível visualizar um pequeno menu cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
@@ -51,28 +51,28 @@ No momento do cadastro de um novo tipo de negociação, você precisará preench
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_tipo.png)
 
-No primeiro campo você preenche a empresa de referência para este tipo de pagamento, e lembrando que este campo tem um vínculo direto com a aba de [**`Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
+No primeiro campo, você preenche a empresa de referência para este tipo de pagamento, lembrando que este campo tem um vínculo direto com a aba de [**`Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_campo_empresa.png)
 
-E no campo de status você define se este tipo está ou não disponível para utilização nas demais abas, por exemplo a de vendas.
+E no campo de status você define se este tipo está ou não disponível para utilização nas demais abas, por exemplo, a de vendas.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_campo_status.png)
 
 ### Guia para parcelamentos
 
-O campo de descrição é somente para identificar melhor o tipo de movimentação que você vai usar em outras abas. O foco maior está na guia exibida na parte de baixo da página, onde você define se terá algum tipo de parcelamento.
+O campo de descrição é somente para identificar melhor o tipo de movimentação que você usará em outras abas. O foco maior está na guia exibida na parte de baixo da página, onde você define se terá algum tipo de parcelamento.
 
-Para a demonstração de exemplo, colocamos um de tipo de negociação **Cartão de crédito 4x** e adicionamos os parcelamentos um conforme mostrado abaixo todos já inseridos.
+Para a demonstração de exemplo, colocamos um tipo de negociação, **Cartão de crédito 4x** e adicionamos os parcelamentos um conforme mostrado abaixo, todos já inseridos.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_parcelamento.png)
 
-Fique atento ao momento de prencher os parcelamentos, você pode fazer manualmente uma a uma, ou utilizar a função que faz as parcelas automaticamente, precisando somente clicar com o botão direito do mouse sobre a primeira que você já configurou.
+Fique atento ao momento de preencher os parcelamentos, você pode fazer manualmente uma a uma, ou utilizar a função que faz as parcelas automaticamente, precisando somente clicar com o botão direito do mouse sobre a primeira que você já configurou.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_parcelamento_btn.gif)
 
 ## Salvando um tipo de negociação
 
-Após o preenchimento destas informações, você pode salvar os dados novo tipo de negociação. Observe abaixo o resultado:
+Após o preenchimento destas informações, você pode salvar os dados do novo tipo de negociação. Observe abaixo o resultado:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_conta_salvar.gif)
