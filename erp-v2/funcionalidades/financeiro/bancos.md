@@ -21,18 +21,18 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 {% endhint %}
 
 {% hint style="warning" %}
-**Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse).
+**Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse, [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_menu.png)
 
 ## Adicionar nova conta bancária
 
-No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um novo banco, confira abaixo o procedimento para fazer o cadastro corretamente:
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um novo banco. Confira abaixo o procedimento para fazer o cadastro corretamente:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add.png)
 
-Após clicarmos no botão adicionar novo banco, uma nova página será aberta e nela ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicarmos no botão adicionar novo banco, uma nova página será aberta e, ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;   
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
@@ -51,25 +51,25 @@ No momento do cadastro de um novo banco, você precisará preencher alguns campo
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_banco.png)
 
-No primeiro campo temos a **Sigla** desse banco, ela é um item obrigatório e serve para identificar esse banco que você está cadastrando no momento. 
+No primeiro campo temos a **Sigla** desse banco, ela é um item obrigatório e possibilita identificar esse banco que você está cadastrando no momento.
 
-Para nosso exemplo, vamos preencher um banco ficticio com as informações da **Gestão Online**.
+Para nosso exemplo, preenchemos um banco fictício com as informações da **Gestão Online**.
 
-Na sigla usaremos em minúsculo mesmo o nome **gopag**, mas caso queira pode usar letras e númerosda forma que desejar. 😁
+Na sigla, usaremos em minúsculo o nome **gopag**, mas caso queira pode usar letras e números da forma que desejar. 😁
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_campo_sigla.png)
 
 ## Código do banco
 
-Aqui no campo **Código do banco** você preenche o código padrão que o banco possui, caso você não saiba o código do seu banco, pode conferir no site da FEBRABAN (Federação Brasileira de Bancos), lá tem os códigos de todos os bancos autorizados. Para acessar o site deles [**`Clique aqui`**](https://portal.febraban.org.br/pagina/3164/12/pt-br/associados).
+Aqui, no campo **Código do banco**, você preenche o código padrão que o banco possui. Caso você não saiba o código do seu banco, pode conferir no site da FEBRABAN (Federação Brasileira de Bancos), lá tem os códigos de todos os bancos autorizados. Para acessar o site deles [**`Clique aqui`**](https://portal.febraban.org.br/pagina/3164/12/pt-br/associados).
 
-Como nosso exemplo é fictício, usaremos o mesmo texto da sigla, e preencheremos os campos de CNPJ com zeros.
+Como nosso exemplo é fictício, usaremos o mesmo texto da sigla e preencheremos os campos de CNPJ com zeros.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_campo_codigo_cnpj.png)
 
 ## Adicionar imagem
 
-No campo de **Imagem** você pode adicionar uma imagem do banco a ser cadastrado. Você pode colocar a logo dele para ficar mais visual, e com isso em campos que solicitar os bancos, será mostrada essa imagem junto ao nome do banco cadastrado.
+No campo de **Imagem**, você pode adicionar uma imagem do banco a ser cadastrado. Você pode colocar a logo dele para ficar mais visual, e com isso, em campos que solicitarem os bancos, será mostrada essa imagem junto ao nome do banco cadastrado.
 
 Observe abaixo nosso exemplo de definição da foto. O procedimento é super fácil. 😎🙌
 
@@ -81,6 +81,6 @@ Por último, temos a descrição, esse será o texto que aparecerá nos campos d
 
 ## Salvando novo banco
 
-Após fazer o preenchimento dos dados do novo banco, você pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para que seja registrado o banco e fique disponível para utilização.
+Após fazer o preenchimento dos dados do novo banco, você pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para ser registrado o banco e ficar disponível para utilização.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_bancos_add_campo_salvar.gif)
