@@ -116,19 +116,19 @@ Logo abaixo a esses campos, temos os de **Data de vencimento** e **Data de negoc
 
 ### Campos Valores de Desdobramento, Juro e Multa
 
-Nos últimos campos temos os valores, sendo eles **Valor de Desdobramento**, **Valor Juro** e **Valor Multa**. No desdobramento será o valor desta conta (Receita/Despesa). Agora o valor do juro e multa é opcional o preenchimento.
+Nos últimos campos temos os valores, sendo eles **Valor de Desdobramento**, **Valor Juro** e **Valor Multa**. No desdobramento será o valor desta conta (Receita/Despesa). Agora, o valor do juro e multa tem preenchimento opcional.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_fluxo_add_conta_campo_valores.png)
 
 ### Campos de Histórico e Provisão
 
-No final da página temos os campos de **Histórico** e colocar uma descrição ou referência que ajuda a identificar a transação. E o botão de **Provisão**, caso queira deixar um valor reservado para cobrir possíveis riscos de não recebimento ou para ajustes futuros.
+No final da página, temos os campos de **Histórico**, onde você pode colocar uma descrição ou referência que ajuda a identificar a transação. E o botão de **Provisão**, caso queira, deixar um valor reservado para cobrir possíveis riscos de não recebimento ou para ajustes futuros.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_fluxo_add_conta_campo_historico_provisao.png)
 
 ## Salvando uma conta (Receita/Despesa)
 
-Após o preenchimento destas informações, você pode salvar os dados da nova conta (Receita/Despesa), e logo em seguida algumas guias ficarão disponíveis para você acessar.
+Após o preenchimento destas informações, você pode salvar os dados da nova conta (Receita/Despesa) e logo em seguida algumas guias ficarão disponíveis para você acessar.
 
 Observe abaixo o resultado:
 
@@ -144,13 +144,13 @@ Na guia de **Rateio** você especifica como o valor deve ser rateado. Isso pode 
 
 Você pode incluir um rateio clicando no menu cinza no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">adicionar, e então preencher as informações de porcentagem do rateio, qual unidade será referência, qual centro de resultado levará essa parte do rateio e a natureza do mesmo.
 
-Importante lembrar que os campos de [**`Unidade`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md),  [**`Centro de Resultado`**](/erp-v2/funcionalidades/parametrizacoes/centro_resultado.md) e [**`Natureza`**](/erp-v2/funcionalidades/parametrizacoes/naturezas.md), tem vínculo direto cada um com sua própria aba, e caso queira adicionar uma nova opção para selecionar, será necessário acessar a guia de referência inserir o item que deseja.
+Importante lembrar que os campos de [**`Unidade`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md),  [**`Centro de Resultado`**](/erp-v2/funcionalidades/parametrizacoes/centro_resultado.md) e [**`Natureza`**](/erp-v2/funcionalidades/parametrizacoes/naturezas.md), têm vínculo direto, cada um com sua própria aba, e caso queira adicionar uma nova opção para selecionar, será necessário acessar a guia de referência e inserir o item que deseja.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_fluxo_add_conta_guia_rateio_add.png)
 
 ### Guia Histórico
 
-Nesta guia ficam registradas todas as movimentações realizadas nessa conta (Receita/Despesa), desde sua criação, a alteração e desconto. Tudo até o dia de sua baixa no sistema. Conforme mostrado abaixo.
+Nesta guia, ficam registradas todas as movimentações realizadas nessa conta (Receita/Despesa), desde sua criação até sua alteração e desconto. Tudo até o dia de sua baixa no sistema. Conforme mostrado abaixo.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_fluxo_add_conta_guia_historico.png)
 
