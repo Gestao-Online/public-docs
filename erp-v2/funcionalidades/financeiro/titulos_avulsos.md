@@ -23,7 +23,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 {% endhint %}
 
 {% hint style="warning" %}
-**Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse).
+**Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse, [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_titulos_menu.png)
@@ -34,7 +34,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_titulos_add.png)
 
-Após clicarmos no botão adicionar novo título avulso, uma nova página será aberta e nela ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicar no botão adicionar um novo título avulso, uma nova página será aberta e, ao lado direito da tela, há um menu cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
@@ -55,7 +55,7 @@ No momento do cadastro de uma nova conta a receber, você precisará preencher a
 
 ### Campo cliente/parceiro
 
-No campo de **Cliente/Parceiro**, você pode buscar digitando o nome, as informações mostradas aqui, esse mesmo campo, tem um vínculo com a **aba de parceiros**. Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> você pode editar o parceiro/cliente selecionado em uma nova aba.
+No campo de **Cliente/Parceiro**, você pode buscar, digitando o nome, as informações mostradas aqui. Esse mesmo campo tem um vínculo com a **aba de parceiros**. Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line">, você pode editar o parceiro/cliente selecionado em uma nova aba.
 
 Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo definimos um cliente fictício.
 
@@ -71,7 +71,7 @@ A mesma informação vale para o campo de **Unidade**, você pode ter mais infor
 
 ### Campos Tipo negociação e Conta
 
-Em sequência, temos os campos de [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md) e [**`Conta`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md), estes campos são de preenchimento obrigatório e tem cada um vínculo com sua própria aba. 
+Em sequência, temos os campos de [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md) e [**`Conta`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md), estes campos são de preenchimento obrigatório e têm cada um vínculo com sua própria aba.
 
 Observe nossa demonstração abaixo.
 
@@ -85,13 +85,13 @@ Logo abaixo a esses campos, temos os de **Data de vencimento**. Esses campos de 
 
 ### Campos valores
 
-Nos campos os valores, sendo eles **Valor**, **Valor Juro** e **Valor Multa**. No desdobramento será o valor desta conta a receber. Agora o valor do juro e multa é opcional o preenchimento.
+Nos campos os valores, sendo eles **Valor**, **Valor Juro** e **Valor Multa**. No desdobramento, será o valor desta conta a receber. Agora, o valor do juro e multa, o preenchimento é opcional.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_titulos_add_titulo_campo_valores.png)
 
 ### Campos Histórico e Pagamento Tipo
 
-No final da página temos os campos de **Histórico** e colocar uma descrição ou referência que ajuda a identificar a transação. E o campo de **Pagamento Tipo** trará mais informações sobre a transação.
+No final da página, temos os campos de **Histórico** para colocar uma descrição ou referência que ajuda a identificar a transação. E o campo de **Pagamento Tipo** trará mais informações sobre a transação.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_titulos_add_titulo_campo_historico_pgto_tipo.png)
 
