@@ -178,3 +178,35 @@ Continuando na guia de PIS, você pode adicionar excessões caso haja, você tem
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_pis_excessao.png)
 
+### Guia COFINS
+
+Na guia de COFINS (Contribuição para o Financiamento da Seguridade Social) que é um imposto federal brasileiro que incide sobre o faturamento das empresas. E tem como principal objetivo financiar a seguridade social, que abrange a previdência social, a saúde e a assistência social.
+
+Nós vamos clicar no ícone <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo item, onde será mostrado os campos de preenchimento com as informações necessárias para salvarmos.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_cofins.png)
+
+O primeiro campo de preenchimento é de **Origem da Mercadoria**. As informações já estão pré-definidas, você precisa apenas escolher a que melhor se aplica para o seu caso.
+
+E nosso exemplo vamos marcar a primeira opção. Observe abaixo.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_cofins_origem.png)
+
+No segundo campo, temos a Situação Tributária (CST). Em nossa exemplo marcaremos a opção **01 - Operação tributável com alíquota básica**, o código "01" é usado quando a mercadoria está sujeita à tributação normal do ICMS, sem qualquer tipo de isenção, redução de base de cálculo, ou substituição tributária.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_cofins_situacao_tributaria.png)
+
+Agora no campo de **Alíquota** coloraremos o valor de 11,00% para este nosso exemplo. E o campo **Base de cálculo** e **Redução na Base de Cálculo** nós deixaremos com valores zerados.
+
+E no campo **Tipo de Cálculo IPI** ficará com a opção de "base cálculo X alíquota", onde a base de cálculo é o valor do produto industrializado e a alíquota é um percentual aplicado sobre a base de cálculo para determinar o valor do imposto a ser pago.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_cofins_aliquota_calculo.png)
+
+Após tudo preenchido, vamos agora salvar esta configuração de COFINS para usarmos. Observe abaixo.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_cofins_salvar.gif)
+
+Continuando na guia de COFINS, você pode adicionar excessões caso haja, você tem um pequeno menu recolhível que trás uma opção a mais para você.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_cofins_excessao.png)
+
