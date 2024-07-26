@@ -104,5 +104,8 @@ Os demais campos não iremos fazer o preenchimento para este exemplo. Porém, se
 
 Após tudo preenchido, vamos agora salvar esta configuração de ICMS para usarmos. Observe abaixo.
 
-![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_.gif)
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms_salvar.gif)
 
+Criamos também uma configuração única somente para o estado de Goiás, lembrando mais uma vez é somente para ilustrar que pode ser feito de maneira separada a configuração de cada estado. Como pode observar abaixo, agora temmos duas configurações para ICMS, uma para insterestadual e outra estadual. 😁👍
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms_itens.png)
