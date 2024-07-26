@@ -46,7 +46,7 @@ Após clicar no botão para adicionar um novo tipo de negociação, uma nova pá
 No momento do cadastro de um novo tipo de negociação, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
 
 {% hint style="info" %}
-**Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados da conta a pagar. 😉👍
+**Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados do tipo de negociação. 😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_tipo.png)
