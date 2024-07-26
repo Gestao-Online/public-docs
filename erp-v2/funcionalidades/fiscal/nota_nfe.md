@@ -37,7 +37,7 @@ Primeiro é necessário preencher os campos de **Data inicial** e **Data final**
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_nfe_menu_download_data.gif)
 
-Depois você define o **Tipo** de NF que precisa fazer o download, são três opções entre, NFe, NFCe e NFSe.
+Depois você define o **Tipo** de NF que precisa fazer o download, neste caso selecionamos a NFe.
 
 Logo abaixo em **Anexo(s)** você escolhe o formato que deseja baixar as NFs, tendo três opções, PDF, XML ou baixar as duas versões.
 
