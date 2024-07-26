@@ -63,3 +63,46 @@ Como o campo de **observação** não tem preenchimento obrigatório, vamos deix
 Após salvarmos este tipo de tributação, algumas guias passam a ficar disponíveis para preenchimento. Observe abaixo:
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_salvar.gif)
+
+## Guias disponíveis após salvar
+
+Após salvar o novo tipo de tributação, algumas guias ficará disponíveis para você preencher, no primeiro momento estarão todas vazias, mas ao seguir em nosso manual, vamos fazer o preenchimento um a um.
+
+### Guia ICMS
+
+Na guia de ICMS (Imposto sobre Circulação de Mercadorias e Serviços) vamos clicar no ícone <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo item, onde será mostrado os campos de preenchimento com as informações necessárias para salvarmos.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms.png)
+
+O primeiro campo de preenchimento é o do NCM (Nomenclatura Comum do Mercosul), ele precisa já estar configurado para você poder utilizá-lo. Para mais informações sobre a **aba NCM**, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/ncm.md).
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms_campo_ncm.gif)
+
+Em sequência temos o campo CFOP (Código Fiscal de Operações e Prestações), ele precisa já estar configurado para você poder utilizá-lo. Para mais informações sobre a **aba CFOP**, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/cfop.md).
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms_campo_cfop.gif)
+
+No campos de **estados**, você precisa clicar para quais estados serão válidos esta configuração. Em nosso exemplo, vamos marcar todos os estados, menos o do Goiás, pois essa configuração será para o tipo interestadual. Depois faremos um só com o estado de Goiás.
+
+Lembrando que essa configuração que fizemos é valida para outros estados. Pois cada um possui uma configuração diferente a ser seguida.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms_campo_estados.gif)
+
+Agora no campo **Tipo de Situação Tributária** nós temos duas opções de escolha, o primeiro é o CST (Código de Situação Tributária) que é um código utilizado na legislação tributária brasileira para identificar a situação tributária de um produto ou serviço em relação ao ICMS, e temos o CSON (Código de Situação da Operação de Nota Fiscal) é um código utilizado no Brasil para indicar a situação tributária específica de uma operação registrada em uma Nota Fiscal Eletrônica (NF-e).
+
+Para nosso exemplo de cadastro interestadual iremos marcar a opçõa do CSON, e vamos marcar no campo ao lado de **Situação Tributária** a opção 101 - Tributada com permissão de crédito. Existem outras opções, mas isso depende da ocasião. Observe abaixo:
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms_campos_situacao_tributaria.png)
+
+Em **Modalidade da Base de Cálculo** iremos escolher a opção valor da operação, e definir a alíquota como 18,00%. Isso em sequência no campo **Origem da Mercadoria** nós vamos marcar primeira opção Nacional, exceto as indicadas nos códigos 3, 4, 5 e 8.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms_campos_modalidade_aliquota.png)
+
+Os demais campos não iremos fazer o preenchimento para este exemplo. Porém, se você observar, no final da página tem mais campos com opções caso seja necessário em alguma ocasião. Observe abaixo as opções disponíveis.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms_campos_tipo_situacao_tributaria.png)
+
+Após tudo preenchido, vamos agora salvar esta configuração de ICMS para usarmos. Observe abaixo.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_.gif)
+
