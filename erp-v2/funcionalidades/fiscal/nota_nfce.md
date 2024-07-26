@@ -1,4 +1,4 @@
-# 🧾 Notas fiscais (Nfce)
+# 🧾 Notas fiscais (NFCe)
 
 Aqui você poderá ver as notas fiscais do consumidor baixadas pelo sistema na plataforma da **Gestão Online**. Podendo conferir as informações de qual movimentação (Venda/Compra) ela pertence, a situação (Processando, rejeitado e concluído), etc.
 
