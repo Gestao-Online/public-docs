@@ -1,4 +1,4 @@
-# 💱 Tipo de negociação
+# 💱 Tipo de negociação.
 
 Nesta aba você encontra todos os tipos de negociação que estão cadastrados na plataforma da **Gestão Online**. E caso tenha algum tipo faltando, você pode efetuar o cadastro ou editar um existente, precisando somente seguir este manual.
 
@@ -36,7 +36,7 @@ Após clicar no botão para adicionar um novo tipo de negociação, uma nova pá
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
-- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar rascunho;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_menu.png)
