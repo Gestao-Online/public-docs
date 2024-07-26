@@ -70,7 +70,9 @@ Após salvar o novo tipo de tributação, algumas guias ficará disponíveis par
 
 ### Guia ICMS
 
-Na guia de ICMS (Imposto sobre Circulação de Mercadorias e Serviços) vamos clicar no ícone <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo item, onde será mostrado os campos de preenchimento com as informações necessárias para salvarmos.
+Na guia de ICMS (Imposto sobre Circulação de Mercadorias e Serviços) que é um imposto estadual brasileiro que incide sobre a movimentação de mercadorias e a prestação de serviços de transporte e comunicação. E também um dos principais tributos no Brasil e desempenha um papel crucial na arrecadação de receitas para os Estados e Municípios. 
+
+Nós vamos clicar no ícone <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo item, onde será mostrado os campos de preenchimento com as informações necessárias para salvarmos.
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms.png)
 
@@ -109,3 +111,37 @@ Após tudo preenchido, vamos agora salvar esta configuração de ICMS para usarm
 Criamos também uma configuração única somente para o estado de Goiás, lembrando mais uma vez é somente para ilustrar que pode ser feito de maneira separada a configuração de cada estado. Como pode observar abaixo, agora temmos duas configurações para ICMS, uma para insterestadual e outra estadual. 😁👍
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms_itens.png)
+
+### Guia IPI
+
+Na guia de IPI (Imposto sobre Produtos Industrializados) que é um imposto federal brasileiro que incide sobre a produção e a importação de produtos industrializados. 
+
+Nós vamos clicar no ícone <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo item, onde será mostrado os campos de preenchimento com as informações necessárias para salvarmos.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_ipi.png)
+
+O primeiro campo de preenchimento é de **Origem da Mercadoria**. As informações já estão pré-definidas, você precisa apenas escolher a que melhor se aplica para o seu caso.
+
+E nosso exemplo vamos marcar a primeira opção. Observe abaixo.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_ipi_origem.png)
+
+No segundo campo, temos a Situação Tributária (CST). Em nossa exemplo marcaremos a opção **50 - Saída Tributada**, essa situação "50" indica que a operação está com o imposto suspenso. Isso significa que, temporariamente, o ICMS não é cobrado na saída do produto ou serviço, mas poderá ser cobrado em uma etapa posterior. 
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_ipi_situacao_tributaria.png)
+
+No campo de **Código de enquadramento** nós deixaremos em branco. Mas saiba que os códigos de enquadramento do IPI são diversos e atendem a diferentes situações previstas na legislação.
+
+Agora no campo de **Alíquota** coloraremos o valor de 11,00% para este nosso exemplo. E o campo **Base de cálculo** nós deixaremos também com valores zerados.
+
+E no **Tipo de Cálculo IPI** ficará com a opção de "base cálculo X alíquota", onde a base de cálculo é o valor do produto industrializado e a alíquota é um percentual aplicado sobre a base de cálculo para determinar o valor do imposto a ser pago.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_ipi_aliquota_calculo.png)
+
+Após tudo preenchido, vamos agora salvar esta configuração de IPI para usarmos. Observe abaixo.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_ipi_salvar.gif)
+
+Ainda na guia de IPI, você pode adicionar excessões caso haja, você tem um pequeno menu recolhível que trás uma opção a mais para você.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_ipi_excessao.png)
