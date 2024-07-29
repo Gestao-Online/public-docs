@@ -23,4 +23,21 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse, [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse).
 {% endhint %}
 
-![](/erp-v2/assets/funcionalidades/fiscal/aba_comissoes_menu.png)
+![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_comissoes_menu.png)
+
+## Botão direito do mouse
+
+Nesta aba não temos a opção de adicionar um novo item, pois todas as comissões são geradas automaticamente através de uma venda/compra.
+
+Então quando você tem uma movimentação sendo exibida, você pode clicar com o botão direito do mouse sobre este item e terá duas opções, sendo elas para **Recusar** a comissão gerada, ou **Marcar como pago**.
+
+Em nosso exemplo, iremos recusar o pagamento da comissão para vermos a mensagem que será exibida. Observe abaixo, o status da comissão será modificado assim que definirmos.
+
+![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_comissoes_btn_mouse.gif)
+
+
+## Dashboard lateral
+
+Ainda nesta aba, você pode ter observado que no lado esquerdo tem um ícone de uma seta, se movendo. Ali fica o dashboard de informações da aba.
+
+Para as informações completas sobre uso desse dashboard, você pode acessar nossa manual de explicação sobre ele [`clicando aqui`](/erp-v2/primeiro_acesso/relatorios_dashboard_grid.md).
