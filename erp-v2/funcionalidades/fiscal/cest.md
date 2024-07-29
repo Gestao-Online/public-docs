@@ -55,3 +55,22 @@ Mas observe que neste mesmo campo de **NCM**, você tem os botões de atalho <im
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_campo_ncm.gif)
 
+No segundo campo temos o **código do CEST** (Código Especificador de Substituição Tributária) é um código padronizado que identifica mercadorias sujeitas ao regime de substituição tributária e de antecipação do recolhimento do ICMS (Imposto sobre Circulação de Mercadorias e Serviços).
+
+Em nosso exemplo, usaremos o código 2806300 que é especificamente para venda de mercadorias pelo sistema porta a porta.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_campo_codigo.png)
+
+Agora no campo de **Descrição** colocaremos o nome relativo a este código CEST para podermos identificá-lo. Mas você pode usar a descrição que for mais conveniente para uso.
+
+Já no campo de **Descrição completa** por ser um item opcional você decide se irá preenchê-lo ou não. Em nosso exemplo, não precisaremos preenchê-lo.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_campo_descricao_completa.png)
+
+Feito o preenchimento das informações, agora vamos salvar para ele ficar ativo.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_salvar.gif)
+
+<br>
+
+<br>
