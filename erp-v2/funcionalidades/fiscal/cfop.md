@@ -1,6 +1,6 @@
 # 🟰 Cfop - Código Fiscal de Operações e Prestações
 
-Nesta aba você encontra todas as configurações de códigos CFOP (Código Fiscal de Operações e Prestações) que estão cadastrados na plataforma da **Gestão Online**. Esses tipos definem os cenários de emissão das Notas Fiscais. E caso queira criar, editar ou excluir um código existente, precisa somente seguir este manual.
+Nesta aba você encontra todas as configurações de códigos CFOP (Código Fiscal de Operações e Prestações) que estão cadastrados na plataforma da **Gestão Online**. Esses tipos definem os cenários de emissão das notas fiscais. E caso queira criar, editar ou excluir um código existente, precisa somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -41,15 +41,15 @@ Após clicar no botão para adicionar um novo código de CFOP, uma nova página 
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cfop_add_menu.png)
 
-No primeiro campo temos o código do CFOP (Código Fiscal de Operações e Prestações) é um código utilizado no Brasil para identificar a natureza das operações de circulação de mercadorias e prestações de serviços de transportes intermunicipais e interestaduais. 
+No primeiro campo, temos o código do CFOP (Código Fiscal de Operações e Prestações), que é um código utilizado no Brasil para identificar a natureza das operações de circulação de mercadorias e prestações de serviços de transportes intermunicipais e interestaduais.
 
-Em nosso exemplo, usaremos o código 6933 que é especificamente para prestação de serviço tributado pelo ISSQN (Imposto sobre Serviços de Qualquer Natureza), e por ele iniciar com o número 6 é referente a saídas ou prestações de serviços para outros Estados.
+Em nosso exemplo, usaremos o código 6933, que é especificamente para prestação de serviço tributado pelo ISSQN (Imposto sobre Serviços de Qualquer Natureza), e por ele iniciar com o número 6 é referente a saídas ou prestações de serviços para outros Estados.
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cfop_add_campo_codigo.png)
 
-Agora no campo de **Descrição** colocaremos o nome relativo a este código CFOP para podermos identificá-lo. Mas você pode usar a descrição que for mais conveniente para uso.
+Agora, no campo de **Descrição**, colocaremos o nome relativo a este código CFOP para podermos identificá-lo. Mas você pode usar a descrição que for mais conveniente para uso.
 
-Já no campo de **Descrição completa** por ser um item opcional você decide se irá preenchê-lo ou não. Em nosso exemplo, vamos completar com algumas informações sobre este código, para usarmos em uma consulta futura, ou até para caso de dúvida.
+Já no campo de Descrição completa, por ser um item opcional, você decide se irá preenchê-lo ou não. Em nosso exemplo, vamos completar com algumas informações sobre este código, para usarmos em uma consulta futura ou até para caso de dúvida.
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cfop_add_campo_descricao_completa.png)
 

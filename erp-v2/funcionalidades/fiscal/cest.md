@@ -1,6 +1,6 @@
 # 🟰 Cest - Código Especificador da Substituição Tributária
 
-Nesta aba você encontra todas as configurações de códigos CEST (Código Especificador de Substituição Tributária) que estão cadastrados na plataforma da **Gestão Online**. Esses tipos definem os cenários de emissão das Notas Fiscais. E caso queira criar, editar ou excluir um código existente, precisa somente seguir este manual.
+Nesta aba você encontra todas as configurações de códigos CEST (Código Especificador de Substituição Tributária) que estão cadastrados na plataforma da **Gestão Online**. Esses tipos definem os cenários de emissão das notas fiscais. E caso queira criar, editar ou excluir um código existente, precisa somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -41,33 +41,33 @@ Após clicar no botão para adicionar um novo código de CEST, uma nova página 
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_menu.png)
 
-No primeiro campo precisamos definir o **NCM** (Nomenclatura Comum do Mercosul) que já foi cadastrado na aba de NCM. Em nosso exemplo, nós seleionaremos a opção "Outros" que cadastramos no exemplo do manual da aba NCM.
+No primeiro campo, precisamos definir o **NCM** (Nomenclatura Comum do Mercosul) que já foi cadastrado na aba de NCM. Em nosso exemplo, selecionaremos a opção "Outros" que cadastramos no exemplo do manual da aba NCM.
 
 A tabela oficial do [CONFAZ](https://www.confaz.fazenda.gov.br/) mostra o código CEST para cada mercadoria. Nela, você encontra todos os segmentos, itens e especificações possíveis.
 
 Outra forma é usar o site gratuito [Código CEST](https://codigocest.com.br/), para pesquisar por nome ou o NCM da mercadoria.
 
-Mas observe que neste mesmo campo de **NCM**, você tem os botões de atalho <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adiciona um novo código NCM, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o código NCM selecionado em uma nova aba.
+Mas observe que neste mesmo campo de **NCM**, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> de atalho para adicionar um novo código NCM, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o código NCM selecionado em uma nova aba.
 
 {% hint style="warning" %}
-**NCM:** Caso queira mais informações sobre como cadastras novos código NCM, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/ncm.md).
+**NCM:** Caso queira mais informações sobre como cadastrar novos códigos NCM, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/ncm.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_campo_ncm.gif)
 
-No segundo campo temos o **código do CEST** (Código Especificador de Substituição Tributária) é um código padronizado que identifica mercadorias sujeitas ao regime de substituição tributária e de antecipação do recolhimento do ICMS (Imposto sobre Circulação de Mercadorias e Serviços).
+No segundo campo, temos o **código do CEST** (Código Especificador de Substituição Tributária), sendo um código padronizado que identifica mercadorias sujeitas ao regime de substituição tributária e de antecipação do recolhimento do ICMS (Imposto sobre Circulação de Mercadorias e Serviços).
 
-Em nosso exemplo, usaremos o código 2806300 que é especificamente para venda de mercadorias pelo sistema porta a porta.
+Em nosso exemplo, usaremos o código 2806300, sendo especificamente para venda de mercadorias pelo sistema porta a porta.
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_campo_codigo.png)
 
-Agora no campo de **Descrição** colocaremos o nome relativo a este código CEST para podermos identificá-lo. Mas você pode usar a descrição que for mais conveniente para uso.
+Agora, no campo de **Descrição**, colocaremos o nome relativo a este código CEST para podermos identificá-lo. Mas você pode usar a descrição que for mais conveniente para uso.
 
-Já no campo de **Descrição completa** por ser um item opcional você decide se irá preenchê-lo ou não. Em nosso exemplo, não precisaremos preenchê-lo.
+Já no campo de **Descrição completa**, por ser um item opcional, você decide se irá preenchê-lo ou não. Em nosso exemplo, não precisaremos preenchê-lo.
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_campo_descricao_completa.png)
 
-Feito o preenchimento das informações, agora vamos salvar para ele ficar ativo.
+Feito o preenchimento das informações, agora salvaremos para ele ficar ativo.
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_salvar.gif)
 
