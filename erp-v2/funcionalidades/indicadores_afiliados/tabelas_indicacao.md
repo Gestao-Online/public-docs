@@ -78,7 +78,7 @@ O último campo é o de modo de configuração, para você escolher como funcion
 
 ### Valor fixo por produto/serviço
 
-No primeiro item, esses valores são definidos por um valor fixo manualmente. Você pode observar que na página, não ocorre nenhuma alteração ou novos campos para editar.
+No primeiro item, esses valores são definidos por um valor fixo que é inserido na guia **Itens da tabela** que ficará disponível quando salvar esta tabela de indicação. Você pode observar que na página, não ocorre nenhuma alteração ou novos campos para editar.
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_campo_modo_configuracao_valor_fixo.png)
 
@@ -102,7 +102,7 @@ Com eles definidos,
 
 ### Valor percentual da venda/movimentação
 
-Com esta opção definida, dois campos ficam disponíveis para você preencher, sendo o primeiro de **percentual** que será usado para cálculo da comissão. Usaremos esta opção para nosso exemplo.
+Com esta opção definida, dois campos ficam disponíveis para você preencher, sendo o primeiro de **percentual** que será usado para cálculo da comissão. Usaremos esta opção para nosso exemplo, pois com ela não será preciso cadastrar os itens na guia **Itens da tabela** que ficará disponível quando salvarmos.
 
 Não só ele, mas temos o campo de **Grupo de Produto** que pode ser preenchido, caso queira filtrar somente os produtos de determinado grupo, para este caso, utilize esse campo.
 
@@ -128,3 +128,34 @@ Após salvarmos esta tabela de indicação, algumas guias passam a ficar dispon�
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_salvar.gif)
 
+Após salvar, o menu superior ganhar alguns botões extras, dentre ele o botão de importar <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line">.
+
+{% hint style="info" %}
+**Importar:** Caso queira mais informações sobre a aba grupo de produto, [**`clique aqui`**](/erp-v2/primeiro_acesso/importar.md).
+{% endhint %}
+
+Além dele o botão de duplicar <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line">, caso queira crirar um cópia com as informações dessa tabela, incluindo até os produtos adicionados a ela.
+
+E o ícone de relatório dessa tabela de preço, que faz uma lista com todos os produtos catalogados para esta tabela de comissão gerada. Para nosso exemplo, adicionamos um produto na guia de **itens da tabela**, observe o resultado exibido.
+
+![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_relatorio.gif)
+
+## Guias disponíveis após salvar
+
+Após salvar a nova tabela de indicações, algumas guias ficarão disponíveis para você preencher. Sendo elas a de **itens da tabela** e **histórico**.
+
+### Guia itens da tabela
+
+Nesta guia você pode adicionar, editar e remover produtos/serviços com a porcentagem/valor que será usada para calcular a comissão da venda.
+
+![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_guia_itens.png)
+
+Ao clicar em adicionar item, você precisa selecionar o [**`produto/serviço`**](/erp-v2/funcionalidades/produtos_servicos/README.md) que já está cadastrado na plataforma. Logo após você define a porcentagem que será utilizada para a comissão.
+
+![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_guia_itens_add.png)
+
+### Guia histórico
+
+Na guia de histórico você acompanha todas as movimentações feitas com essa tabela de indicação. Informações do nome do usuário, item adicionado/removido, ou qualquer outra alteração a respeito.
+
+![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_guia_historico.png)
