@@ -1,6 +1,6 @@
 # 💲 Comissões de parceiros
 
-Nesta aba você encontra todos movimentações que estão cadastrados na plataforma da **Gestão Online**. E caso queira editar ou excluir um tipo existente, precisa somente seguir este manual.
+Nesta aba você encontra todas as movimentações que estão cadastradas na plataforma da **Gestão Online**. E caso queira editar ou excluir um tipo existente, precisa somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -27,9 +27,9 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ## Botão direito do mouse
 
-Nesta aba não temos a opção de adicionar um novo item, pois todas as comissões são geradas automaticamente através de uma venda/compra.
+Nesta aba não temos a opção de adicionar um novo item, pois todas as comissões são geradas automaticamente mediante uma venda/compra.
 
-Então quando você tem uma movimentação sendo exibida, você pode clicar com o botão direito do mouse sobre este item e terá duas opções, sendo elas para **Recusar** a comissão gerada, ou **Marcar como pago**.
+Então, quando você tem uma movimentação sendo exibida, você pode clicar com o botão direito do mouse sobre este item e terá duas opções, sendo elas para **recusar** a comissão gerada ou **marcar como pago**.
 
 Em nosso exemplo, iremos recusar o pagamento da comissão para vermos a mensagem que será exibida. Observe abaixo, o status da comissão será modificado assim que definirmos.
 
@@ -38,6 +38,6 @@ Em nosso exemplo, iremos recusar o pagamento da comissão para vermos a mensagem
 
 ## Dashboard lateral
 
-Ainda nesta aba, você pode ter observado que no lado esquerdo tem um ícone de uma seta, se movendo. Ali fica o dashboard de informações da aba.
+Ainda nesta aba, você pode ter observado que no lado esquerdo tem um ícone de uma seta se movendo. Ali fica o dashboard de informações da aba.
 
-Para as informações completas sobre uso desse dashboard, você pode acessar nossa manual de explicação sobre ele [`clicando aqui`](/erp-v2/primeiro_acesso/relatorios_dashboard_grid.md).
+Para as informações completas sobre uso desse dashboard, você pode acessar nosso manual de explicação sobre ele [`clicando aqui`](/erp-v2/primeiro_acesso/relatorios_dashboard_grid.md).

@@ -1,6 +1,6 @@
 # 📈 Tabelas de indicação
 
-Nesta aba você encontra todas as tabelas de indicação que estão cadastrados na plataforma da **Gestão Online**. Essas tabelas definem os valores de comissão à serem repassados aos indicadores. E caso queira criar, editar ou excluir uma tabela existente, precisa somente seguir este manual.
+Nesta aba você encontra todas as tabelas de indicação que estão cadastradas na plataforma da **Gestão Online**. Essas tabelas definem os valores de comissão a serem repassados aos indicadores. E caso queira criar, editar ou excluir uma tabela existente, precisa somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -52,11 +52,11 @@ No momento do cadastro de uma nova tabela de indicação, você precisará preen
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_campos_obrigatorios.png)
 
-O primeiro campo é para inserir a **Descrição** desta tabela, este nome salvo será mostrado nos campos de busca das abas que tem disponível a inserção da tabela de indicação, por exemplo no momento de cadastrar um [**`cliente`**](/erp-v2/funcionalidades/parceiros/clientes.md), você tem a opção de inserir a tabela de indicação que ele utilizará.
+O primeiro campo é para inserir a **descrição** desta tabela. Este nome salvo será mostrado nos campos de busca das abas que têm disponível a inserção da tabela de indicação. Por exemplo, no momento de cadastrar um [**`cliente`**](/erp-v2/funcionalidades/parceiros/clientes.md), você tem a opção de inserir a tabela de indicação que ele utilizará.
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_campo_descricao.png)
 
-O campo de data vai trazer para você um mini calendário para você definir a data em que esta tabela comecará a valer, podendo ser colocada uma data futura caso você precise.
+O campo de data vai trazer para você um mini calendário para você definir a data em que esta tabela começará a valer, podendo ser colocada uma data futura caso você precise.
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_campo_data.gif)
 
@@ -74,17 +74,17 @@ Agora no campo de **Modo de uso**, temos duas opções de escolha:
 
 ## Modo de configuração
 
-O último campo é o de modo de configuração, para você escolher como funcionará o sistema de cálculo da comisão.
+O último campo é o de modo de configuração, para você escolher como funcionará o sistema de cálculo da comissão.
 
 ### Valor fixo por produto/serviço
 
-No primeiro item, esses valores são definidos por um valor fixo que é inserido na guia **Itens da tabela** que ficará disponível quando salvar esta tabela de indicação. Você pode observar que na página, não ocorre nenhuma alteração ou novos campos para editar.
+No primeiro item, esses valores são definidos por um valor fixo inserido na guia **Itens da tabela** que ficará disponível quando salvar esta tabela de indicação. Você pode observar que na página não ocorre nenhuma alteração ou novos campos para editar.
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_campo_modo_configuracao_valor_fixo.png)
 
 ### Valor fixo e/ou percentual por produto/serviço de outra tabela
 
-Já o segundo item é para você vincular a comissão a outra tabela de produtos/serviços existente. Lembrando que é preciso ter a tabela cadastrada para que possa utilizá-la. Após defini-la, você precisa marcar o campo de computar percetual, e ao lado preencher o valor em porcentagem que será feito com base na origem/herança.
+Já o segundo item é para você vincular a comissão a outra tabela de produtos/serviço existente. Lembrando que é preciso ter a tabela cadastrada para poder utilizá-la. Após defini-la, você precisa marcar o campo de computar percentual, e ao lado preencher o valor em porcentagem que será feito com base na origem/herança.
 
 {% hint style="info" %}
 **Produtos:** Caso queira mais informações sobre a aba de produtos, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
@@ -128,13 +128,13 @@ Após salvarmos esta tabela de indicação, algumas guias passam a ficar dispon�
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_salvar.gif)
 
-Após salvar, o menu superior ganhar alguns botões extras, dentre ele o botão de importar <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line">.
+Após salvar, o menu superior ganha alguns botões extras, dentre eles o botão de importar <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line">.
 
 {% hint style="info" %}
 **Importar:** Caso queira mais informações sobre a aba grupo de produto, [**`clique aqui`**](/erp-v2/primeiro_acesso/importar.md).
 {% endhint %}
 
-Além dele o botão de duplicar <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line">, caso queira crirar um cópia com as informações dessa tabela, incluindo até os produtos adicionados a ela.
+Além dele, há o botão de duplicar <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line">, caso queira criar uma cópia com as informações dessa tabela, incluindo até os produtos adicionados a ela.
 
 ## Botão de relatórios
 
@@ -148,16 +148,16 @@ Após salvar a nova tabela de indicações, algumas guias ficarão disponíveis 
 
 ### Guia itens da tabela
 
-Nesta guia você pode adicionar, editar e remover produtos/serviços com a porcentagem/valor que será usada para calcular a comissão da venda.
+Nesta guia, você pode adicionar, editar e remover produtos/serviços com a porcentagem/valor que será usada para calcular a comissão da venda.
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_guia_itens.png)
 
-Ao clicar em adicionar item, você precisa selecionar o [**`produto/serviço`**](/erp-v2/funcionalidades/produtos_servicos/README.md) que já está cadastrado na plataforma. Logo após você define a porcentagem que será utilizada para a comissão.
+Ao clicar em adicionar item, você precisa selecionar o [**`produto/serviço`**](/erp-v2/funcionalidades/produtos_servicos/README.md) já cadastrado na plataforma. Logo após, você define a porcentagem que será utilizada para a comissão.
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_guia_itens_add.png)
 
 ### Guia histórico
 
-Na guia de histórico você acompanha todas as movimentações feitas com essa tabela de indicação. Informações do nome do usuário, item adicionado/removido, ou qualquer outra alteração a respeito.
+Na guia de histórico, você acompanha todas as movimentações feitas com essa tabela de indicação. Informações do nome do usuário, item adicionado/removido, ou qualquer outra alteração a respeito.
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_guia_historico.png)
