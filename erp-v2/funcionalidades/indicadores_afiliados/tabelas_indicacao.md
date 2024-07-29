@@ -136,6 +136,8 @@ Após salvar, o menu superior ganhar alguns botões extras, dentre ele o botão 
 
 Além dele o botão de duplicar <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line">, caso queira crirar um cópia com as informações dessa tabela, incluindo até os produtos adicionados a ela.
 
+## Botão de relatórios
+
 E o ícone de relatório dessa tabela de preço, que faz uma lista com todos os produtos catalogados para esta tabela de comissão gerada. Para nosso exemplo, adicionamos um produto na guia de **itens da tabela**, observe o resultado exibido.
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_relatorio.gif)
