@@ -49,3 +49,17 @@ Após preencher todas as informações, basta clicar no botão **Realizar Downlo
 Em nossa demonstração, baixamos o arquivos e abrimos ele para ter acesso as notas fiscais. O período que usamos as notas estão no formato XML e PDF. Observe abaixo:
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_nfe_menu_download_arquivos.gif)
+
+## Botão direito do mouse
+
+Temos algumas funções segundárias nesta aba, clicando como o botão direito do mouse. Você pode ver algumas opções para uso, no caso de uma NF com status concluído, você pode **Cancelar NF** ou **Atualizar status NF**. Agora para os status processando e rejeitado, ficam somente a opção de **Atualizar status NF**.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_nfse_btn_mouse.gif)
+
+## Botão adicionar nova NF
+
+Nesta aba em específico, mesmo com o botão para adicionar, o foco desta aba é somente para acompanhar as NFs geradas através das vendas. Por conta disso todos os campos de edição são desabilitados, permitindo somente a visualização das informações da nota fiscal selecionada.
+
+Abaixo mostramos um exemplo de visualização dos dados de uma NF.
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_nfse_detalhes.gif)
