@@ -142,7 +142,7 @@
     * [👥 Indicadores/Afiliados](erp-v2/funcionalidades/indicadores_afiliados/README.md)
       * [💲 Comissões de parceiros](/erp-v2/funcionalidades/indicadores_afiliados/comissoes_parceiros.md)
       * [📈 Tabelas de indicação](/erp-v2/funcionalidades/indicadores_afiliados/tabelas_indicacao.md)
-      * [↔️ Parceiros Indicadores](/erp-v2/funcionalidades/indicadores_afiliados/parceiros_indicadores.md)
+      * [↔️ Parceiros Indicadores](/erp-v2/funcionalidades/parceiros/indicadores.md)
    
     * [👥 Usuários & Vendedores](erp-v2/funcionalidades/usuarios_vendedores/README.md)
       * [👤 Usuários](erp-v2/funcionalidades/usuarios_vendedores/usuarios.md)

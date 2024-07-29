@@ -46,7 +46,7 @@ No módulo Indicadores/Afiliados você encontra os itens comissão de parceiros,
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/indicadores_afiliados/parceiros_indicadores.md">parceiros_indicadores.md</a>
+                    <a href="/erp-v2/funcionalidades/parceiros/indicadores.md">indicadores.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_indicadores.png">icon_indicadores.png</a>
