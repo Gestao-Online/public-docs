@@ -41,3 +41,17 @@ Após clicar no botão para adicionar um novo código de CEST, uma nova página 
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_menu.png)
 
+No primeiro campo precisamos definir o **NCM** (Nomenclatura Comum do Mercosul) que já foi cadastrado na aba de NCM. Em nosso exemplo, nós seleionaremos a opção "Outros" que cadastramos no exemplo do manual da aba NCM.
+
+A tabela oficial do [CONFAZ](https://www.confaz.fazenda.gov.br/) mostra o código CEST para cada mercadoria. Nela, você encontra todos os segmentos, itens e especificações possíveis.
+
+Outra forma é usar o site gratuito [Código CEST](https://codigocest.com.br/), para pesquisar por nome ou o NCM da mercadoria.
+
+Mas observe que neste mesmo campo de **NCM**, você tem os botões de atalho <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adiciona um novo código NCM, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o código NCM selecionado em uma nova aba.
+
+{% hint style="warning" %}
+**NCM:** Caso queira mais informações sobre como cadastras novos código NCM, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/ncm.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_campo_ncm.gif)
+
