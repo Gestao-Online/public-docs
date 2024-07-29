@@ -26,3 +26,18 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_menu.png)
 
+## Adicionar novo código de CEST
+
+No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um novo código de CEST. Confira abaixo o procedimento para fazer o cadastro corretamente:
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add.png)
+
+Após clicar no botão para adicionar um novo código de CEST, uma nova página será aberta e, ao lado direito da tela, é possível visualizar um pequeno menu cinza. Vejamos abaixo para entender melhor cada opção:
+
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
+- <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
+- <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
+- <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
+
+![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_menu.png)
+
