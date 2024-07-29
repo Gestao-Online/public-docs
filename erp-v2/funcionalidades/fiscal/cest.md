@@ -1,6 +1,6 @@
 # 🟰 Cest - Código Especificador da Substituição Tributária
 
-Nesta aba você encontra todas as configurações de códigos CFOP (Código Fiscal de Operações e Prestações) que estão cadastrados na plataforma da **Gestão Online**. Esses tipos definem os cenários de emissão das Notas Fiscais. E caso queira criar, editar ou excluir um código existente, precisa somente seguir este manual.
+Nesta aba você encontra todas as configurações de códigos CEST (Código Especificador de Substituição Tributária) que estão cadastrados na plataforma da **Gestão Online**. Esses tipos definem os cenários de emissão das Notas Fiscais. E caso queira criar, editar ou excluir um código existente, precisa somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
