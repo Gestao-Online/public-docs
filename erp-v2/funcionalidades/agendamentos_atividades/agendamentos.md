@@ -68,7 +68,7 @@ Na sequência temos o campo de etiquetas, para usar ele é necessário que você
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_etiquetas.gif)
 
-Descendo mais um pouco, temos o campo de escolha do vendedor, lembrando que para escolher o vendedor, é necessário já ter o cadastro feito na aba **Vendedores & Compradores*.
+Descendo mais um pouco, temos o campo de escolha do vendedor, essa escolha ajuda no preenchimento automático na aba de venda, quando você clica no ícone <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line"> de venda no menu superior. Lembrando que para escolher o vendedor, é necessário ele já ter o cadastro feito na aba **Vendedores & Compradores*.
 
 {% hint style="warning" %}
 **Vendedores & Compradores:** Caso queira mais informações sobre como utilizar a aba vendedores e compradores, [**`clique aqui`**](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md).
@@ -76,3 +76,28 @@ Descendo mais um pouco, temos o campo de escolha do vendedor, lembrando que para
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_vendedor.png)
 
+Agora no campo **Unidade**, que é um campo de preenchimento obrigatório. Você escolhe a qual unidade esse agendamento terá vínculo, e essa escolha ajuda no preenchimento automático na aba de vendas. Lembrando que para escolher a unidade, é necessário já ter o cadastro feito na aba **Unidades*.
+
+{% hint style="warning" %}
+**Unidades:** Caso queira mais informações sobre como utilizar a aba de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_unidades.png)
+
+No campo de **cliente/parceiro** você escolhe qual cliente será relacionado a este agendamento, lembrando que esse campo levará as informações para um preenchimento automático caso clique no botão de venda. 
+
+Neste campo nós colocamos a opção de adicionar um novo cliente, ou abrir um cliente selecionado em nova aba, caso queira. Observer nossa demonstração abaixo.
+
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_cliente.gif)
+
+Por último os campos de **Descrição** e **Descrição Histórico**. Aqui você coloca a que se refere esse agendamento, para ajudar a identificar quando for notificado.
+
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_descricao.png)
+
+## Salvando um novo agendamento
+
+Após preencher todos os dados, você clica no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> para registrar o novo agendamento.
+
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_salvar.gif)
+
+Um agendamento pode trazer mais resultados em vendas, aumentando positivamente os números da empresa. Vale ressaltar que não só para vendas, mas também para futuros pagamentos ou compromissos financeiros. Além disso, agendar atividades pode melhorar a organização interna, permitindo que a equipe gerencie melhor seu tempo e priorize tarefas importantes.
