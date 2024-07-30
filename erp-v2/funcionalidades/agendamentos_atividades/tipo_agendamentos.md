@@ -52,4 +52,36 @@ O segundo campo, você tem o campo de **descrição**, o nome que você colocar 
 **Agendamentos:** Caso queira mais informações sobre como utilizar a aba de agendamentos, [**`clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/agendamentos.md).
 {% endhint %}
 
-![](/erp-v2/assets/funcionalidades/agendamentos/aba_etiqueta_add_campo_descricao.png)
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_descricao.png)
+
+O terceiro campo é para definir a **cor** de identificação deste tipo de agendamento. Ao clicar na cor uma pequena janela será aberta para você poder escolher, observe nossa demonstração abaixo.
+
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_cor.gif)
+
+## Permissões do tipo de agendamento
+
+Aqui estão as permissões quer permitirão ou não alterações nos campos do agendamento. Desde o tipo, status, data, vendedor, unidade, parceiro e descrição. Você então define quais serão permitidos.
+
+Vamos fazer um exemplo desde tipo de agendamento, e deixaremos ativo, somente a mudança de Tipo.
+
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_permissoes_tipo.png)
+
+Agora, na aba **Agendamentos**, observe que eu tento fazer a alteração do status do agendamento, mas como o tipo definido não permite, uma mensagem é exibida para nós. Fazendo com que o controle de agendamentos tenha mais organização, e evite modificações constantes.
+
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_teste_permissao_aba_agendamentos.gif)
+
+Viu só, o bloqueio impede as alterações, sendo possível somente se modificar diretamente o **Tipo de agendamento**. 😁
+
+Por isso, deixe disponível opções de tipos de agendamento para que todos possam usar da melhor maneira possível no dia a dia.
+
+## Salvando novo tipo de agendamento
+
+Após preencher todos os dados, você clica no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> para registrar o novo tipo de agendamento.
+
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_salvar.gif)
+
+Um agendamento pode trazer mais resultados em vendas, aumentando positivamente os números da empresa. Vale ressaltar que não só para vendas, mas também para futuros pagamentos ou compromissos financeiros. Além disso, agendar atividades pode melhorar a organização interna, permitindo que a equipe gerencie melhor seu tempo e priorize tarefas importantes.
+
+<br>
+
+<br>
