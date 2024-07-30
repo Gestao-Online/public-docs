@@ -82,6 +82,30 @@ Após preencher todos os dados, você clica no ícone <img src="/erp-v2/assets/i
 
 Um agendamento pode trazer mais resultados em vendas, aumentando positivamente os números da empresa. Vale ressaltar que não só para vendas, mas também para futuros pagamentos ou compromissos financeiros. Além disso, agendar atividades pode melhorar a organização interna, permitindo que a equipe gerencie melhor seu tempo e priorize tarefas importantes.
 
+## Botão de Restrições e Exceções
+
+Ao clicar no botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> de restrições/exceções, uma nova janela irá de abrir. Aqui você pode encontrar as definições de uso para o tipo de agendamento que você está editando.
+
+{% hint style="danger" %}
+**Atenção:** Esta alteração só ficará disponível quando o **`Tipo de agendamento`** já estiver criado. Caso faça antes de criar, uma janela de aviso aparecerá informando que não será possível prosseguir. 😉
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_btn_restricao.png)
+
+Seguindo o exemplo demonstrado abaixo, você pode definir, por exemplo, um tipo de agendamento válido somente para um vendedor em específico. Das opções disponíveis no menu ao lado, temos:
+
+- Sem restrição;
+- Restrição (Só pode ser utilizado com);
+- Exceção (Só não pode ser utilizado com).
+
+E essa configuração pode ser feita com unidade, tipo de agendamento, vendedor e até um parceiro. Fazendo assim com que a possibilidade de erro por falta de atenção em algum agendamento não aconteça, pois a restrição/exceção entrará em ação assim que for preciso.
+
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_btn_restricao.gif)
+
+{% hint style="info" %}
+**Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados de cada tipo de agendamento criado! 😉👍
+{% endhint %}
+
 <br>
 
 <br>
