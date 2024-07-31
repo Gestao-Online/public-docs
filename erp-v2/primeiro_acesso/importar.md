@@ -32,7 +32,15 @@ Confira abaixo o procedimento:
 
 Agora, dando uma atenção para o último campo, podemos observar que ele tem um campo de seleção a mais. Esse campo com a seleção irá aparecer em outras abas do sistema com a opção de importar, então já saiba que tem variações 😁
 
-No exemplo abaixo, usamos a aba `Agendamentos` e nela temos pelo menos três campos com as seleções, sendo unidade, vendedor e data. É importante definir corretamente a informação que vai para o sistema, evitando assim problema na importação. 
+No exemplo abaixo, usamos a aba `Agendamentos` e nela temos dois campos antes das opções de importação, e também pelo menos três campos com as seleções, sendo unidade, vendedor e data. É importante definir corretamente a informação que vai para o sistema, evitando assim problema na importação. 
+
+Nos dois campos que aparecem na parte de cima na hora de importar, o primeiro é o de **tipo de agendamento**, ele é um campo de preenchimento obrigatório, e os tipos já precisam estar cadastrados para aparecerem neste campo.
+
+Com o tipo selecionado, os agendamento importados terão ele como padrão, então verifique ou separe em arquivos diferentes os agendamentos que for adicionar e tiverem tipo de agendamento diferentes. 😉👍
+
+{% hint style="warning" %}
+**Tipo de agendamento:** Caso queira mais informações sobre como cadastrar os tipos de agendamentos, [**`clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos.md)
+{% endhint %}
 
 {% hint style="info" %}
 **Informação:** Vale lembrar que essas opções têm variação a depender da aba que você está utilizando e fazendo importação!
