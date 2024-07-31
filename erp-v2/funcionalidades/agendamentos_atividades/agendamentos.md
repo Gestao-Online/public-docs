@@ -1,6 +1,6 @@
 # 📅 Agendamentos
 
-Nesta aba você encontra todos os agendamento que estão cadastradas na plataforma da **Gestão Online**. Vale ressaltar que não só para vendas, mas também para futuros pagamentos ou compromissos financeiros. E caso queira criar, editar ou excluir um agendamento existente, precisa somente seguir este manual.
+Nesta aba você encontra todos os agendamentos que estão cadastrados na plataforma da **Gestão Online**. Vale ressaltar que não só para vendas, mas também para futuros pagamentos ou compromissos financeiros. E caso queira criar, editar ou excluir um agendamento existente, precisa somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -86,11 +86,11 @@ Agora no campo **Unidade**, que é um campo de preenchimento obrigatório. Você
 
 No campo de **cliente/parceiro** você escolhe qual cliente será relacionado a este agendamento, lembrando que esse campo levará as informações para um preenchimento automático caso clique no botão de venda. 
 
-Neste campo nós colocamos a opção de adicionar um novo cliente, ou abrir um cliente selecionado em nova aba, caso queira. Observer nossa demonstração abaixo.
+Neste campo, nós colocamos a opção de adicionar um novo cliente, ou abrir um cliente selecionado em nova aba, caso queira. Observe nossa demonstração abaixo.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_cliente.gif)
 
-Por último os campos de **Descrição** e **Descrição Histórico**. Aqui você coloca a que se refere esse agendamento, para ajudar a identificar quando for notificado.
+Por último os campos de **Descrição** e **Descrição Histórico**. Aqui você coloca a que se refere esse agendamento, para identificar quando for notificado.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_descricao.png)
 
@@ -104,7 +104,7 @@ Um agendamento pode trazer mais resultados em vendas, aumentando positivamente o
 
 ## Menu após salvar agendamento
 
-Dois botões ficam habilitados a partir do momento que você salva um agendamento. O primeiro é o botão de venda <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line">, ao clicar nele uma nova aba será aberta para efetuar uma venda, e algumas informações presentes no agendamento, tem os campos preenchidos automaticamente. Campos estes de nome do cliente, parceiro indicador e observação informando que esta venda veio através de um agendamento criado.
+Dois botões ficam habilitados a partir do momento que você salva um agendamento. O primeiro é o botão de venda <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line">, ao clicar nele, uma nova aba será aberta para efetuar uma venda, e algumas informações presentes no agendamento têm os campos preenchidos automaticamente. Campos estes de nome do cliente, parceiro indicador e observação informando que esta venda veio por meio de um agendamento criado.
 
 Em nossa demonstração, estamos com o agendamento aberto e iremos clicar no botão de **venda**. Observe os campos que serão preenchidos.
 
@@ -114,9 +114,9 @@ Em nossa demonstração, estamos com o agendamento aberto e iremos clicar no bot
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_menu_btn_venda.gif)
 
-O outro botão disponível para uso é o de **cliente/parceiro**, quando você clica nele automaticamente é levado a aba do cliente cadastrado no agendamento, podendo ver/alterar alguma informação necessária, e na própria aba do cliente também terá um botão levando direto para a venda.
+O outro botão disponível para uso é o de **cliente/parceiro**, quando você clica nele é automaticamente levado à aba do cliente cadastrado no agendamento, podendo ver/alterar alguma informação necessária, e na própria aba do cliente também terá um botão levando direto para a venda.
 
-Todos estes atalhos são colocados para facilitar ainda mais a probabilidade de ganho com venda dentro da empresa. 😁👍
+Estes atalhos são colocados para facilitar ainda mais a probabilidade de ganho com venda dentro da empresa. 😁👍
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_menu_btn_cliente.gif)
 
@@ -128,7 +128,7 @@ Na guia de histórico, você acompanha todas as movimentações feitas com esse 
 
 ## Dashboard de agendamento
 
-Os agendamentos criados por você estarão disponíveis de forma visual na aba **Dashboard Agendamentos**. Por lá você acompanha os itens cadastrados.
+Os agendamentos criados por você estarão disponíveis de forma visual na aba **Dashboard Agendamentos**. Por lá, você acompanha os itens cadastrados.
 
 {% hint style="warning" %}
 **Dashboard:** Caso queira mais informações sobre os dashboards, [**`clique aqui`**](/erp-v2/primeiro_acesso/relatorios_dashboard_grid.md).
@@ -138,11 +138,11 @@ Os agendamentos criados por você estarão disponíveis de forma visual na aba *
 
 ## Botão importar
 
-Ao clicar no botão importar ao clicar nele uma janela será aberta, e nela temos dois campos antes das opções de importação, e também pelo menos três campos com as seleções, sendo unidade, vendedor e data. É importante definir corretamente a informação que vai para o sistema, evitando assim problema na importação. 
+Ao clicar no botão importar, ao clicar nele, uma janela será aberta, e nela temos dois campos antes das opções de importação, e também pelo menos três campos com as seleções, sendo unidade, vendedor e data. É importante definir corretamente a informação que vai para o sistema, evitando assim problema na importação.
 
 Nos dois campos que aparecem na parte de cima na hora de importar, o primeiro é o de **tipo de agendamento**, ele é um campo de preenchimento obrigatório, e os tipos já precisam estar cadastrados para aparecerem neste campo.
 
-Com o tipo selecionado, os agendamento importados terão ele como padrão, então verifique ou separe em arquivos diferentes os agendamentos que for adicionar e tiverem tipo de agendamento diferentes. 😉👍
+Com o tipo selecionado, os agendamentos importados terão ele como padrão, então verifique ou separe em arquivos diferentes os agendamentos que for adicionar e tiverem tipo de agendamento diferentes. 😉👍
 
 {% hint style="warning" %}
 **Importar:** Caso queira mais informações sobre importar, [**`clique aqui`**](/erp-v2/primeiro_acesso/importar.md).

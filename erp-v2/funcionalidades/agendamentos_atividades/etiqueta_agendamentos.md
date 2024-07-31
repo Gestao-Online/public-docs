@@ -49,7 +49,7 @@ O segundo campo é para definir a **cor** de identificação desta etiqueta. Ao 
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_etiqueta_add_campo_cor.gif)
 
-Por último, voce tem o campo de **descrição**, ele não e um item obrigatorio de preenchimento, mas em nosso exemplo iremos colocar que se trata de uma etiqueta de exemplo, pois essa mesma etiqueta será utilizada no momento de criar um agendamento.
+Por último, você tem o campo de **descrição**, ele não é um item obrigatório de preenchimento, mas em nosso exemplo iremos colocar que se trata de uma etiqueta de exemplo, pois essa mesma etiqueta será utilizada no momento de criar um agendamento.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_etiqueta_add_campo_descricao.png)
 

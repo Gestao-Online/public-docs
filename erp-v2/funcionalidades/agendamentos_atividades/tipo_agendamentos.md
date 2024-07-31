@@ -1,6 +1,6 @@
 # #️⃣ Tipo de agendamentos
 
-Nesta aba você encontra todos os tipos de agendamento que estão cadastradas na plataforma da **Gestão Online**. Esses tipos de agendamentos são usados para habilitar permissões na aba de agendamentos.
+Nesta aba você encontra todos os tipos de agendamento que estão cadastrados na plataforma da **Gestão Online**. Esses tipos de agendamentos são usados para habilitar permissões na aba de agendamentos.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -14,7 +14,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
-- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar novo tipo agendamento.
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar novo tipo de agendamento.
 
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros de busca [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md).
@@ -46,7 +46,7 @@ O primeiro campo é para inserir o **código** da etiqueta. Pode ser número ou 
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_codigo.png)
 
-O segundo campo, você tem o campo de **descrição**, o nome que você colocar aqui, será exibido no campo de definição de tipo de agendamento na aba de **agendamentos**. Por isso coloque um nome que seja fácil e prático para buscar. 😁👍
+O segundo campo, você tem o campo de **descrição**, o nome que você colocar aqui, será exibido no campo de definição de tipo de agendamento na aba de **agendamentos**. Por isso, coloque um nome que seja fácil e prático para buscar. 😁👍
 
 {% hint style="warning" %}
 **Agendamentos:** Caso queira mais informações sobre como utilizar a aba de agendamentos, [**`clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/agendamentos.md).
@@ -54,25 +54,25 @@ O segundo campo, você tem o campo de **descrição**, o nome que você colocar 
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_descricao.png)
 
-O terceiro campo é para definir a **cor** de identificação deste tipo de agendamento. Ao clicar na cor uma pequena janela será aberta para você poder escolher, observe nossa demonstração abaixo.
+O terceiro campo é para definir a **cor** de identificação deste tipo de agendamento. Ao clicar na cor, uma pequena janela será aberta para você poder escolher, observe nossa demonstração abaixo.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_cor.gif)
 
 ## Permissões do tipo de agendamento
 
-Aqui estão as permissões quer permitirão ou não alterações nos campos do agendamento. Desde o tipo, status, data, vendedor, unidade, parceiro e descrição. Você então define quais serão permitidos.
+Aqui estão as permissões que deixarão e não deixarão alterações acontecerem nos campos do agendamento. Desde o tipo, status, data, vendedor, unidade, parceiro e descrição. Você então define quais serão permitidos.
 
-Vamos fazer um exemplo desde tipo de agendamento, e deixaremos ativo, somente a mudança de Tipo.
+Vamos fazer um exemplo desde tipo de agendamento e deixaremos ativo somente a mudança de tipo.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_permissoes_tipo.png)
 
-Agora, na aba **Agendamentos**, observe que eu tento fazer a alteração do status do agendamento, mas como o tipo definido não permite, uma mensagem é exibida para nós. Fazendo com que o controle de agendamentos tenha mais organização, e evite modificações constantes.
+Agora, na aba **Agendamentos**, observe que eu tento fazer a alteração do status do agendamento, mas como o tipo definido não permite, uma mensagem é exibida para nós. Fazendo com que o controle de agendamentos tenha mais organização e evite modificações constantes.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_teste_permissao_aba_agendamentos.gif)
 
 Viu só, o bloqueio impede as alterações, sendo possível somente se modificar diretamente o **Tipo de agendamento**. 😁
 
-Por isso, deixe disponível opções de tipos de agendamento para que todos possam usar da melhor maneira possível no dia a dia.
+Por isso, deixe disponíveis opções de tipos de agendamento para que todos possam usar da melhor maneira possível no dia a dia.
 
 ## Salvando novo tipo de agendamento
 
