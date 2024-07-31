@@ -36,7 +36,7 @@ Neste módulo você encontra os itens contrato do controle de unidades e control
                     <a href="/erp-v2/funcionalidades/controle_unidades/controle_movimentacao.md">controle_movimentacao.md</a>
                 </td>
                 <td>
-                    <a href="/erp-v2/assets/funcionalidades/icon_movimentacao.png">icon_movimentacao.png</a>
+                    <a href="/erp-v2/assets/funcionalidades/icon_movimentacao (1).png">icon_movimentacao.png</a>
                 </td>
             </tr>
         </tbody>
