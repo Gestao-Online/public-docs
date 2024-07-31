@@ -125,3 +125,27 @@ Todos estes atalhos são colocados para facilitar ainda mais a probabilidade de 
 Na guia de histórico, você acompanha todas as movimentações feitas com esse agendamento. Informações do nome do usuário, código, descrição, data e hora, ou qualquer outra alteração a respeito.
 
 ![](/erp-v2/assets/funcionalidades/iagendamentos/aba_agendamento_add_guia_historico.png)
+
+## Dashboard de agendamento
+
+Os agendamentos criados por você estarão disponíveis de forma visual na aba **Dashboard Agendamentos**. Por lá você acompanha os itens cadastrados.
+
+{% hint style="warning" %}
+**Dashboard:** Caso queira mais informações sobre os dashboards, [**`clique aqui`**](/erp-v2/primeiro_acesso/relatorios_dashboard_grid.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/iagendamentos/aba_agendamento_dashboard_agendamentos.gif)
+
+## Botão importar
+
+Ao clicar no botão importar ao clicar nele uma janela será aberta, e nela temos dois campos antes das opções de importação, e também pelo menos três campos com as seleções, sendo unidade, vendedor e data. É importante definir corretamente a informação que vai para o sistema, evitando assim problema na importação. 
+
+Nos dois campos que aparecem na parte de cima na hora de importar, o primeiro é o de **tipo de agendamento**, ele é um campo de preenchimento obrigatório, e os tipos já precisam estar cadastrados para aparecerem neste campo.
+
+Com o tipo selecionado, os agendamento importados terão ele como padrão, então verifique ou separe em arquivos diferentes os agendamentos que for adicionar e tiverem tipo de agendamento diferentes. 😉👍
+
+{% hint style="warning" %}
+**Importar:** Caso queira mais informações sobre importar, [**`clique aqui`**](/erp-v2/primeiro_acesso/importar.md).
+{% endhint %}
+
+![](/erp-v2/assets/importar_botao_planilha_campos_select.gif)
