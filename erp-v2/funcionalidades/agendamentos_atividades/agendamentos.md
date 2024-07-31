@@ -101,3 +101,27 @@ Após preencher todos os dados, você clica no ícone <img src="/erp-v2/assets/i
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_salvar.gif)
 
 Um agendamento pode trazer mais resultados em vendas, aumentando positivamente os números da empresa. Vale ressaltar que não só para vendas, mas também para futuros pagamentos ou compromissos financeiros. Além disso, agendar atividades pode melhorar a organização interna, permitindo que a equipe gerencie melhor seu tempo e priorize tarefas importantes.
+
+## Menu após salvar agendamento
+
+Dois botões ficam habilitados a partir do momento que você salva um agendamento. O primeiro é o botão de venda <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line">, ao clicar nele uma nova aba será aberta para efetuar uma venda, e algumas informações presentes no agendamento, tem os campos preenchidos automaticamente. Campos estes de nome do cliente, parceiro indicador e observação informando que esta venda veio através de um agendamento criado.
+
+Em nossa demonstração, estamos com o agendamento aberto e iremos clicar no botão de **venda**. Observe os campos que serão preenchidos.
+
+{% hint style="warning" %}
+**Unidades:** Caso queira mais informações sobre como utilizar a aba de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_menu_btn_venda.gif)
+
+O outro botão disponível para uso é o de **cliente/parceiro**, quando você clica nele automaticamente é levado a aba do cliente cadastrado no agendamento, podendo ver/alterar alguma informação necessária, e na própria aba do cliente também terá um botão levando direto para a venda.
+
+Todos estes atalhos são colocados para facilitar ainda mais a probabilidade de ganho com venda dentro da empresa. 😁👍
+
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_menu_btn_cliente.gif)
+
+## Guia histórico
+
+Na guia de histórico, você acompanha todas as movimentações feitas com esse agendamento. Informações do nome do usuário, código, descrição, data e hora, ou qualquer outra alteração a respeito.
+
+![](/erp-v2/assets/funcionalidades/iagendamentos/aba_agendamento_add_guia_historico.png)
