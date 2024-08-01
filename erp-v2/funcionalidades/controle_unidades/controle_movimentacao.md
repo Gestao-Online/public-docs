@@ -67,4 +67,20 @@ Em nosso exemplo, vamos escolher a opção **SEDE/MATRIZ**. Observe abaixo:
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_unidade.gif)
 
-Os demais campos são de **valor** e **histórico**, lembrando que o valor é um item obrigatório, e precisa ser 
+Os demais campos são de **valor** e **histórico**, lembrando que o valor é um item obrigatório, e precisa ser preenchido corretamente. Já o campo de histórico não é obrigatório, mas é importante seu preenchimento em situações manuais como essa que estamos fazendo de exemplo.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_valor_historico.png)
+
+## Salvando novo controle de movimentação de unidade
+
+Após fazer o preenchimento dos dados do novo controle, você pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para ser registrado o controle de movimentação e ficar disponível para utilização.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_salvar.gif)
+
+Após salvar, logo abaixo na pagina temos novas funções disponíveis. É uma versão compacta da nossa **aba de vendas**, então todas as funções são explicadas na aba de vendas.
+
+{% hint style="warning" %}
+**Aba Vendas:** Caso queira mais informações sobre como utilizar a aba vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_depois_salvar.png)
