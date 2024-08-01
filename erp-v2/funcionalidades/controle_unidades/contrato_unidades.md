@@ -106,4 +106,69 @@ Em nosso exemplo iremos selecionar o tipo **Limite Aprovado** e colocaremos o va
 
 Agora uma atenção maior a este campo de **Fechamento automático**, pois nele temos uma série de novos campos e botões no menu superior ficarão disponíveis, a partir do momento que selecionar uma das opções.
 
-Destas opções disponíveis, você tem para deixar ele desativado, onde não aparecerá nenhum campo extra para preenchimento. Agora marcando a opção de fechamento *Todo dia da semana*, um série de novos campos aparecem, o primeiro
+### Fechamento todo dia do mês
+
+Destas opções disponíveis, você tem para deixar ele desativado, onde não aparecerá nenhum campo extra para preenchimento. A opção de fechamento *Todo dia do mês* selecionado, você precisa depois definir os dias do mês, esses valores precisam ser separados por vírgula, ex: 1,15 (todo dia 1 e dia 15).
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_mes.png)
+
+### Fechamento todo dia da semana
+
+ Agora marcando a opção de fechamento *Todo dia da semana*, aparecerão novos campos, o primeiro para você escolher o **dia da semana de fechamento automático**.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_dia_semana.png)
+
+Logo após, o campo de **fechamento automático tipo de negociação**, lembre-se que este campo está vinculado diretamente com a aba **Tipo de negociação** e as opções que ele trará, são as cadastradas nesta aba. 😁
+
+{% hint style="warning" %}
+**Tipo de negociação:** Caso queira mais informações sobre como utilizar a aba tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md).
+{% endhint %}
+
+Em nosso exemplo, vamos escolher a opção **Boleto - GOPag**. Observe abaixo:
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_tipo_negociacao.png)
+
+Logo ao lado, temos o campo **Fechamento automático tipo de movimentação**, lembre-se que ele tem vinculado com a aba **Tipo de movimentação** e as opções que ele trará, são as cadastradas nesta aba. 😁
+
+{% hint style="warning" %}
+**Tipo de movimentação:** Caso queira mais informações sobre como utilizar a aba tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+{% endhint %}
+
+Em nosso exemplo, vamos escolher a opção **Venda - Unidade (Custo)**. Observe abaixo:
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_tipo_movimentacao.png)
+
+Agora quanto aos demais campos em cinza, o preenchimento será feito automaticamente por nossa plataforma. 😁
+
+E o último campo para preenchimento é o de **Observação**, onde você pode deixar alguma anotação a respeito deste contrato.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_observacao.png)
+
+## Salvando controle de unidade
+
+Após fazer o preenchimento dos dados do novo contrato, você pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para ser registrado o contrato do controle de unidade e ficar disponível para utilização.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_salvar.gif)
+
+## Guias após salvar
+
+Assim que você salvar o contrato de controle, novas guias ficarão disponíveis para você utilizar, elas aparecem na parte de baixo da página.
+
+### Guia Movimentações de saldo
+
+A primeira é de movimentação de saldo, trazendo todos os tipos de lançamentos, sendo débito ou crédito, informando os valores de saldo, limites e saldo final.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_saldo.png)
+
+Você pode adicionar um novo tipo de lançamento, entre crédito ou débito, e o valor deste lançamento. Após salvar, ele aparecerá no relatório da página anterior. 😁
+
+Mas lembre-se que essas movimentações são geradas automaticamente por nossa plataforma!
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_saldo_add.png)
+
+### Guia Movimentações pendentes de fechamento
+
+Aqui estão todas as movimentações pendentes, sejam elas pedido, venda, compra e recorrência. Ela é uma organização filtrada da nossa aba de movimentações. 😉
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes.png)
+
