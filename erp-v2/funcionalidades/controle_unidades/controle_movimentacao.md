@@ -1,6 +1,6 @@
 # 🔂 Controle movimentação unidade
 
-Nesta aba você encontra todos os contratos de controlede unidade cadastrados na plataforma da **Gestão Online**. E caso tenha algum contrato faltando, você pode efetuar o cadastro ou editar um contrato existente, precisando somente seguir este manual.
+Nesta aba você encontra todos os controles de movimentação de unidade cadastrados na plataforma da **Gestão Online**. E caso tenha algum controle faltando, você pode efetuar o cadastro ou editar um controle existente, precisando somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -57,17 +57,17 @@ Campo **tipo lançamento**, com duas opções para você poder escolher, entre *
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_ctrl_movimentacao_add_campo_lancamento.png)
 
-Logo ao lado, temos o campo **Unidade**, lembre-se que ele tem vinculado com a **aba unidades** e as opções que ele trará, são as cadastradas nesta aba. 😁
+Logo ao lado, temos o campo **Unidade**, lembre-se de que ele está vinculado com a **aba Unidade** e as opções que ele trará são as cadastradas nesta aba. 😁
 
 {% hint style="warning" %}
-**Aba Unidades:** Caso queira mais informações sobre como utilizar a aba unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+**Aba Unidades:** Caso queira mais informações sobre como utilizar a aba Unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 {% endhint %}
 
 Em nosso exemplo, vamos escolher a opção **SEDE/MATRIZ**. Observe abaixo:
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_unidade.gif)
 
-Os demais campos são de **valor** e **histórico**, lembrando que o valor é um item obrigatório, e precisa ser preenchido corretamente. Já o campo de histórico não é obrigatório, mas é importante seu preenchimento em situações manuais como essa que estamos fazendo de exemplo.
+Os demais campos são de **valor** e **histórico**, lembrando que o valor é um item obrigatório e precisa ser preenchido corretamente. Já o campo de histórico não é obrigatório, mas é importante seu preenchimento em situações manuais como essa que estamos fazendo de exemplo.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_valor_historico.png)
 
@@ -77,15 +77,15 @@ Após fazer o preenchimento dos dados do novo controle, você pode clicar no íc
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_salvar.gif)
 
-Após salvar, logo abaixo na pagina temos novas funções disponíveis. É uma versão compacta da nossa **aba de vendas**, então todas as funções são explicadas na aba de vendas.
+Após salvar, logo abaixo na página, temos novas funções disponíveis. É uma versão compacta da nossa **aba de vendas**, então todas as funções são explicadas na aba de vendas.
 
 {% hint style="warning" %}
-**Aba Vendas:** Caso queira mais informações sobre como utilizar a aba vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+**Aba Vendas:** Caso queira mais informações sobre como utilizar a aba Vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_depois_salvar.png)
 
-Uma informação importante, esse controle de movimentação, tem interação direta com a **aba contrato do controle de unidade**, observe abaixo que a movimentação que criamos aqui como exemplo, já consta no contrato criado no exemplo da aba. Veja abaixo:
+Uma informação importante, esse controle de movimentação tem interação direta com a **aba contrato do controle de unidade**. Observe abaixo que a movimentação que criamos aqui como exemplo já consta no contrato criado no exemplo da aba. Veja abaixo:
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_aba_movimentacao.gif)
 
