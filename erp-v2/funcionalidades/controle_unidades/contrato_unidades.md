@@ -168,7 +168,68 @@ Mas lembre-se que essas movimentações são geradas automaticamente por nossa p
 
 ### Guia Movimentações pendentes de fechamento
 
-Aqui estão todas as movimentações pendentes, sejam elas pedido, venda, compra e recorrência. Ela é uma organização filtrada da nossa aba de movimentações. 😉
+Aqui estão todas as movimentações pendentes, sejam elas pedido, venda, compra e recorrência. Ela é espelho da nossa **aba de movimentações**. 😉
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes.png)
 
+Assim que clicar no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar, esta janela será mostrada para você poder preencher e criar uma nova venda/compra.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_add.png)
+
+### Guia Fechamentos de contrato
+
+Aqui você encontra listadas todas os pedidos, vendas, compras ou recorrências, que estão em atendimento ou no status liberado. Você pode observar que ela é bem parecida com a guia anterior.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_fechamentos_contrato.png)
+
+Agora, quando você clica no botao de adicionar novo fechamento, uma nova janela será mostrada para você. Esta mesma janela também é parecido com a da nossa **aba de movimentações**, mas ela tem algumas alterações com campos a menos, para craição específica de um fechamento.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_fechamentos_contrato_add.png)
+
+{% hint style="warning" %}
+**Vendas:** Caso queira mais informações sobre como utilizar a aba vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+{% endhint %}
+
+### Guia Histórico
+
+Por último, na guia de histórico, você consegue acompanhar todas as modificações/alterações feitas no contrato através desta guia.
+
+Neste mesmo exemplo você já consegue ver que o sistema liberou o uso deste contrato pois está tudo certo dentro das regras de funcionamento. O mesmo serve para outros casos, podendo assim você acompanhar problemas ou erro de uso em futuros casos.
+
+Os campos da guia de histórico não sofrem alteração, pois são parte crucial do acompanhamento do sistema. Até mesmo apagar um registro aqui é bloqueado. 😉
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_historico.png)
+
+## Botões do meu superior
+
+Após preencher os dados do novo contrato e salvar, o menu superior sofre modificações quando você defino o fechamento automático para semana ou mês conforme explicado acima.
+
+aba_contrato_add_menu_novos_btns
+
+### Botão Processar movimentações pendentes de fechamento
+
+Clicando neste ícone uma nova janela será aberta para você, solicitando que informe a data final para então o sistema processar o fechamento. Observe nosso teste abaixo, a mensagem que será mostrada é informando que não temos nenhum caso de fechamento pendente. Porém, se houvesse algum caso, ele teria realizado o fechamento automaticamente e mostrado a mensagem de fechamentos realizados com sucesso.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_menu_novos_btns_processar_pendentes_fechamento.gif)
+
+### Botão Processar fechamento automático
+
+Agora o botão processar fechamento automático faz basicamente o papel de antecipar o fechamento que você programou. As vezes por uma necessidade de ter o relatório logo sendo exibido, esta função pode te auxiliar.
+
+Quando você clica neste botão, uma janela será mostrada para você, nela pode se ecolher uma das duas opções de tipo. A primeira é *Processar "Movimentações pendentes de fechamento" e saldo atual* e a outra *Somente Saldo atual*.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_menu_novos_btns_processar_fechamento_automatico.png)
+
+### Botão Atualizar status
+
+Este botão irá atualizar todas as situações do contrato que você gerou, alguns item que não foi carregado, ou um pagamento que ja foi realizado e ainda não apareceu porque você está com a página aberta no momento.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_menu_novos_btns_atualizar_status.gif)
+
+### Botão Gerar previsão de fechamento
+
+Por último o botão de **gerar previsão do fechamento**, ao clicar nele, uma janela pop-up será aberta para você poder preencher algns campos. O primeiro é o de *data final*, pois ele irá processar uma previsão do fechamento de movimentações entregues com base na data que for colocada. Você também tem a opção de enviar este relatório para seu email, pois ele criará um arquivo em PDF.
+
+Oserve nosso exemplo abaixo criando o arquivo e abrindo ele.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_menu_novos_btns_gerar_previsao.gif)
