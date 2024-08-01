@@ -84,3 +84,11 @@ Após salvar, logo abaixo na pagina temos novas funções disponíveis. É uma v
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_depois_salvar.png)
+
+Uma informação importante, esse controle de movimentação, tem interação direta com a **aba contrato do controle de unidade**, observe abaixo que a movimentação que criamos aqui como exemplo, já consta no contrato criado no exemplo da aba. Veja abaixo:
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_aba_movimentacao.gif)
+
+<br>
+
+<br>
