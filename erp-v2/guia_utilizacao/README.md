@@ -4,3 +4,20 @@ Este guia de utilização oferece respostas detalhadas e diretas para as dúvida
 
 Seja bem-vindo ao seu novo aliado estratégico para uma administração eficiente e segura. 😉👍
 
+<br>
+
+{% content-ref url="erp-v2/guia_utilizacao//.md" %} Como configurar o sistema para emissão de notas fiscais de serviço (NFSe) {% endcontent-ref %}
+
+{% content-ref url="erp-v2/guia_utilizacao//.md" %} Como corrigir uma nota fiscal de serviço rejeitada (NFSe)? {% endcontent-ref %}
+
+{% content-ref url="erp-v2/guia_utilizacao//.md" %} A nota fiscal não foi emitida, como acompanhar (NFSe)? {% endcontent-ref %}
+
+{% content-ref url="erp-v2/guia_utilizacao//.md" %} Como realizar um estorno de cartão de crédito ou PIX? {% endcontent-ref %}
+
+{% content-ref url="erp-v2/guia_utilizacao//.md" %} Como fazer o cancelamento em lote de vendas não concretizadas (não pagas)? {% endcontent-ref %}
+
+{% content-ref url="erp-v2/guia_utilizacao//.md" %} Já confirmei a venda/pedido e agora preciso alterar um item de produto e/ou serviço, como fazer? {% endcontent-ref %}
+
+{% content-ref url="erp-v2/guia_utilizacao//.md" %} Já confirmei a venda/pedido e agora preciso mudar o tipo de negociação (forma de pagamento), como fazer? {% endcontent-ref %}
+
+{% content-ref url="erp-v2/guia_utilizacao//.md" %} O que é a liberação de desconto, e como funciona? {% endcontent-ref %}
