@@ -6,7 +6,7 @@ Seja bem-vindo ao seu novo aliado estratégico para uma administração eficient
 
 <br>
 
-{% content-ref url="./erp-v2/guia_utilizacao/como_emitir_nfse.md" %} Como configurar o sistema para emissão de notas fiscais de serviço (NFSe) {% endcontent-ref %}
+{% content-ref url="https://docs.gestao.plus/erp-v2/guia_utilizacao/como_emitir_nfse" %} . {% endcontent-ref %}
 
 {% content-ref url="./erp-v2/guia_utilizacao/como_corrigir_nfse_rejeitada.md" %} Como corrigir uma nota fiscal de serviço rejeitada (NFSe)? {% endcontent-ref %}
 
