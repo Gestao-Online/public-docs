@@ -10,17 +10,30 @@ Seja bem-vindo ao seu novo aliado estratégico para uma administração eficient
 [como_emitir_nfse.md](erp-v2/guia_utilizacao/como_emitir_nfse.md)
 {% endcontent-ref %}
 
+{% content-ref url="como_corrigir_nfse_rejeitada.md" %}
+[como_corrigir_nfse_rejeitada.md](erp-v2/guia_utilizacao/como_corrigir_nfse_rejeitada.md)
+{% endcontent-ref %}
 
-{% content-ref url="./erp-v2/guia_utilizacao/como_corrigir_nfse_rejeitada.md" %} Como corrigir uma nota fiscal de serviço rejeitada (NFSe)? {% endcontent-ref %}
+{% content-ref url="nfse_nao_emitida.md" %}
+[nfse_nao_emitida.md](erp-v2/guia_utilizacao/nfse_nao_emitida.md)
+{% endcontent-ref %}
 
-{% content-ref url="erp-v2/guia_utilizacao/nfse_nao_emitida.md" %} A nota fiscal não foi emitida, como acompanhar (NFSe)? {% endcontent-ref %}
+{% content-ref url="realizar_estorno_cartao_pix.md" %}
+[realizar_estorno_cartao_pix.md](erp-v2/guia_utilizacao/realizar_estorno_cartao_pix.md)
+{% endcontent-ref %}
 
-{% content-ref url="erp-v2/guia_utilizacao/realizar_estorno_cartao_pix.md" %} Como realizar um estorno de cartão de crédito ou PIX? {% endcontent-ref %}
+{% content-ref url="cancel_lote_vendas.md" %}
+[cancel_lote_vendas.md](erp-v2/guia_utilizacao/cancel_lote_vendas.md)
+{% endcontent-ref %}
 
-{% content-ref url="erp-v2/guia_utilizacao/cancel_lote_vendas.md" %} Como fazer o cancelamento em lote de vendas não concretizadas (não pagas)? {% endcontent-ref %}
+{% content-ref url="venda_confirmada_alterar_produto.md" %}
+[venda_confirmada_alterar_produto.md](erp-v2/guia_utilizacao/venda_confirmada_alterar_produto.md)
+{% endcontent-ref %}
 
-{% content-ref url="erp-v2/guia_utilizacao/venda_confirmada_alterar_produto.md" %} Já confirmei a venda/pedido e agora preciso alterar um item de produto e/ou serviço, como fazer? {% endcontent-ref %}
+{% content-ref url="venda_confirmada_alterar_tipo_negociacao.md" %}
+[venda_confirmada_alterar_tipo_negociacao.md](erp-v2/guia_utilizacao/venda_confirmada_alterar_tipo_negociacao.md)
+{% endcontent-ref %}
 
-{% content-ref url="erp-v2/guia_utilizacao/venda_confirmada_alterar_tipo_negociacao.md" %} Já confirmei a venda/pedido e agora preciso mudar o tipo de negociação (forma de pagamento), como fazer? {% endcontent-ref %}
-
-{% content-ref url="erp-v2/guia_utilizacao/como_liberar_desconto.md" %} O que é a liberação de desconto, e como funciona? {% endcontent-ref %}
+{% content-ref url="como_liberar_desconto.md" %}
+[como_liberar_desconto.md](erp-v2/guia_utilizacao/como_liberar_desconto.md)
+{% endcontent-ref %}
