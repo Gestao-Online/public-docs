@@ -31,6 +31,6 @@ Agora voltando à tela de recuperação de conta da **Gestão Online**, você co
 
 **Prontinho, após ter seguido esses passos, a sua senha foi alterada com sucesso!**
 
-Agora é só fazer login e seguir utilizando as múltiplas funções disponíveis na nossa plataforma **Gestão Online**.
+Agora é só fazer login e seguir utilizando as múltiplas funções disponíveis na plataforma **Gestão Online**.
 
 ![](/erp-v2/assets/tela_login_recuperar_sucesso.png)

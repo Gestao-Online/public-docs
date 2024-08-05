@@ -1,6 +1,6 @@
 # 📥 Estoque produtos
 
-Aqui você tem a visão do estoque de produtos na plataforma, podendo cadastrar um novo produto, editar informações existentes e até excluir um produto cadastrado.
+Aqui você tem a visão do estoque de produtos na plataforma, podendo cadastrar um novo produto em um determinado local de estoque, editar informações existentes e até excluir um produto cadastrado.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -80,48 +80,12 @@ Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do nov
 
 A partir do momento que você concluir o registro de um novo produto, ficará disponível a guia `Movimentações/Transferências`.
 
-Nesta guia ficarão todas as movimentações automáticas deste produto, sejam elas de transferência, venda, compra, devolução ou ajuste.
+Nesta guia ficarão todas as movimentações deste produto e nesse local de estoque, sejam elas de transferência, venda, compra, devolução ou ajuste.
 
-Você pode também organizar e procurar usando os filtros existentes nela.
+
+{% hint style="warning" %}
+**Atenção:** É possível verificar as possibilidades de uso nessa "Aba" diretamente na documentação da página de [**`Movimentação Estoque`**](/erp-v2/funcionalidades/produtos_servicos/movimentacao_estoque.md)
+
+{% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_produto_guia_estoque.png)
-
-<br>
-
-Existe a possibilidade de fazer alterações manuais nas movimentações (Se tiver nível de acesso administrativo). Consegue modificar uma movimentação, ou até mesmo excluí-la. 
-
-![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_edit.png)
-
-<br>
-
-É possível também fazer a adição de uma movimentação, acompanhe a seguir:
-
-![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_add.png)
-
-<br>
-
-Atenção, para salvar este registro é necessário que todos os itens sejam preenchidos:
-
-- **Tipo** (Transferência, venda, compra, devolução ou ajuste);
-- **Data lançamento**;
-- **Quantidade** (Itens a mais ou a menos);
-- **Lançamento** (Entrada ou saída);
-- **Descrição** (Motivo da movimentação).
-
-![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_add_inicio.png)
-
-.
-
-![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_add_inicio.gif)
-
-<br>
-
-Observe que, após salvar, ficará registrado o usuário, data e hora na alteração que foi feita:
-
-![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_add_salvar.png)
-
-<br>
-
-Finalizando assim, com o registro aparecendo na tela inicial:
-
-![](/erp-v2/assets/funcionalidades/estoque_produto/guia_movimentacoes_add_final.png)

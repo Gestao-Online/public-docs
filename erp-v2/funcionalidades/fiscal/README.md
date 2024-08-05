@@ -1,9 +1,9 @@
 # 🕵️ Fiscal
 
-Neste módulo estão reunidos os itens Nota Fiscal (Nfe/Nfce) e Nota fiscal (Nfse).
 
-Uma Nota Fiscal Eletrônica (NF-e) é um documento fiscal digital que substitui a nota fiscal em papel, sendo emitida e armazenada eletronicamente com o objetivo de documentar, para fins fiscais, uma operação de circulação de mercadorias ou uma prestação de serviços. 
+No conjunto de funcionalidades de **`Fiscal`**, estão reunidos os itens Nota Fiscal (Nfe/Nfce) e Nota fiscal (Nfse).
 
+Uma Nota Fiscal Eletrônica (NF-e/NFC-e ou NFS-e) é um documento fiscal digital que substitui a nota fiscal em papel, sendo emitida e armazenada eletronicamente com o objetivo de documentar, para fins fiscais, uma operação de circulação de mercadorias ou uma prestação de serviços. 
 
 <table data-view="cards">
     <thead>
