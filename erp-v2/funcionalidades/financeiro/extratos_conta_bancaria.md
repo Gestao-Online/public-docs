@@ -26,6 +26,8 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu.png)
 
+## Botão Gerar financeiro
+
 No primeiro botão do menu superior, temos o ícone <img src="/erp-v2/assets/icon_caixa.png" alt="" data-size="line"> para gerar financeiro para conciliação das taxas de vendas/movimentações.
 
 Ao clicar neste ícone, uma janela será aberta para você preencher algumas informações para gerar o financeiro. De início, ele pede a data de início e fim do extrato do financeiro que será gerado:
@@ -47,3 +49,11 @@ Em penúltimo, para preenchimento, temos a taxa natureza, basicamente ela permit
 Por último, fica o campo de modo, nele você escolhe a quantidade de resultados a serem mostrados, como, por exemplo, definir para mostrar só os 100 primeiros resultados, etc. Observe a demonstração abaixo.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_modo.png)
+
+## Gerando financeiro
+
+Após preenchido os dados, você clica no botão **Gerar financeiro** e o carregamento será realizado. Caso haja alguma transação pendente ou diferente do que se tem registrado no sistema, ao clicar no botão gerar financeiro, ele fará essa sincronia automaticamente.
+
+Lembrando que nesta mesma página é mostrado o extrato da conta bancária que foi sincronizada com o métodos OFX, VAN ou API, no caso quando se tem ativado o tipo de conciliação como integrado na [**aba de Listar contas**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md), que faz a atualização automática das contas bancárias.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_financeiro.gif)
