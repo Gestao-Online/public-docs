@@ -12,8 +12,6 @@ As categorias de produtos são uma forma de classificar e organizar os produtos 
 
 ![](/erp-v2/assets/funcionalidades/categoria_produto/aba_categoria_produto.gif)
 
-<br>
-
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -23,8 +21,6 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Categoria.
 
 ![](/erp-v2/assets/funcionalidades/categoria_produto/aba_categoria_produto_menu.png)
-
-<br>
 
 {% hint style="warning" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
@@ -36,13 +32,9 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/categoria_produto/aba_categoria_produto_add.png)
 
-<br>
-
-Ao clicar neste botão, você será levado para esta página para fazer o direcionamento do produto ao estoque:
+Ao clicar neste botão, você será levado para esta página, observe que os itens marcados com asterisco vermelho são itens obrigatórios:
 
 ![](/erp-v2/assets/funcionalidades/categoria_produto/aba_categoria_produto_add_inicio.png)
-
-<br>
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
@@ -53,19 +45,29 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/categoria_produto/aba_categoria_produto_add_menu.png)
 
-<br>
+No campo de **Descrição** você vai colocar o que melhor identifica esta categoria de produto que você está criando. Agora no campo **Identificador**, você pode usar números, e seguir a mesma sequência da **aba grupo de produtos**.
 
-Olhando de modo geral, por padrão, quando você for criar uma categoria de produto, é exigido identificador e status, para ser salvo.
+![](/erp-v2/assets/funcionalidades/grupo_produto/aba_categoria_produto_add_categoria_campos_descricao_identificador.png)
 
-- **Descrição** (Defina o que será a categoria que está criando);
-- **Identificador** (Número para buscar mais rápido a categoria);
-- **Analítica** (Sendo mais específica ou não);
-- **Status** (Ativado ou desativado);
-- **Código** (Identificação da categoria).
+### Campo analítica
 
-![](/erp-v2/assets/funcionalidades/categoria_produto/aba_categoria_produto_add_produto_itens.png)
+Em específico no campo **Analítica**, caso deixe ele em ativo, a categoria criada deixa de possuir uma hierarquia. O uso da hierarquia é interessante para melhorar a identificação e separação das catergorias dos itens novos que você for adicionar.
 
-<br>
+Para melhor exemplo, vamos preencher o campo **Identificador** com a sequencia padrão usada em nosso sistema, neste caso será *01.000*.
+
+![](/erp-v2/assets/funcionalidades/grupo_produto/aba_categoria_produto_add_categoria_campo_analitica_passo_1.png)
+
+Agora vamos adicionar uma nova categoria de exemplo, e ela será depedente desta primeira que criamos, pois utilizamos o identificador *01.* no começo. 😁👍 
+
+Veja o exemplo abaixo.
+
+![](/erp-v2/assets/funcionalidades/grupo_produto/aba_categoria_produto_add_categoria_campo_analitica_passo_2.gif)
+
+### Campos status e código
+
+Agora os campos de **Status** e **Código**. No campo de **Status**, lembrando que é um item obrigatório, ele define se este grupo estará disponível para uso ou não. O campo de código pode ser utilizando para controle interno, podendo utilizar números e letras.
+
+![](/erp-v2/assets/funcionalidades/grupo_produto/aba_categoria_produto_add_categoria_campos_descricao_status.png)
 
 ## Salvando categoria de produto
 
