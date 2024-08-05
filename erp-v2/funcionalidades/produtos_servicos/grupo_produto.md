@@ -58,28 +58,51 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
+## Guia Geral do novo produto
+
 Olhando para a guia **`Geral`**, por padrão, quando você for criar um grupo de produto, é exigido preencher os campos de descrição, identificador e status para ser salvo.
-
-- **Descrição** (Descreva o grupo de produto que está criando);
-- **Identificador** (Número gerado automaticamente por nossa plataforma);
-- **Imagem (Principal)** (Caso precise para facilitar identificação do grupo);
-- **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
-- **Analítica** (Se o grupo de produtos será específico ou não);
-- **Status** (Ativado ou desativado).
-
-<br>
 
 ![](/erp-v2/assets/funcionalidades/grupo_produto/aba_grupo_produto_add_produto_itens.png)
 
-<br>
+No campo de **Descrição** você vai colocar o que melhor identifica este grupo de produto que você está criando. Agora no campo **Identificador**, você não precisa se preocupara em preencher, pois o número é gerado automaticamente por nossa plataforma. 😁👍
 
-Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do grupo de produto será salvo:
+![](/erp-v2/assets/funcionalidades/grupo_produto/aba_grupo_produto_add_produto_campos_descricao_identificador.png)
+
+### Campo adicionar imagem
+
+Agora na **Imagem (Principal)** o uso não é obrigatório, mas caso queira pode utilizar para facilitar a identificação do grupo nos campos que exigirem.
+
+O procedimento de adiçã ode uma imagem é padrão em todo o sistema, e bem simples de se utilizar. Observer nosso exemplo abaixo:
+
+![](/erp-v2/assets/funcionalidades/grupo_produto/aba_grupo_produto_add_produto_campos_imagem.gif)
+
+Agora os campos de **Descrição complementar** e **Status**. Para descrição você pode definir por exemplo algum tipo de critério para que o produto seja adicionar a este grupo. Lembrando que é um item opcional e usado somente para identificação interna. 
+
+No campo de **Status** é um item obrigatório pois ele define se este grupo estará disponível para uso ou não.
+
+![](/erp-v2/assets/funcionalidades/grupo_produto/aba_grupo_produto_add_produto_campos_descricao_status.png)
+
+### Campo analítica
+
+Em específico no campo **Analítica**, caso deixe ele em ativo, o grupo criado deixa de possuir uma hierarquia. Observe que o botão adicionar item filho desaparece ao marcar a opção como ativa.
+
+O uso da hierarquia é interessante para melhorar a identificação dos itens novos que você for adicionar.
+
+Abaixo demonstramos como fica a opção caso ative a opção, e mostramos alguns exemplos de grupos com hierarquia.
+
+![](/erp-v2/assets/funcionalidades/grupo_produto/aba_grupo_produto_add_produto_campo_analitica.gif)
+
+### Salvando grupo de produto
+
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do grupo de produto será salvo. 
+
+Observe nossa demonstração abaixo. Preenchemos um exemplo de grupo de produto somente para teste.:
 
 ![](/erp-v2/assets/funcionalidades/grupo_produto/aba_grupo_produto_add_produto_salvar.gif)
 
-<br>
+## Guia produtos
 
-A partir do momento que você concluir a criação de um novo grupo de produto, ficará disponível a guia `Produtos`.
+A partir do momento que você concluir a criação de um novo grupo de produto, ficará disponível a guia [`Produtos`](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
 
 {% hint style="info" %}
 **Informativo:** Esta guia só ficará disponível a partir do momento que você salvar este item.

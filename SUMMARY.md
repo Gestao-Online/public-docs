@@ -171,11 +171,11 @@
       * [🔂 Controle movimentação unidade](/erp-v2/funcionalidades/controle_unidades/controle_movimentacao.md)
     
     * [📦 Produtos & Serviços](erp-v2/funcionalidades/produtos_servicos/README.md)
-      * [🎁 Produtos](erp-v2/funcionalidades/produtos_servicos/produtos.md)
       * [🧰 Serviços](erp-v2/funcionalidades/produtos_servicos/servicos.md)
       * [🛍️ Kits de produto/serviço](erp-v2/funcionalidades/produtos_servicos/kits.md)
       * [📦 Estoque produtos](erp-v2/funcionalidades/produtos_servicos/estoque_produtos.md)
       * [📤 Movimentação Estoque](erp-v2/funcionalidades/produtos_servicos/movimentacao_estoque.md)
+      * [🎁 Produtos](erp-v2/funcionalidades/produtos_servicos/produtos.md)
       * [🫙 Categoria de Produto](erp-v2/funcionalidades/produtos_servicos/categoria_produto.md)
       * [🧩 Grupo de produto](erp-v2/funcionalidades/produtos_servicos/grupo_produto.md)
       * [🎟️ Vouchers/Vale presente](/erp-v2/funcionalidades/produtos_servicos/vouchers.md)
