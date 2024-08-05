@@ -75,8 +75,6 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo pro
     - **Unidade:** Ao marcar esta opção, terá que confirmar as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST;
     - **Transporte:** Ao escolher, poderá definir as dimensões do produto, altura, largura, comprimento e peso. E também as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST;
 
-<br>
-
 {% hint style="warning" %}
 **Importante:** A foto do produto precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite que é de apenas 5MB! 🖼️
 {% endhint %}
@@ -131,7 +129,7 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_salvar.gif)
 
-## Guias adicionais ao criar um produto
+## Guias estoque
 
 A partir do momento que você concluir a criação de um novo produto, ficarão disponíveis três guias para você acessar, a primeira é de `Estoque`.
 
@@ -143,9 +141,7 @@ Você pode cadastrar seu produto no estoque, definindo local, empresa e até qua
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_guia_estoque.gif)
 
-<br>
-
-## Guia Categorias
+## Guia categorias
 
 Agora, na guia de **`Categorias`**, você pode definir uma categoria para o produto cadastrado. Ao clicar em adicionar, será mostrada a lista para você escolher uma opção. Essas opções já estão pré-cadastradas na aba categoria de produto:
 
@@ -154,8 +150,6 @@ Agora, na guia de **`Categorias`**, você pode definir uma categoria para o prod
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_guia_categorias.gif)
-
-<br>
 
 ## Guia tabelas de preço
 
@@ -166,8 +160,6 @@ Por último, na guia `Tabelas de preço`  você pode adicionar um valor ou perce
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_guia_tabela_preco.gif)
-
-<br>
 
 ## Importar produtos
 

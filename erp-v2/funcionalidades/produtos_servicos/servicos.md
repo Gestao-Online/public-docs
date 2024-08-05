@@ -10,11 +10,7 @@ Aqui você tem a visão de todos os serviços cadastrados na plataforma, podendo
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos.gif)
-
-<br>
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
@@ -44,21 +40,15 @@ Clicando no ícone da seta, você exibe de forma completa, e clicando nela novam
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_menu_esquerdo.gif)
 
-<br>
-
 ## Adicionar novo serviço
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo serviço, confira abaixo o procedimento para fazer a adição corretamente:
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add.png)
 
-<br>
-
 Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento das informações do novo serviço:
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_inicio.png)
-
-<br>
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
@@ -69,32 +59,82 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_menu.png)
 
-<br>
-
 Olhando para a guia **`Geral`**, por padrão, quando você for criar novo serviço, é exigido preencher a descrição, status, unidade/medida e grupo. 
 
 - **Descrição** (Nome para identificar o novo serviço a ser criado);
 - **Imagem (Principal)** (Se necessário);
+    - ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_campo_imagem.gif)
 - **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
 - **Código** (SKU ou código de barras referente ao serviço);
 - **Status** (Com duas opções para selecionar, entre ativado e desativado);
 - **Unidade/Medida** (Serão mostradas as opções cadastradas [aqui](/erp-v2/funcionalidades/parametrizacoes/unidade_medida_produto_servico.md));
 - **Grupo** (Serão mostradas as opções cadastradas [aqui](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md));
 - **Valor Custo** (Aqui você declara o valor deste serviço);
-- **Tipo de entrega** (Caso haja, informe o tipo);
+- **Tipo de entrega**;
 - **Utilizar configuração padrão NFSe da empresa** (Caso essa opção esteja ativada, serão utilizados os critérios fiscais Nfse padrão da empresa emitente).
-
-<br>
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_itens.png)
 
-<br>
+## Tipo de entrega
+
+Agora falando em específico do campo de **Tipo de entrega** ficou marcado a opção digital, mas você pode marcar a opção unidade, ou transporte. Essas informações não irão afetar o cadastro, a única que trará campos a mais será a de transporte, pois terá informações de caixa/embalagem de envio para configurar.
+
+![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital.png)
+
+## Utilizar configuração padrão NFSe da empresa (Ativado)
+
+Quando este campo está ativo, as configurações de NFSe são todas vínculadas ao cadastro da empresa na [**`aba Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md). Por isso, no momento que ativamos esta opção, todos os demais campos de configuração de nota fiscal desaparecem.
+
+![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_empresa.gif)
+
+## Utilizar configuração padrão NFSe da empresa (Desativado)
+
+Agora quando este campo está desativado, ficam disponíveis os campo de preenchimento para NFSe. Essas informações são fornecidas por seu contador, mas iremos fazer um exemplo de preenchimento.
+
+### Campo NFSe código de serviço
+
+Este código tem vínculo direto com a **aba LC116** que dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza (ISSQN), de competência dos municípios e do Distrito Federal, e dá outras providências. Nesta aba você pode baixar todos os códigos disponíveis, ou inserí-los manualmente.
+
+Em nosso exemplo, estamos usando o código *1.08 – Planejamento, confecção, manutenção e atualização de páginas eletrônicas*.
+
+![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_codigo.png)
+
+Logo mais abaixo no campo de **NFSe Código de tributação**, este ódigo também é fornecido pelo seu contador. Em nosso exemplo, usamos um código nacional para o tipo de serviço que estamos criando. 
+
+![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_tributacao.png)
+
+Agora no campo de CNAE (Código Nacional de Atividade Econômica), esse código é um sistema que classifica as atividades econômicas em setores específicos. 
+Logo mais abaixo no campo de **NFSe Código de tributação**, este ódigo também é fornecido pelo seu contador. Em nosso exemplo, usamos um código nacional para o tipo de serviço que estamos criando. Para a atividade que estamos cadastrando, o CNAE geralmente utilizado é *6202-3/00 - Desenvolvimento e Licenciamento de Programas de Computador Customizáveis*.
+
+Lembre-se, este é apenas nosso exemplo. 😁👍
+
+![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_cnae.png)
+
+No campo de **NFSe ISS Tipo Tributação**, você tem algumas opções padrões para escolher. Pois o ISS (Imposto Sobre Serviços) é um tributo municipal que incide sobre a prestação de serviços. E uma informação importante que determina como o imposto será calculado e recolhido.
+
+Em nosso modelo de exemplo, utilizaremos a opção *Tributável dentro do município*, pois é usada quando o serviço é prestado dentro do município onde a empresa está registrada, o ISS é devido ao próprio município.
+
+![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_iss.png)
+
+O campo de **NFSe ISS Exigibilidade** refere-se às condições em que o ISS deve ser pago ou se há alguma suspensão dessa obrigação. Esse campo é importante para indicar a situação tributária do serviço prestado. 
+
+Para o nosso caso, vamos marcar a opção *Exigível*, pois na cidade de Goiânia-GO é exigível o ISS.
+
+![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_iss_exigibilidade.png)
+
+O último campo é o de **Alíquota**, essa informação você pode encontrar no portal prefeitura da sua cidade, ou com o seu contador.
+
+Em nosso exemplo, na cidade de Goiânia-GO, a alíquota do ISS para serviços de tecnologia da informação, como o planejamento e manutenção de páginas eletrônicas, costuma ser de 5%. Então colocaremos este valor no campo.
+
+![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_iss_aliquota.png)
+
+## Salvando novo serviço
 
 Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do novo local de estoque será salvo:
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_salvar.gif)
 
-<br>
+## Guia Itens
 
 A partir do momento que você concluir a criação do novo serviço, ficarão disponíveis três guias para você acessar, a primeira é de `Itens`.
 
@@ -102,7 +142,7 @@ Nesta guia, você pode vincular um produto/serviço ao que você acabou de criar
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_guia_itens.gif)
 
-<br>
+## Guia Categorias
 
 Agora, na guia de `Categorias`, você pode definir uma categoria para o serviço cadastrado. Ao clicar em adicionar, será mostrada a lista para você escolher uma opção. Essas opções já estão pré-cadastradas na aba de categoria de produto.
 
@@ -112,7 +152,7 @@ Agora, na guia de `Categorias`, você pode definir uma categoria para o serviço
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_guia_categoria.gif)
 
-<br>
+## Guia tabelas de preço
 
 Por último, na guia `Tabelas de preço`  você pode adicionar um valor ou percentual e escolher qual tabela de preço existente irá ser vinculado:
 
@@ -121,8 +161,6 @@ Por último, na guia `Tabelas de preço`  você pode adicionar um valor ou perce
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_guia_tabela_preco.gif)
-
-<br>
 
 ## Importar serviços
 
