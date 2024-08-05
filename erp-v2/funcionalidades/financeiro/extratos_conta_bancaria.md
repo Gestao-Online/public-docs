@@ -26,7 +26,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu.png)
 
-## Botão Gerar extrato
+## Botão Gerar financeiro
 
 No primeiro botão do menu superior, temos o ícone <img src="/erp-v2/assets/icon_caixa.png" alt="" data-size="line"> para gerar financeiro para conciliação das taxas de vendas/movimentações.
 
@@ -50,7 +50,7 @@ Por último, fica o campo de modo, nele você escolhe a quantidade de resultados
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_modo.png)
 
-## Botão Gerar financeiro
+## Gerando financeiro
 
 Após preenchido os dados, você clica no botão **Gerar financeiro** e o carregamento será realizado. Caso haja alguma transação pendente ou diferente do que se tem registrado no sistema, ao clicar no botão gerar financeiro, ele fará essa sincronia automaticamente.
 
