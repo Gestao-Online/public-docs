@@ -15,7 +15,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
     <tbody>
         <tr>
             <td>
-                <strong>Serviços</strong>
+                <strong>Serviços.</strong>
             </td>
             <td></td>
             <td></td>
@@ -28,7 +28,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
         </tr>
         <tr>
             <td>
-                <strong>Kits de produto/serviço</strong>
+                <strong>Kits de produto/serviço.</strong>
             </td>
             <td></td>
             <td></td>
@@ -41,7 +41,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
         </tr>
         <tr>
             <td>
-                <strong>Estoque produtos</strong>
+                <strong>Estoque produtos.</strong>
             </td>
             <td></td>
             <td></td>
@@ -54,7 +54,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
         </tr>
         <tr>
             <td>
-                <strong>Movimentação de estoque</strong>
+                <strong>Movimentação de estoque.</strong>
             </td>
             <td></td>
             <td></td>
@@ -67,7 +67,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
         </tr>
         <tr>
             <td>
-                <strong>Produtos</strong>
+                <strong>Produtos.</strong>
             </td>
             <td></td>
             <td></td>
@@ -80,7 +80,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
         </tr>
         <tr>
             <td>
-                <strong>Categoria de produto</strong>
+                <strong>Categoria de produto.</strong>
             </td>
             <td></td>
             <td></td>
@@ -93,7 +93,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
         </tr>
         <tr>
             <td>
-                <strong>Grupo de produto</strong>
+                <strong>Grupo de produto.</strong>
             </td>
             <td></td>
             <td></td>
@@ -106,7 +106,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
         </tr>
         <tr>
             <td>
-                <strong>Vouchers</strong>
+                <strong>Vouchers.</strong>
             </td>
             <td></td>
             <td></td>
