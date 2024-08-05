@@ -46,7 +46,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2/funcionalidades/produtos_servicos/estoque_produto.md">estoque_produto.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servicos/estoque_produtos.md">estoque_produtos.md</a>
             </td>
             <td>
                 <a href="/erp-v2/assets/funcionalidades/icon_estoque_produtoo.png">icon_estoque_produtoo.png</a>
@@ -59,7 +59,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2/funcionalidades/produtos_servico/movimentacao_estoque.md">README.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servicos/movimentacao_estoque.md">README.md</a>
             </td>
             <td>
                 <a href="/erp-v2/assets/funcionalidades/icon_movimentacao_estoque.png">icon_movimentacao_estoque.png</a>
@@ -72,7 +72,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2/funcionalidades/produtos_servico/fiscal/produtos.md">produtos.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servicos/produtos.md">produtos.md</a>
             </td>
             <td>
                 <a href="/erp-v2/assets/funcionalidades/icon_produtoss.png">icon_produtoss.png</a>
@@ -85,7 +85,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2/funcionalidades/produtos_servico/categoria_produto.md">categoria_produto.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servicos/categoria_produto.md">categoria_produto.md</a>
             </td>
             <td>
                 <a href="/erp-v2/assets/funcionalidades/icon_estoque_produtoo.png">icon_estoque_produtoo.png</a>
@@ -98,7 +98,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2/funcionalidades/produtos_servico/grupo_produto.md">grupo_produto.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md">grupo_produto.md</a>
             </td>
             <td>
                 <a href="/erp-v2/assets/funcionalidades/icon_grupo_produtoss.png">icon_grupo_produtoss.png</a>
@@ -111,7 +111,7 @@ No conjunto de funcionalidades de **`Produtos & Serviços`**, você encontrará 
             <td></td>
             <td></td>
             <td>
-                <a href="/erp-v2/funcionalidades/produtos_servico/vouchers.md">vouchers.md</a>
+                <a href="/erp-v2/funcionalidades/produtos_servicos/vouchers.md">vouchers.md</a>
             </td>
             <td>
                 <a href="/erp-v2/assets/funcionalidades/icon_voucherss.png">icon_voucherss.png</a>
