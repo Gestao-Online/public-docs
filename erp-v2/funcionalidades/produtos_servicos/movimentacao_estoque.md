@@ -1,8 +1,8 @@
 # 📤 Movimentação de estoque
 
-Aqui você tem a visão das movimentações do estoque de produtos na plataforma, essa tela funciona como um "extrato" ou "histórico" de toda movimentação (entra e saída) de produtos em cada respectivo local de estoque.
+Aqui você tem a visão das movimentações do estoque de produtos na plataforma. Esta tela funciona como um "extrato" ou "histórico" de toda movimentação (entrada e saída) de produtos em cada respectivo local de estoque.
 
-É possível fazer e acompanhar lançamentos do tipo;
+É possível fazer e acompanhar lançamentos do tipo:
 
     - Transferência
     - Venda
@@ -10,11 +10,11 @@ Aqui você tem a visão das movimentações do estoque de produtos na plataforma
     - Devolução
     - Ajuste
 
-O lançamento de "ajuste" por exemplo, podem ser utilizado para fazer ajustes na quantidade disponível em um local de estoque de um produto, de forma manual no sistema (Para um estoque inicial ou ajuste de estoque após um inventário por exemplo).
+O lançamento de "ajuste", por exemplo, pode ser utilizado para fazer ajustes na quantidade disponível em um local de estoque de um produto, de forma manual no sistema (para um estoque inicial ou ajuste de estoque após um inventário, por exemplo).
 
-Já o lançamento de "transferência" pode ser utilizado para transferir determinada quantidade de produtos que está disponível em um local de estoque para outro. (Assim o sistema faz automaticamente a saída de um local de estoque e a entrada no outro)
+Já o lançamento de "transferência" pode ser utilizado para transferir determinada quantidade de produtos que está disponível em um local de estoque para outro. (Assim o sistema faz automaticamente a saída de um local de estoque e a entrada no outro).
 
-Os lançamentos do tipo "Venda", "Compra" e "Devolução", normalmente são lançados de forma automática integrada a camada de pedidos/vendas/compras. Então, por exemplo: De acordo com as regras estabelecidas no "tipo de movimentação" uma venda pode dar saída no estoque (do tipo Venda) quando o vendedor "confirmar a venda" ou quando o "pagamento estiver liquidado".
+Os lançamentos do tipo "Venda", "Compra" e "Devolução" normalmente são lançados de forma automática, integrada à camada de pedidos/vendas/compras. Então, por exemplo: de acordo com as regras estabelecidas no [**`Tipo de movimentação`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao), uma venda pode dar saída no estoque (do tipo Venda) quando o vendedor "confirmar a venda" ou quando o "pagamento estiver liquidado".
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.

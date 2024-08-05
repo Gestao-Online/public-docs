@@ -1,6 +1,6 @@
 # 🧩 Grupo de produto
 
-Os grupos de produtos são utilizados para classificar o "grupo" ou um "subgrupo" do produto e/ou serviço no sistema de uma forma relevante para a gestão do negócio. Essa separação pode ajudar na organização, definição de regras ou precificação (tabela de preços)
+Os grupos de produtos são utilizados para classificar o "grupo" ou "subgrupo" do produto e/ou serviço no sistema de uma forma relevante para a gestão do negócio. Essa separação pode ajudar na organização, definição de regras ou precificação ([**`Tabela de preços`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos))
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
