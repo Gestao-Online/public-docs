@@ -1,6 +1,6 @@
 # 👥 Indicadores / Afiliados
 
-No módulo Indicadores/Afiliados você encontra os itens comissão de parceiros, tabelas de indicação e parceiros indicadores, para saber mais informações sobre eles, clique no item de preferência abaixo:
+No conjunto de funcionalidades de **`Indicadores / Afiliados`**, você encontra os itens comissão de parceiros, tabelas de indicação e parceiros indicadores, para saber mais informações sobre eles, clique no item de preferência abaixo:
 
 <table data-view="cards">
     <thead>
