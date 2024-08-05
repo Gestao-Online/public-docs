@@ -1,6 +1,6 @@
 # 🧩 Grupo de produto
 
-Os grupos de produtos são utilizados para classificar os itens em seu estoque ou catálogo de uma forma relevante para a gestão do negócio. 
+Os grupos de produtos são utilizados para classificar o "grupo" do produto e/ou serviço no sistema de uma forma relevante para a gestão do negócio. Essa separação pode ajudar na organização, definição de regras ou precificação (tabela de preços)
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
