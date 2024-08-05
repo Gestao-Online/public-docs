@@ -14,7 +14,7 @@ O lançamento de "ajuste", por exemplo, pode ser utilizado para fazer ajustes na
 
 Já o lançamento de "transferência" pode ser utilizado para transferir determinada quantidade de produtos que está disponível em um local de estoque para outro. (Assim o sistema faz automaticamente a saída de um local de estoque e a entrada no outro).
 
-Os lançamentos do tipo "Venda", "Compra" e "Devolução" normalmente são lançados de forma automática, integrada à camada de pedidos/vendas/compras. Então, por exemplo: de acordo com as regras estabelecidas no [**`Tipo de movimentação`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao), uma venda pode dar saída no estoque (do tipo Venda) quando o vendedor "confirmar a venda" ou quando o "pagamento estiver liquidado".
+Os lançamentos do tipo "Venda", "Compra" e "Devolução" normalmente são lançados de forma automática, integrada à camada de pedidos/vendas/compras. Então, por exemplo: de acordo com as regras estabelecidas no [**`Tipo de movimentação`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md), uma venda pode dar saída no estoque (do tipo Venda) quando o vendedor "confirmar a venda" ou quando o "pagamento estiver liquidado".
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
