@@ -39,12 +39,6 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
-## Paginação da aba vouchers
-
-Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de vouchers mostrados para até 1000 itens na página:
-
-![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_paginacao.png)
-
 <br>
 
 ## Adicionar novo voucher
