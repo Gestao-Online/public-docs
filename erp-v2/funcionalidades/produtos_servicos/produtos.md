@@ -10,11 +10,7 @@ Aqui você tem a visão de todos os produtos cadastrados na plataforma, podendo 
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos.gif)
-
-<br>
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
@@ -26,8 +22,6 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Produto.
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_menu.png)
-
-<br>
 
 {% hint style="warning" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
@@ -46,21 +40,15 @@ Clicando no ícone da seta, você exibe completamente, e clicando nela novamente
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_menu_esquerdo.gif)
 
-<br>
-
 ## Adicionar novo produto
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo produto, confira abaixo o procedimento para fazer a adição corretamente:
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add.png)
 
-<br>
-
 Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento das informações do novo produto:
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_inicio.png)
-
-<br>
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
@@ -70,8 +58,6 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produto_add_menu.png)
-
-<br>
 
 Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo produto, é exigido descrição, status, unidade/medida e grupo. 
 
@@ -97,13 +83,45 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo pro
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_itens.png)
 
-<br>
+## Tipo de entrega
+
+Agora falando em específico do campo de **Tipo de entrega** ficou marcado a opção digital, mas nosso produto não é digital, então vamos escolhera opção unidade. Agora observe que novos campos irão aparecer na parte de baixo da página.
+
+![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_unidade.png)
+
+### Tipo de entrega Unidade
+
+No primeiro campo **NFe/NFCe Tipo** você define qual tipo de produto será cadastrado, observe que tem disponível várias opções. Em nosso exemplo, iremos marcar a primeira opção.
+
+![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_unidade_tipo.png)
+
+Em sequência, você tem o campo de **Origem da Mercadoria**, nele você tem várias opções para marcar, escolha a que melhor define a origem do produto que você está cadastrando no momento. Em nosso exemplo, vamos utilizar a opção *0 - Nacional, exceto as indicadas nos códigos 3,4,5 e 8*.
+
+![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_unidade_origem.png)
+
+Os próximos campos são agora para referencias o código NCM (Nomenclatura Comum do Mercosul). Em nossa plataforma, você pode configurar o NCM usado em sua empresa, e caso queira mais informações sobre esta aba, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/ncm.md).
+
+Mas observe que neste mesmo campo de **NCM**, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> de atalho para adicionar um novo código NCM, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o código NCM selecionado em uma nova aba.
+
+Para nosso exemplo, adicionamos o NCM de referência a produtos criados com cerâmica. 😁👍
+
+![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_unidade_ncm.png)
+
+E agora no campo de CEST (Código Especificador da Substituição Tributária) sendo um código padronizado que identifica mercadorias sujeitas ao regime de substituição tributária e de antecipação do recolhimento do ICMS (Imposto sobre Circulação de Mercadorias e Serviços), e caso queira mais informações sobre esta aba, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/cest.md).
+
+Neste mesmo campo de **CEST**, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> de atalho para adicionar um novo código CEST, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o código CEST selecionado em uma nova aba.
+
+Para nosso exemplo, adicionamos o CEST de referência ao NCM deste produto, que é o de artigos de casa.
+
+![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_unidade_cest.png)
+
+### Tipo de entrega transporte
+
+## Salvando novo produto
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo produto será salvo:
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_salvar.gif)
-
-<br>
 
 ## Guias adicionais ao criar um produto
 
