@@ -117,6 +117,14 @@ Para nosso exemplo, adicionamos o CEST de referência ao NCM deste produto, que 
 
 ### Tipo de entrega transporte
 
+Caso no campo **Tipo de entrega** você marque a opção *Transporte*, além dos campos citados acima de configuração de NFe, aparecerão as configuração envio deste produto.
+
+Essas informações são de *Altura*, *Largura*, *Comprimento* e *Peso*. Lembrando que todas estas informações são feitas com base na embalagem que este produto terá para envio e a unidade de medida é em centímetros.
+
+Observe nosso exemplo, preenchemos todos os dados necessários, incluindo o peso do nosso produto. E os dados de Nota Fiscal, usamos os mesmos explicados acima no tipo entrega unidade. 😁👍
+
+![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_transporte.png)
+
 ## Salvando novo produto
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo produto será salvo:
