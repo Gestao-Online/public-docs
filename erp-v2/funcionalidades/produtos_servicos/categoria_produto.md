@@ -1,6 +1,6 @@
 # 🫙 Categoria de produto
 
-As categorias de produtos são uma forma de classificar e organizar os produtos e/ou serviços no sistema. Permitindo também criar um nível hierárquico para categorização e subcategorização, essa marcação de categoria em produto/serviço pode ser utilizado em diversos locais. Exemplo: Um catálogo, um menu de uma loja virtual.
+As categorias de produtos são uma forma de classificar e organizar os produtos e/ou serviços no sistema, permitindo também criar um nível hierárquico para categorização e subcategorização. Essa marcação de categoria em produto/serviço pode ser utilizada em diversos locais, como, por exemplo, um catálogo ou um menu de uma loja virtual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
