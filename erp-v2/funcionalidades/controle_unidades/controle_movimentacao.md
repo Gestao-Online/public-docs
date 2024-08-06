@@ -1,6 +1,6 @@
 # 🔂 Controle movimentação unidade
 
-Nesta aba você encontra todos os controles de movimentação de unidade cadastrados na plataforma da **Gestão Online**. E caso tenha algum controle faltando, você pode efetuar o cadastro ou editar um controle existente, precisando somente seguir este manual.
+Nesta tela você encontra todos os controles de movimentação de unidade cadastrados na plataforma. E caso tenha algum controle faltando, você pode efetuar o cadastro ou editar um controle existente, precisando somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
