@@ -71,7 +71,7 @@ Os dois campos ao lado são de **Data lançamento** (Este campo exibe um mini ca
 
 ![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_mvt_transferencia_campos_data_qtd.png)
 
-Agora o campo de **Produto** é vinculado automaticamente com a **aba Produtos**, caso queira mais informações sobre esta aba [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md). Neste mesmo campo você pode ver que tem um ícone de lupa para que possa buscar os produtos em modo de lista.
+Agora o campo de **Produto** é vinculado automaticamente com a **tela Produtos**, caso queira mais informações sobre esta tela [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md). Neste mesmo campo você pode ver que tem um ícone de lupa para que possa buscar os produtos em modo de lista.
 
 Iremos selecionar nosso produto de exemplo (A caneca de café da Gestão Online) 😁👍
 
@@ -124,6 +124,10 @@ Mas caso haja uma movimentação de venda, ela ficará registrada aqui na aba de
 
 Essa opção também tem uma restrição, ela exige que você faça todo o procedimento direto pela aba de movimentações.
 
+{% hint style="warning" %}
+**Movimentação:** Caso queira informações sobre como utilizar a aba movimentações, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+{% endhint %}
+
 Para exemplo, abaixo a mensagem de restrição que será exibida para você. 
 
 ![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_compra_proibido.gif)
@@ -131,6 +135,10 @@ Para exemplo, abaixo a mensagem de restrição que será exibida para você.
 ## Campo Tipo Devolução
 
 Essa opção, assim como compra e venda, tem restrição, ela exige que você faça todo o procedimento direto pela aba de movimentações, pois para que uma devolução relamente aconteça. É necessário que todos os dados estejam preechidos, como valor do produto, código da venda, qual vendedor realizou, de qual cliente pertence, etc. Informações estas que não estão presentes aqui, e sim na aba de movimentação. 😉
+
+{% hint style="warning" %}
+**Movimentação:** Caso queira informações sobre como utilizar a aba movimentações, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+{% endhint %}
 
 Para exemplo, abaixo a mensagem de restrição que será exibida para você. 
 
@@ -142,23 +150,42 @@ Mas caso aconteça uma movimentação de devolução, ela ficará registrada aqu
 
 ## Campo Tipo Ajuste
 
+Agora na última opção **Ajuste**, você pdoe utilizar quando fizer um balanço de estoque, ou uma revisão de controle de estoque e deixar o sistema regularizado com o que tem na empresa para ficar tudo correto para acompanhamento.
 
+Os próximos campos ao lado são de **Data lançamento** (É exibido um mini calendário para escolher a data) e **Quantidade**, iremos preencher a data e como exemplo, vamos ajustar cinco itens deste produto.
 
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_mvt_ajuste_campos_data_qtd.png)
 
-, venda, compra, devolução e ajuste);
+O campo de **Produto** é vinculado com a **tela Produtos**, caso queira mais informações sobre esta tela [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md). Neste mesmo campo você pode ver que tem um ícone de lupa para que possa buscar os produtos em modo de lista.
 
-- **Produto** (Defina qual produto terá a movimentação, para mais informações, 
-- **Local de Estoque** (Defina qual local está o produto, para mais informações, [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md));
-- **Empresa** (Defina qual empresa tem o produto, para mais informações, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/empresas.md));
-- **Lançamento** (Entrada ou saída);
-- **Descrição** (Motivo da movimentação).
+Iremos selecionar nosso produto de exemplo (A caneca de café da Gestão Online) 😁👍
 
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_ajuste_campo_produto.gif)
 
+Agora nos campos abaixo, temos a escolha do local de estoque que se encontra nosso produto, este esta vinculado com a **tela Estoque**. Não esquecendo que precisamos também definir qual **empresa** é responsável por este estoque.
 
-## Salvando movimentação de estoque
+Outro item que marcaremos, é o tipo de lançamento, em nosso exemplo iremos acrescentar mais cinco itens e marcaremos a opção *Entrada*. Observe abaixo.
 
-Após finalizar o preenchimento, você clica em **`Salvar`** e o registro da nova movimentação será adicionado:
+{% hint style="warning" %}
+**Local de estoque:** Caso queira informações sobre como utilizar a tela Local de Estoque, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md).
+{% endhint %}
 
-![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_produto_salvar.gif)
+{% hint style="warning" %}
+**Empresas:** Caso queira informações sobre como utilizar a tela Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_ajuste_campos_local_estoque_empresa_lancamento.png)
+
+Por último a **Descrição** dessa movimentação que você está realizando, no nosso caso é somente um teste, então iremos descrever para que o registro fique no sistema.
+
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_ajuste_campo_descricao.png)
+
+### Salvando movimentação de tipo ajuste
+
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro da nova movimentação do tipo ajuste será adicionada:
+
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_ajuste.gif)
+
+<br>
 
 <br>
