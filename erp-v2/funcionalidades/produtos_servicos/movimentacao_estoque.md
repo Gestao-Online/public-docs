@@ -26,7 +26,7 @@ Os lançamentos do tipo "Venda", "Compra" e "Devolução" são normalmente lanç
 
 ![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -84,11 +84,11 @@ Não esquecendo de que precisamos também definir para qual **empresa** ele ser�
 Outro item que marcaremos é o tipo de lançamento, colocando como saída e o destino como entrada. Observe nosso exemplo abaixo.
 
 {% hint style="warning" %}
-**Local de estoque:** Caso queira informações sobre como utilizar a aba Local de Estoque, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md).
+**Local de estoque:** Caso queira informações sobre como utilizar a tela Local de Estoque, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md).
 {% endhint %}
 
 {% hint style="warning" %}
-**Empresas:** Caso queira informações sobre como utilizar a aba Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
+**Empresas:** Caso queira informações sobre como utilizar a tela Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_transferencia_campos_local_estoque_empresa_lancamento.png)
@@ -105,27 +105,27 @@ Após finalizar o preenchimento, você clica no botão <img src="/erp-v2/assets/
 
 ## Campo Tipo Venda
 
-Essa opção tem uma restrição, ela exige que você faça todo o procedimento direto pela aba de Vendas.
+Essa opção tem uma restrição, ela exige que você faça todo o procedimento direto pela tela de Vendas.
 
 {% hint style="warning" %}
-**Vendas:** Caso queira informações sobre como utilizar a aba Vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+**Vendas:** Caso queira informações sobre como utilizar a tela Vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
 {% endhint %}
 
 Para exemplo, segue abaixo a mensagem de restrição que será exibida para você. 😅
 
 ![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_venda_proibido.gif)
 
-Mas caso haja uma movimentação de venda, ela ficará registrada aqui na aba de movimentação de estoque, observe abaixo um exemplo de movimentação do tipo venda.
+Mas caso haja uma movimentação de venda, ela ficará registrada aqui na tela de movimentação de estoque, observe abaixo um exemplo de movimentação do tipo venda.
 
 ![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_venda_proibido_relatorio.png)
 
 ## Campo Tipo Compra
 <!-- PERGUNTAR AO PAULO COMO FUNCIONA O SISTEMA DE COMPRAS NO GESTÃO ONLINE, POIS FELIPE ME INFORMOU QUE SE ENCONTRA DESATIVADO -->
 
-Essa opção também tem uma restrição, ela exige que você faça todo o procedimento direto pela aba de movimentações.
+Essa opção também tem uma restrição, ela exige que você faça todo o procedimento direto pela tela de movimentações.
 
 {% hint style="warning" %}
-**Movimentação:** Caso queira informações sobre como utilizar a aba movimentações, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+**Movimentação:** Caso queira informações sobre como utilizar a tela movimentações, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
 {% endhint %}
 
 Para exemplo, abaixo a mensagem de restrição que será exibida para você. 
@@ -134,17 +134,17 @@ Para exemplo, abaixo a mensagem de restrição que será exibida para você.
 
 ## Campo Tipo Devolução
 
-Essa opção, assim como compra e venda, tem restrição, ela exige que você faça todo o procedimento direto pela aba de movimentações, pois para que uma devolução efetivamente aconteça. É necessário que todos os dados estejam preenchidos, como valor do produto, código da venda, qual vendedor realizou, de qual cliente pertence, etc. Informações estas que não estão presentes aqui, e sim na aba de movimentação. 😉
+Essa opção, assim como compra e venda, tem restrição, ela exige que você faça todo o procedimento direto pela tela de movimentações, pois para que uma devolução efetivamente aconteça. É necessário que todos os dados estejam preenchidos, como valor do produto, código da venda, qual vendedor realizou, de qual cliente pertence, etc. Informações estas que não estão presentes aqui, e sim na tela de movimentação. 😉
 
 {% hint style="warning" %}
-**Movimentação:** Caso queira informações sobre como utilizar a aba movimentações, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+**Movimentação:** Caso queira informações sobre como utilizar a tela movimentações, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
 {% endhint %}
 
 Para exemplo, abaixo a mensagem de restrição que será exibida para você. 
 
 ![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_devolucao_proibido.gif)
 
-Mas caso aconteça uma movimentação de devolução, ela ficará registrada aqui na aba de movimentação de estoque, observe abaixo um exemplo de movimentação do tipo de devolução.
+Mas caso aconteça uma movimentação de devolução, ela ficará registrada aqui na tela de movimentação de estoque, observe abaixo um exemplo de movimentação do tipo de devolução.
 
 ![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_devolucao_proibido_relatorio.png)
 
