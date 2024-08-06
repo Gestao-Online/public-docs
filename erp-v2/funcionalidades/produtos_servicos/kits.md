@@ -1,6 +1,6 @@
 # 🛍️ Kits de produto/serviço
 
-Aqui você tem a visão de todos os kits de produto/serviço cadastrados na plataforma, podendo cadastrar um novo kit, editar informações existentes e até excluir um kit cadastrado.
+Nessa tela do sistema, você pode visualizar todos os kits de produtos/serviços cadastrados, além de ter a opção de cadastrar um novo kit, editar as informações existentes e excluir kits cadastrados.
 
 Os "Kits" são úteis para agrupar produtos e/ou serviços. Permitindo criar "combos" com os produtos e serviços já existentes no sistema, facilitando o lançamento da venda, precificação e gestão de estoque.
 
@@ -123,7 +123,7 @@ Agora, na guia de **`Categorias`**, você pode definir uma categoria para o kit 
 
 <br>
 
-Por último na guia **`Tabelas de preço`** você pode adicionar um valor ou percentual e de qual tabela de preço existente irá ser vinculado:
+Já na guia `Tabelas de preço` é possível verificar todas as tabelas de preço que esse kit já está vinculado, permitindo também adicionar facilmente o kit a uma tabela de preço:
 
 {% hint style="warning" %}
 **Informativo:** Se você deseja saber mais informações sobre tabela de preço [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md)
