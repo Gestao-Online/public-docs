@@ -63,7 +63,7 @@ Olhando para a criação de movimentação, quando você for criar uma nova movi
 
 ![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_itens.png)
 
-## Campo Tipo
+## Campo Tipo Transferência
 
 O primeiro campo é de escolha de **Tipo**, ele possui cinco opções, a primeira é de *Transferência*. Quando selecionamos esta opção, novos campos ficam disponíveis para preenchermos, pois iremos definir um local de saída e destino para o nosso produto de exemplo.
 
@@ -99,12 +99,48 @@ Por último a **Descrição** dessa movimentação que você está realizando, n
 
 ### Salvando movimentação de tipo transferência
 
-Após finalizar o preenchimento, você clica em **`Salvar`** e o registro da nova movimentação de transferência será adicionada:
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro da nova movimentação do tipo transferência será adicionada:
 
 ![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_transferencia.gif)
 
+## Campo Tipo Venda
 
-## Campo
+Essa opção tem uma restrição, ela exige que você faça todo o procedimento direto pela aba de Vendas.
+
+{% hint style="warning" %}
+**Vendas:** Caso queira informações sobre como utilizar a aba Vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+{% endhint %}
+
+Para exemplo, segue abaixo a mensagem de restrição que será exibida para você. 😅
+
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_venda_proibido.gif)
+
+Mas caso haja uma movimentação de venda, ela ficará registrada aqui na aba de movimentação de estoque, observe abaixo um exemplo de movimentação do tipo venda.
+
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_venda_proibido_relatorio.png)
+
+## Campo Tipo Compra
+<!-- PERGUNTAR AO PAULO COMO FUNCIONA O SISTEMA DE COMPRAS NO GESTÃO ONLINE, POIS FELIPE ME INFORMOU QUE SE ENCONTRA DESATIVADO -->
+
+Essa opção também tem uma restrição, ela exige que você faça todo o procedimento direto pela aba de movimentações.
+
+Para exemplo, abaixo a mensagem de restrição que será exibida para você. 
+
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_compra_proibido.gif)
+
+## Campo Tipo Devolução
+
+Essa opção, assim como compra e venda, tem restrição, ela exige que você faça todo o procedimento direto pela aba de movimentações, pois para que uma devolução relamente aconteça. É necessário que todos os dados estejam preechidos, como valor do produto, código da venda, qual vendedor realizou, de qual cliente pertence, etc. Informações estas que não estão presentes aqui, e sim na aba de movimentação. 😉
+
+Para exemplo, abaixo a mensagem de restrição que será exibida para você. 
+
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_devolucao_proibido.gif)
+
+Mas caso aconteça uma movimentação de devolução, ela ficará registrada aqui na aba de movimentação de estoque, observe abaixo um exemplo de movimentação do tipo devolução.
+
+![](/erp-v2/assets/funcionalidades/movimentacao_estoque/aba_movimentacao_estoque_add_movimentacao_devolucao_proibido_relatorio.png)
+
+## Campo Tipo Ajuste
 
 
 
