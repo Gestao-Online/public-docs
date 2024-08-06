@@ -7,16 +7,12 @@ Aqui você tem a visão do estoque de produtos na plataforma, podendo cadastrar 
 {% endhint %}
 
 {% hint style="warning" %}
-**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md), favor acessar a explicação sobre cada parte desta função.
 {% endhint %}
-
-<br>
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque.gif)
 
-<br>
-
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -25,8 +21,6 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar produto no estoque.
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_menu.png)
-
-<br>
 
 {% hint style="warning" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
@@ -38,13 +32,9 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add.png)
 
-<br>
-
 Ao clicar neste botão, você será levado para esta página para fazer o direcionamento do produto ao estoque:
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_inicio.png)
-
-<br>
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
@@ -55,8 +45,6 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_menu.png)
 
-<br>
-
 Olhando para a guia **`Geral`**, por padrão, quando você for criar adicionar um produto ao estoque, é exigido produto, local e empresa. 
 
 - **Produto** (Para mais informações, [clique aqui](/erp-v2/funcionalidades/produtos_servicos/produtos.md));
@@ -64,17 +52,11 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar adicionar u
 - **Empresa** (Para mais informações, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/empresas.md));
 - **Quantidade mínima**.
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_produto_itens.png)
-
-<br>
 
 Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do novo produto será adicionado ao estoque:
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_produto_salvar.gif)
-
-<br>
 
 ## Guia de movimentação de estoque
 
@@ -82,10 +64,8 @@ A partir do momento que você concluir o registro de um novo produto, ficará di
 
 Nesta guia ficarão todas as movimentações deste produto e nesse local de estoque, sejam elas de transferência, venda, compra, devolução ou ajuste.
 
-
 {% hint style="warning" %}
 **Atenção:** É possível verificar as possibilidades de uso nessa "Aba" diretamente na documentação da página de [**`Movimentação Estoque`**](/erp-v2/funcionalidades/produtos_servicos/movimentacao_estoque.md)
-
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_produto_guia_estoque.png)
