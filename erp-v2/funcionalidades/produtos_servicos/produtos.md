@@ -1,27 +1,27 @@
 # 🎁 Produtos
 
-Na tela "Produtos", você pode visualizar todos os produtos cadastrados na plataforma, além de ter a opção de cadastrar um novo produto, editar as informações existentes e excluir produtos cadastrados
+Na tela "Produtos", você pode visualizar todos os produtos cadastrados na plataforma, além de ter a opção de cadastrar um novo produto, editar as informações existentes e excluir produtos cadastrados.
 
-Aqui podem ser cadastrados os produtos que a sua empresa comercializa, assim ao lançar uma venda/pedido o sistema já terá as informações ligadas a esse produto (fiscal, financeiro etc). Agilizando muito o processo de venda e/ou recorrência.
+Aqui podem ser cadastrados os produtos que a sua empresa comercializa, assim, ao lançar uma venda/pedido, o sistema já terá as informações ligadas a esse produto (fiscal, financeiro, etc.). Agilizando muito o processo de venda e/ou recorrência.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
-**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md), favor acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
-- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Produto.
+- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar produto.
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_menu.png)
 
@@ -31,10 +31,10 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ## Menu lateral esquerdo
 
-No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras abas da plataforma, sendo eles:
+No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras telas da plataforma, sendo eles:
 
 - <img src="/erp-v2/assets/funcionalidades/icon_produtos_servicos.png" alt="" data-size="line"> Todos os produtos/serviços;
-- <img src="/erp-v2/assets/funcionalidades/icon_produto.png" alt="" data-size="line"> Produtos (Aba atual);
+- <img src="/erp-v2/assets/funcionalidades/icon_produto.png" alt="" data-size="line"> Produtos (Tela atual);
 - <img src="/erp-v2/assets/funcionalidades/icon_servicos.png" alt="" data-size="line"> [Serviços](/erp-v2/funcionalidades/produtos_servicos/servicos.md);
 - <img src="/erp-v2/assets/funcionalidades/icon_kits.png" alt="" data-size="line"> [Kits](/erp-v2/funcionalidades/produtos_servicos/kits.md);
 
@@ -61,7 +61,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produto_add_menu.png)
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo produto, é exigido descrição, status, unidade/medida e grupo. 
+Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo produto, é exigida descrição, status, unidade/medida e grupo. 
 
 - **Descrição** (Nome para identificar o novo produto a ser criado);
 - **Imagem (Principal)** (Para facilitar identificação do produto);
@@ -75,7 +75,7 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo pro
 - **Tipo de entrega:**
     - **Digital** Não mostrará as opções de NFe/NFCe e não terá a guia estoque quando salvar o produto;
     - **Unidade:** Ao marcar esta opção, terá que confirmar as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST;
-    - **Transporte:** Ao escolher, poderá definir as dimensões do produto, altura, largura, comprimento e peso. E também as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST;
+    - **Transporte:** Ao escolher, poderá definir as dimensões do produto, altura, largura, comprimento e peso. E também as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST.
 
 {% hint style="warning" %}
 **Importante:** A foto do produto precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite que é de apenas 5MB! 🖼️
@@ -85,31 +85,31 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo pro
 
 ## Tipo de entrega
 
-Agora falando em específico do campo de **Tipo de entrega** ficou marcado a opção digital, mas nosso produto não é digital, então vamos escolhera opção unidade. Agora observe que novos campos irão aparecer na parte de baixo da página.
+Agora, falando em específico do campo de **Tipo de entrega**, ficou marcada a opção digital, mas nosso produto não é digital, então vamos escolher a opção unidade. Observe que novos campos irão aparecer na parte de baixo da página.
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_unidade.png)
 
 ### Tipo de entrega Unidade
 
-No primeiro campo **NFe/NFCe Tipo** você define qual tipo de produto será cadastrado, observe que tem disponível várias opções. Em nosso exemplo, iremos marcar a primeira opção.
+No primeiro campo **NFe/NFCe Tipo**, você define qual tipo de produto será cadastrado, observe que tem disponível várias opções. Em nosso exemplo, iremos marcar a primeira opção.
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_unidade_tipo.png)
 
-Em sequência, você tem o campo de **Origem da Mercadoria**, nele você tem várias opções para marcar, escolha a que melhor define a origem do produto que você está cadastrando no momento. Em nosso exemplo, vamos utilizar a opção *0 - Nacional, exceto as indicadas nos códigos 3,4,5 e 8*.
+Em sequência, você tem o campo de **Origem da Mercadoria**, nele você tem várias opções para marcar, escolha a que melhor define a origem do produto que você está cadastrando no momento. No exemplo, vamos utilizar a opção *0 - Nacional, exceto as indicadas nos códigos 3,4,5 e 8*.
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_unidade_origem.png)
 
-Os próximos campos são agora para referencias o código NCM (Nomenclatura Comum do Mercosul). Em nossa plataforma, você pode configurar o NCM usado em sua empresa, e caso queira mais informações sobre esta aba, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/ncm.md).
+Os próximos campos são agora para referências ao código NCM (Nomenclatura Comum do Mercosul). Em nossa plataforma, você pode configurar o NCM usado em sua empresa e, caso queira mais informações sobre esta tela, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/ncm.md).
 
-Mas observe que neste mesmo campo de **NCM**, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> de atalho para adicionar um novo código NCM, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o código NCM selecionado em uma nova aba.
+Mas observe que neste mesmo campo de **NCM**, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> de atalho para adicionar um novo código NCM, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o código NCM selecionado em uma nova tela.
 
 Para nosso exemplo, adicionamos o NCM de referência a produtos criados com cerâmica. 😁👍
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_unidade_ncm.png)
 
-E agora no campo de CEST (Código Especificador da Substituição Tributária) sendo um código padronizado que identifica mercadorias sujeitas ao regime de substituição tributária e de antecipação do recolhimento do ICMS (Imposto sobre Circulação de Mercadorias e Serviços), e caso queira mais informações sobre esta aba, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/cest.md).
+E agora no campo de CEST (Código Especificador da Substituição Tributária) sendo um código padronizado que identifica mercadorias sujeitas ao regime de substituição tributária e de antecipação do recolhimento do ICMS (Imposto sobre Circulação de Mercadorias e Serviços), e caso queira mais informações sobre esta tela, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/cest.md).
 
-Neste mesmo campo de **CEST**, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> de atalho para adicionar um novo código CEST, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o código CEST selecionado em uma nova aba.
+Neste mesmo campo de **CEST**, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> de atalho para adicionar um novo código CEST, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o código CEST selecionado em uma nova tela.
 
 Para nosso exemplo, adicionamos o CEST de referência ao NCM deste produto, que é o de artigos de casa.
 
@@ -117,9 +117,9 @@ Para nosso exemplo, adicionamos o CEST de referência ao NCM deste produto, que 
 
 ### Tipo de entrega transporte
 
-Caso no campo **Tipo de entrega** você marque a opção *Transporte*, além dos campos citados acima de configuração de NFe, aparecerão as configuração envio deste produto.
+Caso no campo **Tipo de entrega** você marque a opção *Transporte*, além dos campos citados acima de configuração de NFe, aparecerão as configurações de envio deste produto.
 
-Essas informações são de *Altura*, *Largura*, *Comprimento* e *Peso*. Lembrando que todas estas informações são feitas com base na embalagem que este produto terá para envio e a unidade de medida é em centímetros.
+Essas informações são de *Altura*, *Largura*, *Comprimento* e *Peso*. Lembrando que estas informações são feitas com base na embalagem que este produto terá para envio e a unidade de medida é em centímetros.
 
 Observe nosso exemplo, preenchemos todos os dados necessários, incluindo o peso do nosso produto. E os dados de Nota Fiscal, usamos os mesmos explicados acima no tipo entrega unidade. 😁👍
 
@@ -127,16 +127,16 @@ Observe nosso exemplo, preenchemos todos os dados necessários, incluindo o peso
 
 ## Salvando novo produto
 
-Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo produto será salvo:
+Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do novo produto será salvo:
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_salvar.gif)
 
-## Guias estoque
+## Abas estoque
 
-A partir do momento que você concluir a criação de um novo produto, ficarão disponíveis três guias para você acessar, a primeira é de `Estoque`.
+A partir do momento que você concluir a criação de um novo produto, ficarão disponíveis três abas para você acessar, a primeira é de `Estoque`.
 
 {% hint style="warning" %}
-**Informativo:** Só aparecerão três guias, se você escolher as opções unidade ou transporte no tipo de entrega.
+**Informativo:** Só aparecerão três abas, se você escolher as opções unidade ou transporte no tipo de entrega.
 {% endhint %}
 
 Você pode cadastrar seu produto no estoque, definindo local, empresa e até quantidade mínima para envio de e-mail.
@@ -148,22 +148,22 @@ Você pode cadastrar seu produto no estoque, definindo local, empresa e até qua
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_guia_estoque.gif)
 
-## Guia categorias
+## Aba categorias
 
-Agora, na guia de **`Categorias`**, você pode definir uma categoria para o produto cadastrado. Ao clicar em adicionar, será mostrada a lista para você escolher uma opção. Essas opções já estão pré-cadastradas na aba categoria de produto:
+Agora, na aba de **`Categorias`**, você pode definir uma categoria para o produto cadastrado. Ao clicar em adicionar, será mostrada a lista para você escolher uma opção. Essas opções já estão pré-cadastradas na tela categoria de produto:
 
 {% hint style="warning" %}
-**Informativo:** Se você deseja saber mais informações sobre categoria de produto [clique aqui](/erp-v2/funcionalidades/produtos_servicos/categoria_produto.md)
+**Informativo:** Se você deseja saber mais informações sobre a categoria de produto, [clique aqui](/erp-v2/funcionalidades/produtos_servicos/categoria_produto.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_guia_categorias.gif)
 
-## Guia tabelas de preço
+## Aba tabelas de preço
 
-Já na guia `Tabelas de preço` é possível verificar todas as tabelas de preço que esse produto já está vinculado, permitindo também adicionar facilmente o produto a uma tabela de preço:
+Já na aba `Tabelas de preço` é possível verificar todas as tabelas de preço a que esse produto já está vinculado, permitindo também adicionar facilmente o produto a uma tabela de preço:
 
 {% hint style="warning" %}
-**Informativo:** Se você deseja saber mais informações sobre tabela de preço [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md)
+**Informativo:** Se você deseja saber mais informações sobre tabela de preço, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_guia_tabela_preco.gif)
