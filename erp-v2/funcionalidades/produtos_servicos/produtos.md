@@ -1,6 +1,6 @@
 # 🎁 Produtos
 
-Aqui você tem a visão de todos os produtos cadastrados na plataforma, podendo cadastrar um novo produto, editar informações existentes e até excluir um produto cadastrado.
+Na tela "Produtos", você pode visualizar todos os produtos cadastrados na plataforma, além de ter a opção de cadastrar um novo produto, editar as informações existentes e excluir produtos cadastrados
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -139,6 +139,11 @@ A partir do momento que você concluir a criação de um novo produto, ficarão 
 
 Você pode cadastrar seu produto no estoque, definindo local, empresa e até quantidade mínima para envio de e-mail.
 
+{% hint style="warning" %}
+**Atenção:** Verifique a forma de ajustar o estoque inicial em [**`Movimentação Estoque`**](/erp-v2/funcionalidades/produtos_servicos/movimentacao_estoque.md)
+
+{% endhint %}
+
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_guia_estoque.gif)
 
 ## Guia categorias
@@ -153,7 +158,7 @@ Agora, na guia de **`Categorias`**, você pode definir uma categoria para o prod
 
 ## Guia tabelas de preço
 
-Por último, na guia `Tabelas de preço`  você pode adicionar um valor ou percentual, e qual tabela de preço existente irá ser vinculado:
+Já na guia `Tabelas de preço` é possível verificar todas as tabelas de preço que esse produto já está vinculado, permitindo também adicionar facilmente o produto a uma tabela de preço:
 
 {% hint style="warning" %}
 **Informativo:** Se você deseja saber mais informações sobre tabela de preço [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md)

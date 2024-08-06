@@ -1,6 +1,6 @@
 # 🧰 Serviços
 
-Aqui você tem a visão de todos os serviços cadastrados na plataforma, podendo cadastrar um novo serviço, editar informações existentes e até excluir um serviço cadastrado.
+Na tela "Serviços", você pode visualizar todos os produtos cadastrados na plataforma, além de ter a opção de cadastrar um novo produto, editar as informações existentes e excluir produtos cadastrados
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -81,15 +81,21 @@ Agora falando em específico do campo de **Tipo de entrega** ficou marcado a op�
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital.png)
 
-## Utilizar configuração padrão NFSe da empresa (Ativado)
+## Utilizar configuração padrão NFSe da empresa
 
-Quando este campo está ativo, as configurações de NFSe são todas vínculadas ao cadastro da empresa na [**`aba Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md). Por isso, no momento que ativamos esta opção, todos os demais campos de configuração de nota fiscal desaparecem.
+Quando este campo está ativo, as configurações de NFSe são todas vínculadas ao cadastro da empresa na tela [**` Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md). Por isso, no momento que ativamos esta opção, todos os demais campos de configuração de nota fiscal desaparecem.
+
+Pois o sistema entende que esse serviço que será prestado, pode entrar na configuração padrão da NFSe (no quesito de CNAE, alíquota etc)
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_empresa.gif)
 
-## Utilizar configuração padrão NFSe da empresa (Desativado)
+## Não utilizar configuração padrão NFSe da empresa
 
-Agora quando este campo está desativado, ficam disponíveis os campo de preenchimento para NFSe. Essas informações são fornecidas por seu contador, mas iremos fazer um exemplo de preenchimento.
+Agora quando este campo está desativado, ficam disponíveis os campo de preenchimento para NFSe. 
+
+Essa opção é útil quando existe algum tipo de serviço que há um enquadramento diferente de CNAE ou alíquota, permitindo que o sistema compute de forma diferente os impostos por tipo de serviço prestado. Usando por exemplo uma configuração diferente do padrão da NFSe da tela [**`Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
+
+Essas informações são fornecidas por seu contador, mas iremos fazer um exemplo de preenchimento.
 
 ### Campo NFSe código de serviço
 
@@ -99,12 +105,12 @@ Em nosso exemplo, estamos usando o código *1.08 – Planejamento, confecção, 
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_codigo.png)
 
-Logo mais abaixo no campo de **NFSe Código de tributação**, este ódigo também é fornecido pelo seu contador. Em nosso exemplo, usamos um código nacional para o tipo de serviço que estamos criando. 
+Logo mais abaixo no campo de **NFSe Código de tributação**, este código também é fornecido pelo seu contador. Em nosso exemplo, usamos um código nacional para o tipo de serviço que estamos criando. 
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_tributacao.png)
 
 Agora no campo de CNAE (Código Nacional de Atividade Econômica), esse código é um sistema que classifica as atividades econômicas em setores específicos. 
-Logo mais abaixo no campo de **NFSe Código de tributação**, este ódigo também é fornecido pelo seu contador. Em nosso exemplo, usamos um código nacional para o tipo de serviço que estamos criando. Para a atividade que estamos cadastrando, o CNAE geralmente utilizado é *6202-3/00 - Desenvolvimento e Licenciamento de Programas de Computador Customizáveis*.
+Logo mais abaixo no campo de **NFSe Código de tributação**, este código também é fornecido pelo seu contador. Em nosso exemplo, usamos um código nacional para o tipo de serviço que estamos criando. Para a atividade que estamos cadastrando, o CNAE geralmente utilizado é *6202-3/00 - Desenvolvimento e Licenciamento de Programas de Computador Customizáveis*.
 
 Lembre-se, este é apenas nosso exemplo. 😁👍
 
@@ -154,7 +160,7 @@ Agora, na guia de `Categorias`, você pode definir uma categoria para o serviço
 
 ## Guia tabelas de preço
 
-Por último, na guia `Tabelas de preço`  você pode adicionar um valor ou percentual e escolher qual tabela de preço existente irá ser vinculado:
+Já na guia `Tabelas de preço` é possível verificar todas as tabelas de preço que esse serviço já está vinculado, permitindo também adicionar facilmente o serviço a uma tabela de preço:
 
 {% hint style="warning" %}
 **Informativo:** Se você deseja saber mais informações sobre tabela de preço, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md)
