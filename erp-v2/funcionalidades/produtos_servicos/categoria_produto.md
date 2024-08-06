@@ -1,18 +1,18 @@
 # 🫙 Categoria de produto
 
-As categorias de produtos são uma forma de classificar e organizar os produtos e/ou serviços no sistema, permitindo também criar um nível hierárquico para categorização e subcategorização. Essa marcação de categoria em produto/serviço pode ser utilizada em diversos locais, como, por exemplo, um catálogo ou um menu de uma loja virtual.
+As categorias de produtos são uma forma de classificar e organizar os produtos e/ou serviços no sistema, permitindo também criar um nível hierárquico para categorização e sub categorização. Essa marcação de categoria em produto/serviço pode ser utilizada em diversos locais, como, por exemplo, um catálogo ou um menu de uma loja virtual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
-**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md), favor acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/categoria_produto/aba_categoria_produto.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -45,19 +45,19 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/categoria_produto/aba_categoria_produto_add_menu.png)
 
-No campo de **Descrição** você vai colocar o que melhor identifica esta categoria de produto que você está criando. Agora no campo **Identificador**, você pode usar números, e seguir a mesma sequência da **Tela  grupo de produtos**.
+No campo de **Descrição**, você vai colocar o que melhor identifica esta categoria de produto que você está criando. Agora, no campo **Identificador**, você pode usar números e seguir a mesma sequência da tela, **Grupo de Produtos**.
 
 ![](/erp-v2/assets/funcionalidades/grupo_produto/aba_categoria_produto_add_categoria_campos_descricao_identificador.png)
 
 ### Campo analítica
 
-Em específico no campo **Analítica**, caso deixe ele em ativo, a categoria criada deixa de possuir uma hierarquia. O uso da hierarquia é interessante para melhorar a identificação e separação das catergorias dos itens novos que você for adicionar.
+Em específico, no campo **Analítica**, caso deixe ele em ativo, a categoria criada deixa de possuir uma hierarquia. O uso da hierarquia é interessante para melhorar a identificação e separação das categorias dos itens novos que você for adicionar.
 
-Para melhor exemplo, vamos preencher o campo **Identificador** com a sequencia padrão usada em nosso sistema, neste caso será *01.000*.
+Para melhor exemplo, vamos preencher o campo **Identificador** com a sequência padrão usada em nosso sistema, neste caso será *01.000*.
 
 ![](/erp-v2/assets/funcionalidades/grupo_produto/aba_categoria_produto_add_categoria_campo_analitica_passo_1.png)
 
-Agora vamos adicionar uma nova categoria de exemplo, e ela será depedente desta primeira que criamos, pois utilizamos o identificador *01.* no começo. 😁👍 
+Agora vamos adicionar uma nova categoria de exemplo, e ela será dependente desta primeira que criamos, pois utilizamos o identificador *01* no começo. 😁👍
 
 Veja o exemplo abaixo.
 
@@ -65,7 +65,7 @@ Veja o exemplo abaixo.
 
 ### Campos status e código
 
-Agora os campos de **Status** e **Código**. No campo de **Status**, lembrando que é um item obrigatório, ele define se este grupo estará disponível para uso ou não. O campo de código pode ser utilizando para controle interno, podendo utilizar números e letras.
+Agora os campos de **Status** e **Código**. No campo de **Status**, lembrando que é um item obrigatório, ele define se este grupo estará disponível para uso ou não. O campo de código pode ser utilizado para controle interno, podendo utilizar números e letras.
 
 ![](/erp-v2/assets/funcionalidades/grupo_produto/aba_categoria_produto_add_categoria_campos_descricao_status.png)
 
