@@ -63,9 +63,13 @@ Nos campos abaixo, você tem disponível as opções de ativar e desativar, para
 - **Tipo Tabela de Venda Online:** Esta tabela é para vendas realizadas online, definindo os preços e condições de venda para produtos ou serviços disponibilizados em uma plataforma de e-commerce;
 - **Tipo Tabela de Comissão:** Tabela referente às comissões para vendas de serviços ou produtos online, determinando as comissões que serão pagas aos vendedores por cada venda realizada online;
 
-{% hint style="warning" %}
-**Tabela de comissão:** Vale frisar que o uso da tabela de comissão quando ativa, não permite a venda ser realizada caso a comissão esteja zerada, uma mensagem de erro aparece para você antes mesmo de fechar a venda.
-{% endhint %}
+Vale frisar que o uso da tabela de comissão quando ativa permite a venda ser realizada, mas caso a comissão desta venda esteja zerada, uma mensagem de erro aparece para você antes mesmo de confirmar a venda.
+
+Para esse problema, você tem duas soluções. A primeira é configurar a tabela principal e não deixar ela com os valores iguais ao da tabela de origem, evitando assim o valor zerado na comissão.
+
+E a segunda opção de solução é configurar o tipo de movimentação, permitindo que confirme valor custo/comissão zerado.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_tabela_comissão.png)
 
 - **Tipo Tabela de Custo:** Esta tabela é utilizada para definir os custos de serviços ou produtos fornecidos por unidades parceiras, estabelecendo os valores que serão pagos aos parceiros pela prestação de serviços ou fornecimento de produtos;
 - **Tipo Tabela de Comissão Indicador:** Tabela específica para comissões de serviços ou produtos indicados por parceiros, definindo as comissões que serão pagas aos parceiros que indicarem novos clientes ou negócios.
