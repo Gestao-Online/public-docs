@@ -81,9 +81,6 @@ Após fazer o preenchimento dos dados do novo controle, você pode clicar no íc
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_salvar.gif)
 
-
-![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_depois_salvar.png)
-
 Uma informação importante para os gestores da empresa, esse controle de movimentação tem interação direta com a **Tela  contrato do controle de unidade**. Observe abaixo que a movimentação que criamos aqui como exemplo já consta no contrato criado no exemplo da aba. Veja abaixo:
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_aba_movimentacao.gif)

@@ -54,7 +54,7 @@ No momento do cadastro de um novo contrato de controle de unidade, você precisa
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_contrato.png)
 
-## Campo Unidade
+### Campo Unidade
 
 No primeiro campo **Unidade**, que é um campo de preenchimento obrigatório. Você escolhe a qual unidade esse contrato terá vínculo. Lembrando que para escolher a unidade, é necessário já ter o cadastro feito na tela **Unidades**.
 
@@ -82,7 +82,7 @@ Depois você define se o **status** desse contrato estará ativado ou desativado
 
 <!-- CONFIRMAR COM O PAULO ESTA PARTE, POIS FIQUEI COM DÚVIDA SOBRE USO DO CAMPO DE TIPO CONTRATO -->
 
-## Campo tipo contrato
+### Campo tipo contrato
 
 No campo **Tipo Contrato**, você tem quatro opções disponíveis, vejamos um pouco mais sobre cada uma. Observe que, ao clicar em algumas opções, um novo campo será mostrado ao lado para preencher o valor:
 
@@ -98,7 +98,7 @@ Em nosso exemplo iremos selecionar o tipo **Limite Aprovado** e colocaremos o va
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_tipo_contrato_valor_limite.png)
 
-## Campo fechamento automático
+### Campo fechamento automático
 
 Agora uma atenção maior a este campo de **Fechamento automático**, pois nele temos uma série de novos campos e botões no menu superior ficarão disponíveis, a partir do momento que selecionar uma das opções.
 
@@ -140,17 +140,17 @@ E o último campo para preenchimento é o de **Observação**, onde você pode d
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_observacao.png)
 
-## Salvando controle de unidade
+### Salvando controle de unidade
 
 Após fazer o preenchimento dos dados do novo contrato, você pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para ser registrado o contrato do controle de unidade e ficar disponível para utilização.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_salvar.gif)
 
-## Guias após salvar
+## Abas após salvar
 
-Assim que você salvar o contrato de controle, novas guias ficarão disponíveis para você utilizar, elas aparecem na parte de baixo da página.
+Assim que você salvar o contrato de controle, novas abas ficarão disponíveis para você utilizar, elas aparecem na parte de baixo da página.
 
-### Guia Movimentações de saldo
+### Aba Movimentações de saldo
 
 A primeira é de movimentação de saldo, exibindo todos os tipos de lançamentos, sendo débito ou crédito, informando os valores de saldo, limites e saldo final.
 
@@ -172,7 +172,7 @@ Em caso de dúvidas sobre esse fluxo, entre em contato com o nosso suporte.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_saldo_add.png)
 
-### Guia Movimentações pendentes de fechamento
+### Aba Movimentações pendentes de fechamento
 
 Aqui estão todas as movimentações pendentes, que estão na fila para entrarem em um "fechamento", seja um pedido, venda, compra e recorrência. Ela é espelho da nossa **Tela de movimentações**. 😉
 
@@ -181,7 +181,7 @@ Aqui estão todas as movimentações pendentes, que estão na fila para entrarem
 
 As movimentações que aparecem aqui, dentro das regras criadas no "Fechamento automático", serão apuradas resultando em **uma linha na movimentação de saldo**, sendo ela de débito (caso o fechamento seja negativo, ou seja a unidade tem algo a pagar para a empresa). Ou sendo ela de crédito (caso o fechamento seja positivo, ou seja a unidade tem algo para receber da empresa)
 
-### Guia Fechamentos de contrato
+### Aba Fechamentos de contrato
 
 Aqui você encontrará o histórico dos fechamentos (automáticos ou manuais) que ocorreram nesse contrato.
 
@@ -206,9 +206,9 @@ Lembrando que é possível realizar um fechamento manualmente, caso o saldo este
 Caso necessite ajustar algo no fechamento apurado, como por exemplo alterar a data de vencimento do boleto bancário, um ajuste na nota fiscal ou qualquer outra situação, basta abrir a "Venda". Para mais informações sobre como utilizar a tela de movimentações/vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
 {% endhint %}
 
-### Guia Histórico
+### Aba Histórico
 
-Por último, na guia de histórico, você consegue acompanhar todas as modificações/alterações feitas no contrato através desta guia.
+Por último, na aba de histórico, você consegue acompanhar todas as modificações/alterações feitas no contrato através desta aba.
 
 Os lançamentos aqui são automáticos, ao ajustar um campo por exemplo. Ou até mesmo baseado em eventos que acontecem; quando uma unidade é bloqueada por inadimplência, ou desbloqueada ao efetuar o pagamento. Ou mesmo quando um gestor faz a liberação de confiança (para permitir que uma unidade, mesmo que inadimplente, continue operando).
 
