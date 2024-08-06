@@ -164,7 +164,11 @@ Nessa aba, o sistema funciona de forma semelhante a um "extrato de um banco" de 
 
 Caso seja necessário algum ajuste no saldo, ou o lançamento de alguma despesa ou receita diretamente no controle da unidade, é possível adicionar um novo lançamento manualmente, entre crédito ou débito, e o valor deste lançamento. Após salvar, ele aparecerá no "extrato" da página anterior. 😁
 
-Mas lembre-se, normalmente essas movimentações de crédito ou débito, são programadas para serem geradas automaticamente por nossa plataforma, atráves de fluxos de comissão ou custo que são disparados atráves de rotinas financeiras, ou de movimentações das vendas por exemplo. *(Em caso de dúvidas sobre esse fluxo, entre em contato com o nosso suporte)*
+Mas lembre-se, normalmente essas movimentações de crédito ou débito, são programadas para serem geradas automaticamente por nossa plataforma, atráves de fluxos de comissão ou custo que são disparados atráves de rotinas financeiras, ou de movimentações das vendas por exemplo. 
+
+{% hint style="info" %}
+Em caso de dúvidas sobre esse fluxo, entre em contato com o nosso suporte
+{% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_saldo_add.png)
 
@@ -181,6 +185,8 @@ As movimentações que aparecem aqui, dentro das regras criadas no "Fechamento a
 
 Aqui você encontrará o histórico dos fechamentos (automáticos ou manuais) que ocorreram nesse contrato.
 
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_fechamentos_contrato.png)
+
 Quando utilizado na modalidade automática normalmente, um novo lançamento é feito logo em seguida da apuração das **Movimentações pendentes de fechamento** e o sistema computa um saldo negativo para a unidade (ou seja, a unidade está "devendo" a empresa). Aí nesse caso, automáticamente a plataforma criará uma "Venda" com a cobrança exatamente no valor que a Unidade deve a empresa (O envio da cobrança é realizado para o "Parceiro" indicado como o responsável da unidade)
 
 Mesmo em outras situações e/ou outras modalidades, como por exemplo, gestão direta de saldo (Indepentende de ter ou não "Movimentações pedentes de fechamento"), se o sistema computar um saldo negativo ele realizará o mesmo comportamento (Irá gerar uma "Venda" com a cobrança do saldo que está negativo)
@@ -196,18 +202,15 @@ Lembrando que é possível realizar um fechamento manualmente, caso o saldo este
 {% endhint %}
 
 
-
-![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_fechamentos_contrato.png)
-
-{% hint style="warning" %}
-**Vendas:** Caso necessite ajustar algo no fechamento apurado, como por exemplo alterar a data de vencimento do boleto bancário, um ajuste na nota fiscal ou qualquer outra situação, basta abrir a "Venda". Para mais informações sobre como utilizar a tela de movimentações/vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+{% hint style="info" %}
+Caso necessite ajustar algo no fechamento apurado, como por exemplo alterar a data de vencimento do boleto bancário, um ajuste na nota fiscal ou qualquer outra situação, basta abrir a "Venda". Para mais informações sobre como utilizar a tela de movimentações/vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
 {% endhint %}
 
 ### Guia Histórico
 
 Por último, na guia de histórico, você consegue acompanhar todas as modificações/alterações feitas no contrato através desta guia.
 
-Os lançamentos aqui são automáticos, ao ajustar um campo por exemplo. Ou até mesmo baseado em eventos que acontecem; quando uma unidade é bloqueada por inadimplência, ou desbloqueada ao efetuar o pagamento. Ou mesmo quando um gestor faz a liberação de confiança.
+Os lançamentos aqui são automáticos, ao ajustar um campo por exemplo. Ou até mesmo baseado em eventos que acontecem; quando uma unidade é bloqueada por inadimplência, ou desbloqueada ao efetuar o pagamento. Ou mesmo quando um gestor faz a liberação de confiança (para permitir que uma unidade, mesmo que inadimplente, continue operando).
 
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_historico.png)

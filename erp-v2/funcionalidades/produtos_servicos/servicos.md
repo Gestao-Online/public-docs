@@ -1,6 +1,8 @@
 # 🧰 Serviços
 
-Na tela "Serviços", você pode visualizar todos os produtos cadastrados na plataforma, além de ter a opção de cadastrar um novo produto, editar as informações existentes e excluir produtos cadastrados
+Na tela "Serviços", você pode visualizar todos os produtos cadastrados na plataforma, além de ter a opção de cadastrar um novo produto/serviço, editar as informações existentes e excluir serviços cadastrados.
+
+Aqui podem ser cadastrados os serviços que a sua empresa presta, assim ao lançar uma venda/pedido o sistema já terá as informações ligadas a esse serviço (fiscal, financeiro etc). Agilizando muito o processo de venda e/ou recorrência.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.

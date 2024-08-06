@@ -2,6 +2,8 @@
 
 Na tela "Produtos", você pode visualizar todos os produtos cadastrados na plataforma, além de ter a opção de cadastrar um novo produto, editar as informações existentes e excluir produtos cadastrados
 
+Aqui podem ser cadastrados os produtos que a sua empresa comercializa, assim ao lançar uma venda/pedido o sistema já terá as informações ligadas a esse produto (fiscal, financeiro etc). Agilizando muito o processo de venda e/ou recorrência.
+
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
