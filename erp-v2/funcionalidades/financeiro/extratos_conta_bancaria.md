@@ -54,6 +54,6 @@ Por último, fica o campo de modo, nele você escolhe a quantidade de resultados
 
 Após preenchido os dados, você clica no botão **Gerar financeiro** e o carregamento será realizado. Caso haja alguma transação pendente ou diferente do que se tem registrado no sistema, ao clicar no botão gerar financeiro, ele fará essa sincronia automaticamente.
 
-Lembrando que nesta mesma página é mostrado o extrato da conta bancária que foi sincronizada com o métodos OFX, VAN ou API, no caso quando se tem ativado o tipo de conciliação como integrado na [**aba de Listar contas**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md), que faz a atualização automática das contas bancárias.
+Lembrando que nesta mesma página é mostrado o extrato da conta bancária que foi sincronizada com o métodos OFX, VAN ou API, no caso quando se tem ativado o tipo de conciliação como integrado na [**Tela  de Listar contas**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md), que faz a atualização automática das contas bancárias.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_financeiro.gif)

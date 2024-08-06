@@ -55,7 +55,7 @@ No momento do cadastro de uma nova conta a receber, você precisará preencher a
 
 ### Campo cliente/parceiro
 
-No campo de **Cliente/Parceiro**, você pode buscar, digitando o nome, as informações mostradas aqui. Esse mesmo campo tem um vínculo com a **aba de parceiros**. Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line">, você pode editar o parceiro/cliente selecionado em uma nova aba.
+No campo de **Cliente/Parceiro**, você pode buscar, digitando o nome, as informações mostradas aqui. Esse mesmo campo tem um vínculo com a **Tela  de parceiros**. Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line">, você pode editar o parceiro/cliente selecionado em uma nova aba.
 
 Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo definimos um cliente fictício.
 

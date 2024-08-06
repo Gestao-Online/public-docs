@@ -1,6 +1,6 @@
 # 🔂 Contrato do controle de unidades
 
-Nesta tela é possível gerenciar todos os contratos de controle de unidade cadastrados na plataforma. Os contratos dessa tela, precisam ser parâmetrizados conforme a o acordado entre a **Empresa** (Franqueadora) e a **Unidade** (Franquia).
+Nesta tela é possível gerenciar todos os contratos de controle de unidade cadastrados na plataforma. Os contratos dessa tela, precisam ser parâmetrizados conforme o acordado entre a **Empresa** (Franqueadora) e a **Unidade** (Franquia).
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -63,16 +63,12 @@ No primeiro campo **Unidade**, que é um campo de preenchimento obrigatório. Vo
 Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo vamos escolher a opção sede/matriz.
 
 {% hint style="warning" %}
-**Unidades:** Caso queira mais informações sobre como utilizar a aba de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+**Atenção:** É necessário que dentro do cadastro da unidade indicada, tenha um "Parceiro responsável" pela unidade, para que as rotinas automatizadas funcionem corretamente. Caso queira mais informações sobre como utilizar a aba de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_contrato_campo_unidade.gif)
 
-Ao lado do campo de unidade, temos o de **Empresa**. Lembrando que para escolher a empresa, é necessário ele já ter o cadastro feito na tela **Empresas**.
-
-{% hint style="warning" %}
-**Empresas:** Caso queira mais informações sobre como utilizar a tela Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
-{% endhint %}
+Ao lado do campo de unidade, temos o de **Empresa**. Indique a "Empresa" que possui o contrato com essa unidade. Lembrando que para escolher a empresa, é necessário ele já ter o cadastro feito na tela [**`Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md)
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_contrato_campo_empresa.gif)
 
@@ -162,12 +158,16 @@ Nessa aba, o sistema funciona de forma semelhante a um "extrato de um banco" de 
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_saldo.png)
 
-Caso seja necessário algum ajuste no saldo, ou o lançamento de alguma despesa ou receita diretamente no controle da unidade, é possível adicionar um novo lançamento manualmente, entre crédito ou débito, e o valor deste lançamento. Após salvar, ele aparecerá no "extrato" da página anterior. 😁
+Caso seja necessário algum ajuste no saldo, ou o lançamento de alguma despesa ou receita diretamente no controle da unidade, é possível adicionar um novo lançamento manualmente, entre crédito ou débito, e o valor deste lançamento. Após salvar, ele aparecerá no "extrato" imediatamente já recomputando o saldo. 😁
 
 Mas lembre-se, normalmente essas movimentações de crédito ou débito, são programadas para serem geradas automaticamente por nossa plataforma, atráves de fluxos de comissão ou custo que são disparados atráves de rotinas financeiras, ou de movimentações das vendas por exemplo. 
 
+{% hint style="warning" %}
+**Tela de controle de movimentação de unidades:** Caso queira mais informações sobre essa aba, [**`clique aqui`**](/erp-v2/funcionalidades/controle_unidades/controle_movimentacao.md).
+{% endhint %}
+
 {% hint style="info" %}
-Em caso de dúvidas sobre esse fluxo, entre em contato com o nosso suporte
+Em caso de dúvidas sobre esse fluxo, entre em contato com o nosso suporte. 
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_saldo_add.png)

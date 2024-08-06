@@ -74,7 +74,7 @@ Usado, por exemplo, para o caixa de uma loja, esta opção exibe somente os camp
 
 Na descrição você pode colocar um nome que facilite a identificação desta conta bancária quando precisa buscá-la para uso.
 
-Já no campo de empresa, o vínculo é feito com a **aba empresas**, e você pode escolher uma empresa cadastrada. E para mais informações sobre a aba Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md)
+Já no campo de empresa, o vínculo é feito com a **Tela  empresas**, e você pode escolher uma empresa cadastrada. E para mais informações sobre a aba Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md)
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_caixinha.png)
 
@@ -151,7 +151,7 @@ Com a opção tipo **Cartão de Crédito** definida, será solicitado o banco. L
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_cc_banco.png)
 
-Já no campo de empresa, o vínculo é feito com a **aba empresas**, e você pode escolher uma empresa cadastrada. E para mais informações sobre a aba Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md)
+Já no campo de empresa, o vínculo é feito com a **Tela  empresas**, e você pode escolher uma empresa cadastrada. E para mais informações sobre a aba Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md)
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_cc_empresa.png)
 

@@ -45,7 +45,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/categoria_produto/aba_categoria_produto_add_menu.png)
 
-No campo de **Descrição** você vai colocar o que melhor identifica esta categoria de produto que você está criando. Agora no campo **Identificador**, você pode usar números, e seguir a mesma sequência da **aba grupo de produtos**.
+No campo de **Descrição** você vai colocar o que melhor identifica esta categoria de produto que você está criando. Agora no campo **Identificador**, você pode usar números, e seguir a mesma sequência da **Tela  grupo de produtos**.
 
 ![](/erp-v2/assets/funcionalidades/grupo_produto/aba_categoria_produto_add_categoria_campos_descricao_identificador.png)
 

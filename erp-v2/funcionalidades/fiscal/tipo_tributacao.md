@@ -76,11 +76,11 @@ Clicaremos no ícone <img src="/erp-v2/assets/icon_add.png" alt="" data-size="li
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms.png)
 
-O primeiro campo de preenchimento é o do NCM (Nomenclatura Comum do Mercosul), ele precisa já estar configurado para você poder utilizá-lo. Para mais informações sobre a **aba NCM**, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/ncm.md).
+O primeiro campo de preenchimento é o do NCM (Nomenclatura Comum do Mercosul), ele precisa já estar configurado para você poder utilizá-lo. Para mais informações sobre a **Tela  NCM**, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/ncm.md).
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms_campo_ncm.gif)
 
-Em sequência temos o campo CFOP (Código Fiscal de Operações e Prestações), ele precisa já estar configurado para você poder utilizá-lo. Para mais informações sobre a **aba CFOP**, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/cfop.md).
+Em sequência temos o campo CFOP (Código Fiscal de Operações e Prestações), ele precisa já estar configurado para você poder utilizá-lo. Para mais informações sobre a **Tela  CFOP**, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/cfop.md).
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms_campo_cfop.gif)
 

@@ -2,7 +2,7 @@
 
 Nesta aba você encontra todos os indicadores cadastrados na plataforma da **Gestão Online**. E caso tenha algum indicador faltando, pode efetuar o cadastro dele seguindo este manual.
 
-<img src="/erp-v2/assets/placa-aviso.gif" alt="" data-size="line"> É importante lembrar que dependendo do cliente que você cadastrar na **aba Clientes**, nas configurações, pode também definir este mesmo cliente como um **fornecedor**, **indicador** ou **transportador**. (Informação explicada no menu [**`Definição de tipo`**](/erp-v2/funcionalidades/parceiros/indicadores.md#campo-definicao-de-tipo))
+<img src="/erp-v2/assets/placa-aviso.gif" alt="" data-size="line"> É importante lembrar que dependendo do cliente que você cadastrar na **Tela  Clientes**, nas configurações, pode também definir este mesmo cliente como um **fornecedor**, **indicador** ou **transportador**. (Informação explicada no menu [**`Definição de tipo`**](/erp-v2/funcionalidades/parceiros/indicadores.md#campo-definicao-de-tipo))
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -91,7 +91,7 @@ Observe a demonstração abaixo utilizando esta opção. Mas seguiremos somente 
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_tipo.gif)
 
-Ao lado dele, temos o **Tipo parceiro** que serve como uma forma de classificar esse cadastro que estamos fazendo, para auxiliar nas buscas da **aba de parceiros**. 
+Ao lado dele, temos o **Tipo parceiro** que serve como uma forma de classificar esse cadastro que estamos fazendo, para auxiliar nas buscas da **Tela  de parceiros**. 
 
 Essa classificação pode ser feita por você clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar novo tipo de parceiro. Ou clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o tipo selecionado.
 
