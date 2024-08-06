@@ -12,13 +12,10 @@ Os "Kits" são úteis para agrupar produtos e/ou serviços. Permitindo criar "co
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits.gif)
 
-<br>
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -29,26 +26,22 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_menu.png)
 
-<br>
-
 {% hint style="warning" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
 ## Menu lateral esquerdo
 
-No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras abas da plataforma, sendo eles:
+No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras telas da plataforma, sendo eles:
 
 - <img src="/erp-v2/assets/funcionalidades/icon_produtos_servicos.png" alt="" data-size="line"> Todos os produtos/serviços;
 - <img src="/erp-v2/assets/funcionalidades/icon_produto.png" alt="" data-size="line"> [Produtos](/erp-v2/funcionalidades/produtos_servicos/produtos.md);
 - <img src="/erp-v2/assets/funcionalidades/icon_servicos.png" alt="" data-size="line"> [Serviços](/erp-v2/funcionalidades/produtos_servicos/servicos.md);
-- <img src="/erp-v2/assets/funcionalidades/icon_kits.png" alt="" data-size="line"> Kits (Aba atual);
+- <img src="/erp-v2/assets/funcionalidades/icon_kits.png" alt="" data-size="line"> Kits (Tela atual);
 
 Clicando no ícone da seta, você exibe completamente, e clicando nela novamente, volta ao modo recolhido, confira exemplo abaixo:
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_menu_esquerdo.gif)
-
-<br>
 
 ## Adicionar novo produto
 
@@ -56,13 +49,9 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_add.png)
 
-<br>
-
 Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento das informações do novo kit:
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_inicio.png)
-
-<br>
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
@@ -72,8 +61,6 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_menu.png)
-
-<br>
 
 Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo kit, é exigido descrição, status, unidade/medida e grupo. 
 
@@ -91,17 +78,11 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo kit
     - **Unidade:** Não mostrará as opções de NFe/NFCe;
     - **Transporte:** Ao escolher, poderá definir as dimensões do produto, altura, largura, comprimento e peso.
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_kit_itens.png)
-
-<br>
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo kit de produto/serviço será salvo:
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_kit_salvar.gif)
-
-<br>
 
 A partir do momento que você concluir a criação do novo kit, ficarão disponíveis três guias para você acessar, a primeira é de `Itens`.
 
@@ -111,17 +92,13 @@ Pode também utilizar os filtros disponíveis caso tenha muitos itens sendo exib
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_kit_guia_itens.gif)
 
-<br>
-
-Agora, na guia de **`Categorias`**, você pode definir uma categoria para o kit cadastrado. Ao clicar em adicionar, será mostrada a lista para você escolher uma opção. Essas opções já estão pré-cadastradas na aba categoria de produto:
+Agora, na guia de **`Categorias`**, você pode definir uma categoria para o kit cadastrado. Ao clicar em adicionar, será mostrada a lista para você escolher uma opção. Essas opções já estão pré-cadastradas na tela categoria de produto:
 
 {% hint style="warning" %}
 **Informativo:** Se você deseja saber mais informações sobre categoria de produto [clique aqui](/erp-v2/funcionalidades/produtos_servicos/categoria_produto.md)
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_kit_guia_categoria.gif)
-
-<br>
 
 Já na guia `Tabelas de preço` é possível verificar todas as tabelas de preço que esse kit já está vinculado, permitindo também adicionar facilmente o kit a uma tabela de preço:
 
@@ -130,8 +107,6 @@ Já na guia `Tabelas de preço` é possível verificar todas as tabelas de preç
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_kit_guia_tabela_preco.gif)
-
-<br>
 
 ## Importar kits
 
