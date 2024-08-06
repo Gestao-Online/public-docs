@@ -1,12 +1,12 @@
 # 🎟️ Vouchers/Vale Presente
 
-Aqui você tem a visão de todos os vouchers (Cartāo ou vale presentes) cadastrados na plataforma, podendo cadastrar um novo voucher, editar os existentes e até excluir um voucher cadastrado.
+Aqui você tem a visão de todos os vouchers (Cartão ou Vale Presente) cadastrados na plataforma, podendo cadastrar um novo voucher, editar os existentes e até excluir um voucher cadastrado.
 
 O objetivo de um "Voucher", é uma forma de cadastrar produtos com entregas "digitais" que permite você gerenciar um estoque de códigos de tickets. 
 
-Existe varios cenários de uso, exemplo(s):
+Existem vários cenários de uso, exemplos(s):
 
-- Uma franquia utiliza essa numeraçāo para um sistema externo (a cada venda do produto X correspodente)
+- Uma franquia utiliza essa numeração para um sistema externo (a cada venda do produto X correspondente).
 - Uma loja vende um código de "ticket"
 
 {% hint style="danger" %}
@@ -17,13 +17,9 @@ Existe varios cenários de uso, exemplo(s):
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers.gif)
 
-<br>
-
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -33,13 +29,9 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_menu.png)
 
-<br>
-
 {% hint style="warning" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
-
-<br>
 
 ## Adicionar novo voucher
 
@@ -47,13 +39,9 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add.png)
 
-<br>
-
 Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento das informações do novo voucher:
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_inicio.png)
-
-<br>
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
@@ -65,27 +53,23 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_menu.png)
 
-<br>
-
 Quando você for criar um voucher, é exigido produto, status e permissão de produto secundário. 
 
 - **Produto:** Você pode escolher um dos produtos disponíveis na lista, ou digitar o nome para selecionar;
 - **Status:** Aqui você define se o voucher estará ativado ou desativado;
 - **Permite produto secundário:** Caso você ative esta opção, poderá vincular outro produto ao voucher.
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_voucher_itens.png)
 
-<br>
+## Salvando novo voucher
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo voucher será salvo:
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_voucher_salvar.gif)
 
-<br>
+## Botão de restrições/excessões
 
-Ainda falando do menu dessa aba temos <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> o ícone de restrições/exceções, quando clicamos nele, uma janela pop-up será aberta com algumas configurações disponíveis para você preencher:
+Ainda falando do menu dessa tela temos <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> o ícone de restrições/exceções, quando clicamos nele, uma janela pop-up será aberta com algumas configurações disponíveis para você preencher:
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_restricoes.png)
 
@@ -104,8 +88,6 @@ Observe que após salvar as informações, a janela `Voucher Item` passará a fi
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_menu_guia_itens.png)
 
-<br>
-
 Na primeira opção do menu, temos o `Importar códigos`, você pode pegar uma lista de código pronta e fazer a importação direta para nossa plataforma, com apenas alguns cliques, observe:
 
 {% hint style="warning" %}
@@ -114,13 +96,9 @@ Na primeira opção do menu, temos o `Importar códigos`, você pode pegar uma l
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_importar.gif)
 
-<br>
-
 Mas caso queira, pode fazer a inserção do código de voucher manualmente, é bem rápido e prático, dá uma olhadinha aqui abaixo 😁
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_codigo.gif)
-
-<br>
 
 Não esqueça que são duas guias, a primeira de itens, onde adicionamos os códigos dos vouchers e a segunda de histórico de uso do nosso voucher.
 
