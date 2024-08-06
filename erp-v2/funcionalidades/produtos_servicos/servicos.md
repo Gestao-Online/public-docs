@@ -2,7 +2,7 @@
 
 Na tela "Serviços", você pode visualizar todos os produtos cadastrados na plataforma, além de ter a opção de cadastrar um novo produto/serviço, editar as informações existentes e excluir serviços cadastrados.
 
-Aqui podem ser cadastrados os serviços que a sua empresa presta, assim ao lançar uma venda/pedido o sistema já terá as informações ligadas a esse serviço (fiscal, financeiro etc). Agilizando muito o processo de venda e/ou recorrência.
+Aqui podem ser cadastrados os serviços que a sua empresa presta, assim, ao lançar uma venda/pedido, o sistema já terá as informações ligadas a esse serviço (fiscal, financeiro, etc.). Agilizando muito o processo de venda e/ou recorrência.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -14,7 +14,7 @@ Aqui podem ser cadastrados os serviços que a sua empresa presta, assim ao lanç
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -31,11 +31,11 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ## Menu lateral esquerdo
 
-No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras abas da plataforma, sendo eles:
+No lado esquerdo da tela está o menu lateral, nele estão atalhos para outras telas da plataforma, sendo eles:
 
 - <img src="/erp-v2/assets/funcionalidades/icon_produtos_servicos.png" alt="" data-size="line"> Todos os produtos/serviços;
 - <img src="/erp-v2/assets/funcionalidades/icon_produto.png" alt="" data-size="line"> [Produtos](/erp-v2/funcionalidades/produtos_servicos/produtos.md);
-- <img src="/erp-v2/assets/funcionalidades/icon_servicos.png" alt="" data-size="line"> Serviços (Aba atual);
+- <img src="/erp-v2/assets/funcionalidades/icon_servicos.png" alt="" data-size="line"> Serviços (Tela atual);
 - <img src="/erp-v2/assets/funcionalidades/icon_kits.png" alt="" data-size="line"> [Kits](/erp-v2/funcionalidades/produtos_servicos/kits.md);
 
 Clicando no ícone da seta, você exibe de forma completa, e clicando nela novamente, volta ao modo recolhido, confira exemplo abaixo: 
@@ -85,9 +85,9 @@ Agora falando em específico do campo de **Tipo de entrega** ficou marcado a op�
 
 ## Utilizar configuração padrão NFSe da empresa
 
-Quando este campo está ativo, as configurações de NFSe são todas vínculadas ao cadastro da empresa na tela [**` Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md). Por isso, no momento que ativamos esta opção, todos os demais campos de configuração de nota fiscal desaparecem.
+Quando este campo está ativo, as configurações de NFSe são todas vinculadas ao cadastro da empresa na tela [**` Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md). Por isso, no momento em que ativamos esta opção, os demais campos de configuração de nota fiscal desaparecem.
 
-Pois o sistema entende que esse serviço que será prestado, pode entrar na configuração padrão da NFSe (no quesito de CNAE, alíquota etc)
+Pois o sistema entende que esse serviço que será prestado pode entrar na configuração padrão da NFSe (no quesito de CNAE, alíquota, etc.).
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_empresa.gif)
 
@@ -95,13 +95,13 @@ Pois o sistema entende que esse serviço que será prestado, pode entrar na conf
 
 Agora quando este campo está desativado, ficam disponíveis os campo de preenchimento para NFSe. 
 
-Essa opção é útil quando existe algum tipo de serviço que há um enquadramento diferente de CNAE ou alíquota, permitindo que o sistema compute de forma diferente os impostos por tipo de serviço prestado. Usando por exemplo uma configuração diferente do padrão da NFSe da tela [**`Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
+Essa opção é útil quando existe algum tipo de serviço em que há um enquadramento diferente de CNAE ou alíquota, permitindo que o sistema compute de forma diferente os impostos por tipo de serviço prestado. Usando, por exemplo, uma configuração diferente do padrão da NFSe da tela [**`Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
 
 Essas informações são fornecidas por seu contador, mas iremos fazer um exemplo de preenchimento.
 
 ### Campo NFSe código de serviço
 
-Este código tem vínculo direto com a **Tela  LC116** que dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza (ISSQN), de competência dos municípios e do Distrito Federal, e dá outras providências. Nesta aba você pode baixar todos os códigos disponíveis, ou inserí-los manualmente.
+Este código tem vínculo direto com a **Tela LC116**, que dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza (ISSQN), de competência dos municípios e do Distrito Federal, e dá outras providências. Nesta tela você pode baixar todos os códigos disponíveis ou inseri-los manualmente.
 
 Em nosso exemplo, estamos usando o código *1.08 – Planejamento, confecção, manutenção e atualização de páginas eletrônicas*.
 
@@ -130,7 +130,7 @@ Para o nosso caso, vamos marcar a opção *Exigível*, pois na cidade de Goiâni
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_iss_exigibilidade.png)
 
-O último campo é o de **Alíquota**, essa informação você pode encontrar no portal prefeitura da sua cidade, ou com o seu contador.
+O último campo é o de **Alíquota**, essa informação você pode encontrar no portal da prefeitura da sua cidade ou com o seu contador.
 
 Em nosso exemplo, na cidade de Goiânia-GO, a alíquota do ISS para serviços de tecnologia da informação, como o planejamento e manutenção de páginas eletrônicas, costuma ser de 5%. Então colocaremos este valor no campo.
 
@@ -152,20 +152,20 @@ Nesta guia, você pode vincular um produto/serviço ao que você acabou de criar
 
 ## Guia Categorias
 
-Agora, na guia de `Categorias`, você pode definir uma categoria para o serviço cadastrado. Ao clicar em adicionar, será mostrada a lista para você escolher uma opção. Essas opções já estão pré-cadastradas na aba de categoria de produto.
+Agora, na guia de `Categorias`, você pode definir uma categoria para o serviço cadastrado. Ao clicar em adicionar, será mostrada a lista para você escolher uma opção. Essas opções já estão pré-cadastradas na tela de categoria de produto.
 
 {% hint style="warning" %}
-**Informativo:** Se você deseja saber mais informações sobre a categoria de produto, [clique aqui](/erp-v2/funcionalidades/produtos_servicos/categoria_produto.md)
+**Informativo:** Se você deseja saber mais informações sobre a categoria de produto, [clique aqui](/erp-v2/funcionalidades/produtos_servicos/categoria_produto.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_guia_categoria.gif)
 
 ## Guia tabelas de preço
 
-Já na guia `Tabelas de preço` é possível verificar todas as tabelas de preço que esse serviço já está vinculado, permitindo também adicionar facilmente o serviço a uma tabela de preço:
+Já na guia `Tabelas de preço` é possível verificar todas as tabelas de preço a que esse serviço já está vinculado, permitindo também adicionar facilmente o serviço a uma tabela de preço:
 
 {% hint style="warning" %}
-**Informativo:** Se você deseja saber mais informações sobre tabela de preço, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md)
+**Informativo:** Se você deseja saber mais informações sobre tabela de preço, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_guia_tabela_preco.gif)
@@ -179,7 +179,7 @@ No botão de importação, ao clicar nele, será aberta uma janela pop-up para v
 Confira abaixo o procedimento:
 
 {% hint style="info" %}
-**Informativo:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "**
+**Informativo:** Para importação, é válido somente arquivo de planilha no formato **" .xlsx "**.
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_importar.gif)
