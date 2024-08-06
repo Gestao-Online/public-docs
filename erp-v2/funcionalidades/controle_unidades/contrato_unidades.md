@@ -1,6 +1,6 @@
 # 🔂 Contrato do controle de unidades
 
-Nesta aba você encontra todos os contratos de controle de unidade cadastrados na plataforma da **Gestão Online**. E caso tenha algum contrato faltando, você pode efetuar o cadastro ou editar um contrato existente, precisando somente seguir este manual.
+Nesta tela é possível gerenciar todos os contratos de controle de unidade cadastrados na plataforma. Os contratos dessa tela, precisam ser parâmetrizados conforme a o acordado entre a **Empresa** (Franqueadora) e a **Unidade** (Franquia).
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -56,7 +56,7 @@ No momento do cadastro de um novo contrato de controle de unidade, você precisa
 
 ## Campo Unidade
 
-No primeiro campo **Unidade**, que é um campo de preenchimento obrigatório. Você escolhe a qual unidade esse contrato terá vínculo. Lembrando que para escolher a unidade, é necessário já ter o cadastro feito na aba **Unidades**.
+No primeiro campo **Unidade**, que é um campo de preenchimento obrigatório. Você escolhe a qual unidade esse contrato terá vínculo. Lembrando que para escolher a unidade, é necessário já ter o cadastro feito na tela **Unidades**.
 
  Observe que nesse mesmo campo, temos um ícone <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar a unidade selecionada abrindo ela em uma nova aba.
 
@@ -68,10 +68,10 @@ Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo vamos 
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_contrato_campo_unidade.gif)
 
-Ao lado do campo de unidade, temos o de **Empresa**. Lembrando que para escolher a empresa, é necessário ele já ter o cadastro feito na aba **Unidades/Lojas**.
+Ao lado do campo de unidade, temos o de **Empresa**. Lembrando que para escolher a empresa, é necessário ele já ter o cadastro feito na tela **Empresas**.
 
 {% hint style="warning" %}
-**Empresas:** Caso queira mais informações sobre como utilizar a aba vendedores e compradores, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
+**Empresas:** Caso queira mais informações sobre como utilizar a tela Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_contrato_campo_empresa.gif)
@@ -90,13 +90,13 @@ Depois você define se o **status** desse contrato estará ativado ou desativado
 
 No campo **Tipo Contrato**, você tem quatro opções disponíveis, vejamos um pouco mais sobre cada uma. Observe que, ao clicar em algumas opções, um novo campo será mostrado ao lado para preencher o valor:
 
-- **Sem limite:** Pode implicar que você pode usar tanto quanto precisar, mas pode haver uma cláusula de uso justo que o limite após certo ponto.
+- **Sem limite:** A unidade não tem um limite para trabalhar com saldo negativo, isso pode implicar no impedimento de uso de algumas funcionalidades (Por exemplo: em uma venda na modalidade pré-pago)
 
-- **Limite Aprovado:** É a quantia final confirmada e disponível para uso.
+- **Limite Aprovado:** É a quantia limite final disponível para uso.
 
 - **Limite Pré-Aprovado:** É uma oferta condicional que ainda pode passar por uma verificação adicional antes de se tornar um **Limite aprovado**,
 
-- **Ilimitado:** Deve, em princípio, permitir o uso contínuo sem qualquer tipo de limitação.
+- **Ilimitado:** A unidade poderá utilizar o tanto que precisar, sem um limite definido.
 
 Em nosso exemplo iremos selecionar o tipo **Limite Aprovado** e colocaremos o valor de R$ 1.000,00. Observe abaixo:
 
@@ -156,79 +156,107 @@ Assim que você salvar o contrato de controle, novas guias ficarão disponíveis
 
 ### Guia Movimentações de saldo
 
-A primeira é de movimentação de saldo, trazendo todos os tipos de lançamentos, sendo débito ou crédito, informando os valores de saldo, limites e saldo final.
+A primeira é de movimentação de saldo, exibindo todos os tipos de lançamentos, sendo débito ou crédito, informando os valores de saldo, limites e saldo final.
+
+Nessa aba, o sistema funciona de forma semelhante a um "extrato de um banco" de um conta corrente por exemplo, onde a cada lançamento ocorre uma entrada (Crédito) ou uma saída (Débito), e sempre é recomputado o saldo atual.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_saldo.png)
 
-Você pode adicionar um novo tipo de lançamento, entre crédito ou débito, e o valor deste lançamento. Após salvar, ele aparecerá no relatório da página anterior. 😁
+Caso seja necessário algum ajuste no saldo, ou o lançamento de alguma despesa ou receita diretamente no controle da unidade, é possível adicionar um novo lançamento manualmente, entre crédito ou débito, e o valor deste lançamento. Após salvar, ele aparecerá no "extrato" da página anterior. 😁
 
-Mas lembre-se de que essas movimentações são geradas automaticamente por nossa plataforma!
+Mas lembre-se, normalmente essas movimentações de crédito ou débito, são programadas para serem geradas automaticamente por nossa plataforma, atráves de fluxos de comissão ou custo que são disparados atráves de rotinas financeiras, ou de movimentações das vendas por exemplo. *(Em caso de dúvidas sobre esse fluxo, entre em contato com o nosso suporte)*
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_saldo_add.png)
 
 ### Guia Movimentações pendentes de fechamento
 
-Aqui estão todas as movimentações pendentes, seja um pedido, venda, compra e recorrência. Ela é espelho da nossa **aba de movimentações**. 😉
+Aqui estão todas as movimentações pendentes, que estão na fila para entrarem em um "fechamento", seja um pedido, venda, compra e recorrência. Ela é espelho da nossa **Tela de movimentações**. 😉
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes.png)
 
-Assim que clicar no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar, esta janela será mostrada para você poder preencher e criar uma nova venda/compra.
 
-![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_add.png)
+As movimentações que aparecem aqui, dentro das regras criadas no "Fechamento automático", serão apuradas resultando em **uma linha na movimentação de saldo**, sendo ela de débito (caso o fechamento seja negativo, ou seja a unidade tem algo a pagar para a empresa). Ou sendo ela de crédito (caso o fechamento seja positivo, ou seja a unidade tem algo para receber da empresa)
 
 ### Guia Fechamentos de contrato
 
-Aqui você encontra listados todos os pedidos, vendas, compras ou recorrências, que estão em atendimento ou no status liberado. Você pode observar que ela é bem parecida com a guia anterior.
+Aqui você encontrará o histórico dos fechamentos (automáticos ou manuais) que ocorreram nesse contrato.
+
+Quando utilizado na modalidade automática normalmente, um novo lançamento é feito logo em seguida da apuração das **Movimentações pendentes de fechamento** e o sistema computa um saldo negativo para a unidade (ou seja, a unidade está "devendo" a empresa). Aí nesse caso, automáticamente a plataforma criará uma "Venda" com a cobrança exatamente no valor que a Unidade deve a empresa (O envio da cobrança é realizado para o "Parceiro" indicado como o responsável da unidade)
+
+Mesmo em outras situações e/ou outras modalidades, como por exemplo, gestão direta de saldo (Indepentende de ter ou não "Movimentações pedentes de fechamento"), se o sistema computar um saldo negativo ele realizará o mesmo comportamento (Irá gerar uma "Venda" com a cobrança do saldo que está negativo)
+
+O tipo de movimentação recomendado que seja utilizado para os "Fechamentos do contrato" faz com que o "Saldo" seja incrementado automáticamente (Seja criado uma nova linha no "Extrato" do controle da unidade com uma movimentação de crédito) no valor correspondente do saldo negativo de quando foi apurado, zerando o saldo que anteriormente estava negativado. 
+
+{% hint style="warning" %}
+**Atenção:** Caso exista lançamentos no extrato que fiquem entre o período da apuração e a liquidação do pagamento, o saldo sempre será computado da maneira adequada. (O saldo será acumulado para um acerto posterior)
+{% endhint %}
+
+{% hint style="info" %}
+Lembrando que é possível realizar um fechamento manualmente, caso o saldo esteja negativo. Sempre que necessário. (Botão na barra de ferramentas do contrato)
+{% endhint %}
+
+
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_fechamentos_contrato.png)
 
-Agora, quando você clica no botão de adicionar novo fechamento, uma nova janela será mostrada para você. Esta mesma janela também é parecida com a da nossa **aba de movimentações**, mas ela tem algumas alterações com campos a menos, para criação específica de um fechamento.
-
-![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_fechamentos_contrato_add.png)
-
 {% hint style="warning" %}
-**Vendas:** Caso queira mais informações sobre como utilizar a aba vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+**Vendas:** Caso necessite ajustar algo no fechamento apurado, como por exemplo alterar a data de vencimento do boleto bancário, um ajuste na nota fiscal ou qualquer outra situação, basta abrir a "Venda". Para mais informações sobre como utilizar a tela de movimentações/vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
 {% endhint %}
 
 ### Guia Histórico
 
 Por último, na guia de histórico, você consegue acompanhar todas as modificações/alterações feitas no contrato através desta guia.
 
-Neste mesmo exemplo, você já consegue ver que o sistema liberou o uso deste contrato, pois está tudo certo dentro das regras de funcionamento. O mesmo serve para outros casos, podendo assim você acompanhar problemas ou erro de uso em futuros casos.
+Os lançamentos aqui são automáticos, ao ajustar um campo por exemplo. Ou até mesmo baseado em eventos que acontecem; quando uma unidade é bloqueada por inadimplência, ou desbloqueada ao efetuar o pagamento. Ou mesmo quando um gestor faz a liberação de confiança.
 
-Os campos da guia de histórico não sofrem alteração, pois são parte crucial do acompanhamento do sistema. Até mesmo apagar um registro aqui é bloqueado. 😉
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_historico.png)
 
 ## Botões do menu superior
 
-Após preencher os dados do novo contrato e salvar, o menu superior sofre modificações quando você defino o fechamento automático para semana ou mês, conforme explicado acima.
+O menu superior apresenta funcionalidades diferentes de acordo com a configuração do contrato.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_menu_novos_btns.png)
 
 ### Botão Processar movimentações pendentes de fechamento
 
-Clicando neste ícone, uma nova janela será aberta para você, solicitando que informe a data final para então o sistema processar o fechamento. Observe nosso teste abaixo, a mensagem que será mostrada é informando que não temos nenhum caso de fechamento pendente. Porém, se houvesse algum caso, ele teria realizado o fechamento automaticamente e mostrado a mensagem de fechamentos realizados com sucesso.
+Clicando neste ícone, uma nova janela será aberta para você, solicitando que informe a data final para então o sistema processar o fechamento.
+
+Nessa caso o botão acionará uma ação que irá realizar a apuração das vendas que estão na aba `Movimentações pendentes de fechamento` o sistema irá computar cada venda uma que está pendente de fechamento computando uma "Comissão" ou um "Custo" a cada venda, respeitando a `tabela de preço de custo ou comissão` e o `tipo de movimentação` realizado na venda, no final terá o resultado se a operação será de `débito` (ou seja, a unidade está "devendo" a empresa) ou de `crédito` (ou seja, a unidade tem um valor "a receber" da empresa).
+
+Observe nosso teste abaixo, a mensagem que será mostrada é informando que não temos nenhum caso de fechamento pendente. 
+
+Porém, se houvesse algum caso, ele teria realizado o fechamento automaticamente e mostrado a mensagem de fechamentos realizados com sucesso.
+
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_menu_novos_btns_processar_pendentes_fechamento.gif)
 
 ### Botão Processar fechamento automático
 
-Agora o botão processar fechamento automático faz basicamente o papel de antecipar o fechamento que você programou. As vezes por uma necessidade de ter o relatório logo sendo exibido, esta função pode te auxiliar.
+Agora o botão processar fechamento automático faz basicamente o papel de antecipar o fechamento que você programou.
 
-Quando você clica neste botão, uma janela será mostrada para você. Nela, pode escolher uma das duas opções de tipo. A primeira é *processar "Movimentações pendentes de fechamento" e saldo atual*, e a outra *somente saldo atual*.
+Quando você clica neste botão, uma janela será mostrada para você. Nela, pode escolher uma das duas opções de tipo. A primeira é `processar "Movimentações pendentes de fechamento" e saldo atual`, e a outra `somente saldo atual`.
+
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_menu_novos_btns_processar_fechamento_automatico.png)
 
+Na opção de `somente saldo atual`, caso o saldo atual da unidade seja negativo (ou seja, a unidade está "devendo" a empresa). Nesse caso, automáticamente a plataforma criará uma "Venda" com a cobrança exatamente no valor que a Unidade deve a empresa (O envio da cobrança é realizado para o "Parceiro" indicado como o responsável da unidade)
+
+Já na opção de `processar "Movimentações pendentes de fechamento" e saldo atual`, o sistema realizará a ação descrita anteriormente neste manual em "Botão Processar movimentações pendentes de fechamento" e logo em seguida também já irá realizar a operação de saldo descrita na opção anterior (de `somente saldo atual`)
+
 ### Botão Atualizar status
 
-Este botão irá atualizar todas as situações do contrato que você gerou, alguns itens que não foram carregados, ou um pagamento que já foi realizado e ainda não apareceu porque você está com a página aberta no momento.
+Este botão irá atualizar todas as situações do contrato que você gerou, forçando a verificação de todos os itens interligados nesse contrato, antecipando as rotinas que são executadas automáticamente a cada alguns minutos.
+
+Por exemplo, um pagamento que já foi realizado e ainda não foi atualizado no contrato a liberação da unidade que está bloqueada por inadimplência.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_menu_novos_btns_atualizar_status.gif)
 
 ### Botão Gerar previsão de fechamento
 
-Por último, o botão de **gerar previsão do fechamento**, ao clicar nele, uma janela pop-up será aberta para você poder preencher alguns campos. O primeiro é o de *data final*, pois ele irá processar uma previsão do fechamento de movimentações entregues com base na data que for colocada. Você também tem a opção de enviar este relatório para seu e-mail, pois ele criará um arquivo em PDF.
+Por último, o botão de **gerar previsão do fechamento**, ao clicar nele, uma janela pop-up será aberta para você poder preencher alguns campos. O primeiro é o de *data final*, pois ele irá processar uma previsão do fechamento de movimentações entregues com base na data que for colocada. 
+
+Você também tem a opção de enviar este relatório por e-mail, pois ele criará um arquivo em PDF e enviará em anexo.
 
 Observe nosso exemplo abaixo, criando o arquivo e abrindo-o.
 

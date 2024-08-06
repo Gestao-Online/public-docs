@@ -1,6 +1,16 @@
 # 📝 Controle de unidades
 
-No conjunto de funcionalidades de **`Controle de unidades`**, você encontra os itens contrato do controle de unidades e controle da movimentação da unidade, se deseja saber mais informações, basta clicar em um dos item de sua preferência logo abaixo:
+No conjunto de funcionalidades de **`Controle de unidades`**, você encontra os itens contrato do controle de unidades e controle da movimentação da unidade.
+
+A telas desse conjunto de funcionalidades fazem parte do módulo de gestão de franquia, oferecendo um sistema completo para o controle de acertos com unidades. Alguns dos recursos que são permitidos através dessas funcionalidades:
+
+- **Gestão de Contrato**: Faça a gestão do ciclo de vida dos contratos com as unidades parceiras (franquias).
+- **Gestão de Saldo**: Administre saldos (*a receber* e *a pagar*) com os franqueados de maneira eficiente.
+- **Fechamento Automático de Saldo**: Utilize diversos modelos de fechamento automático para gerenciar saldos de forma prática e precisa.
+- **Automação do Recebimento de Custos/Royalties**: Automatize totalmente o recebimento de custos e royalties, permitindo ver quanto cada unidade deve, gerar cobranças, boletos e documentos fiscais.
+- **Extrato Detalhado para Franqueados**: Ofereça aos franqueados a possibilidade de visualizar em detalhes o extrato de todas as movimentações do contrato, incluindo custos e comissões.
+
+Para saber mais informações, basta clicar em um dos itens de sua preferência logo abaixo.:
 
 <table data-view="cards">
     <thead>
