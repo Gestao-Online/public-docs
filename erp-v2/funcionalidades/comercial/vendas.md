@@ -117,7 +117,7 @@ Após o preenchimento destas informações, você pode salvar o rascunho para ad
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_venda.gif)
 
-## Guia de itens
+## Aba de itens
 
 Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaixo dela tem um novo menu de opções. Clicamos no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar item para colocarmos um produto para a venda:
 
@@ -161,7 +161,7 @@ A partir de agora, um gestor deve liberar a solicitação de desconto para que a
 **Cuidado**: Os valores de uma venda, assim como o seu desconto, não podem ser alterados após a sua liberação/confirmação. Estes dados só podem ser modificados enquanto a venda for um rascunho.
 {% endhint %}
 
-## Guia de financeiro
+## Aba de financeiro
 
 Após gerar o boleto ou o link de pagamento, uma nova guia surgirá. Esta é a de **financeiro**, com ela você pode acompanhar a movimentação do pagamento desta venda. 
 
@@ -179,13 +179,51 @@ Após aberto para edição, você precisa somente alterar a data de vencimento d
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_boleto.gif)
 
-## Guia de liberação
+### Baixar financeiro
+
+Se precisar efetuar uma baixa de financeiro manualmente, após clicar no no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar, conforme mostrado abaixo, a janela de edição será mostrada e veremos um menu especial dela:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_baixa.png)
+
+Lembrando mais uma vez, que essa opção só está disponível caso não tenha ocorrido uma baixa no financeiro. 😉👍
+
+Após aberto, observe o menu no lado direito da tela com o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> baixar. Ao clicarmos nele, uma janela será mostrada, onde precisamos preencher a data da baixa, confirmar os valores (Se houve multa ou não) epreencher a descrição/motivo da baixa manual. Acompanhe nosso exemplo abaixo:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_baixa_teste.gif)
+
+### Estornar financeiro
+
+Agora se precisa estornar o financeiro de um valor manualmente, após clicar no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar, conforme mostrado abaixo, a janela de edição será mostrada e veremos um menu especial, o mesmo da demonstração que fizemos acima:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_estorno.png)
+
+{% hint style="danger" %}
+**Cuidado:** Nesta ação de estornar estamos utilizando o tipo de negociação **Boleto**, o valor não será devolvido diretamente ao cliente, esta baixa irá funcionar somente para o financeiro. Sendo necessário sua intereferência para efetuar a devolução do dinheiro ao cliente.
+{% endhint %}
+
+{% hint style="warning" %}
+**Atenção**: Para os casos de Cartão e Pix, o botão de estornar valor da venda ficará disponível no menu superior assim que abrir a movimentação. Essa devolução é feita automaticamente ao clicar no botão.
+{% endhint %}
+
+Após aberto, observe o menu no lado direito da tela com o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> baixar. Ao clicarmos nele, uma janela será mostrada, onde precisamos preencher a data da baixa, confirmar os valores (Se houve multa ou não) epreencher a descrição/motivo da baixa manual. Acompanhe nosso exemplo abaixo:
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_estorno_teste.gif)
+
+O estorno para casos de cartão ou pix usam uma dinâmica diferente, observe nesta venda de exemplo que teve o pagamento realizado via pix, ao abrir a venda, o menu superior cinza ganha um botão <img src="/erp-v2/assets/icon_estornar_pix.png" alt="" data-size="line"> chamado estornar. 
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_estorno_pic_cc.png)
+
+O estorno nessas duas formas de pagamento são realizadas automaticamente por nosso sistema e o dinheiro devolvido ao cliente. E em sequência, na aba **Anexos** você irá encontrar a carta de cancelamento.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_estorno_pix_cc_carta.gif)
+
+## Aba de liberação
 
 Nesta guia é mostrado o relatório completo de quem autorizou alguma venda que ficou pendente de liberação. Uma venda pode ficar pendente de liberação caso tenha valores incorretos, descontos fora dos limites ou abaixo do padrão que já foi determinado nas tabelas de preços.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_liberacao.png)
 
-## Guia anexos
+## Aba anexos
 
 Os boletos aparecem automaticamente na guia de anexos após clicar no botão de gerar boleto, por ser uma configuração do nosso sistema. O mesmo acontece com as notas fiscais, o download é feito, desde que elas estejam previamente configuradas com as informações no cadastro da empresa.
 
@@ -195,7 +233,7 @@ Clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos.png)
 
-## Guia histórico
+## Aba histórico
 
 Nesta guia ficam registrados os casos adversos que acontecem com a venda, exemplo disso seria a utilização de um voucher, cancelamento de uma venda, liberação de entrega manual, ou até mesmo o bloqueio da venda.
 
