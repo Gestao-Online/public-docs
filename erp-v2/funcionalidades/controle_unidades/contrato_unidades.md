@@ -8,7 +8,7 @@ Nesta tela é possível gerenciar todos os contratos de controle de unidade cada
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -163,23 +163,46 @@ Caso seja necessário algum ajuste no saldo, ou o lançamento de alguma despesa 
 Mas lembre-se, normalmente essas movimentações de crédito ou débito, são programadas para serem geradas automaticamente por nossa plataforma, atráves de fluxos de comissão ou custo que são disparados atráves de rotinas financeiras, ou de movimentações das vendas por exemplo. 
 
 {% hint style="warning" %}
-**Tela de controle de movimentação de unidades:** Caso queira mais informações sobre essa aba, [**`clique aqui`**](/erp-v2/funcionalidades/controle_unidades/controle_movimentacao.md).
+**Controle de movimentação de unidades:** Caso queira mais informações sobre essa tela, [**`clique aqui`**](/erp-v2/funcionalidades/controle_unidades/controle_movimentacao.md).
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Em caso de dúvidas sobre esse fluxo, entre em contato com o nosso suporte. 
 {% endhint %}
 
-![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_saldo_add.png)
-
 ### Aba Movimentações pendentes de fechamento
 
-Aqui estão todas as movimentações pendentes, que estão na fila para entrarem em um "fechamento", seja um pedido, venda, compra e recorrência. Ela é espelho da nossa **Tela de movimentações**. 😉
+Aqui estão todas as movimentações pendentes, que estão na fila para entrarem em um "fechamento", seja um pedido, venda, compra e recorrência. Ela é espelho da nossa **Tela de movimentações**, porém, trazendo só os itens pendentes deste contrato que criamos. 😉
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes.png)
 
-
 As movimentações que aparecem aqui, dentro das regras criadas no "Fechamento automático", serão apuradas resultando em **uma linha na movimentação de saldo**, sendo ela de débito (caso o fechamento seja negativo, ou seja a unidade tem algo a pagar para a empresa). Ou sendo ela de crédito (caso o fechamento seja positivo, ou seja a unidade tem algo para receber da empresa)
+
+Observe o exemplo abaixo, foi criado o contrato com fechamento automático todo mês no dia 01 e 16. É importar lembrar que a funcionalidade desse fechamento tem um vínculo com a tela **Tipo de movimentação**, pois nela, precisa estar ativado a opção *Atualiza controle de unidade*.
+
+{% hint style="warning" %}
+**Tipo de movimentação:** Caso queira mais informações sobre essa tela, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo.png)
+
+Observe que existe uma movimentação pendente de fechamento. Ela só será processada na data que está definido neste contrato criado.
+
+Mas caso ocorra algum imprevisto e você precise fazer o fechamento destas movimentação antes do perído que você determinou, pode clicar no botão <img src="/erp-v2/assets/icon_processar.png" alt="" data-size="line">**processar fechamento automático**, e ele irá virar uma linha na aba **Movimentações de saldo**.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo_btn_processar.png)
+
+Após clicar para fazer o fechamento, observe que um nova linha foi adicionada a aba **Movimentação de saldo**, e uma informação importante, essa única linha trará várias movimentações, e você pode gerar um relatório e acompanhar cada uma clicando com o botão direito do mouse, observe nosso exemplo abaixo.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo_fechamento_gerar_relatorio.gif)
+
+O arquivo em PDF é enviado para seu email cadastrado no nosso sistema, e você logo tem um prévia das informações, podendo também fazer o downlad do arquivo.
+
+Este documento gerado trás algumas informações importantes, como por exemplo, o parceiro/cliente que efetuou a venda/compra, qual foi o produto, o histórico dessa venda, valor de referência, o tipo (caso seja crédito ou débito) e o valor final.
+
+Já parte final do relatório em PDF colocamos as somas e cálculos de fechamento, saldo anterior e atual, conforme marcado na imagem abaixo.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo_fechamento_gerar_relatorio_campos.png)
 
 ### Aba Fechamentos de contrato
 
