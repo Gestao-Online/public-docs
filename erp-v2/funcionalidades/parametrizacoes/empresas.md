@@ -294,7 +294,58 @@ O código CNAE é informado no cadastro da empresa junto à Receita Federal e n�
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfe_campo_cnae.png)
 
+## NFCe Ativo
 
+Com a função *nota fiscal de consumidor eletronica* ativa, novos campos são liberados para preenchimento logo abaixo na página. Observe que são quase os mesmos campos de preenchimento da NFe.
+
+Estes dados são para que a emissão das notas fiscais funionem perfeitamente, pois os itens solicitados são necessários para a comunicação do nosso sistema com o emissor de NF.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfce_ativo.png)
+
+### Campo NFCe ambiente
+
+Neste campo você vai definir o ambiente de criação das Notas Fiscais de Consumidor Eletrônicas. Você terá duas opções para utilização, vejamos a definição de cada uma:
+
+- **Homologação:** É o ambiente de testes sem nenhuma validade fiscal ou jurídica, podendo também usar dados reais ou fictícios no preenchimento do documento.
+- **Produção:** É o ambiente designado para documentos com valor fiscal, ou seja, são documentos válidos e reconhecidos fiscal e juridicamente.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfce_campo_ambiente.png)
+
+### Campo NFCe impressão FCP
+
+A presença do FCP (Fundo de Combate à Pobreza) que é um instituto criado para minimizar o impacto de desigualdades sociais entre os Estados brasileiros, depende do estado em que o emitente e o destinatário da nota se encontram. Pois alguns estados não fazem uso dessa opção.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfce_campo_fcp.png)
+
+### NFCe Série
+
+O número de série possibilita identificar o modo de emissão e fazer o controle das saídas. Além disso, em casos de empresas que trabalham com mais de uma série, facilita a identificação do grupo de notas.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfce_campo_serie.png)
+
+### NFCe Número
+
+O número (ou "nnf", de "número da nota fiscal") inicial que será utilizado no envio da NFC-e (Nota Fiscal de Consumidor Eletrônica) é um elemento importante para a identificação e sequenciamento das notas fiscais emitidas por uma empresa.
+
+Caso a empresa atinja o número máximo permitido ou precise reiniciar a sequência, deverá seguir as regras estabelecidas pela legislação e notificar a Secretaria da Fazenda, se necessário.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfce_campo_numero.png)
+
+### NFCe ID Token
+
+O ID Token é uma chave ou código gerado pela Secretaria da Fazenda (SEFAZ) do estado que permite que a empresa emissora autentique suas transações de NFC-e. Ele ajuda a assegurar que a nota fiscal é emitida por uma fonte confiável e autorizada.
+
+A empresa solicita o ID Token junto à SEFAZ do seu estado. A SEFAZ gera o ID Token e o disponibiliza para a empresa.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfce_campo_id_token.png)
+
+### NFCe CSC Token
+
+O CSC (Código de Segurança do Contribuinte), também conhecido como Token, é uma medida de segurança utilizada na emissão da NFC-e. Ele em conjunto com outros dados da NFC-e, é utilizado para criar um QR Code que permite a verificação da autenticidade da NFC-e pelo consumidor ou pela fiscalização.
+
+O contribuinte (empresa) solicita o CSC junto à Secretaria da Fazenda (SEFAZ) do seu estado. A SEFAZ gera e fornece um CSC exclusivo para a empresa.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfce_campo_csc_token.png)
 
 ## Salvando nova empresa
 
