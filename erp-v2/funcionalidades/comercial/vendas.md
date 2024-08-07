@@ -205,7 +205,7 @@ Agora se precisa estornar o financeiro de um valor manualmente, após clicar no 
 **Atenção**: Para os casos de Cartão e Pix, o botão de estornar valor da venda ficará disponível no menu superior assim que abrir a movimentação. Essa devolução é feita automaticamente ao clicar no botão.
 {% endhint %}
 
-Após aberto, observe o menu no lado direito da tela com o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> baixar. Ao clicarmos nele, uma janela será mostrada, onde precisamos preencher a data da baixa, confirmar os valores (Se houve multa ou não) epreencher a descrição/motivo da baixa manual. Acompanhe nosso exemplo abaixo:
+Após aberto, observe o menu no lado direito da tela com o botão <img src="/erp-v2/assets/icon_estornar.png" alt="" data-size="line"> estornar. Ao clicarmos nele, uma janela será mostrada para confirmarmos esta ação, ao clicar em "ok", será informado que o estorno foi realizado. Acompanhe nosso exemplo abaixo:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_estorno_teste.gif)
 
