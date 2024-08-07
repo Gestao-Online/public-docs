@@ -353,9 +353,9 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_salvar.gif)
 
-Duas novas guias ficam disponíveis a partir do momento que você salva uma nova empresa, são elas:
+Duas novas abas ficam disponíveis a partir do momento que você salva uma nova empresa, são elas:
 
-## Aba Anexar documentos
+### Aba Anexar documentos
 
 - Anexos documentos, nesta primeira aba, você pode inserir uma descrição, fazer upload do arquivo e definir o tipo com as opções disponíveis abaixo:
     - Cópia do cartão do CNPJ ou cópia do contrato social da empresa;
@@ -368,7 +368,7 @@ Duas novas guias ficam disponíveis a partir do momento que você salva uma nova
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_guia_anexo.png)
 
-## Aba Anexos arquivos de processamento
+### Aba Anexos arquivos de processamento
 
 - Anexos arquivos de processamento, vão aparecer todos os arquivos utilizados em transações realizadas por esta empresa na plataforma da **Gestão Online**.
 
