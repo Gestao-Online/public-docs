@@ -246,6 +246,56 @@ O valor percentual de deduções, refere-se aos montantes que podem ser subtraí
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_deducoes.png)
 
+## NFe Ativo
+
+Com a função *nota fiscal eletronica* ativa, novos campos são liberados para preenchimento logo abaixo na página. Estes dados são para que a emissão das notas fiscais funionem perfeitamente, pois os itens solicitados são necessários para a comunicação do nosso sistema com o emissor de NF.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfe_ativo.png)
+
+### Campo NFe ambiente
+
+Neste campo você vai definir o ambiente de criação das Notas Fiscais Eletrônicas. Você terá duas opções para utilização, vejamos a definição de cada uma:
+
+- **Homologação:** É o ambiente de testes sem nenhuma validade fiscal ou jurídica, podendo também usar dados reais ou fictícios no preenchimento do documento.
+- **Produção:** É o ambiente designado para documentos com valor fiscal, ou seja, são documentos válidos e reconhecidos fiscal e juridicamente.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfe_campo_ambiente.png)
+
+### Campo NFe impressão FCP
+
+A presença do FCP (Fundo de Combate à Pobreza) que é um instituto criado para minimizar o impacto de desigualdades sociais entre os Estados brasileiros, depende do estado em que o emitente e o destinatário da nota se encontram. Pois alguns estados não fazem uso dessa opção.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfe_campo_fcp.png)
+
+### NFe impressão Partilha
+
+A partilha do ICMS introduz uma nova sistemática para o recolhimento do ICMS Interestadual em operações que envolvem consumidores finais não contribuintes do ICMS. Essa sistemática aplica-se às vendas de mercadorias realizadas entre estados, ou seja, em operações interestaduais.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfe_campo_partilha.png)
+
+### NFe Série
+
+O número de série possibilita identificar o modo de emissão e fazer o controle das saídas. Além disso, em casos de empresas que trabalham com mais de uma série, facilita a identificação do grupo de notas.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfe_campo_serie.png)
+
+### NFe Número
+
+O número (ou "nnf", de "número da nota fiscal") inicial que será utilizado no envio da NF-e (Nota Fiscal Eletrônica) é um elemento importante para a identificação e sequenciamento das notas fiscais emitidas por uma empresa.
+
+Caso a empresa atinja o número máximo permitido ou precise reiniciar a sequência, deverá seguir as regras estabelecidas pela legislação e notificar a Secretaria da Fazenda, se necessário.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfe_campo_numero.png)
+
+### NFe Principal CNAE
+
+Na NF-e, o código CNAE é utilizado para classificar a atividade econômica principal da empresa emissora. É importante para determinar o regime de tributação e as obrigações fiscais da empresa.
+O código CNAE é informado no cadastro da empresa junto à Receita Federal e não necessariamente precisa ser especificado em cada NF-e emitida, mas é essencial para o enquadramento fiscal e tributário da empresa.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfe_campo_cnae.png)
+
+
+
 ## Salvando nova empresa
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro da nova empresa será salvo:
