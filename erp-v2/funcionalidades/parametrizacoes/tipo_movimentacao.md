@@ -109,6 +109,49 @@ Não só estas definições, mas descendo um pouco no menu, você verá os `Requ
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_venda.gif)
 
+### Atualiza controle de unidade (comercial/saldo)
+
+Ao marcar a opção atualiza controle de unidade (comercial/saldo), isso criará um vínculo com a tela **Controle de unidade**.
+
+{% hint style="info" %}
+**Controle de unidade:** Para mais informações sobre como configurar esta tela, [**`clique aqui`**](/erp-v2/funcionalidades/controle_unidades/contrato_unidades.md).
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_venda_controle_comercial.png)
+
+Um novo espaço ficará disponível com dois campos para marcar, o primeiro é o de controle contrato para você definir entre as opções:
+
+- **Despesa (valor venda/financeiro):**  Esta opção categoriza uma transação como uma despesa, calculada com base no valor de venda ou no valor financeiro do contrato. Utilizada quando um contrato representa um custo registrado a partir do valor acordado para a venda.
+
+- **Receita (valor venda/financeiro):** Esta opção categoriza uma transação como uma receita, calculada com base no valor de venda ou no valor financeiro do contrato. Utilizada quando um contrato representa uma entrada de dinheiro, registrada a partir do valor acordado para a venda.
+
+- **Despesa (valor custo/comissão):** Esta opção categoriza uma transação como uma despesa, calculada com base no valor de custo ou nas comissões. Utilizada quando um contrato representa um custo, registrado a partir do valor de custo das mercadorias ou serviços, ou das comissões pagas.
+
+- **Receita (valor custo/comissão):** Esta opção categoriza uma transação como uma receita, calculada com base no valor de custo ou nas comissões. Utilizada quando um contrato resulta em uma entrada de dinheiro, registrada a partir do valor de custo das mercadorias ou serviços, ou das comissões recebidas.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_venda_controle_comercial_controle_controle_despesa_receita.png)
+
+No segundo campo, você tem o **Tipo controle contrato**. Aqui basicamente você define se a informação será registrada no controle de contrato ao confirmar uma movimentação, ou fazendo uma baixa no financeiro.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_venda_controle_comercial_tipo_controle.png)
+
+### Atualiza controle de unidade (produtivo/fechamento)
+
+Ao marcar a opção atualizacontrole de unidade (produtivo/fechamento), isso criará um vínculo com a tela **Controle de unidade**.
+
+{% hint style="info" %}
+**Controle de unidade:** Para mais informações sobre como configurar esta tela, [**`clique aqui`**](/erp-v2/funcionalidades/controle_unidades/contrato_unidades.md).
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_venda_controle_produtivo.png)
+
+Um novo espaço ficará disponível com o campo controle contrato para você definir/escolher entre as opções:
+
+- **Despesa (valor venda/financeiro):** Utilizada quando um contrato representa um custo registrado a partir do valor acordado para a venda.
+- **Receita (valor venda/financeiro):** Utilizada quando um contrato representa uma entrada de dinheiro, registrada a partir do valor acordado para a venda.
+- **Despesa (valor custo/comissão):** Utilizada quando um contrato representa um custo, registrado a partir do valor de custo das mercadorias ou serviços, ou das comissões pagas.
+- **Receita (valor custo/comissão):** Utilizada quando um contrato resulta em uma entrada de dinheiro, registrada a partir do valor de custo das mercadorias ou serviços, ou das comissões recebidas.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_venda_controle_produtivo_controle_contrato.png)
+
 ## Tipo Venda recorrente
 
 No tipo venda recorrente, você pode ativar permissão de desconto, permitir geração de comissão para indicador. Não só estas opções como também as funções de `Requisitos da movimentação` citados acima no tipo venda.
