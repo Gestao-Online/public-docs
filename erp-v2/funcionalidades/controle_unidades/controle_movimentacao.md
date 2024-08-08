@@ -28,7 +28,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ## Entendendo melhor o controle de movimentação
 
-O controle de movimentação funciona de forma semelhante a um "extrato de um banco" de um conta corrente por exemplo, onde a cada lançamento ocorre uma entrada (Crédito) ou uma saída (Débito), e sempre é recomputado o saldo atual.
+O controle de movimentação funciona de forma semelhante a um "extrato de um banco" de uma conta corrente por exemplo, onde a cada lançamento ocorre uma entrada (Crédito) ou uma saída (Débito), e sempre é recomputado o saldo atual.
 
 Caso seja necessário algum ajuste no saldo, ou o lançamento de alguma despesa ou receita diretamente no controle da unidade, é possível adicionar um novo lançamento manualmente (explicado logo abaixo), entre crédito ou débito, e o valor deste lançamento. Após salvar, ele aparecerá no "extrato" imediatamente já recomputando o saldo. 😁
 
