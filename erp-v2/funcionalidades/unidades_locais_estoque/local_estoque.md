@@ -10,11 +10,7 @@ Aqui você tem a visão de todos os locais de estoque cadastrados na plataforma 
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque.gif)
-
-<br>
 
 Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
@@ -32,27 +28,15 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
-## Paginação aba local de estoque
-
-Logo na parte final fica a **`Paginação`**, onde você pode aumentar a quantidade visível de usuários mostrados para até 1000 itens na página:
-
-![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_paginacao.png)
-
-<br>
-
 ## Adicionar novo local de estoque
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo local de estoque. Confira abaixo o procedimento para fazer o cadastro corretamente:
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add.png)
 
-<br>
-
 Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados do novo local de estoque:
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_inicio.png)
-
-<br>
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
@@ -64,8 +48,6 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_menu.png)
 
-<br>
-
 Olhando para a guia **`Geral`**, por padrão, quando você for criar novo local de estoque é exigida descrição, identificador e status.
 
 - **Descrição** (Nome para identificar o novo local de estoque);
@@ -73,23 +55,21 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar novo local 
 - **Analítica** (Quando ativada, não aceitará integração com outros locais de estoque como dependentes);
 - **Status** (Com duas opções para selecionar, entre ativado e desativado);
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_unidade_itens.png)
 
-<br>
+## Salvando novo local de estoque
 
 Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do novo local de estoque será salvo:
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_unidade_salvar.gif)
 
-<br>
+## Aba Movimentações/Transferências
 
-A partir do momento que você concluir a criação, uma nova guia ficará disponível, a de `Movimentações/Transferências`, e aqui serão mostradas todas as transferências, vendas,  compras, devoluções e ajustes.
+A partir do momento que você concluir a criação, uma nova guia ficará disponível, a de `Movimentações/Transferências`, e aqui serão mostradas todas as transferências, vendas,  compras, devoluções e ajustes. Esta aba não sofre alterações ou remoções, pois é ligada direto ao sistema e isso atrapalharia sua integridade. 
 
-Você já tem acesso às movimentações, pode buscar movimentações específicas, editar uma movimentação, ou até excluir.
+Observe também que esta aba é similar a tela de **Movimentação Estoque**, porém, trazendo somente as informações deste estoque que você criou.
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 **Informativo:** Se você deseja saber mais informações sobre Movimentações/Transferências, [clique aqui](/erp-v2/funcionalidades/produtos_servicos/movimentacao_estoque.md)
 {% endhint %}
 
