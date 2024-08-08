@@ -1,6 +1,6 @@
 # 🤝 Indicadores
 
-Nesta aba você encontra todos os indicadores cadastrados na plataforma da **Gestão Online**. E caso tenha algum indicador faltando, pode efetuar o cadastro dele seguindo este manual.
+Nesta tela você encontra todos os indicadores cadastrados na plataforma da **Gestão Online**. E caso tenha algum indicador faltando, pode efetuar o cadastro dele seguindo este manual.
 
 <img src="/erp-v2/assets/placa-aviso.gif" alt="" data-size="line"> É importante lembrar que dependendo do cliente que você cadastrar na **Tela  Clientes**, nas configurações, pode também definir este mesmo cliente como um **fornecedor**, **indicador** ou **transportador**. (Informação explicada no menu [**`Definição de tipo`**](/erp-v2/funcionalidades/parceiros/indicadores.md#campo-definicao-de-tipo))
 
@@ -10,7 +10,7 @@ Nesta aba você encontra todos os indicadores cadastrados na plataforma da **Ges
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicadores.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar indicadores;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -85,7 +85,7 @@ Ainda dos campos obrigatórios, o último é o de e-mail. Mas ao seu lado temos 
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_email_telefones.png)
 
-Descendo mais um pouco nos deparamos com três campos que tem vínculo com outras abas em nosso sistema. O primeiro é o tipo, aqui você define se este será um **cliente**, **fornecedor**, **indicador** ou **transportadora**. Este mesmo campo permite marcar mais de um tipo para esse cadastro que estamos fazendo.
+Descendo mais um pouco nos deparamos com três campos que tem vínculo com outras telas em nosso sistema. O primeiro é o tipo, aqui você define se este será um **cliente**, **fornecedor**, **indicador** ou **transportadora**. Este mesmo campo permite marcar mais de um tipo para esse cadastro que estamos fazendo.
 
 Observe a demonstração abaixo utilizando esta opção. Mas seguiremos somente com o tipo indicador selecionado.
 
@@ -125,7 +125,7 @@ E ainda pode definir um vendedor para atender este indicador. Este vínculo faz 
 **Vendedores:** Caso queira mais informações sobre cadastro de vendedores, [**`clique aqui`**](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md).
 {% endhint %}
 
-Precisa também definir uma unidade de atendimento deste indicador, lembrando que o vínculo com a unidade irá definir as tabelas de preços para custo e comissão, e também os produtos disponíveis para a aba de venda.
+Precisa também definir uma unidade de atendimento deste indicador, lembrando que o vínculo com a unidade irá definir as tabelas de preços para custo e comissão, e também os produtos disponíveis para a tela de venda.
 
 {% hint style="warning" %}
 **Unidades:** Caso queira mais informações sobre cadastro de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
@@ -155,11 +155,11 @@ Quando ativamos a opção **Gerar link venda online**, mais opções ficam dispo
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_venda_online.png)
 
-O primeiro campo para preencher é o de **Tabela de preço venda online**, essas tabelas já devem estar criadas e configuradas na aba **Tabela de preços**. Para mais informações sobre as tabelas de preços, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
+O primeiro campo para preencher é o de **Tabela de preço venda online**, essas tabelas já devem estar criadas e configuradas na tela **Tabela de preços**. Para mais informações sobre as tabelas de preços, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_venda_online_tabela.gif)
 
-No campo **tipo de negociação venda online**, você pode escolher uma das opções cadastradas que tem vínculo com a aba [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md). Para nosso exemplo, iremos marcar a opção **Boleto - GOPag**:
+No campo **tipo de negociação venda online**, você pode escolher uma das opções cadastradas que tem vínculo com a tela [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md). Para nosso exemplo, iremos marcar a opção **Boleto - GOPag**:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_tipo_negociacao.png)
 
@@ -173,43 +173,43 @@ Por último, o botão de **gerar link**, quando você clicar nele, uma janela co
 
 ## Salvando um novo indicador
 
-Após o preenchimento destas informações, você pode salvar os dados do novo indicador, e atualmente algumas guias ficarão disponíveis para você acessar.
+Após o preenchimento destas informações, você pode salvar os dados do novo indicador, e atualmente algumas abas ficarão disponíveis para você acessar.
 
 Observe abaixo o resultado:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_salvar.gif)
 
-## Guias após salvar novo indicador
+## Abas após salvar novo indicador
 
-Depois que salvar as informações do novo indicador, novas guias ficarão disponíveis para você poder acessar, com contatos, parceiros indicados, histórico de indicações e histórico de movimentações/vendas.
+Depois que salvar as informações do novo indicador, novas abas ficarão disponíveis para você poder acessar, com contatos, parceiros indicados, histórico de indicações e histórico de movimentações/vendas.
 
-### Guia contatos
+### Aba contatos
 
-Nesta guia, você pode cadastrar os contatos com os quais este indicador possui algum tipo de vínculo.
+Nesta aba, você pode cadastrar os contatos com os quais este indicador possui algum tipo de vínculo.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_guia_contatos.png)
 
-E nesta mesma guia, quando cadastraremos um contato, além das informações básicas como nome, CPF e telefone. Colocamos as opções de dados bancários para situações em que precise:
+E nesta mesma aba, quando cadastraremos um contato, além das informações básicas como nome, CPF e telefone. Colocamos as opções de dados bancários para situações em que precise:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_guia_contatos_add.png)
 
-### Guia parceiros indicados
+### Aba parceiros indicados
 
-Nesta guia, você coloca os parceiros indicados, lembrando que eles recebem comissão por vendas realizadas para este cliente/fornecedor/indicador. Nesta guia, pode usar o botão de importação caso tenha muitos parceiros indicados, ou pode adicionar manualmente. 
+Nesta aba, você coloca os parceiros indicados, lembrando que eles recebem comissão por vendas realizadas para este cliente/fornecedor/indicador. Nesta aba, pode usar o botão de importação caso tenha muitos parceiros indicados, ou pode adicionar manualmente. 
 
 Caso tenha dúvidas sobre como funciona o sistema de importação, [**`Clique aqui`**](/erp-v2/primeiro_acesso/importar.md).
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_guia_parceiros_indicados_add.png)
 
-### Guia histórico de indicações
+### Aba histórico de indicações
 
 Quando as vendas acontecem e o parceiro indicador é colocado, aqui ficam registradas essas movimentações, com nome do parceiro indicador, valor da venda, valor de referência, data e status.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_guia_histórico_indicacoes.png)
 
-### Guia histórico de movimentações/vendas
+### Aba histórico de movimentações/vendas
 
-Nesta guia, todas as vendas realizadas com este cliente/fornecedor/indicador ficarão registradas. Esta guia tem a mesma funcionalidade da guia de vendas, podendo acompanhar somente as vendas deste cliente/fornecedor/indicador. Para mais informações sobre a aba de vendas e suas funcionalidades, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
+Nesta aba, todas as vendas realizadas com este cliente/fornecedor/indicador ficarão registradas. Esta aba tem a mesma funcionalidade da tela de vendas, podendo acompanhar somente as vendas deste cliente/fornecedor/indicador. Para mais informações sobre a tela de vendas e suas funcionalidades, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_guia_historico_movimentacoes.png)
 
