@@ -1,6 +1,6 @@
 # 🟰 Ncm - Nomenclatura Comum do Mercosul
 
-Nesta aba você encontra todas as configurações de códigos NCM (Nomenclatura Comum do Mercosul) que estão cadastrados na plataforma da **Gestão Online**. Esses tipos definem os cenários de emissão das notas fiscais. E caso queira criar, editar ou excluir um código existente, precisa somente seguir este manual.
+Nesta tela você encontra todas as configurações de códigos NCM (Nomenclatura Comum do Mercosul) que estão cadastrados na plataforma da **Gestão Online**. Esses tipos definem os cenários de emissão das notas fiscais. E caso queira criar, editar ou excluir um código existente, precisa somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -8,7 +8,7 @@ Nesta aba você encontra todas as configurações de códigos NCM (Nomenclatura 
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_ncm.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -53,18 +53,22 @@ O campo de descrição é um item opcional, vamos completar com algumas informa�
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_ncm_add_campo_descricao_completa.png)
 
+## Salvando novo código de NCM
+
 Feito o preenchimento das informações, agora vamos salvar para ele ficar ativo.
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_ncm_add_salvar.gif)
 
-Vale observar que ao salvar este item, uma nova guia fica disponível para uso, ela se chama CEST (Código Especificador da Substituição Tributária), que é um documento fiscal que inclui a especificação do código CEST para os produtos nela listados.
+## Aba CEST
+
+Vale observar que ao salvar este item, uma nova aba fica disponível para uso, ela se chama CEST (Código Especificador da Substituição Tributária), que é um documento fiscal que inclui a especificação do código CEST para os produtos nela listados.
 
 O CEST é um código padronizado que identifica mercadorias sujeitas ao regime de substituição tributária e de antecipação do recolhimento do ICMS (Imposto sobre Circulação de Mercadorias e Serviços).
 
-Mas no nosso caso, não iremos utilizar esta guia, pois já temos uma aba só para configurar os códigos de CEST.
+Mas no nosso caso, não iremos utilizar esta aba, pois já temos uma aba só para configurar os códigos de CEST.
 
 {% hint style="warning" %}
-**CEST:** Caso queira informações sobre como utilizar as funções da aba CEST, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/cest.md).
+**CEST:** Caso queira informações sobre como utilizar as funções da tela CEST, [**`clique aqui`**](/erp-v2/funcionalidades/fiscal/cest.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_ncm_add_guia_cest.png)
