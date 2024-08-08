@@ -2,8 +2,6 @@
 
 Para utilizar da melhor maneira possível o perfil de desconto na plataforma **Gestão Online**, seguiremos agora com a explicação parte a parte para você utilizá-la:
 
-<br>
-
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
@@ -12,13 +10,9 @@ Para utilizar da melhor maneira possível o perfil de desconto na plataforma **G
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto.png)
 
-<br>
-
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -28,7 +22,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_menu.png)
 
-<br>
+## Menu Lateral esquerdo
 
 No lado esquerdo da tela está o menu lateral, e você pode utilizar como um filtro para pesquisa. Contém três opções:
 
@@ -40,8 +34,6 @@ Clicando no ícone da seta, você exibe de forma completa e fixada, e clicando n
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_menu_lateral.gif)
 
-<br>
-
 {% hint style="warning" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
@@ -52,13 +44,9 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_perfil.png)
 
-<br>
-
 Ao clicar neste botão, você será direcionado para esta página para fazer o preenchimento dos dados do novo perfil de desconto:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_perfil_desconto.png)
-
-<br>
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
@@ -69,11 +57,12 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_perfil_menu.png)
 
-<br>
+Por padrão, quando você for criar um perfil de desconto, é exigido preencher os campos com asterisco. O primeiro campo é para escolher o vendedor, atenção que este campo tem um vínculo direto com a tela de vendedores.
 
-Por padrão, quando você for criar um perfil de desconto, é exigido preencher os campos com asterisco.
+{% hint style="warning" %}
+**Vendedor:** Para mais informações sobre o uso/configuração da tela de vendedores. [clique aqui](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md).
+{% endhint %}
 
-- **Vendedor** (Defina o vendedor que terá o perfil de desconto disponível, e para mais informações [clique aqui](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md));
 - **Tipo Evento** (São duas opções disponíveis, sendo elas receita ou despesa);
 - **Tipo Desconto** (São também duas opções disponíveis, sendo elas valor ou percentual);
     - **Valor limite** (Aparece caso escolha o tipo de desconto `Valor`);
@@ -85,9 +74,7 @@ Por padrão, quando você for criar um perfil de desconto, é exigido preencher 
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_perfil_receita.gif)
 
-<br>
-
-## Salvando perfil de desconto
+## Salvando novo perfil de desconto
 
 Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do perfil de desconto será disponibilizado para o vendedor poder utilizar:
 
