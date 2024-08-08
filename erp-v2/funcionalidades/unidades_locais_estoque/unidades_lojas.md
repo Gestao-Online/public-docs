@@ -36,60 +36,6 @@ Se você observou, nós colocamos <img src="/erp-v2/assets/funcionalidades/icon_
 
 ![](/erp-v2/assets/funcionalidades/unidades/add_unidade_nova_aba.gif)
 
-<br>
-
-<!-- ## Dashboard vendedores 
-
-Assim que se acessa a página inicial das unidades/lojas você pode ver um ícone na lateral esquerda da tela se mexendo, ao clicarmos nele uma janela lateral aparecerá com algumas informações, vejamos abaixo:
-
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidades_dashboard.gif)
-
-<br>
-
-Explicando cada card, temos primeiro os indicadores de quantidade, Unidades ativas e inativas. Esses números são atualizados em tempo real na plataforma, podendo também utilizar o botão <img src="/erp-v2/assets/funcionalidades/icon_refresh.png" alt="" data-size="line"> refresh para atualizar os dados:
-
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_dashboard_1.png)
-
-<br>
-
-Logo abaixo das quantidades, nós temos um gráfico de coluna com a quantidade de unidades por grupo:
-
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_dashboard_2.png)
-
-<br>
-
-Pouco mais abaixo você vê um gráfico de colunas com o ranking de unidades com mais vendedores (Top 15):
-
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_dashboard_3.png)
-
-<br>
-
-Descendo mais um pouco no dashboard temos a `Tabela de engajamento de unidade`, sendo bem interativa com você, com barra de pesquisa por nome de unidade, e ainda podendo exportar esses dados para o Excel, e essa tabela também nos traz dados importantes sendo eles:
-
-- **Unidade;**
-- **Qtd de Venda PDV (este mês);**
-- **Qtd média mensal Venda PDV (Este ano);**
-- **Última Venda PDV;**
-- **Qtd de Venda Online (este mês);**
-- **Qtd média mensal Venda Online (Este ano);**
-- **Última Venda Online;**
-- **Qtd de cadastro de Parceiro (este mês);**
-- **Qtd média mensal de cadastro de Parceiro (Este ano);**
-- **Último cadastro de Parceiro;**
-- **Dias sem vender;**
-
-Não esquecendo que na parte final tem a paginação caso tenha muitas unidades! 😁
-
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidades_engajamento.png)
-
-<br>
-
-Por último temos a `Quantidade de unidades por UF` onde colocamos na nossa plataforma um mapa exibindo a quantidade de unidades por estados no Brasil:
-
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_qtd_uf.gif)
-
-<br> -->
-
 ## Adicionar nova unidade/loja
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar nova unidade/loja, confira abaixo o procedimento para fazer o cadastro corretamente:
@@ -115,9 +61,9 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_menu.png)
 
-<br>
+## Aba Geral
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar uma unidade/loja é exigido nome, identificador e status. 
+Olhando para a aba **`Geral`**, por padrão, quando você for criar uma unidade/loja é exigido nome, identificador e status. 
 
 Agora os outros campos podem ser preenchidos depois, vejamos abaixo um pouco sobre eles:
 
@@ -126,17 +72,11 @@ Agora os outros campos podem ser preenchidos depois, vejamos abaixo um pouco sob
 - **Analítica** (Ativada irá abrir para você uma série de outros campos para completar o cadastro);
 - **Status** (Com duas opções para selecionar, entre ativado e desativado);
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_unidade_itens.png)
-
-<br>
 
 Mas não termina por aí, ao clicarmos no botão seletor `Analítica` teremos mais campos para preenchimento, e não só isso, quando está ativada a função de adicionar uma unidade dependente ficará desativada, vejamos abaixo:
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_analitica.gif)
-
-<br>
 
 Aos campos extras exibidos, nós temos:
 
@@ -147,8 +87,6 @@ Aos campos extras exibidos, nós temos:
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral1.png)
 
-<br>
-
 Aqui na parte de `endereço da unidade` já colocamos em nossa plataforma o preenchimento automático assim que você inserir o CEP, confira abaixo:
 
 {% hint style="info" %}
@@ -156,8 +94,6 @@ Aqui na parte de `endereço da unidade` já colocamos em nossa plataforma o pree
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_guia_geral2.gif)
-
-<br>
 
 Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas da nossa plataforma da **Gestão Online**, abaixo explicamos um pouco melhor sobre cada uma, para o caso de você querer saber mais sobre alguma [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md):
 
@@ -168,8 +104,6 @@ Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas 
 - **Tabela de preço de comissão de entrega:** Por último aqui é para indicar tabela de preço de comissão de entrega.
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral3.png)
-
-<br>
 
 Na última parte, fica a **`Configuração para venda online`** vejamos um pouco mais sobre esses campos para preencher.
 
@@ -188,24 +122,20 @@ Na última parte, fica a **`Configuração para venda online`** vejamos um pouco
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral4.png)
 
-<br>
-
 No final tem um botão chamado `Ver links(s)`. Ao clicar nele, você vê o link da sua loja online para vendas:
 
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral5.gif)
+## Salvando nova unidade/loja
 
-<br>
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral5.gif)
 
 Após finalizar o preenchimento, você clica em **`Salvar`** e o registro da nova unidade/loja será salvo, e algumas mudanças acontecem. Primeiro, será o menu da guia, que recebe dois novos itens:
 
 - <img src="/erp-v2/assets/icon_paleta_cores.png" alt="" data-size="line"> Alterar cores da landing page;
 - <img src="/erp-v2/assets/funcionalidades/icon_editar_cinza.png" alt="" data-size="line"> Adicionar/Tocar código;
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral6.png)
 
-<br>
+## Aba Vendedores/Compradores
 
 Se você observou na imagem acima, deixamos marcados também as novas guias que ficaram disponíveis após criarmos uma nova unidade. Vamos falar um pouco melhor sobre cada uma, com a primeira **`Vendedores/Compradores`**.
 
@@ -221,14 +151,13 @@ E também terá acesso ao dashboard com quantidade de vendedores por centro de r
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_vendedores_dashboard.gif)
 
-<br>
-
 {% hint style="warning" %}
 **Atenção:** Se você quer saber mais sobre cadastro, edição e exclusão de vendedores, [clique aqui!](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md)
 {% endhint %}
 
-<br>
+### Aba Histórico
 
-Fechando as guias disponíveis, temos a de **`Histórico`** com todos os registros/dados que tiverem nesta unidade. Se você observar, o primeiro registro é o de criação, trazendo o nome do usuário que fez, o que foi feito e a data/hora realizada.
+Finalizando as guias disponíveis, temos a de **`Histórico`** com todos os registros/dados que tiverem nesta unidade. Se você observar, o primeiro registro é o de criação, trazendo o nome do usuário que fez, o que foi feito e a data/hora realizada.
+
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_guia_historico.png)
 
