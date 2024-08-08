@@ -1,6 +1,6 @@
 # 🟰 Cfop - Código Fiscal de Operações e Prestações
 
-Nesta aba você encontra todas as configurações de códigos CFOP (Código Fiscal de Operações e Prestações) que estão cadastrados na plataforma da **Gestão Online**. Esses tipos definem os cenários de emissão das notas fiscais. E caso queira criar, editar ou excluir um código existente, precisa somente seguir este manual.
+Nesta tela você encontra todas as configurações de códigos CFOP (Código Fiscal de Operações e Prestações) que estão cadastrados na plataforma da **Gestão Online**. Esses tipos definem os cenários de emissão das notas fiscais. E caso queira criar, editar ou excluir um código existente, precisa somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -8,7 +8,7 @@ Nesta aba você encontra todas as configurações de códigos CFOP (Código Fisc
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cfop.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
