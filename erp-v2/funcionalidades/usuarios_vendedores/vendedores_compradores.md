@@ -14,7 +14,7 @@ Aqui você tem a visão de todos os vendedores e compradores cadastrados na plat
 
 <br>
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -56,7 +56,9 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar um vendedor é exigido preencher os campos com asterisco. Agora os outros campos para preenchimento podem deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
+### Aba Geral
+
+Olhando para a aba **`Geral`**, por padrão, quando você for criar um vendedor é exigido preencher os campos com asterisco. Agora os outros campos para preenchimento podem deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
 
 - **Nome** (Nome completo do vendedor);
 - **E-mail** (Não pode ser modificado depois, use o mesmo da conta de usuário);
@@ -85,20 +87,23 @@ Uma observação para o preenchimento dos dados de vendedor, nós colocamos um m
 
 <br>
 
+## Salvando novo vendedor
+
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do usuário será salvo e o acesso disponível ao vendedor usando seu login de usuário:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_vendedores_salvar.gif)
 
-
 <br>
 
-## Guias adicionais após criar vendedor
+## Abas adicionais após criar vendedor
 
-Se você observar na parte superior, após criar o vendedor, três guias ficarão na cor azul disponíveis para você editar as informações, vejamos um pouco mais sobre elas:
+Se você observar na parte superior, após criar o vendedor, três abas ficarão na cor azul disponíveis para você editar as informações, vejamos um pouco mais sobre elas:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_vendedores_guias.png)
 
 <br>
+
+### Aba perfil de desconto (vendas)
 
 A primeira é a de perfil de desconto (vendas), por padrão ficará em branco, mas vamos inserir informação nelas, primeiro clicando no botão adicionar item:
 
@@ -112,16 +117,20 @@ Você pode deixar definido um limite de desconto em vendas para esse vendedor, s
 
 <br>
 
+### Aba perfil de desocnto (compras)
+
 Você também pode deixar definido um limite de desconto em compras para esse vendedor, sendo valor ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_vendedores_guia_2.gif)
 
 
 {% hint style="warning" %}
-**Detalhe:** As guias citadas acima, fazem referência a aba principal [Perfil de Desconto](/erp-v2/funcionalidades/usuarios_vendedores/perfil_desconto.md), nela está organizado todos os perfis mostrados acima.
+**Detalhe:** As abas citadas acima, fazem referência a tela principal [Perfil de Desconto](/erp-v2/funcionalidades/usuarios_vendedores/perfil_desconto.md), nela está organizado todos os perfis mostrados acima.
 {% endhint %}
 
-Na última guia, temos os parceiros (Carteira vendedor), nela é listado primeiro todos os parceiros que tenham vínculo a este vendedor. 
+### Aba Parceiros (Carteira vendedor)
+
+Na última aba, temos os parceiros (Carteira vendedor), nela é listado primeiro todos os parceiros que tenham vínculo a este vendedor. 
 
 Podendo fazer até mesmo o cadastro de novos clientes, fornecedores, indicadores e até transportadoras com o seu login:
 
@@ -130,5 +139,5 @@ Podendo fazer até mesmo o cadastro de novos clientes, fornecedores, indicadores
 <br>
 
 {% hint style="warning" %}
-**Detalhe:** A guia citada acima, faz referência a aba principal [Clientes/parceiros](/erp-v2/funcionalidades/parceiros/clientes.md), nela está organizado todas as informações mostradas acima.
+**Detalhe:** A aba citada acima, faz referência a tela principal [Clientes/parceiros](/erp-v2/funcionalidades/parceiros/clientes.md), nela está organizado todas as informações mostradas acima.
 {% endhint %}
