@@ -1,6 +1,6 @@
 # 📈 Tabelas de indicação
 
-Nesta aba você encontra todas as tabelas de indicação que estão cadastradas na plataforma da **Gestão Online**. Essas tabelas definem os valores de comissão a serem repassados aos indicadores. E caso queira criar, editar ou excluir uma tabela existente, precisa somente seguir este manual.
+Nesta tela você encontra todas as tabelas de indicação que estão cadastradas na plataforma da **Gestão Online**. Essas tabelas definem os valores de comissão a serem repassados aos indicadores. E caso queira criar, editar ou excluir uma tabela existente, precisa somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -8,7 +8,7 @@ Nesta aba você encontra todas as tabelas de indicação que estão cadastradas 
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -52,7 +52,7 @@ No momento do cadastro de uma nova tabela de indicação, você precisará preen
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_campos_obrigatorios.png)
 
-O primeiro campo é para inserir a **descrição** desta tabela. Este nome salvo será mostrado nos campos de busca das abas que têm disponível a inserção da tabela de indicação. Por exemplo, no momento de cadastrar um [**`cliente`**](/erp-v2/funcionalidades/parceiros/clientes.md), você tem a opção de inserir a tabela de indicação que ele utilizará.
+O primeiro campo é para inserir a **descrição** desta tabela. Este nome salvo será mostrado nos campos de busca das telas que têm disponível a inserção da tabela de indicação. Por exemplo, no momento de cadastrar um [**`cliente`**](/erp-v2/funcionalidades/parceiros/clientes.md), você tem a opção de inserir a tabela de indicação que ele utilizará.
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_campo_descricao.png)
 
@@ -87,16 +87,14 @@ No primeiro item, esses valores são definidos por um valor fixo inserido na gui
 Já o segundo item é para você vincular a comissão a outra tabela de produtos/serviço existente. Lembrando que é preciso ter a tabela cadastrada para poder utilizá-la. Após defini-la, você precisa marcar o campo de computar percentual, e ao lado preencher o valor em porcentagem que será feito com base na origem/herança.
 
 {% hint style="info" %}
-**Produtos:** Caso queira mais informações sobre a aba de produtos, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
+**Produtos:** Caso queira mais informações sobre a tela de produtos, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
 {% endhint %}
 
 E além do campo de tabela de preço, você também pode definir o grupo de produto, caso queira organizar melhor as informações da tabela de indicação que está criando. Auxiliando assim em futuros relatórios.
 
 {% hint style="info" %}
-**Grupo de Produto:** Caso queira mais informações sobre a aba grupo de produto, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md).
+**Grupo de Produto:** Caso queira mais informações sobre a tela grupo de produto, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md).
 {% endhint %}
-
-Com eles definidos,
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_campo_modo_configuracao_valor_fixo_outra_tabela.png)
 
@@ -107,7 +105,7 @@ Com esta opção definida, dois campos ficam disponíveis para você preencher, 
 Não só ele, mas temos o campo de **Grupo de Produto** que pode ser preenchido, caso queira filtrar somente os produtos de determinado grupo, para este caso, utilize esse campo.
 
 {% hint style="info" %}
-**Grupo de Produto:** Caso queira mais informações sobre a aba grupo de produto, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md).
+**Grupo de Produto:** Caso queira mais informações sobre a tela grupo de produto, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_campo_modo_configuracao_valor_percentual.png)
@@ -131,7 +129,7 @@ Após salvarmos esta tabela de indicação, algumas guias passam a ficar dispon�
 Após salvar, o menu superior ganha alguns botões extras, dentre eles o botão de importar <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line">.
 
 {% hint style="info" %}
-**Importar:** Caso queira mais informações sobre a aba grupo de produto, [**`clique aqui`**](/erp-v2/primeiro_acesso/importar.md).
+**Importar:** Caso queira mais informações sobre a tela grupo de produto, [**`clique aqui`**](/erp-v2/primeiro_acesso/importar.md).
 {% endhint %}
 
 Além dele, há o botão de duplicar <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line">, caso queira criar uma cópia com as informações dessa tabela, incluindo até os produtos adicionados a ela.
