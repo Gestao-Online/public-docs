@@ -64,7 +64,7 @@ Após salvarmos este tipo de tributação, algumas guias passam a ficar disponí
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_salvar.gif)
 
-## Guias disponíveis após salvar
+## Abas disponíveis após salvar
 
 Após salvar o novo tipo de tributação, algumas guias ficarão disponíveis para você preencher. No primeiro momento, estarão todas vazias, mas, ao seguir em nosso manual, faremos o preenchimento um a um.
 

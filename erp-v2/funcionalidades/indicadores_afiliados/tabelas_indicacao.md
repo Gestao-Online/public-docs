@@ -140,7 +140,7 @@ E o ícone de relatório dessa tabela de preço, que faz uma lista com todos os 
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_relatorio.gif)
 
-## Guias disponíveis após salvar
+## Abas disponíveis após salvar
 
 Após salvar a nova tabela de indicações, algumas guias ficarão disponíveis para você preencher. Sendo elas a de **itens da tabela** e **histórico**.
 

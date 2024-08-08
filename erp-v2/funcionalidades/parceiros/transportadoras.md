@@ -145,7 +145,7 @@ Observe abaixo o resultado:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_salvar.gif)
 
-## Guias após salvar nova transportadora
+## Abas após salvar nova transportadora
 
 Depois que salvar as informações da nova transportadora, novas guias ficarão disponíveis para você poder acessar, com contatos, parceiros indicados, histórico de indicações e histórico de movimentações/vendas.
 

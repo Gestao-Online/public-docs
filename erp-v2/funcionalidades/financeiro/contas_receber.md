@@ -116,7 +116,7 @@ Observe abaixo o resultado:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_salvar.gif)
 
-## Guias após salvar uma conta a receber
+## Abas após salvar uma conta a receber
 
 ### Aba Rateio
 

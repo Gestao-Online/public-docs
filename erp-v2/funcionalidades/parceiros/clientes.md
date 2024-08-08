@@ -175,7 +175,7 @@ Observe abaixo o resultado:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_salvar.gif)
 
-## Guias após salvar novo cliente
+## Abas após salvar novo cliente
 
 Depois que salvar as informações do novo cliente, novas guias ficarão disponíveis para você poder acessar, com contatos, parceiros indicados, histórico de indicações e histórico de movimentações/vendas.
 

@@ -193,7 +193,7 @@ Após fazer o preenchimento dos dados e definir qual conta você precisa cadastr
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_salvar.gif)
 
-## Guias após salvar nova conta
+## Abas após salvar nova conta
 
 Assim que você salvar a conta bancária, as novas guias estarão disponíveis para você utilizar. Elas são a de **Movimentações/Transferências**, **Saldo**, **Arquivo remessa** e **Arquivos retorno**. 
 

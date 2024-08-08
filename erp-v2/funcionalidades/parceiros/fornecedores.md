@@ -179,7 +179,7 @@ Observe abaixo o resultado:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_salvar.gif)
 
-## Guias após salvar novo fornecedor
+## Abas após salvar novo fornecedor
 
 Depois que salvar as informações do novo fornecedor, novas guias ficarão disponíveis para você poder acessar, com contatos, parceiros indicados, histórico de indicações e histórico de movimentações/vendas.
 

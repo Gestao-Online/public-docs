@@ -134,7 +134,7 @@ Observe abaixo o resultado:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_fluxo_add_conta_salvar.gif)
 
-## Guias após salvar uma conta (Receita/Despesa)
+## Abas após salvar uma conta (Receita/Despesa)
 
 ### Aba Rateio
 
