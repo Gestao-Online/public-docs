@@ -14,7 +14,7 @@ Aqui podem ser cadastrados os serviços que a sua empresa presta, assim, ao lan�
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos.gif)
 
-Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -142,7 +142,7 @@ Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do nov
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_salvar.gif)
 
-## Guia Itens
+## Aba Itens
 
 A partir do momento que você concluir a criação do novo serviço, ficarão disponíveis três guias para você acessar, a primeira é de `Itens`.
 
@@ -150,7 +150,7 @@ Nesta guia, você pode vincular um produto/serviço ao que você acabou de criar
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_guia_itens.gif)
 
-## Guia Categorias
+## Aba Categorias
 
 Agora, na guia de `Categorias`, você pode definir uma categoria para o serviço cadastrado. Ao clicar em adicionar, será mostrada a lista para você escolher uma opção. Essas opções já estão pré-cadastradas na tela de categoria de produto.
 
@@ -160,7 +160,7 @@ Agora, na guia de `Categorias`, você pode definir uma categoria para o serviço
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_guia_categoria.gif)
 
-## Guia tabelas de preço
+## Aba tabelas de preço
 
 Já na guia `Tabelas de preço` é possível verificar todas as tabelas de preço a que esse serviço já está vinculado, permitindo também adicionar facilmente o serviço a uma tabela de preço:
 

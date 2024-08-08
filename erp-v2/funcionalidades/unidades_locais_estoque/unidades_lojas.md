@@ -16,7 +16,7 @@ Aqui você tem a visão de todas as unidades/lojas cadastradas na plataforma **G
 
 <br>
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Unidade/Loja.
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -32,7 +32,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
-Se você observou, nós colocamos <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> ícones de atalho, para abrir item em nova aba e editar.
+Se você observou, nós colocamos <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> ícones de atalho, para abrir item em nova tela e editar.
 
 ![](/erp-v2/assets/funcionalidades/unidades/add_unidade_nova_aba.gif)
 

@@ -2,7 +2,7 @@
 
 <!-- PEDIR AJUDA AO PAULO SOBRE ESTA ABA, POIS AS OPÇÕES DE PAGAMENTO TIPO E PAGAMENTO STATUS FICAM NÃO UTILIZÁVEIS -->
 
-Nesta aba você encontra todos os títulos avulsos cadastrados na plataforma da **Gestão Online**. E caso tenha algum faltando, você pode efetuar o cadastro ou editar um existente, precisando somente seguir este manual.
+Nesta tela você encontra todos os títulos avulsos cadastrados na plataforma da **Gestão Online**. E caso tenha algum faltando, você pode efetuar o cadastro ou editar um existente, precisando somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -10,7 +10,7 @@ Nesta aba você encontra todos os títulos avulsos cadastrados na plataforma da 
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_titulos.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -55,7 +55,7 @@ No momento do cadastro de uma nova conta a receber, você precisará preencher a
 
 ### Campo cliente/parceiro
 
-No campo de **Cliente/Parceiro**, você pode buscar, digitando o nome, as informações mostradas aqui. Esse mesmo campo tem um vínculo com a **Tela  de parceiros**. Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line">, você pode editar o parceiro/cliente selecionado em uma nova aba.
+No campo de **Cliente/Parceiro**, você pode buscar, digitando o nome, as informações mostradas aqui. Esse mesmo campo tem um vínculo com a **Tela  de parceiros**. Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line">, você pode editar o parceiro/cliente selecionado em uma nova tela.
 
 Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo definimos um cliente fictício.
 
@@ -63,7 +63,7 @@ Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo defini
 
 ### Campos Empresa e Unidade
 
-O campo de empresa tem um vínculo direto com a aba [**`Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md). Se você quiser adicionar, editar ou remover uma, precisa abrir a aba referente a este campo.
+O campo de empresa tem um vínculo direto com a tela [**`Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md). Se você quiser adicionar, editar ou remover uma, precisa abrir a tela referente a este campo.
 
 A mesma informação vale para o campo de **Unidade**, você pode ter mais informações sobre as unidades de atendimento, criação, edição e exclusão [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
 
@@ -71,7 +71,7 @@ A mesma informação vale para o campo de **Unidade**, você pode ter mais infor
 
 ### Campos Tipo negociação e Conta
 
-Em sequência, temos os campos de [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md) e [**`Conta`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md), estes campos são de preenchimento obrigatório e têm cada um vínculo com sua própria aba.
+Em sequência, temos os campos de [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md) e [**`Conta`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md), estes campos são de preenchimento obrigatório e têm cada um vínculo com sua própria tela.
 
 Observe nossa demonstração abaixo.
 

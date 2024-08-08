@@ -15,7 +15,7 @@ Ao clicar nele, uma janela pop-up será aberta e nela você tem algumas funçõe
 Com a janela aberta, você pode selecionar um dos modelos sugeridos, entre resumido ou detalhado, e consegue ver os favoritos, tanto resumido quanto detalhado (No momento, eles estão vazios, mas criaremos um no decorrer da explicação):
 
 {% hint style="info" %}
-**Atenção:** Os filtros que você aplicar na aba, irão interferir diretamente no resultado gerado pelos relatórios que você exportar!  😉👍
+**Atenção:** Os filtros que você aplicar na tela, irão interferir diretamente no resultado gerado pelos relatórios que você exportar!  😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/exportar_aba_vendas_janela.png)
@@ -111,9 +111,9 @@ Mas sempre que precisar, você pode editar o modelo que salvou clicando no botã
 
 ## Modelos sugeridos
 
-Os modelos sugeridos são oferecidos conforme a aba que você estiver tentando exportar as informações, com campos já pré-selecionados com base no que você possivelmente precisará ver no relatório que será gerado. 
+Os modelos sugeridos são oferecidos conforme a tela que você estiver tentando exportar as informações, com campos já pré-selecionados com base no que você possivelmente precisará ver no relatório que será gerado. 
 
-Lembrando que os modelos mostrados abaixo são um exemplo, cada aba poderá ter opções diferentes:
+Lembrando que os modelos mostrados abaixo são um exemplo, cada tela poderá ter opções diferentes:
 
 ![](/erp-v2/assets/exportar_aba_modelo_sugestao.png)
 

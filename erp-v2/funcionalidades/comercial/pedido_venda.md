@@ -1,6 +1,6 @@
 # 📄 Pedido de venda
 
-A aba pedido de venda tem a função de consolidar vários certificados digitais em um único código. 
+A tela pedido de venda tem a função de consolidar vários certificados digitais em um único código. 
 
 Essa organização é realizada por meio da guia de movimentações. Por exemplo, ao adquirir 5 certificados digitais, em uma situação comum, o cliente teria que fazer cinco compras distintas para obter cinco códigos de acesso para os certificados. 
 
@@ -22,7 +22,7 @@ Este menu de vendas estará disponível para você tanto no menu principal quant
 
 <br>
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -81,13 +81,13 @@ Lembrando que a origem (PDV, venda online, venda online unidade, venda online in
 
 Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções disponíveis aparecem para você, mas se preferir, pode digitar o nome da movimentação que a nossa plataforma começará a fazer a busca para você.
 
-O mesmo acontece com o preenchimento do **tipo de negociação**, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na aba **tipo de negociação**.
+O mesmo acontece com o preenchimento do **tipo de negociação**, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na tela **tipo de negociação**.
 
 {% hint style="info" %}
 **Tipo de negociação:** Caso queira informações sobre como cadastrar o tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
 {% endhint %}
 
-Veja esse exemplo abaixo, iremos usar a movimentação **Venda - (Pedido de venda)** que está configurada para origem do tipo PDV, na movimentação destino, usaremos a **Venda - Exemplo** e escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado à conta bancária na aba **listar contas**, somente como exemplo:
+Veja esse exemplo abaixo, iremos usar a movimentação **Venda - (Pedido de venda)** que está configurada para origem do tipo PDV, na movimentação destino, usaremos a **Venda - Exemplo** e escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado à conta bancária na tela **listar contas**, somente como exemplo:
 
 {% hint style="info" %}
 **Listar contas:** Caso queira informações sobre como cadastrar as contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
@@ -99,7 +99,7 @@ Veja esse exemplo abaixo, iremos usar a movimentação **Venda - (Pedido de vend
 
 Agora, nos campos de **Cliente/Parceiro** e **Parceiro indicador**, nós temos alguns botões extras com funções para facilitar seu dia a dia com o nosso sistema. Quando você clica no campo para buscar um cliente e este ainda não possui um cadastro, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para que você possa cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
 
-Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a aba deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
+Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a tela deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
 
 Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Veja o exemplo que fizemos abaixo:
 
@@ -126,7 +126,7 @@ Após o preenchimento destas informações, você pode salvar o rascunho para ad
 Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaixo dela tem um novo menu de opções. Clicamos no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar item para colocarmos um produto para a venda:
 
 {% hint style="info" %}
-**Informativo:** Para adicionar um produto/serviço no pedido de venda, é necessário cadastrar ele primeiro na aba de produtos/serviços, para mais informações [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
+**Informativo:** Para adicionar um produto/serviço no pedido de venda, é necessário cadastrar ele primeiro na tela de produtos/serviços, para mais informações [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_item.png)
@@ -285,7 +285,7 @@ Lembrando que os dados do cliente devem estar preenchidos para o envio ser reali
 
 ## Status do pedido de venda
 
-Através da aba de **pedido de venda**, podemos acompanhar os status de cada item na coluna **status**. Para saber se está ou não em atendimento e se houve baixa ou não.
+Através da tela de **pedido de venda**, podemos acompanhar os status de cada item na coluna **status**. Para saber se está ou não em atendimento e se houve baixa ou não.
 
 Como podemos ver, o pedido de venda que criamos como exemplo foi liberado e ainda não houve baixa financeira, no status temos as seguintes opções:
 

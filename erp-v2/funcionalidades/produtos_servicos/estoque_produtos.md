@@ -12,7 +12,7 @@ Aqui você tem a visão do estoque de produtos na plataforma, podendo cadastrar 
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque.gif)
 
-Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -58,7 +58,7 @@ Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do nov
 
 ![](/erp-v2/assets/funcionalidades/estoque_produto/aba_estoque_add_produto_salvar.gif)
 
-## Guia de movimentação de estoque
+## Aba de movimentação de estoque
 
 A partir do momento que você concluir o registro de um novo produto, ficará disponível a guia `Movimentações/Transferências`.
 

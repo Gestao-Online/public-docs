@@ -10,7 +10,7 @@ Ao clicar neste botão, será aberta uma janela pop-up para você fazer a import
 
 **Essa é a tela que você verá ao clicar para fazer importação, são muitos campos para preencher, não é mesmo? 😅**
 
-Porém, os campos necessários podem variar dependendo da aba que você estiver utilizando no sistema, podendo ter mais ou menos campos para importação:
+Porém, os campos necessários podem variar dependendo da tela que você estiver utilizando no sistema, podendo ter mais ou menos campos para importação:
 
 ![](/erp-v2/assets/importar_tela_importacao.png)
 
@@ -30,9 +30,9 @@ Confira abaixo o procedimento:
 
 ![](/erp-v2/assets/importar_botao_planilha_campos.gif)
 
-Agora, dando uma atenção para o último campo, podemos observar que ele tem um campo de seleção a mais. Esse campo com a seleção irá aparecer em outras abas do sistema com a opção de importar, então já saiba que tem variações 😁
+Agora, dando uma atenção para o último campo, podemos observar que ele tem um campo de seleção a mais. Esse campo com a seleção irá aparecer em outras telas do sistema com a opção de importar, então já saiba que tem variações 😁
 
-No exemplo abaixo, usamos a aba `Agendamentos` e nela temos dois campos antes das opções de importação, e também pelo menos três campos com as seleções, sendo unidade, vendedor e data. É importante definir corretamente a informação que vai para o sistema, evitando assim problema na importação. 
+No exemplo abaixo, usamos a tela `Agendamentos` e nela temos dois campos antes das opções de importação, e também pelo menos três campos com as seleções, sendo unidade, vendedor e data. É importante definir corretamente a informação que vai para o sistema, evitando assim problema na importação. 
 
 Nos dois campos que aparecem na parte de cima na hora de importar, o primeiro é o de **tipo de agendamento**, ele é um campo de preenchimento obrigatório, e os tipos já precisam estar cadastrados para aparecerem neste campo.
 
@@ -43,7 +43,7 @@ Com o tipo selecionado, os agendamento importados terão ele como padrão, entã
 {% endhint %}
 
 {% hint style="info" %}
-**Informação:** Vale lembrar que essas opções têm variação a depender da aba que você está utilizando e fazendo importação!
+**Informação:** Vale lembrar que essas opções têm variação a depender da tela que você está utilizando e fazendo importação!
 {% endhint %}
 
 ![](/erp-v2/assets/importar_botao_planilha_campos_select.gif)

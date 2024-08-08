@@ -10,7 +10,7 @@ Nesta tela você encontra todos os indicadores cadastrados na plataforma da **Ge
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicadores.gif)
 
-Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar indicadores;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;

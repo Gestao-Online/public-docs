@@ -1,10 +1,10 @@
 # 🫴 Liberação de desconto
 
-Na aba liberação de desconto você encontrará todas as solicitações de descontos para vendas, com status aguardando análise, liberado e negado. 
+Na tela liberação de desconto você encontrará todas as solicitações de descontos para vendas, com status aguardando análise, liberado e negado. 
 
 Estas solicitações são provenientes de vendas, pedido de venda ou compras, que ultrapassem o limite determinado de desconto no [**`perfil de desconto`**](/erp-v2/funcionalidades/usuarios_vendedores/perfil_desconto.md) de um vendedor, seja ele em valor ou percentual.
 
-Esta aba está vinculada diretamente à aba de vendas, venda recorrente, pedido de venda, perfil de desconto (venda/compra). São muitos vínculos, mas isso faz o sistema da **Gestão Online** ser preciso nos resultados.
+Esta tela está vinculada diretamente à tela de vendas, venda recorrente, pedido de venda, perfil de desconto (venda/compra). São muitos vínculos, mas isso faz o sistema da **Gestão Online** ser preciso nos resultados.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -18,7 +18,7 @@ Esta aba está vinculada diretamente à aba de vendas, venda recorrente, pedido 
 
 <br>
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -39,7 +39,7 @@ Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
 
 ## Editando uma liberação de desconto
 
-As liberações surgirão automaticamente nesta aba sempre que houver uma solicitação de desconto, cada uma delas tem um botão de editar e outro de excluir. Em nosso exemplo, temos uma solicitação de liberação aguardando análise. Vamos clicar no ícone <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line">editar item para acessarmos mais informações:
+As liberações surgirão automaticamente nesta tela sempre que houver uma solicitação de desconto, cada uma delas tem um botão de editar e outro de excluir. Em nosso exemplo, temos uma solicitação de liberação aguardando análise. Vamos clicar no ícone <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line">editar item para acessarmos mais informações:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar.png)
 

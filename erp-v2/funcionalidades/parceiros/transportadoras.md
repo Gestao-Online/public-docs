@@ -1,6 +1,6 @@
 # 🚚 Transportadoras
 
-Nesta aba você encontra todas as transportadoras cadastradas na plataforma da **Gestão Online**. E caso tenha alguma transportadora faltando, pode efetuar o cadastro dela seguindo este manual.
+Nesta tela você encontra todas as transportadoras cadastradas na plataforma da **Gestão Online**. E caso tenha alguma transportadora faltando, pode efetuar o cadastro dela seguindo este manual.
 
 <img src="/erp-v2/assets/placa-aviso.gif" alt="" data-size="line"> É importante lembrar que dependendo do cliente que você cadastrar na **Tela  Clientes**, nas configurações, pode também definir este mesmo cliente como um **fornecedor**, **indicador** ou **transportadora**. (Informação explicada no menu [**`Definição de tipo`**](/erp-v2/funcionalidades/parceiros/transportadoras.md#campo-definicao-de-tipo))
 
@@ -10,7 +10,7 @@ Nesta aba você encontra todas as transportadoras cadastradas na plataforma da *
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar transportadoras;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -85,7 +85,7 @@ Ainda dos campos obrigatórios, o último é o de e-mail. Mas ao seu lado temos 
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras_campo_email_telefones.png)
 
-Descendo mais um pouco nos deparamos com três campos que tem vínculo com outras abas em nosso sistema. O primeiro é o tipo, aqui você define se este será um **cliente**, **fornecedor**, **indicador** ou **transportadora**. Este mesmo campo permite marcar mais de um tipo para esse cadastro que estamos fazendo.
+Descendo mais um pouco nos deparamos com três campos que tem vínculo com outras telas em nosso sistema. O primeiro é o tipo, aqui você define se este será um **cliente**, **fornecedor**, **indicador** ou **transportadora**. Este mesmo campo permite marcar mais de um tipo para esse cadastro que estamos fazendo.
 
 Observe a demonstração abaixo utilizando esta opção. Mas seguiremos somente com o tipo transportadora selecionado.
 
@@ -127,7 +127,7 @@ E ainda pode definir um vendedor para atender esta transportadora. Este vínculo
 **Vendedores:** Caso queira mais informações sobre cadastro de vendedores, [**`clique aqui`**](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md).
 {% endhint %}
 
-Precisa também definir uma unidade de atendimento desta transportadora, lembrando que o vínculo com a unidade irá definir as tabelas de preços para custo e comissão, e também os produtos disponíveis para a aba de venda.
+Precisa também definir uma unidade de atendimento desta transportadora, lembrando que o vínculo com a unidade irá definir as tabelas de preços para custo e comissão, e também os produtos disponíveis para a tela de venda.
 
 {% hint style="warning" %}
 **Unidades:** Caso queira mais informações sobre cadastro de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
@@ -151,7 +151,7 @@ Depois que salvar as informações da nova transportadora, novas guias ficarão 
 
 Em nosso exemplo como não definimos um **tipo parceiro** ou **parceiro indicador**, o cadastro fica mais simples, e irá aparecer somente a guia de contatos.
 
-### Guia contatos
+### Aba contatos
 
 Nesta guia, você pode cadastrar os contatos com os quais esta transportadora possui algum tipo de vínculo.
 

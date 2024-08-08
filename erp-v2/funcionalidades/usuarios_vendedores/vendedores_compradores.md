@@ -14,7 +14,7 @@ Aqui você tem a visão de todos os vendedores e compradores cadastrados na plat
 
 <br>
 
-Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;

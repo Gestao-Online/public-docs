@@ -1,6 +1,6 @@
 # 📩 Usando os Filtros
 
-Observe abaixo como utilizar as funções que estão presentes em todas as abas da nossa plataforma da **Gestão Online**.😁
+Observe abaixo como utilizar as funções que estão presentes em todas as telas da nossa plataforma da **Gestão Online**.😁
 
 Esse guia tem como intuito explicar os tipos de filtro e a melhor maneira de utilizá-los.
 
@@ -10,7 +10,7 @@ No menu de filtro você pode definir uma busca específica por itens, seja por I
 **Informação:** Escolhemos algumas telas para demonstrar os tipos de filtros, mas lembrando que os filtros podem ser executados em praticamente todas as telas do sistema.
 {% endhint %}
 
-![Para esta demonstração, utilizamos a aba Produtos.](/erp-v2/assets/filtros/cabecalho_filtro.png)
+![Para esta demonstração, utilizamos a tela Produtos.](/erp-v2/assets/filtros/cabecalho_filtro.png)
 
 <br>
 
@@ -24,7 +24,7 @@ Logo acima no menu superior, temos o botão de atalho dos filtros, quando clicam
 
 <br>
 
-Sempre que você abrir uma aba na plataforma, o primeiro filtro é o ID, dois ícones utilizáveis estão nele:
+Sempre que você abrir uma tela na plataforma, o primeiro filtro é o ID, dois ícones utilizáveis estão nele:
 
 - <img src="/erp-v2/assets/icon_ordem.png" alt="" data-size="line"> Ordenar lista por maior ou menor;
 - <img src="/erp-v2/assets/icon_filtroo.png" alt="" data-size="line"> Abrir janela de filtro;
@@ -86,6 +86,6 @@ Se você observar, sempre ao **`lado direito`** de cada item listado, você tem 
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_editar_excluir.png)
 
-Outra opção de busca é por data (Exemplo usando aba de vendas). Ao clicar no campo, um calendário aparece para você escolher a data desejada para a busca:
+Outra opção de busca é por data (Exemplo usando tela de vendas). Ao clicar no campo, um calendário aparece para você escolher a data desejada para a busca:
 
 ![](/erp-v2/assets/filtros/aba_vendas_filtro_data.gif)

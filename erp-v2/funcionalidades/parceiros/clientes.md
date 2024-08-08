@@ -1,10 +1,10 @@
 # 👤 Clientes
 
-Nesta aba você encontra todos os clientes cadastrados na plataforma da **Gestão Online**. E caso tenha algum cliente faltando pode efetuar o cadastro dele seguindo este manual.
+Nesta tela você encontra todos os clientes cadastrados na plataforma da **Gestão Online**. E caso tenha algum cliente faltando pode efetuar o cadastro dele seguindo este manual.
 
  <img src="/erp-v2/assets/placa-aviso.gif" alt="" data-size="line"> É importante lembrar que dependendo do cliente que você cadastrar na **Tela  Clientes**, nas configurações, pode também definir este mesmo cliente como um **fornecedor**, **indicador** ou **transportador**. (Informação explicada no menu [**`Definição de tipo`**](/erp-v2/funcionalidades/parceiros/clientes.md#campo-definicao-de-tipo))
 
-Esta aba de clientes estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [**`clique aqui`**](/erp-v2/primeiro_acesso/favoritos.md)).
+Esta tela de clientes estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [**`clique aqui`**](/erp-v2/primeiro_acesso/favoritos.md)).
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -12,7 +12,7 @@ Esta aba de clientes estará disponível para você tanto no menu principal quan
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar clientes;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -83,7 +83,7 @@ Ainda dos campos obrigatórios, o último é o de e-mail. Mas ao seu lado temos 
 
 ### Campo definição de tipo
 
-Descendo mais um pouco nos deparamos com três campos que tem vínculo com outras abas em nosso sistema. O primeiro é o tipo, aqui você define se este será um **cliente**, **fornecedor**, **indicador** ou **transportadora**. Este mesmo campo permite marcar mais de um tipo para esse cadastro que estamos fazendo.
+Descendo mais um pouco nos deparamos com três campos que tem vínculo com outras telas em nosso sistema. O primeiro é o tipo, aqui você define se este será um **cliente**, **fornecedor**, **indicador** ou **transportadora**. Este mesmo campo permite marcar mais de um tipo para esse cadastro que estamos fazendo.
 
 Observe a demonstração abaixo utilizando esta opção. Mas seguiremos somente com o tipo cliente selecionado.
 
@@ -97,7 +97,7 @@ Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo marcar
 
 No campo **parceiro indicador**, você coloca o nome de um cliente/parceiro que indicou este cliente para cadastro. Este campo está vinculado ao sistema de pagamento de comissões, que está presente no momento da realização de uma venda. Caso queira mais informações sobre **parceiros indicadores** [**`clique aqui`**](/erp-v2/funcionalidades/indicadores_afiliados/parceiros_indicadores.md)
 
-Em nossa demonstração, utilizaremos o parceiro indicador **Gestão Online**. Mas veja que é possível cadastrar um novo parceiro na mesma página, e até editar um parceiro em uma nova aba:
+Em nossa demonstração, utilizaremos o parceiro indicador **Gestão Online**. Mas veja que é possível cadastrar um novo parceiro na mesma página, e até editar um parceiro em uma nova tela:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campo_tipo_parceiro_indicador.gif)
 
@@ -151,11 +151,11 @@ Quando ativamos a opção **Gerar link venda online**, mais opções ficam dispo
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_dados_venda_online.png)
 
-O primeiro campo para preencher é o de **Tabela de preço venda online**, essas tabelas já devem estar criadas e configuradas na aba **Tabela de preços**. Para mais informações sobre as tabelas de preços, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
+O primeiro campo para preencher é o de **Tabela de preço venda online**, essas tabelas já devem estar criadas e configuradas na tela **Tabela de preços**. Para mais informações sobre as tabelas de preços, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_dados_venda_online_tabela.gif)
 
-No campo **tipo de negociação venda online**, você pode escolher uma das opções cadastradas que tem vínculo com a aba [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md). Para nosso exemplo, iremos marcar a opção **Boleto - GOPag**:
+No campo **tipo de negociação venda online**, você pode escolher uma das opções cadastradas que tem vínculo com a tela [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md). Para nosso exemplo, iremos marcar a opção **Boleto - GOPag**:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_dados_tipo_negociacao.png)
 
@@ -179,7 +179,7 @@ Observe abaixo o resultado:
 
 Depois que salvar as informações do novo cliente, novas guias ficarão disponíveis para você poder acessar, com contatos, parceiros indicados, histórico de indicações e histórico de movimentações/vendas.
 
-### Guia contatos
+### Aba contatos
 
 Nesta guia, você pode cadastrar os contatos com os quais este cliente possui algum tipo de vínculo.
 
@@ -189,21 +189,21 @@ E nesta mesma guia, quando cadastraremos um contato, além das informações bá
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_contatos_add.png)
 
-### Guia parceiros indicados
+### Aba parceiros indicados
 
 Nesta guia, você coloca os parceiros indicados, lembrando que eles recebem comissão por vendas realizadas para este cliente. Nesta guia, pode usar o botão de importação caso tenha muitos parceiros indicados, ou pode adicionar manualmente.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_parceiros_indicados_add.png)
 
-### Guia histórico de indicações
+### Aba histórico de indicações
 
 Quando as vendas acontecem e o parceiro indicador é colocado, aqui ficam registradas essas movimentações, com nome do parceiro indicador, valor da venda, valor de referência, data e status.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_historico_indicacoes.png)
 
-### Guia histórico de movimentações/vendas
+### Aba histórico de movimentações/vendas
 
-Nesta guia, todas as vendas realizadas com este cliente ficarão registradas. Esta guia tem a mesma funcionalidade da guia de vendas, podendo acompanhar somente as vendas deste cliente. Para mais informações sobre a aba de vendas e suas funcionalidades, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
+Nesta guia, todas as vendas realizadas com este cliente ficarão registradas. Esta guia tem a mesma funcionalidade da guia de vendas, podendo acompanhar somente as vendas deste cliente. Para mais informações sobre a tela de vendas e suas funcionalidades, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_historico_movimentacoes.png)
 

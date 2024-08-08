@@ -14,7 +14,7 @@ Aqui você tem a visão de todos os usuários cadastrados na plataforma **Gestã
 
 <br>
 
-Nesta tela está um menu ao lado direito da tela com as seguintes funções:
+Nesta tela está um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_notificacao.png" alt="" data-size="line"> Enviar notificações para usuários;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;

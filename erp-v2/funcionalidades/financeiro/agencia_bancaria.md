@@ -1,6 +1,6 @@
 # 🏦 Agência bancária
 
-Nesta aba você encontra todas as agências bancárias cadastradas na plataforma da **Gestão Online**. E caso tenha alguma agência faltando, você pode efetuar o cadastro ou editar alguma agência existente, precisando somente seguir este manual.
+Nesta tela você encontra todas as agências bancárias cadastradas na plataforma da **Gestão Online**. E caso tenha alguma agência faltando, você pode efetuar o cadastro ou editar alguma agência existente, precisando somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -8,7 +8,7 @@ Nesta aba você encontra todas as agências bancárias cadastradas na plataforma
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_agencia.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;

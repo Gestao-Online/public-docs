@@ -1,24 +1,24 @@
-#  🧑‍🏫 Apresentação da barra de navegação (abas, botões)
+#  🧑‍🏫 Apresentação da barra de navegação (telas, botões)
 
 À primeira vista estão alguns botões para conhecermos melhor, vejamos abaixo o nome de cada um e sua definição:
 
 ![](/erp-v2/assets/tela_abas_botoes_inicio.png)
 
-**01 - Espaço para abas:** No primeiro item, está o espaço dedicado às abas, cada função da nossa plataforma ficará nesta área quando você estiver utilizando.
+**01 - Espaço para tela:** No primeiro item, está o espaço dedicado às tela, cada função da nossa plataforma ficará nesta área quando você estiver utilizando.
 
-- Observe quando tem muitas abas abertas ao mesmo tempo, a aba em uso ficará com a cor mais clara e as demais com a cor mais escura, auxiliando assim sua visão sobre qual aba está no momento:
+- Observe quando tem muitas telas abertas ao mesmo tempo, a tela em uso ficará com a cor mais clara e as demais com a cor mais escura, auxiliando assim sua visão sobre qual tela está no momento:
 
 - ![](/erp-v2/assets/tela_abas_funcao.png)
 
-- As abas foram projetadas para facilitar seu dia a dia, colocamos atalhos e funções secundárias importantes, dentre elas temos a movimentação de posição das abas, caso queira mudar a ordem em que elas estão:
+- As telas foram projetadas para facilitar seu dia a dia, colocamos atalhos e funções secundárias importantes, dentre elas temos a movimentação de posição das telas, caso queira mudar a ordem em que elas estão:
 
 - ![](/erp-v2/assets/tela_abas_funcao1.gif)
 
-- Com o clique do botão direito do mouse, você tem funções de recarregar a aba ou fechar a aba:
+- Com o clique do botão direito do mouse, você tem funções de recarregar a tela ou fechar a aba:
 
 - ![](/erp-v2/assets/tela_abas_funcao2.gif)
 
-- Ainda com a função do botão direito do mouse na aba, temos a opção de fechar outras abas ou fechar todas as abas:
+- Ainda com a função do botão direito do mouse na aba, temos a opção de fechar outras telas ou fechar todas as telas:
 
 - ![](/erp-v2/assets/tela_abas_funcao3.gif)
 

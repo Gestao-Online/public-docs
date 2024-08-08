@@ -8,7 +8,7 @@ Aqui você poderá ver as notas fiscais de serviço eletrônicas, baixadas pelo 
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_nfse.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_zip.png" alt="" data-size="line"> Download de lote NF;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -52,13 +52,13 @@ Em nossa demonstração, baixamos os arquivos e abrimos para ter acesso às nota
 
 ## Botão direito do mouse
 
-Temos algumas funções paralelas nesta aba, clicando como o botão direito do mouse. Você pode ver algumas opções para uso, no caso de uma NF com status concluído, você pode **Cancelar NF** ou **Atualizar status NF**. Agora, para os status processando e rejeitado, fica somente a opção de **Atualizar status NF**.
+Temos algumas funções paralelas nesta tela, clicando como o botão direito do mouse. Você pode ver algumas opções para uso, no caso de uma NF com status concluído, você pode **Cancelar NF** ou **Atualizar status NF**. Agora, para os status processando e rejeitado, fica somente a opção de **Atualizar status NF**.
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_nfse_btn_mouse.gif)
 
 ## Botão adicionar nova NF
 
-Nesta aba em específico, mesmo com o botão para adicionar, o foco desta aba é somente para acompanhar as NFs geradas através das vendas. Por conta disso, todos os campos de edição são desabilitados, permitindo somente a visualização das informações da nota fiscal selecionada.
+Nesta tela em específico, mesmo com o botão para adicionar, o foco desta tela é somente para acompanhar as NFs geradas através das vendas. Por conta disso, todos os campos de edição são desabilitados, permitindo somente a visualização das informações da nota fiscal selecionada.
 
 Abaixo mostramos um exemplo de visualização dos dados de uma NF.
 

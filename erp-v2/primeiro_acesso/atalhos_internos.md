@@ -3,17 +3,17 @@
 Assim como você tem atalhos com o botão direito do mouse no seu sistema operacional, nós temos na plataforma **Gestão Online** este recurso. Vamos conferir!
 
 {% hint style="info" %}
-**Informação:** Para o exemplo, utilizamos a aba de clientes, esses atalhos podem mudar dependendo da aba que você estiver utilizando no momento! 😉👍
+**Informação:** Para o exemplo, utilizamos a tela de clientes, esses atalhos podem mudar dependendo da tela que você estiver utilizando no momento! 😉👍
 {% endhint %}
 
-Ao clicar com o botão direito do mouse em cima de um item da aba (Neste caso, um produto), um menu rápido com algumas opções para te trazer agilidade, podendo editar o item, abrir item selecionado em uma nova aba ou excluir:
+Ao clicar com o botão direito do mouse em cima de um item da tela (Neste caso, um produto), um menu rápido com algumas opções para te trazer agilidade, podendo editar o item, abrir item selecionado em uma nova tela ou excluir:
 
 - <img src="/erp-v2/assets/funcionalidades/icon_editar_item_mouse.png" alt="" data-size="line"> Editar item;
-- <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova aba;
+- <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> Abrir/Editar item em nova tela;
 - <img src="/erp-v2/assets/funcionalidades/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
 
 {% hint style="warning" %}
-**Importante:** As opções disponíveis do botão direito do mouse sobre o item pode variar com mais ou menos opções, tudo depende da aba que você está usando no momento.
+**Importante:** As opções disponíveis do botão direito do mouse sobre o item pode variar com mais ou menos opções, tudo depende da tela que você está usando no momento.
 {% endhint %}
 
 ![](/erp-v2/assets/atalho_interno_btn_direito.gif)
@@ -36,9 +36,9 @@ Se por acaso você marcar algum item errado, ou quiser cancelar a seleção, pod
 
 <br>
 
-## Atalho de nova aba
+## Atalho de nova tela
 
-Seguindo o exemplo de uso do botão direito do mouse, na aba de vendas, por exemplo, temos o ícone <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> do quadrado com a seta. Clicando nele, você é direcionado para a aba cliente/parceiro:
+Seguindo o exemplo de uso do botão direito do mouse, na tela de vendas, por exemplo, temos o ícone <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> do quadrado com a seta. Clicando nele, você é direcionado para a tela cliente/parceiro:
 
 ![](/erp-v2/assets/atalho_icone_vendas.gif)
 
@@ -47,7 +47,7 @@ Seguindo o exemplo de uso do botão direito do mouse, na aba de vendas, por exem
 ## Menu, botão direito do mouse 
 <!-- right-click (Ações no botāo direito de um item da grid) -->
 
-Ainda na aba de vendas, ao clicar com o botão direito do mouse, você encontrará uma série de atalhos que simplificam o uso da plataforma. Entre eles, estão opções para gerar uma nota fiscal, cancelar uma venda, enviar notificações, editar um item, abrir o item em uma nova aba para edição e até mesmo excluí-lo:
+Ainda na tela de vendas, ao clicar com o botão direito do mouse, você encontrará uma série de atalhos que simplificam o uso da plataforma. Entre eles, estão opções para gerar uma nota fiscal, cancelar uma venda, enviar notificações, editar um item, abrir o item em uma nova tela para edição e até mesmo excluí-lo:
 
 ![](/erp-v2/assets/atalho_btn_mouse_vendas.gif)
 
@@ -66,17 +66,17 @@ Importante lembrar que você pode fazer alterações em lote selecionando vário
 ## Menu de ações superior 
 <!-- list-toolbar (Ações na barra de ferramentas da grid - indepente do item geral, sem seleçāo) -->
 
-Não só a função do botão direito, você tem disponíveis em cada aba um menu superior com botões específicos para cada situação, com impressão de página, atualizar página, adicionar novo item, entre vários outros.
+Não só a função do botão direito, você tem disponíveis em cada tela um menu superior com botões específicos para cada situação, com impressão de página, atualizar página, adicionar novo item, entre vários outros.
 
 {% hint style="info" %}
-**Informação:** Para o exemplo, utilizamos a aba de produtos, esses atalhos/menus podem mudar dependendo da aba que você estiver utilizando no momento! 😉👍
+**Informação:** Para o exemplo, utilizamos a tela de produtos, esses atalhos/menus podem mudar dependendo da tela que você estiver utilizando no momento! 😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/atalho_menus_superiores.gif)
 
 <br>
 
-Ainda mostrando os tipos de menus superiores, temos na aba de vendas outras opções disponíveis para facilitar o seu dia a dia com a plataforma **Gestão Online**, veja abaixo:
+Ainda mostrando os tipos de menus superiores, temos na tela de vendas outras opções disponíveis para facilitar o seu dia a dia com a plataforma **Gestão Online**, veja abaixo:
 
 ![](/erp-v2/assets/atalho_menus_superiores2.gif)
 
@@ -107,10 +107,10 @@ Outro atalho com teclas é o `Ctrl` + `C`, podendo copiar textos que você clico
 
 ## Botão de ação de um item
 
-Você também tem atalhos no momento de fazer o cadastro de um item, seja produto, venda ou uma loja, por exemplo. Os campos de preenchimento, na sua maioria, contam com atalhos para tanto criar um item, quanto abrir a aba de referência para uma busca ou edição:
+Você também tem atalhos no momento de fazer o cadastro de um item, seja produto, venda ou uma loja, por exemplo. Os campos de preenchimento, na sua maioria, contam com atalhos para tanto criar um item, quanto abrir a tela de referência para uma busca ou edição:
 
 {% hint style="info" %}
-**Informação:** Para este exemplo, utilizamos a aba `Vendas`, podendo ter variação de opções disponíveis caso use outra aba na plataforma. Este exemplo é apenas para demonstrar a função.
+**Informação:** Para este exemplo, utilizamos a tela `Vendas`, podendo ter variação de opções disponíveis caso use outra tela na plataforma. Este exemplo é apenas para demonstrar a função.
 {% endhint %}
 
 ![](/erp-v2/assets/atalho_icone_novo_abrir.gif)

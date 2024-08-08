@@ -1,6 +1,6 @@
 # 🏷️ Etiqueta de agendamentos.
 
-Nesta aba você encontra todas as etiquetas de agendamento que estão cadastradas na plataforma da **Gestão Online**. Essas etiquetas podem ser usadas para identificar ou organizar os agendamentos que você cria dentro da plataforma.
+Nesta tela você encontra todas as etiquetas de agendamento que estão cadastradas na plataforma da **Gestão Online**. Essas etiquetas podem ser usadas para identificar ou organizar os agendamentos que você cria dentro da plataforma.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -8,7 +8,7 @@ Nesta aba você encontra todas as etiquetas de agendamento que estão cadastrada
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_etiqueta.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -60,5 +60,5 @@ Após preencher todos os dados, você clica no ícone <img src="/erp-v2/assets/i
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_etiqueta_add_salvar.gif)
 
 {% hint style="warning" %}
-**Agendamentos:** Caso queira mais informações sobre como utilizar a aba de agendamentos, [**`clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/agendamentos.md).
+**Agendamentos:** Caso queira mais informações sobre como utilizar a tela de agendamentos, [**`clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/agendamentos.md).
 {% endhint %}

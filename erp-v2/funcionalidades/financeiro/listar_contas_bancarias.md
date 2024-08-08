@@ -1,6 +1,6 @@
 # 💳 Listar contas
 
-Nesta aba você encontra listadas todas as contas bancárias cadastradas na plataforma da **Gestão Online**. E caso tenha alguma conta faltando, você pode efetuar o cadastro seguindo este manual.
+Nesta tela você encontra listadas todas as contas bancárias cadastradas na plataforma da **Gestão Online**. E caso tenha alguma conta faltando, você pode efetuar o cadastro seguindo este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -8,7 +8,7 @@ Nesta aba você encontra listadas todas as contas bancárias cadastradas na plat
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_contas.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_grafico.png" alt="" data-size="line"> Relatório de fluxo de caixa;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -35,11 +35,11 @@ Nesta janela aberta tem alguns campos de preenchimento obrigatório, sendo eles 
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_contas_btn_fluxo_caixa.png)
 
-Ao clicar no primeiro campo de **Conta** será carregado as contas cadastradas na plataforma. Lembrando que estas são as contas que aparecem nesta aba.
+Ao clicar no primeiro campo de **Conta** será carregado as contas cadastradas na plataforma. Lembrando que estas são as contas que aparecem nesta tela.
 
 Você pode definir a **data de inicio e fim** dos relatórios que serão exibidos, e o **tipo de arquivo**, que pode ser `PDF` ou `EXCEL` para efetuar o download.
 
-Observe abaixo o exemplo que fizemos, o relatório é mostrado em uma nova aba permitindo o download ou impressão. Nosso relatório é somente para ilustrar, não possui dados de entrada ou saída.
+Observe abaixo o exemplo que fizemos, o relatório é mostrado em uma nova tela permitindo o download ou impressão. Nosso relatório é somente para ilustrar, não possui dados de entrada ou saída.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_contas_btn_fluxo_caixa_conta.gif)
 
@@ -74,7 +74,7 @@ Usado, por exemplo, para o caixa de uma loja, esta opção exibe somente os camp
 
 Na descrição você pode colocar um nome que facilite a identificação desta conta bancária quando precisa buscá-la para uso.
 
-Já no campo de empresa, o vínculo é feito com a **Tela  empresas**, e você pode escolher uma empresa cadastrada. E para mais informações sobre a aba Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md)
+Já no campo de empresa, o vínculo é feito com a **Tela  empresas**, e você pode escolher uma empresa cadastrada. E para mais informações sobre a tela Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md)
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_caixinha.png)
 
@@ -151,7 +151,7 @@ Com a opção tipo **Cartão de Crédito** definida, será solicitado o banco. L
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_cc_banco.png)
 
-Já no campo de empresa, o vínculo é feito com a **Tela  empresas**, e você pode escolher uma empresa cadastrada. E para mais informações sobre a aba Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md)
+Já no campo de empresa, o vínculo é feito com a **Tela  empresas**, e você pode escolher uma empresa cadastrada. E para mais informações sobre a tela Empresas, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md)
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_cc_empresa.png)
 
@@ -199,7 +199,7 @@ Assim que você salvar a conta bancária, as novas guias estarão disponíveis p
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia.png)
 
-### Guia Movimentações/Transferências
+### Aba Movimentações/Transferências
 
 Aqui estão todas as movimentações bancárias entre as contas, desde saques, resgates, aplicações ou até mesmo depósitos.
 
@@ -225,13 +225,13 @@ Após salvar esta movimentação, ela ficará com um status definido como **Pend
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_movimentacoes_add_mudar_concilicaca.gif)
 
-### Guia Saldo
+### Aba Saldo
 
 Nesta guia ficam os valores do saldo da conta cadastrada desde o seu saldo inicial, todas as movimentações registradas aqui são feitas automaticamente, somente para apreciação, não tendo opção de adicionar/remover manualmente.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_saldo.png)
 
-### Guia Arquivo remessa
+### Aba Arquivo remessa
 
 O arquivo de remessa é um documento enviado ao banco ou instituição financeira para notificar a emissão de uma cobrança registrada, como um boleto, por exemplo. 
 
@@ -246,7 +246,7 @@ Você pode adicionar o arquivo remessa manualmente, clicando no botão <img src=
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_remessa_btn_gerar.png)
 
-### Guia Arquivos retorno
+### Aba Arquivos retorno
 
 O arquivo de retorno é a resposta do banco às transações registradas no arquivo de remessa. 
 

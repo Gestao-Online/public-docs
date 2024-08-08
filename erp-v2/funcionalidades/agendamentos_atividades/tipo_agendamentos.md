@@ -1,6 +1,6 @@
 # #️⃣ Tipo de agendamentos
 
-Nesta aba você encontra todos os tipos de agendamento que estão cadastrados na plataforma da **Gestão Online**. Esses tipos de agendamentos são usados para habilitar permissões na aba de agendamentos.
+Nesta tela você encontra todos os tipos de agendamento que estão cadastrados na plataforma da **Gestão Online**. Esses tipos de agendamentos são usados para habilitar permissões na tela de agendamentos.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -8,7 +8,7 @@ Nesta aba você encontra todos os tipos de agendamento que estão cadastrados na
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -46,10 +46,10 @@ O primeiro campo é para inserir o **código** da etiqueta. Pode ser número ou 
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_codigo.png)
 
-O segundo campo, você tem o campo de **descrição**, o nome que você colocar aqui, será exibido no campo de definição de tipo de agendamento na aba de **agendamentos**. Por isso, coloque um nome que seja fácil e prático para buscar. 😁👍
+O segundo campo, você tem o campo de **descrição**, o nome que você colocar aqui, será exibido no campo de definição de tipo de agendamento na tela de **agendamentos**. Por isso, coloque um nome que seja fácil e prático para buscar. 😁👍
 
 {% hint style="warning" %}
-**Agendamentos:** Caso queira mais informações sobre como utilizar a aba de agendamentos, [**`clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/agendamentos.md).
+**Agendamentos:** Caso queira mais informações sobre como utilizar a tela de agendamentos, [**`clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/agendamentos.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_descricao.png)
@@ -66,7 +66,7 @@ Vamos fazer um exemplo desde tipo de agendamento e deixaremos ativo somente a mu
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_permissoes_tipo.png)
 
-Agora, na aba **Agendamentos**, observe que eu tento fazer a alteração do status do agendamento, mas como o tipo definido não permite, uma mensagem é exibida para nós. Fazendo com que o controle de agendamentos tenha mais organização e evite modificações constantes.
+Agora, na tela **Agendamentos**, observe que eu tento fazer a alteração do status do agendamento, mas como o tipo definido não permite, uma mensagem é exibida para nós. Fazendo com que o controle de agendamentos tenha mais organização e evite modificações constantes.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_teste_permissao_aba_agendamentos.gif)
 

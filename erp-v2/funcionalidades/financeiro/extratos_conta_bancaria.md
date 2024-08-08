@@ -1,6 +1,6 @@
 # 🧾 Extratos de conta bancária
 
-Nesta aba você encontra listados todos os extratos bancários integrados ao banco da conta na plataforma da **Gestão Online**. 
+Nesta tela você encontra listados todos os extratos bancários integrados ao banco da conta na plataforma da **Gestão Online**. 
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -8,7 +8,7 @@ Nesta aba você encontra listados todos os extratos bancários integrados ao ban
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_caixa.png" alt="" data-size="line"> Gerar financeiro;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -34,15 +34,15 @@ Ao clicar neste ícone, uma janela será aberta para você preencher algumas inf
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar.gif)
 
-Em seguida, você define de qual conta será gerado esse financeiro, lembrando que este campo está diretamente ligado à aba [**`Listar contas`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md), ao trazer todas as contas.
+Em seguida, você define de qual conta será gerado esse financeiro, lembrando que este campo está diretamente ligado à tela [**`Listar contas`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md), ao trazer todas as contas.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_conta.png)
 
-Logo abaixo, está o campo da **Taxa do parceiro fornecedor**, para você selecionar o parceiro/fornecedor do lançamento da taxa. Ex: GOPag, Cielo ou Banco do Brasil. E este campo está diretamente ligado à aba [**`Parceiros`**](/erp-v2/funcionalidades/parceiros/fornecedores.md).
+Logo abaixo, está o campo da **Taxa do parceiro fornecedor**, para você selecionar o parceiro/fornecedor do lançamento da taxa. Ex: GOPag, Cielo ou Banco do Brasil. E este campo está diretamente ligado à tela [**`Parceiros`**](/erp-v2/funcionalidades/parceiros/fornecedores.md).
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_fornecedor.png)
 
-Em penúltimo, para preenchimento, temos a taxa natureza, basicamente ela permite indicar o tipo de natureza que definirá esse financeiro que está sendo gerado. E assim como os campos anteriores, você tem uma ligação direta deste campo com a aba [**`Naturezas`**](/erp-v2/funcionalidades/parametrizacoes/naturezas.md)
+Em penúltimo, para preenchimento, temos a taxa natureza, basicamente ela permite indicar o tipo de natureza que definirá esse financeiro que está sendo gerado. E assim como os campos anteriores, você tem uma ligação direta deste campo com a tela [**`Naturezas`**](/erp-v2/funcionalidades/parametrizacoes/naturezas.md)
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_extratos_contas_menu_btn_gerar_natureza.png)
 

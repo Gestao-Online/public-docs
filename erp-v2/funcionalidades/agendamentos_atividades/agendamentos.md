@@ -1,6 +1,6 @@
 # 📅 Agendamentos
 
-Nesta aba você encontra todos os agendamentos que estão cadastrados na plataforma da **Gestão Online**. Vale ressaltar que não só para vendas, mas também para futuros pagamentos ou compromissos financeiros. E caso queira criar, editar ou excluir um agendamento existente, precisa somente seguir este manual.
+Nesta Tela você encontra todos os agendamentos que estão cadastrados na plataforma da **Gestão Online**. Vale ressaltar que não só para vendas, mas também para futuros pagamentos ou compromissos financeiros. E caso queira criar, editar ou excluir um agendamento existente, precisa somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -8,7 +8,7 @@ Nesta aba você encontra todos os agendamentos que estão cadastrados na platafo
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamentos.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta Tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -44,10 +44,10 @@ Após clicar no botão para adicionar um novo agendamento, uma nova página ser�
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamentos_add_menu.png)
 
-O primeiro campo é para definir o tipo de agendamento, para usar ele é necessário que você já tenha cadastrado os tipos na aba **Tipo de agendamento**. Observe nossa demonstração abaixo escolhendo a opção *renovação* que criamos no manual de *Tipo de agendamento*.
+O primeiro campo é para definir o tipo de agendamento, para usar ele é necessário que você já tenha cadastrado os tipos na Tela **Tipo de agendamento**. Observe nossa demonstração abaixo escolhendo a opção *renovação* que criamos no manual de *Tipo de agendamento*.
 
 {% hint style="warning" %}
-**Tipo de Agendamento:** Caso queira mais informações sobre como utilizar a aba tipo de agendamentos, [**`clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos.md).
+**Tipo de Agendamento:** Caso queira mais informações sobre como utilizar a tela tipo de agendamentos, [**`clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_tipo.gif)
@@ -60,33 +60,33 @@ O terceiro campo é a escolha da data do agendamento, observe que após clicar n
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_data.gif)
 
-Na sequência temos o campo de etiquetas, para usar ele é necessário que você já tenha cadastrado etiquetas na aba **Etiqueta de agendamento**. Observe nossa demonstração abaixo escolhendo a opção *Exemplo de etiqueta* que criamos no manual de *Etiqueta de agendamentos*.
+Na sequência temos o campo de etiquetas, para usar ele é necessário que você já tenha cadastrado etiquetas na tela **Etiqueta de agendamento**. Observe nossa demonstração abaixo escolhendo a opção *Exemplo de etiqueta* que criamos no manual de *Etiqueta de agendamentos*.
 
 {% hint style="warning" %}
-**Etiqueta de Agendamento:** Caso queira mais informações sobre como utilizar a aba etiqueta de agendamentos, [**`clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/etiqueta_agendamentos.md).
+**Etiqueta de Agendamento:** Caso queira mais informações sobre como utilizar a tela etiqueta de agendamentos, [**`clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/etiqueta_agendamentos.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_etiquetas.gif)
 
-Descendo mais um pouco, temos o campo de escolha do vendedor, essa escolha ajuda no preenchimento automático na aba de venda, quando você clica no ícone <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line"> de venda no menu superior. Lembrando que para escolher o vendedor, é necessário ele já ter o cadastro feito na aba **Vendedores & Compradores*.
+Descendo mais um pouco, temos o campo de escolha do vendedor, essa escolha ajuda no preenchimento automático na tela de venda, quando você clica no ícone <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line"> de venda no menu superior. Lembrando que para escolher o vendedor, é necessário ele já ter o cadastro feito na tela **Vendedores & Compradores*.
 
 {% hint style="warning" %}
-**Vendedores & Compradores:** Caso queira mais informações sobre como utilizar a aba vendedores e compradores, [**`clique aqui`**](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md).
+**Vendedores & Compradores:** Caso queira mais informações sobre como utilizar a tela vendedores e compradores, [**`clique aqui`**](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_vendedor.png)
 
-Agora no campo **Unidade**, que é um campo de preenchimento obrigatório. Você escolhe a qual unidade esse agendamento terá vínculo, e essa escolha ajuda no preenchimento automático na aba de vendas. Lembrando que para escolher a unidade, é necessário já ter o cadastro feito na aba **Unidades*.
+Agora no campo **Unidade**, que é um campo de preenchimento obrigatório. Você escolhe a qual unidade esse agendamento terá vínculo, e essa escolha ajuda no preenchimento automático na tela de vendas. Lembrando que para escolher a unidade, é necessário já ter o cadastro feito na tela **Unidades*.
 
 {% hint style="warning" %}
-**Unidades:** Caso queira mais informações sobre como utilizar a aba de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+**Unidades:** Caso queira mais informações sobre como utilizar a tela de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_unidades.png)
 
 No campo de **cliente/parceiro** você escolhe qual cliente será relacionado a este agendamento, lembrando que esse campo levará as informações para um preenchimento automático caso clique no botão de venda. 
 
-Neste campo, nós colocamos a opção de adicionar um novo cliente, ou abrir um cliente selecionado em nova aba, caso queira. Observe nossa demonstração abaixo.
+Neste campo, nós colocamos a opção de adicionar um novo cliente, ou abrir um cliente selecionado em nova tela, caso queira. Observe nossa demonstração abaixo.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_cliente.gif)
 
@@ -104,23 +104,23 @@ Um agendamento pode trazer mais resultados em vendas, aumentando positivamente o
 
 ## Menu após salvar agendamento
 
-Dois botões ficam habilitados a partir do momento que você salva um agendamento. O primeiro é o botão de venda <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line">, ao clicar nele, uma nova aba será aberta para efetuar uma venda, e algumas informações presentes no agendamento têm os campos preenchidos automaticamente. Campos estes de nome do cliente, parceiro indicador e observação informando que esta venda veio por meio de um agendamento criado.
+Dois botões ficam habilitados a partir do momento que você salva um agendamento. O primeiro é o botão de venda <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line">, ao clicar nele, uma nova tela será aberta para efetuar uma venda, e algumas informações presentes no agendamento têm os campos preenchidos automaticamente. Campos estes de nome do cliente, parceiro indicador e observação informando que esta venda veio por meio de um agendamento criado.
 
 Em nossa demonstração, estamos com o agendamento aberto e iremos clicar no botão de **venda**. Observe os campos que serão preenchidos.
 
 {% hint style="warning" %}
-**Unidades:** Caso queira mais informações sobre como utilizar a aba de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+**Unidades:** Caso queira mais informações sobre como utilizar a tela de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_menu_btn_venda.gif)
 
-O outro botão disponível para uso é o de **cliente/parceiro**, quando você clica nele é automaticamente levado à aba do cliente cadastrado no agendamento, podendo ver/alterar alguma informação necessária, e na própria aba do cliente também terá um botão levando direto para a venda.
+O outro botão disponível para uso é o de **cliente/parceiro**, quando você clica nele é automaticamente levado à tela do cliente cadastrado no agendamento, podendo ver/alterar alguma informação necessária, e na própria tela do cliente também terá um botão levando direto para a venda.
 
 Estes atalhos são colocados para facilitar ainda mais a probabilidade de ganho com venda dentro da empresa. 😁👍
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_menu_btn_cliente.gif)
 
-## Guia histórico
+## Aba histórico
 
 Na guia de histórico, você acompanha todas as movimentações feitas com esse agendamento. Informações do nome do usuário, código, descrição, data e hora, ou qualquer outra alteração a respeito.
 
@@ -128,7 +128,7 @@ Na guia de histórico, você acompanha todas as movimentações feitas com esse 
 
 ## Dashboard de agendamento
 
-Os agendamentos criados por você estarão disponíveis de forma visual na aba **Dashboard Agendamentos**. Por lá, você acompanha os itens cadastrados.
+Os agendamentos criados por você estarão disponíveis de forma visual na tela **Dashboard Agendamentos**. Por lá, você acompanha os itens cadastrados.
 
 {% hint style="warning" %}
 **Dashboard:** Caso queira mais informações sobre os dashboards, [**`clique aqui`**](/erp-v2/primeiro_acesso/relatorios_dashboard_grid.md).

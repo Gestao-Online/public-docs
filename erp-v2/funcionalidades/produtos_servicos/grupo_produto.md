@@ -12,7 +12,7 @@ Os grupos de produtos são utilizados para classificar o "grupo" ou "subgrupo" d
 
 ![](/erp-v2/assets/funcionalidades/grupo_produto/aba_grupo_produto.gif)
 
-Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;

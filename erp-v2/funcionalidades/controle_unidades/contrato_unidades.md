@@ -8,7 +8,7 @@ Nesta tela é possível gerenciar todos os contratos de controle de unidade cada
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato.gif)
 
-Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -58,12 +58,12 @@ No momento do cadastro de um novo contrato de controle de unidade, você precisa
 
 No primeiro campo **Unidade**, que é um campo de preenchimento obrigatório. Você escolhe a qual unidade esse contrato terá vínculo. Lembrando que para escolher a unidade, é necessário já ter o cadastro feito na tela **Unidades**.
 
- Observe que nesse mesmo campo, temos um ícone <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar a unidade selecionada abrindo ela em uma nova aba.
+ Observe que nesse mesmo campo, temos um ícone <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar a unidade selecionada abrindo ela em uma nova tela.
 
 Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo vamos escolher a opção sede/matriz.
 
 {% hint style="warning" %}
-**Atenção:** É necessário que dentro do cadastro da unidade indicada, tenha um "Parceiro responsável" pela unidade, para que as rotinas automatizadas funcionem corretamente. Caso queira mais informações sobre como utilizar a aba de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+**Atenção:** É necessário que dentro do cadastro da unidade indicada, tenha um "Parceiro responsável" pela unidade, para que as rotinas automatizadas funcionem corretamente. Caso queira mais informações sobre como utilizar a tela de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_contrato_campo_unidade.gif)
@@ -114,20 +114,20 @@ Destas opções disponíveis, você tem para deixar ele desativado, onde não ap
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_dia_semana.png)
 
-Logo após, o campo de **fechamento automático tipo de negociação**, lembre-se que este campo está vinculado diretamente com a aba **Tipo de negociação** e as opções que ele trará, são as cadastradas nesta aba. 😁
+Logo após, o campo de **fechamento automático tipo de negociação**, lembre-se que este campo está vinculado diretamente com a tela **Tipo de negociação** e as opções que ele trará, são as cadastradas nesta tela. 😁
 
 {% hint style="warning" %}
-**Tipo de negociação:** Caso queira mais informações sobre como utilizar a aba tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md).
+**Tipo de negociação:** Caso queira mais informações sobre como utilizar a tela tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md).
 {% endhint %}
 
 Em nosso exemplo, vamos escolher a opção **Boleto - GOPag**. Observe abaixo:
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_tipo_negociacao.png)
 
-Logo ao lado, temos o campo **Fechamento automático tipo de movimentação**, lembre-se que ele tem vinculado com a aba **Tipo de movimentação** e as opções que ele trará, são as cadastradas nesta aba. 😁
+Logo ao lado, temos o campo **Fechamento automático tipo de movimentação**, lembre-se que ele tem vinculado com a tela **Tipo de movimentação** e as opções que ele trará, são as cadastradas nesta tela. 😁
 
 {% hint style="warning" %}
-**Tipo de movimentação:** Caso queira mais informações sobre como utilizar a aba tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+**Tipo de movimentação:** Caso queira mais informações sobre como utilizar a tela tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
 {% endhint %}
 
 Em nosso exemplo, vamos escolher a opção **Venda - Unidade (Custo)**. Observe abaixo:
@@ -154,7 +154,7 @@ Assim que você salvar o contrato de controle, novas abas ficarão disponíveis 
 
 A primeira é de movimentação de saldo, exibindo todos os tipos de lançamentos, sendo débito ou crédito, informando os valores de saldo, limites e saldo final.
 
-Nessa aba, o sistema funciona de forma semelhante a um "extrato de um banco" de um conta corrente por exemplo, onde a cada lançamento ocorre uma entrada (Crédito) ou uma saída (Débito), e sempre é recomputado o saldo atual.
+Nessa tela, o sistema funciona de forma semelhante a um "extrato de um banco" de um conta corrente por exemplo, onde a cada lançamento ocorre uma entrada (Crédito) ou uma saída (Débito), e sempre é recomputado o saldo atual.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_saldo.png)
 
@@ -188,11 +188,11 @@ Observe o exemplo abaixo, foi criado o contrato com fechamento automático todo 
 
 Observe que existe uma movimentação pendente de fechamento. Ela só será processada na data que está definido neste contrato criado.
 
-Mas caso ocorra algum imprevisto e você precise fazer o fechamento destas movimentação antes do perído que você determinou, pode clicar no botão <img src="/erp-v2/assets/icon_processar.png" alt="" data-size="line">**processar fechamento automático**, e ele irá virar uma linha na aba **Movimentações de saldo**.
+Mas caso ocorra algum imprevisto e você precise fazer o fechamento destas movimentação antes do perído que você determinou, pode clicar no botão <img src="/erp-v2/assets/icon_processar.png" alt="" data-size="line">**processar fechamento automático**, e ele irá virar uma linha na tela **Movimentações de saldo**.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo_btn_processar.png)
 
-Após clicar para fazer o fechamento, observe que um nova linha foi adicionada a aba **Movimentação de saldo**, e uma informação importante, essa única linha trará várias movimentações, e você pode gerar um relatório e acompanhar cada uma clicando com o botão direito do mouse, observe nosso exemplo abaixo.
+Após clicar para fazer o fechamento, observe que um nova linha foi adicionada a tela **Movimentação de saldo**, e uma informação importante, essa única linha trará várias movimentações, e você pode gerar um relatório e acompanhar cada uma clicando com o botão direito do mouse, observe nosso exemplo abaixo.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo_fechamento_gerar_relatorio.gif)
 
@@ -248,7 +248,7 @@ O menu superior apresenta funcionalidades diferentes de acordo com a configuraç
 
 Clicando neste ícone, uma nova janela será aberta para você, solicitando que informe a data final para então o sistema processar o fechamento.
 
-Nessa caso o botão acionará uma ação que irá realizar a apuração das vendas que estão na aba `Movimentações pendentes de fechamento` o sistema irá computar cada venda uma que está pendente de fechamento computando uma "Comissão" ou um "Custo" a cada venda, respeitando a `tabela de preço de custo ou comissão` e o `tipo de movimentação` realizado na venda, no final terá o resultado se a operação será de `débito` (ou seja, a unidade está "devendo" a empresa) ou de `crédito` (ou seja, a unidade tem um valor "a receber" da empresa).
+Nessa caso o botão acionará uma ação que irá realizar a apuração das vendas que estão na tela `Movimentações pendentes de fechamento` o sistema irá computar cada venda uma que está pendente de fechamento computando uma "Comissão" ou um "Custo" a cada venda, respeitando a `tabela de preço de custo ou comissão` e o `tipo de movimentação` realizado na venda, no final terá o resultado se a operação será de `débito` (ou seja, a unidade está "devendo" a empresa) ou de `crédito` (ou seja, a unidade tem um valor "a receber" da empresa).
 
 Observe nosso teste abaixo, a mensagem que será mostrada é informando que não temos nenhum caso de fechamento pendente. 
 

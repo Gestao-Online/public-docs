@@ -16,7 +16,7 @@ Estas movimentações serão utilizadas em vendas, vendas recorrentes, pedidos d
 
 <br>
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_bandeira.png" alt="" data-size="line"> Testar permissão de uso online;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;

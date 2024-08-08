@@ -1,6 +1,6 @@
 # 💱 Tipo de negociação.
 
-Nesta aba você encontra todos os tipos de negociação que estão cadastrados na plataforma da **Gestão Online**. E caso tenha algum tipo faltando, você pode efetuar o cadastro ou editar um existente, precisando somente seguir este manual.
+Nesta tela você encontra todos os tipos de negociação que estão cadastrados na plataforma da **Gestão Online**. E caso tenha algum tipo faltando, você pode efetuar o cadastro ou editar um existente, precisando somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -8,7 +8,7 @@ Nesta aba você encontra todos os tipos de negociação que estão cadastrados n
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -51,17 +51,17 @@ No momento do cadastro de um novo tipo de negociação, você precisará preench
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_tipo.png)
 
-No primeiro campo, você preenche a empresa de referência para este tipo de pagamento, lembrando que este campo tem um vínculo direto com a aba de [**`Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
+No primeiro campo, você preenche a empresa de referência para este tipo de pagamento, lembrando que este campo tem um vínculo direto com a tela de [**`Empresas`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_campo_empresa.png)
 
-E no campo de status você define se este tipo está ou não disponível para utilização nas demais abas, por exemplo, a de vendas.
+E no campo de status você define se este tipo está ou não disponível para utilização nas demais telas, por exemplo, a de vendas.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_tipo_negociacao_add_campo_status.png)
 
-### Guia para parcelamentos
+### Aba para parcelamentos
 
-O campo de descrição é somente para identificar melhor o tipo de movimentação que você usará em outras abas. O foco maior está na guia exibida na parte de baixo da página, onde você define se terá algum tipo de parcelamento.
+O campo de descrição é somente para identificar melhor o tipo de movimentação que você usará em outras telas. O foco maior está na guia exibida na parte de baixo da página, onde você define se terá algum tipo de parcelamento.
 
 Para a demonstração de exemplo, colocamos um tipo de negociação, **Cartão de crédito 4x** e adicionamos os parcelamentos um conforme mostrado abaixo, todos já inseridos.
 

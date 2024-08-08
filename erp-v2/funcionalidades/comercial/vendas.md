@@ -18,7 +18,7 @@ Este menu de vendas estará disponível para você tanto no menu principal quant
 
 <br>
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -77,13 +77,13 @@ Lembrando que a origem (PDV, venda online, venda online unidade, venda online in
 
 Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções disponíveis aparecem para você, mas se preferir, pode digitar o nome da movimentação que a nossa plataforma começará a fazer a busca para você.
 
-O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na aba **tipo de negociação**.
+O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na tela **tipo de negociação**.
 
 {% hint style="info" %}
 **Tipo de negociação:** Caso queira informações sobre como cadastrar o tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
 {% endhint %}
 
-Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que está configurada para origem do tipo PDV, e escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado à conta bancária na aba **listar contas**, somente como exemplo:
+Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que está configurada para origem do tipo PDV, e escolheremos o tipo de negociação **Boleto - GOPag**, que está configurado no tipo de negociação e vinculado à conta bancária na tela **listar contas**, somente como exemplo:
 
 {% hint style="info" %}
 **Listar contas:** Caso queira informações sobre como cadastrar as contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
@@ -95,7 +95,7 @@ Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que e
 
 Agora, nos campos de cliente/parceiro e Parceiro indicador, nós temos alguns botões extras com funções para facilitar seu dia a dia com o nosso sistema. Quando você clica no campo para buscar um cliente e este ainda não possui um cadastro, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para que você possa cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
 
-Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a aba deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
+Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a tela deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
 
 Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Veja o exemplo que fizemos abaixo:
 
@@ -122,7 +122,7 @@ Após o preenchimento destas informações, você pode salvar o rascunho para ad
 Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaixo dela tem um novo menu de opções. Clicamos no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar item para colocarmos um produto para a venda:
 
 {% hint style="info" %}
-**Informativo:** Para adicionar um produto/serviço para venda, é necessário cadastrar ele primeiro na aba de produtos/serviços, para mais informações [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
+**Informativo:** Para adicionar um produto/serviço para venda, é necessário cadastrar ele primeiro na tela de produtos/serviços, para mais informações [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item.png)
@@ -133,7 +133,7 @@ Quando clicamos neste botão, são mostradas as opções para inserirmos um prod
 
 **Pronto, o produto/serviço foi carregado com sucesso para ser adicionado!**
 
-Montamos um infográfico para exemplificar melhor como funciona o vínculo de cada aba para realizar uma venda dentro do nosso sistema:
+Montamos um infográfico para exemplificar melhor como funciona o vínculo de cada tela para realizar uma venda dentro do nosso sistema:
 
 {% hint style="info" %}
 **Informativo:** Caso esteja utilizando um produto com controle de estoque, o produto precisa estar vinculado ao local de estoque e ter quantidade para poder vender. Para mais informações sobre estoque,  [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md). 😉👍
@@ -213,7 +213,7 @@ O estorno para casos de cartão ou pix usam uma dinâmica diferente, observe nes
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_estorno_pic_cc.png)
 
-O estorno nessas duas formas de pagamento são realizadas automaticamente por nosso sistema e o dinheiro devolvido ao cliente. E em sequência, na aba **Anexos** você irá encontrar a carta de cancelamento.
+O estorno nessas duas formas de pagamento são realizadas automaticamente por nosso sistema e o dinheiro devolvido ao cliente. E em sequência, na tela **Anexos** você irá encontrar a carta de cancelamento.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_estorno_pix_cc_carta.gif)
 
@@ -314,7 +314,7 @@ Lembrando que os dados do cliente devem estar preenchidos para o envio ser reali
 
 ## Status da venda
 
-Através da aba de **vendas**, podemos acompanhar os status de cada item na coluna **status**. Para saber se está ou não em atendimento, situação da nota fiscal, se houve baixa ou não, e até mesmo se os itens vendidos foram entregues.
+Através da tela de **vendas**, podemos acompanhar os status de cada item na coluna **status**. Para saber se está ou não em atendimento, situação da nota fiscal, se houve baixa ou não, e até mesmo se os itens vendidos foram entregues.
 
 Como podemos ver, a venda que criamos como exemplo foi confirmada, ainda não houve baixa financeira, geração de nota fiscal e os itens vendidos ainda não foram entregues:
 

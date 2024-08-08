@@ -1,6 +1,6 @@
 # ⏩ Tipo de tributação
 
-Nesta aba você encontra todos os tipos de tributação que estão cadastrados na plataforma da **Gestão Online**. Esses tipos definem os cenários de emissão das Notas Fiscais. E caso queira criar, editar ou excluir um tipo existente, precisa somente seguir este manual.
+Nesta tela você encontra todos os tipos de tributação que estão cadastrados na plataforma da **Gestão Online**. Esses tipos definem os cenários de emissão das Notas Fiscais. E caso queira criar, editar ou excluir um tipo existente, precisa somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -8,7 +8,7 @@ Nesta aba você encontra todos os tipos de tributação que estão cadastrados n
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -68,7 +68,7 @@ Após salvarmos este tipo de tributação, algumas guias passam a ficar disponí
 
 Após salvar o novo tipo de tributação, algumas guias ficarão disponíveis para você preencher. No primeiro momento, estarão todas vazias, mas, ao seguir em nosso manual, faremos o preenchimento um a um.
 
-### Guia ICMS
+### Aba ICMS
 
 Na guia de ICMS (Imposto sobre Circulação de Mercadorias e Serviços), é um imposto estadual brasileiro que incide sobre a movimentação de mercadorias e a prestação de serviços de transporte e comunicação. É também um dos principais tributos no Brasil e desempenha um papel crucial na arrecadação de receitas para os Estados e Municípios.
 
@@ -112,7 +112,7 @@ Criamos também uma configuração única somente para o estado de Goiás, lembr
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_icms_itens.png)
 
-### Guia IPI
+### Aba IPI
 
 Na guia de IPI (Imposto sobre Produtos Industrializados), é um imposto federal brasileiro que incide sobre a produção e a importação de produtos industrializados.
 
@@ -146,7 +146,7 @@ Ainda na guia de IPI, você pode adicionar exceções. Caso haja, você tem um p
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_ipi_excessao.png)
 
-### Guia PIS
+### Aba PIS
 
 Na guia de PIS (Programa de Integração Social), sendo uma contribuição social brasileira que incide sobre o faturamento das empresas e planeja financiar o seguro-desemprego, abono salarial e outras despesas do Programa de Integração Social.
 
@@ -178,7 +178,7 @@ Continuando na guia de PIS, você pode adicionar exceções caso haja. Você tem
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_tipo_tributacao_add_guia_pis_excessao.png)
 
-### Guia COFINS
+### Aba COFINS
 
 Na guia de COFINS (Contribuição para o Financiamento da Seguridade Social) que é um imposto federal brasileiro que incide sobre o faturamento das empresas. E tem como principal objetivo financiar a seguridade social, que abrange a previdência social, a saúde e a assistência social.
 

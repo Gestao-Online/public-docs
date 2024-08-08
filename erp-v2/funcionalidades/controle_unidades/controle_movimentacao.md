@@ -8,7 +8,7 @@ Nesta tela você encontra todos os controles de movimentação de unidade cadast
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_ctrl_movimentacao.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -63,10 +63,10 @@ O campo **tipo lançamento**, tem duas opções para você escolher, entre *cré
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_ctrl_movimentacao_add_campo_lancamento.png)
 
-Logo ao lado, temos o campo **Unidade**, lembre-se de que ele está vinculado com a **Tela Unidade** e as opções que ele trará são as cadastradas nesta aba. 😁 (Pode ser que esse campo não apareça, caso você usando essa tela a partir de uma "Aba" dentro da tela que já está referenciando uma unidade)
+Logo ao lado, temos o campo **Unidade**, lembre-se de que ele está vinculado com a **Tela Unidade** e as opções que ele trará são as cadastradas nesta tela. 😁 (Pode ser que esse campo não apareça, caso você usando essa tela a partir de uma "Aba" dentro da tela que já está referenciando uma unidade)
 
 {% hint style="warning" %}
-**Tela Unidades:** Caso queira mais informações sobre como utilizar a aba Unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
+**Tela Unidades:** Caso queira mais informações sobre como utilizar a tela Unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 {% endhint %}
 
 Em nosso exemplo, vamos escolher a opção **SEDE/MATRIZ**. Observe abaixo:
@@ -81,7 +81,7 @@ Após fazer o preenchimento dos dados do novo controle, você pode clicar no íc
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_salvar.gif)
 
-Uma informação importante para os gestores da empresa, esse controle de movimentação tem interação direta com a **Tela  contrato do controle de unidade**. Observe abaixo que a movimentação que criamos aqui como exemplo já consta no contrato criado no exemplo da aba. Veja abaixo:
+Uma informação importante para os gestores da empresa, esse controle de movimentação tem interação direta com a **Tela  contrato do controle de unidade**. Observe abaixo que a movimentação que criamos aqui como exemplo já consta no contrato criado no exemplo da tela. Veja abaixo:
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_aba_movimentacao.gif)
 

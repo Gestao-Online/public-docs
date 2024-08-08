@@ -14,7 +14,7 @@ Neste local, você pode visualizar todos os centros de resultados que estão dir
 
 <br>
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar centro de resultado.
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;

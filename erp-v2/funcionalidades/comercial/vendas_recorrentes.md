@@ -18,7 +18,7 @@ Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de pre�
 
 <br>
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -87,13 +87,13 @@ Observe abaixo, iremos utilizar a movimentação **Venda recorrente - Exemplo (O
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_1_e_2.gif)
 
-O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na aba **tipo de negociação**.
+O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na tela **tipo de negociação**.
 
 {% hint style="Info" %}
 **Tipo de negociação:** Caso queira informações sobre como cadastrar o tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
 {% endhint %}
 
-Veja esse exemplo abaixo,  escolheremos o tipo de negociação **Cartão de crédito 1x**, que está configurado no tipo de negociação e vinculado à conta bancária na aba **listar contas**, somente como exemplo:
+Veja esse exemplo abaixo,  escolheremos o tipo de negociação **Cartão de crédito 1x**, que está configurado no tipo de negociação e vinculado à conta bancária na tela **listar contas**, somente como exemplo:
 
 {% hint style="Info" %}
 **Listar contas:** Caso queira informações sobre como cadastrar as contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md.md)
@@ -103,7 +103,7 @@ Veja esse exemplo abaixo,  escolheremos o tipo de negociação **Cartão de cré
 
 Agora, nos campos de cliente/parceiro e Parceiro indicador, nós temos alguns botões extras com funções para facilitar seu dia a dia com o nosso sistema. Quando você clica no campo para buscar um cliente e este ainda não possui um cadastro, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para que você possa cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
 
-Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a aba deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
+Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a tela deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
 
 Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Veja o exemplo que fizemos abaixo:
 
@@ -140,12 +140,12 @@ Após o preenchimento destas informações, você pode salvar o rascunho para ad
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_venda.gif)
 
-## Guia de itens
+## Aba de itens
 
 Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaixo dela tem um novo menu de opções. Clicamos no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar item para colocarmos um produto para a venda recorrente:
 
 {% hint style=“info” %}
-**Informativo:** Para adicionar um produto/serviço para venda, é necessário cadastrar ele primeiro na aba de produtos/serviços, para mais informações [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
+**Informativo:** Para adicionar um produto/serviço para venda, é necessário cadastrar ele primeiro na tela de produtos/serviços, para mais informações [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_item.png)
@@ -172,13 +172,13 @@ A partir de agora, um gestor deve liberar a solicitação de desconto para que a
 **Cuidado**: Os valores de uma venda, assim como o seu desconto, não podem ser alterados após a sua liberação/confirmação. Estes dados só podem ser modificados enquanto a venda for um rascunho.
 {% endhint %}
 
-## Guia de liberação
+## Aba de liberação
 
 Nesta guia é mostrado o relatório completo de quem autorizou alguma venda que ficou pendente de liberação. Uma venda pode ficar pendente de liberação caso tenha valores incorretos, descontos fora dos limites ou abaixo do padrão que já foi determinado nas tabelas de preços.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_guia_liberacao.png)
 
-## Guia anexos
+## Aba anexos
 
 Esta guia pode anexar documentos como boleto, NF-e, NFS-e, NFC-e, e outros. Você pode preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
 
@@ -188,7 +188,7 @@ Os boletos aparecem automaticamente na guia de anexos após clicar no botão de 
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos_itens.png)
 
-## Guia histórico
+## Aba histórico
 
 Nesta guia ficam registrados os casos adversos que acontecem com a venda, exemplo disso seria a utilização de um voucher, cupom de desconto, cancelamento de uma venda, liberação de entrega manual, ou até mesmo o bloqueio da venda.
 
@@ -196,13 +196,13 @@ Abaixo está uma venda de exemplo com históricos registrados:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_historico.png)
 
-## Guia movimentações
+## Aba movimentações
 
 Aqui estão presentes todas as movimentações da venda recorrente, em nosso exemplo fizemos uma venda de duração de um ano, então serão doze movimentações ao todo que irão aparecer no decorrer do tempo nesta guia, com a liberação e pagamento (Caso o cliente faça), ou atrasos no pagamento:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_guia_movimentacoes.png)
 
-## Guia cartões
+## Aba cartões
 
 Nesta guia ficam registrados os cartões de crédito utilizados para pagamento da venda recorrente. Para possíveis verificações caso existam problemas no pagamento.
 
@@ -251,7 +251,7 @@ Por último, no ícone <img src="/erp-v2/assets/icon_calendario.png" alt="" data
 
 ## Status da venda recorrente
 
-Através da aba de **vendas**, podemos acompanhar os status de cada item na coluna **status**. Para saber se está ou não em atendimento, situação da nota fiscal, se houve baixa ou não, e até mesmo se os itens vendidos foram entregues.
+Através da tela de **vendas**, podemos acompanhar os status de cada item na coluna **status**. Para saber se está ou não em atendimento, situação da nota fiscal, se houve baixa ou não, e até mesmo se os itens vendidos foram entregues.
 
 Como podemos ver, a venda que criamos como exemplo foi confirmada, ainda não houve baixa financeira, geração de nota fiscal e os itens vendidos ainda não foram entregues:
 

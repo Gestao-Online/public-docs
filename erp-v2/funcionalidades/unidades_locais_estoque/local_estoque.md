@@ -12,7 +12,7 @@ Aqui você tem a visão de todos os locais de estoque cadastrados na plataforma 
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Unidade/Loja;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;

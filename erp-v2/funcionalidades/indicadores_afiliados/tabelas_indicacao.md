@@ -8,7 +8,7 @@ Nesta tela você encontra todas as tabelas de indicação que estão cadastradas
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao.gif)
 
-Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -144,7 +144,7 @@ E o ícone de relatório dessa tabela de preço, que faz uma lista com todos os 
 
 Após salvar a nova tabela de indicações, algumas guias ficarão disponíveis para você preencher. Sendo elas a de **itens da tabela** e **histórico**.
 
-### Guia itens da tabela
+### Aba itens da tabela
 
 Nesta guia, você pode adicionar, editar e remover produtos/serviços com a porcentagem/valor que será usada para calcular a comissão da venda.
 
@@ -154,7 +154,7 @@ Ao clicar em adicionar item, você precisa selecionar o [**`produto/serviço`**]
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_guia_itens_add.png)
 
-### Guia histórico
+### Aba histórico
 
 Na guia de histórico, você acompanha todas as movimentações feitas com essa tabela de indicação. Informações do nome do usuário, item adicionado/removido, ou qualquer outra alteração a respeito.
 

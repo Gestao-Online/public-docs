@@ -14,7 +14,7 @@ Aqui podem ser cadastrados os produtos que a sua empresa comercializa, assim, ao
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos.gif)
 
-Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line"> Importar;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;

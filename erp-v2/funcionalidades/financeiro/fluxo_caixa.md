@@ -1,6 +1,6 @@
 # 📄 Fluxo de caixa
 
-Nesta aba você encontra todas as contas a pagar ou receber cadastrados na plataforma da **Gestão Online**. E caso tenha alguma faltando, você pode efetuar o cadastro ou editar uma existente, precisando somente seguir este manual.
+Nesta tela você encontra todas as contas a pagar ou receber cadastrados na plataforma da **Gestão Online**. E caso tenha alguma faltando, você pode efetuar o cadastro ou editar uma existente, precisando somente seguir este manual.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -8,7 +8,7 @@ Nesta aba você encontra todas as contas a pagar ou receber cadastrados na plata
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_fluxo.gif)
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
 - <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
@@ -61,8 +61,8 @@ Este campo é o que define qual o tipo de conta que será criada, entre as opç�
 
 ### Campo cliente/parceiro
 
-No campo de **Cliente/Parceiro**, você pode buscar digitando o nome, as informações mostradas aqui, tem um vínculo com a aba de [**`Parceiros`**](/erp-v2/funcionalidades/parceiros/clientes.md). 
-Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adiciona um novo parceiro/cliente. Ou clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o parceiro/cliente selecionado em uma nova aba.
+No campo de **Cliente/Parceiro**, você pode buscar digitando o nome, as informações mostradas aqui, tem um vínculo com a tela de [**`Parceiros`**](/erp-v2/funcionalidades/parceiros/clientes.md). 
+Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adiciona um novo parceiro/cliente. Ou clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o parceiro/cliente selecionado em uma nova tela.
 
 Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo definimos um cliente fictício.
 
@@ -70,9 +70,9 @@ Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo defini
 
 ### Campos Empresa e Unidade
 
-Agora nos campos **Empresa** e **Unidade** você também tem os botões de atalho para adicionar uma nova, e abrir para editar em uma nova aba o que estiver selecionado.
+Agora nos campos **Empresa** e **Unidade** você também tem os botões de atalho para adicionar uma nova, e abrir para editar em uma nova tela o que estiver selecionado.
 
-O campo de empresa tem um vínculo direto com a aba **Empresas**. Se você quiser mais informações sobre as funcionalidades desta aba, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
+O campo de empresa tem um vínculo direto com a tela **Empresas**. Se você quiser mais informações sobre as funcionalidades desta tela, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
 
 A mesma informação vale para o campo de **Unidade**, você pode ter mais informações sobre as unidades de atendimento, criação, edição e exclusão, para saber mais, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
 
@@ -80,9 +80,9 @@ A mesma informação vale para o campo de **Unidade**, você pode ter mais infor
 
 ### Campo Tipo movimentação
 
-Pouco mais abaixo, temos o campo obrigatório **Tipo movimentação**. Estes tipos podem ser cadastrados, editados e deletados na aba **Tipo movimentação**. Você pode ter mais informações sobre ela [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+Pouco mais abaixo, temos o campo obrigatório **Tipo movimentação**. Estes tipos podem ser cadastrados, editados e deletados na tela **Tipo movimentação**. Você pode ter mais informações sobre ela [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
 
-Clicando no botão <img src="/erp-v2/assets/icon_lupa.png" alt="" data-size="line"> você pode buscar um tipo de movimentação. Ou clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> você pode editar o tipo de movimentação selecionado em uma nova aba.
+Clicando no botão <img src="/erp-v2/assets/icon_lupa.png" alt="" data-size="line"> você pode buscar um tipo de movimentação. Ou clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> você pode editar o tipo de movimentação selecionado em uma nova tela.
 
 Em nossa demonstração, iremos utilizar o tipo de movimentação **Fin - pagamento diversos**.
 
@@ -92,9 +92,9 @@ Em nossa demonstração, iremos utilizar o tipo de movimentação **Fin - pagame
 
 Em sequência, tem os campos de **Natureza**, este campo funciona vinculado ao campo **Tipo** citado mais acima, pois trará os itens referentes despesas caso tenha marcado ela, ou itens relacionados a receita se marcar esta opção. E o **Centro de Resultado** para saber de qual setor pertence essa conta (Receita/Despesa).
 
-Em específico com o campo de **Natureza**, você tem os botões de atalho <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adiciona um novo tipo de natureza, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o tipo de natureza selecionada em uma nova aba.
+Em específico com o campo de **Natureza**, você tem os botões de atalho <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adiciona um novo tipo de natureza, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o tipo de natureza selecionada em uma nova tela.
 
-Agora no campo de **Centro de Resultado**, você tem os botões de atalho <img src="/erp-v2/assets/icon_lupa.png" alt="" data-size="line"> para buscar um centro de resultado, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o centro de resultado selecionado em uma nova aba.
+Agora no campo de **Centro de Resultado**, você tem os botões de atalho <img src="/erp-v2/assets/icon_lupa.png" alt="" data-size="line"> para buscar um centro de resultado, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o centro de resultado selecionado em uma nova tela.
 
 Em nosso exemplo, selecionamos a natureza receitas, e o centro de resultado definimos o administrativo. Observe abaixo:
 
@@ -102,7 +102,7 @@ Em nosso exemplo, selecionamos a natureza receitas, e o centro de resultado defi
 
 ### Campos Tipo de Negociação e Conta
 
-Em sequência, temos os campos de [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md) e [**`Conta`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md), estes campos são de preenchimento obrigatório e tem cada um vínculo com sua própria aba. 
+Em sequência, temos os campos de [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md) e [**`Conta`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md), estes campos são de preenchimento obrigatório e tem cada um vínculo com sua própria tela. 
 
 Observe nossa demonstração abaixo.
 
@@ -136,7 +136,7 @@ Observe abaixo o resultado:
 
 ## Guias após salvar uma conta (Receita/Despesa)
 
-### Guia Rateio
+### Aba Rateio
 
 Na guia de **Rateio** você especifica como o valor deve ser rateado. Isso pode incluir a escolha das contas ou centros de custo que receberão a parte correspondente.
 
@@ -144,17 +144,17 @@ Na guia de **Rateio** você especifica como o valor deve ser rateado. Isso pode 
 
 Você pode incluir um rateio clicando no menu cinza no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">adicionar, e então preencher as informações de porcentagem do rateio, qual unidade será referência, qual centro de resultado levará essa parte do rateio e a natureza do mesmo.
 
-Importante lembrar que os campos de [**`Unidade`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md),  [**`Centro de Resultado`**](/erp-v2/funcionalidades/parametrizacoes/centro_resultado.md) e [**`Natureza`**](/erp-v2/funcionalidades/parametrizacoes/naturezas.md), têm vínculo direto, cada um com sua própria aba, e caso queira adicionar uma nova opção para selecionar, será necessário acessar a guia de referência e inserir o item que deseja.
+Importante lembrar que os campos de [**`Unidade`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md),  [**`Centro de Resultado`**](/erp-v2/funcionalidades/parametrizacoes/centro_resultado.md) e [**`Natureza`**](/erp-v2/funcionalidades/parametrizacoes/naturezas.md), têm vínculo direto, cada um com sua própria tela, e caso queira adicionar uma nova opção para selecionar, será necessário acessar a guia de referência e inserir o item que deseja.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_fluxo_add_conta_guia_rateio_add.png)
 
-### Guia Histórico
+### Aba Histórico
 
 Nesta guia, ficam registradas todas as movimentações realizadas nessa conta (Receita/Despesa), desde sua criação até sua alteração e desconto. Tudo até o dia de sua baixa no sistema. Conforme mostrado abaixo.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_fluxo_add_conta_guia_historico.png)
 
-### Guia Anexos
+### Aba Anexos
 
 Nesta guia você pode anexar algum item para ficar registrado, sendo um boleto, nota fiscal ou outros, para poder ser acessado depois.
 

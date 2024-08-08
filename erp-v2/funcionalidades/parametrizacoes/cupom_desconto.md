@@ -14,7 +14,7 @@ Para aplicar uma promoção para clientes específicos em unidade/loja, você po
 
 <br>
 
-Nesta aba tem um menu ao lado direito da tela com as seguintes funções:
+Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_cupom.png" alt="" data-size="line"> Testar cupom de desconto;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -109,7 +109,7 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_salvar.gif)
 
-## Guia Itens
+## Aba Itens
 
 Assim que é criado o cupom de desconto, duas guias aparecem disponíveis para uso, **itens** e **histórico**. Quando clicamos na guia de itens veremos a seguinte tela:
 
@@ -137,7 +137,7 @@ Veja o exemplo que criamos para dois cupom fictício om código aleatório, de 1
 
 <br>
 
-## Guia histórico
+## Aba histórico
 
 Na guia de **histórico** ficará o registro de utilização dos cupons que você criou na guia de itens. No exemplo abaixo tem uma movimentação no histórico do cupom fictício NATAL10 que criamos logo acima para demonstração de uso. 
 
