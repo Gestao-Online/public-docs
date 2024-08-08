@@ -98,7 +98,7 @@ No conjunto de funcionalidades de **`Financeiro`**,você encontrará os itens de
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/funcionalidades/financeiro/tipo_negociacao.md">tipo_negociacao.md</a>
+                    <a href="/erp-v2/funcionalidades/financeiro/tipos_negociacao.md">tipos_negociacao.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/funcionalidades/icon_baloes.png">icon_baloes.png</a>
