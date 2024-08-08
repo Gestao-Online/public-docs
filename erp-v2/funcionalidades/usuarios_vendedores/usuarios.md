@@ -14,7 +14,7 @@ Aqui você tem a visão de todos os usuários cadastrados na plataforma **Gestã
 
 <br>
 
-Nesta aba está um menu ao lado direito da tela com as seguintes funções:
+Nesta tela está um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_notificacao.png" alt="" data-size="line"> Enviar notificações para usuários;
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -60,6 +60,8 @@ Após a definição do nível, seguimos para o perfil de usuário que irá receb
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_perfil.png)
 
 <br>
+
+### Salvando notificação
 
 Após definido o tipo de usuário, agora vamos para a mensagem, deixamos um editor de texto com algumas funções para você poder escrever a sua notificação:
 
@@ -107,7 +109,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 <br>
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar uma conta é exigido o perfil e e-mail. Agora os outros campos para preenchimento podem deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
+Olhando para a aba **`Geral`**, por padrão, quando você for criar uma conta é exigido o perfil e e-mail. Agora os outros campos para preenchimento podem deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
 
 - **Nome** (Nome completo do usuário, podendo preencher depois);
 - **Nome usuário** (É usado para login na plataforma, podendo ser um nome/código/CPF);
