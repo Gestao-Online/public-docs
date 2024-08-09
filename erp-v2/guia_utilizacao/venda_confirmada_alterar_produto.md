@@ -1,6 +1,6 @@
 # Já confirmei a venda/pedido e agora preciso alterar um item de produto e/ou serviço, como fazer?
 
-Para este caso, você precisa seguir os seguintes passos. 
+Confirmar uma venda ou pedido pode parecer o passo final, mas às vezes é necessário fazer ajustes posteriormente. Seja por uma atualização no produto, uma mudança de serviço ou uma simples correção, é importante saber como realizar essas alterações sem ter que para tudo. Para este caso, você precisa seguir os seguintes passos. 
 
 Com a tela de vendas aberta, clique no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar para podermos modificar esta venda/pedido. 
 
