@@ -184,7 +184,7 @@
   * [📒 Guia de utilizaçāo](erp-v2/guia_utilizacao/README.md)
     * [Como configurar o sistema para emissão de notas fiscais de serviço (NFSe)](erp-v2/guia_utilizacao/como_emitir_nfse.md)
     * [Como corrigir uma nota fiscal de serviço rejeitada (NFSe)?](erp-v2/guia_utilizacao/como_corrigir_nfse_rejeitada.md)
-    * [A nota fiscal não foi emitida, como acompanhar (NFSe)?](erp-v2/guia_utilizacao/nfse_nao_emitida.md)
+    * [.A nota fiscal não foi emitida, como acompanhar (NFSe)?](erp-v2/guia_utilizacao/nfse_nao_emitida.md)
     * [Como realizar um estorno de cartão de crédito ou PIX?](erp-v2/guia_utilizacao/realizar_estorno_cartao_pix.md)
     * [Como fazer o cancelamento em lote de vendas não concretizadas (não pagas)?](erp-v2/guia_utilizacao/cancel_lote_vendas.md)
     * [.Já confirmei a venda/pedido e agora preciso alterar um item de produto e/ou serviço, como fazer?](erp-v2/guia_utilizacao/venda_confirmada_alterar_produto.md)
