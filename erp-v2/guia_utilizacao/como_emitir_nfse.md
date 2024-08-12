@@ -1,5 +1,7 @@
 # Como configurar o sistema para emissão de notas fiscais de serviço (NFSe)
 
+<!-- CONFIRMAR MAIS INFORMAÇÕES COM O PAULO SOBRE ESSAS CONFIGURAÇÕES, POIS NÃO CONSEGUI EFETUAR UM TESTE DE HOMOLOGAÇÃO COM UMA NFSe, ACREDITO QUE FALTA ALGUM ITEM, OU ALGUMA CONFIGURAÇÃO QUE FIZ ERRADO. -->
+
 A configuração para emissão de NFSe é muito importante e precisa evitar que erros ocorram. Pois isso implica em vendas paradas e problemas em solicitação.
 
 Vejamos agora o procedimento passo passo para configurar a emissão de notas fiscais no nosso sistema.
