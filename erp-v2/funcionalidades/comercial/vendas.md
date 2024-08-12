@@ -309,7 +309,6 @@ Lembrando que os dados do cliente devem estar preenchidos para o envio ser reali
 **Cadastro cliente:** Para mais informações sobre configuração do tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parceiros/clientes.md). 😉👍
 {% endhint %}
 
-
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_cancelar.png)
 
 ## Status da venda
@@ -328,4 +327,3 @@ Além do status de venda confirmada, temos outros:
 |![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_parcial.png)        |Parcialmente baixado (Apenas uma ou algumas parcelas foram pagas). |
 |![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_autorizado.png)     |Financeiro baixado, nota fiscal autorizada e itens entregues.      |
 |![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)   |Nota fiscal rejeitada.                                             |
-
