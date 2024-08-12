@@ -91,6 +91,7 @@
     * [📊 Dashboards na GRID](erp-v2/primeiro_acesso/relatorios_dashboard_grid.md)
     * [📤 Exportar](erp-v2/primeiro_acesso/exportar.md)
     * [📥 Importar](erp-v2/primeiro_acesso/importar.md)
+    * [🔒 Permissões, restrições/exceções](/erp-v2/guia_utilizacao/permissoes_restricoes_excecoes.md)
  
   * [⚙️ Minhas preferências](erp-v2/minhas_preferencias/README.md)
     * [🎲 Editando meus dados](erp-v2/minhas_preferencias/edit_meus_dados.md)
@@ -183,11 +184,11 @@
   * [📒 Guia de utilizaçāo](erp-v2/guia_utilizacao/README.md)
     * [Como configurar o sistema para emissão de notas fiscais de serviço (NFSe)](erp-v2/guia_utilizacao/como_emitir_nfse.md)
     * [Como corrigir uma nota fiscal de serviço rejeitada (NFSe)?](erp-v2/guia_utilizacao/como_corrigir_nfse_rejeitada.md)
-    * [A nota fiscal não foi emitida, como acompanhar (NFSe)? ](erp-v2/guia_utilizacao/nfse_nao_emitida.md)
+    * [A nota fiscal não foi emitida, como acompanhar (NFSe)?](erp-v2/guia_utilizacao/nfse_nao_emitida.md)
     * [Como realizar um estorno de cartão de crédito ou PIX?](erp-v2/guia_utilizacao/realizar_estorno_cartao_pix.md)
     * [Como fazer o cancelamento em lote de vendas não concretizadas (não pagas)?](erp-v2/guia_utilizacao/cancel_lote_vendas.md)
-    * [Já confirmei a venda/pedido e agora preciso alterar um item de produto e/ou serviço, como fazer?](erp-v2/guia_utilizacao/venda_confirmada_alterar_produto.md)
-    * [Já confirmei a venda/pedido e agora preciso mudar o tipo de negociação (forma de pagamento), como fazer?](erp-v2/guia_utilizacao/venda_confirmada_alterar_tipo_negociacao.md)
+    * [.Já confirmei a venda/pedido e agora preciso alterar um item de produto e/ou serviço, como fazer?](erp-v2/guia_utilizacao/venda_confirmada_alterar_produto.md)
+    * [.Já confirmei a venda/pedido e agora preciso mudar o tipo de negociação (forma de pagamento), como fazer?](erp-v2/guia_utilizacao/venda_confirmada_alterar_tipo_negociacao.md)
     * [O que é a liberação de desconto, e como funciona?](erp-v2/guia_utilizacao/como_liberar_desconto.md)
 
  * [🏬 Marketplace](erp-v2/marketplace/README.md)
