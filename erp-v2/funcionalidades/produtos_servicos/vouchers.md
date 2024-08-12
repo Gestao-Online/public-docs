@@ -51,6 +51,10 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
+{% hint style="warning" %}
+**Botão restrições/exceções:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> restrições/exceções, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
+{% endhint %}
+
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_menu.png)
 
 Quando você for criar um voucher, é exigido produto, status e permissão de produto secundário. 
@@ -67,7 +71,7 @@ Após finalizar o preenchimento você clica em **`Salvar`** e o registro do novo
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_voucher_salvar.gif)
 
-## Botão de restrições/excessões
+## Botão de restrições/exceções
 
 Ainda falando do menu dessa tela temos <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> o ícone de restrições/exceções, quando clicamos nele, uma janela pop-up será aberta com algumas configurações disponíveis para você preencher:
 

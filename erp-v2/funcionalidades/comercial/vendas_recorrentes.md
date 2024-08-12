@@ -12,11 +12,7 @@ Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de pre�
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes.gif)
-
-<br>
 
 Nesta tela tem um menu ao lado direito com as seguintes funções:
 
@@ -28,8 +24,6 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_menu.png)
 
-<br>
-
 {% hint style="warning" %}
 **Exportar:** Caso queira mais informações sobre como utilizar o botão <img src="/erp-v2/assets/icon_exportar.png" alt="" data-size="line"> exportar movimentações [**`clique aqui`**](/erp-v2/primeiro_acesso/exportar.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
@@ -38,13 +32,16 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
+{% hint style="warning" %}
+**Botão permissões:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> permissões, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
+{% endhint %}
+
 ## Adicionar nova venda recorrente
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar uma nova venda, confira abaixo o procedimento para fazer a adição corretamente:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add.png)
 
-<br>
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 

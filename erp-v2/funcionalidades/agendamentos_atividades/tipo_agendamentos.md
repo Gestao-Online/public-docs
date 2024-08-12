@@ -40,6 +40,10 @@ Após clicar no botão para adicionar um novo tipo de agendamento, uma nova pág
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
+{% hint style="warning" %}
+**Botão permissões:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> permissões, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
+{% endhint %}
+
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_menu.png)
 
 O primeiro campo é para inserir o **código** da etiqueta. Pode ser número ou texto, você que define. Ele serve para auxiliar na identificação no momento de escolher o tipo de agendamento que irá criar.

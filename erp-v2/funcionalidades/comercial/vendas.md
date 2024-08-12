@@ -38,6 +38,10 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
 
+{% hint style="warning" %}
+**Botão permissões:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> permissões, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
+{% endhint %}
+
 ## Adicionar nova venda
 
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar uma nova venda, confira abaixo o procedimento para fazer a adição corretamente:
@@ -123,6 +127,10 @@ Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaix
 
 {% hint style="info" %}
 **Informativo:** Para adicionar um produto/serviço para venda, é necessário cadastrar ele primeiro na tela de produtos/serviços, para mais informações [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md). 😉👍
+{% endhint %}
+
+{% hint style="warning" %}
+**Botão permissões:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> permissões, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item.png)
@@ -327,3 +335,4 @@ Além do status de venda confirmada, temos outros:
 |![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_parcial.png)        |Parcialmente baixado (Apenas uma ou algumas parcelas foram pagas). |
 |![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_autorizado.png)     |Financeiro baixado, nota fiscal autorizada e itens entregues.      |
 |![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)   |Nota fiscal rejeitada.                                             |
+

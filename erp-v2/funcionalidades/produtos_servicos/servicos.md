@@ -65,7 +65,9 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar novo servi�
 
 - **Descrição** (Nome para identificar o novo serviço a ser criado);
 - **Imagem (Principal)** (Se necessário);
-    - ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_campo_imagem.gif)
+
+![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_campo_imagem.gif)
+
 - **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
 - **Código** (SKU ou código de barras referente ao serviço);
 - **Status** (Com duas opções para selecionar, entre ativado e desativado);

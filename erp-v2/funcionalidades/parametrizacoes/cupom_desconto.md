@@ -48,6 +48,10 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar.
 
+{% hint style="warning" %}
+**Botão restrições/exceções:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> restrições/exceções, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
+{% endhint %}
+
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_menu.png)
 
 <br>

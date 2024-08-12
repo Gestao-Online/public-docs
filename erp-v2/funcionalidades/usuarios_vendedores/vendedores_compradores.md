@@ -117,7 +117,7 @@ Você pode deixar definido um limite de desconto em vendas para esse vendedor, s
 
 <br>
 
-### Aba perfil de desocnto (compras)
+### Aba perfil de desconto (compras)
 
 Você também pode deixar definido um limite de desconto em compras para esse vendedor, sendo valor ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
 

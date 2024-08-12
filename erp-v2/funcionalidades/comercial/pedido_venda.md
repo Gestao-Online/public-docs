@@ -20,8 +20,6 @@ Este menu de vendas estará disponível para você tanto no menu principal quant
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda.gif)
 
-<br>
-
 Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -32,7 +30,6 @@ Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_menu.png)
 
-<br>
 
 {% hint style="warning" %}
 **Exportar:** Caso queira mais informações sobre como utilizar o botão <img src="/erp-v2/assets/icon_exportar.png" alt="" data-size="line"> exportar movimentações [**`clique aqui`**](/erp-v2/primeiro_acesso/exportar.md) para acessar a explicação sobre cada parte desta função.
@@ -40,6 +37,10 @@ Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
 
 {% hint style="info" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
+{% endhint %}
+
+{% hint style="warning" %}
+**Botão permissões:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> permissões, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
 {% endhint %}
 
 ## Adicionar novo pedido de venda
