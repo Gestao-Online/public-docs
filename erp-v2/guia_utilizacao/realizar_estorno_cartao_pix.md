@@ -18,8 +18,8 @@ O sistema realizará a baixa automática do financeiro para vendas efetuadas com
 **Contas bancárias:** Para mais informações sobre a tela de cadastro das contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md)
 {% endhint %}
 
-Caso contrário, os pagamentos efetuados em dinheiro, maquininha física, boleto ou outras formas sem vínculo com o sistema, a baixa precisa ser realizada manualmente. Tendo que ser feito o registro no sistema para que não perca o controle.
+Caso contrário, os pagamentos efetuados em dinheiro, maquininha física, boleto ou outras formas sem vínculo com o sistema, a baixa precisa ser realizada manualmente. Precisando ser feito o registro no sistema para não perder o controle.
 
-Com o estorno realizado, logo em sequência, na tela **Anexos** você irá encontrar a carta de cancelamento assim que a estorno for atualizado pela adquirente.
+Com o estorno realizado, logo em sequência, na tela **Anexos** você irá encontrar a carta de cancelamento assim que o estorno for atualizado pela adquirente.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_estorno_pix_cc_carta.gif)
