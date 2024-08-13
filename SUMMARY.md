@@ -186,7 +186,7 @@
     * [Como corrigir uma nota fiscal de serviço rejeitada (NFSe)?](erp-v2/guia_utilizacao/como_corrigir_nfse_rejeitada.md)
     * [.A nota fiscal não foi emitida, como acompanhar (NFSe)?](erp-v2/guia_utilizacao/nfse_nao_emitida.md)
     * [.Como realizar um estorno de cartão de crédito ou PIX?](erp-v2/guia_utilizacao/realizar_estorno_cartao_pix.md)
-    * [Como fazer o cancelamento em lote de vendas não concretizadas (não pagas)?](erp-v2/guia_utilizacao/cancel_lote_vendas.md)
+    * [.Como fazer o cancelamento em lote de vendas não concretizadas (não pagas)?](erp-v2/guia_utilizacao/cancel_lote_vendas.md)
     * [.Já confirmei a venda/pedido e agora preciso alterar um item de produto e/ou serviço, como fazer?](erp-v2/guia_utilizacao/venda_confirmada_alterar_produto.md)
     * [.Já confirmei a venda/pedido e agora preciso mudar o tipo de negociação (forma de pagamento), como fazer?](erp-v2/guia_utilizacao/venda_confirmada_alterar_tipo_negociacao.md)
     * [.O que é a liberação de desconto e como funciona?](erp-v2/guia_utilizacao/como_liberar_desconto.md)
