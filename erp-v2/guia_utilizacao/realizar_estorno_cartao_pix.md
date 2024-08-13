@@ -4,7 +4,7 @@ Neste guia, abordaremos o processo de estorno de pagamentos realizados por cart�
 
 Seja você um usuário novo ou experiente no sistema, este guia irá ajudá-lo a conduzir o processo de estorno de maneira simples e eficaz.
 
-O nosso sistema já deixa um botão preparado no menu superior da venda quando uma compra tem o pagamento realizado, o botão <img src="/erp-v2/assets/icon_estornar_cc.png" alt="" data-size="line"> para cartão e o botão <img src="/erp-v2/assets/icon_estornar_pix.png" alt="" data-size="line"> para pagamento via pix.
+Com a venda que você deseja fazer o estorno já aberta, observe que o nosso sistema já deixa um botão preparado no menu superior da venda quando uma compra tem o pagamento confirmado, o botão <img src="/erp-v2/assets/icon_estornar_cc.png" alt="" data-size="line"> para cartão e o botão <img src="/erp-v2/assets/icon_estornar_pix.png" alt="" data-size="line"> para pagamento via pix.
 
 {% hint style="danger" %}
 **Atenção:** Estas informações estão vinculadas diretamente ao financeiro, o vendedor/usuário não terá acesso a essas funções dentro do sistema.
