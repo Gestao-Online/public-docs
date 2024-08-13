@@ -4,13 +4,13 @@
 
 A configuração para emissão de NFSe é muito importante e precisa evitar que erros ocorram. Pois isso implica em vendas paradas e problemas em solicitação.
 
-Vejamos agora o procedimento passo passo para configurar a emissão de notas fiscais no nosso sistema.
+Vejamos agora o procedimento passo a passo para configurar a emissão de notas fiscais no nosso sistema.
 
 {% hint style="danger" %}
-**Atenção:** Você precisará de informações importantes para o preenchimento das informações mostradas aqui, para caso de dúvidas, recomendamos solicitar as informações junto ao contador de sua empresa, pois ele pode fornecer as informações corretas e necesárias.
+**Atenção:** Você precisará de informações importantes para o preenchimento das informações mostradas aqui. Para caso de dúvidas, recomendamos solicitar as informações junto ao contador de sua empresa, pois ele pode fornecer as informações corretas e necessárias.
 {% endhint %}
 
-Primeiro será necessário efetuar o cadastro de sua empresa, e esta parte em específico é bem prática em casos de CNPJ, pois nosso sistema após você digitar o CNPJ trará os dados completos de sua empresa. Fazendo assim com que tenhamos foco na parte fiscal mais rápido.
+Primeiro será necessário efetuar o cadastro de sua empresa, e esta parte em específico é bem prática em casos de CNPJ, pois nosso sistema, após você digitar o CNPJ, trará os dados completos de sua empresa. Fazendo assim, com que tenhamos foco na parte fiscal mais rápido.
 
 Faremos um teste com o CNPJ da gestão online, observe os dados serem preenchidos automaticamente.
 

@@ -18,7 +18,7 @@ Observe que ao abrirmos esta venda no menu superior, temos o botão de acompanha
 
 Para nossa demonstração, iremos utilizar o botão de atualizar status de NF, pois assim confirmar se realmente houve algum problema com a emissão desta NF.
 
-Na tela após aberta, podemos clicar no menu, leva um tempinho dependendo da conexão, logo em seguida ele coloca sua NF em processamento novamente, e você pode conferir a mensagem de erro/situação da NF bem no final da página, podemos observer que houve a falta de informação a respeito do RPS. Após corrigi-lo a emissão poderá ser feita! 😁👍
+Na tela após aberta, podemos clicar no menu, leva um tempinho dependendo da conexão, logo em seguida ele coloca sua NF em processamento novamente, e você pode conferir a mensagem de erro/situação da NF bem no final da página. Podemos observar que houve a falta de informação a respeito do RPS. Após corrigi-lo, a emissão poderá ser feita! 😁👍
 
  Observe nossa demonstração abaixo.
 

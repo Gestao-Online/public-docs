@@ -14,11 +14,11 @@ Com a venda aberta, observe que no campo tipo de negociação você tem uma seta
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_tipo_negociacao_btn.png)
 
-Ao clicar neste botão uma janela será mostrada a você para alterar o tipo de negociação existente. Mas não só isso, precisa também escrever o motivo para que seja liberado a opção de confirmação de alteração.
+Ao clicar neste botão, uma janela será mostrada a você para alterar o tipo de negociação existente. Mas não só isso, precisa também escrever o motivo para ser liberada a opção de confirmação de alteração.
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_tipo_negociacao_btn_janela.png)
 
-Ao clicar no campo Tipo de negociação desta janela, você pode escolher o correto, e depois escrever qual o motivo da alteração, pois esta venda já está confirmada.
+Ao clicar no campo Tipo de negociação desta janela, você pode escolher o correto e depois escrever qual o motivo da alteração, pois esta venda já está confirmada.
 
 Feito isso, só clicar no botão `Confirmar alteração`.
 

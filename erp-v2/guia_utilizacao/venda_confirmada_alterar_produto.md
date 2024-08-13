@@ -8,12 +8,12 @@ Observe que já foi gerado um código para esta venda/pedido e o status já cons
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_status_venda.png)
 
-Agora com a venda aberta, observe que na parte superior da tela, temos no menu superior o botão <img src="/erp-v2/assets/funcionalidades/icon_cancelar_venda.png" alt="" data-size="line"> de cancelar a venda.
+Agora, com a venda aberta, observe que na parte superior da tela, temos no menu superior o botão <img src="/erp-v2/assets/funcionalidades/icon_cancelar_venda.png" alt="" data-size="line"> de cancelar a venda.
 
 Não se preocupe, você não terá que preencher tudo novamente, vamos apenas cancelar para desbloquear as funções para efetuarmos a alteração do produto/serviço.
 
 {% hint style="info" %}
-**Informativo:** Neste exemplo o **Tipo movimentação** utilizado está configurado para emitir a nota fiscal após confirmar a venda e desabilitado a função de gerar automaticamente.
+**Informativo:** Neste exemplo, o **Tipo movimentação** utilizado está configurado para emitir a nota fiscal após confirmar a venda e desabilitado a função de gerar automaticamente.
 {% endhint %}
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_venda_btn_menu_superior.gif)
@@ -30,6 +30,6 @@ Em nosso exemplo, vamos adicionar mais um produto. Observe que o código dessa v
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_venda_add_itens.gif)
 
-Pronto, você pode confirmar a venda e agora com a correção que você fez. Neste moomento, ela já estará disponível para o cliente efetuar o pagamento! 😁👍
+Pronto, você pode confirmar a venda e agora com a correção que você fez. Neste momento, ela já estará disponível para o cliente efetuar o pagamento! 😁👍
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_venda_salvando_venda.gif)
