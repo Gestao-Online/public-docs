@@ -1,3 +1,3 @@
 # Como realizar um estorno de cartão de crédito ou PIX?
 
-Texto de exemplo.
+O sistema realizará a baixa automática do financeiro para vendas efetuadas com os 'Tipos de negociação' cartão ou Pix. Se o módulo Gopag não estiver disponível, o Banco precisa estar integrado ao "GestãoOnline" para que a baixa automática ocorra. Caso contrário, em pagamentos efetuados em dinheiro, maquininha física, boleto ou outras formas sem vínculo com o sistema, a baixa deverá ser realizada manualmente.
