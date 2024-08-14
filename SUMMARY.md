@@ -190,7 +190,7 @@
     * [.Já confirmei a venda/pedido e agora preciso alterar um item de produto e/ou serviço, como fazer?](erp-v2/guia_utilizacao/venda_confirmada_alterar_produto.md)
     * [.Já confirmei a venda/pedido e agora preciso mudar o tipo de negociação (forma de pagamento), como fazer?](erp-v2/guia_utilizacao/venda_confirmada_alterar_tipo_negociacao.md)
     * [.O que é a liberação de desconto e como funciona?](erp-v2/guia_utilizacao/como_liberar_desconto.md)
-    * [Como alterar a minha conta de recebimento?](/erp-v2/guia_utilizacao/como_alterar_conta_receber.md)
+    * [.Como alterar a minha conta de recebimento?](/erp-v2/guia_utilizacao/como_alterar_conta_receber.md)
 
  * [🏬 Marketplace](erp-v2/marketplace/README.md)
     * [Como funciona o marketplace?](erp-v2/marketplace/como-funciona.md)
