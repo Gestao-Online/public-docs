@@ -37,3 +37,7 @@ Seja bem-vindo ao seu novo aliado estratégico para uma administração eficient
 {% content-ref url="como_liberar_desconto.md" %}
 [como_liberar_desconto.md](erp-v2/guia_utilizacao/como_liberar_desconto.md)
 {% endcontent-ref %}
+
+{% content-ref url="como_alterar_conta_receber.md" %}
+[como_liberar_desconto.md](erp-v2/guia_utilizacao/como_alterar_conta_receber.md)
+{% endcontent-ref %}
