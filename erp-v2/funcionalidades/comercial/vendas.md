@@ -16,8 +16,6 @@ Este menu de vendas estará disponível para você tanto no menu principal quant
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas.gif)
 
-<br>
-
 Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -27,8 +25,6 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar venda.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_menu.png)
-
-<br>
 
 {% hint style="warning" %}
 **Exportar:** Caso queira mais informações sobre como utilizar o botão <img src="/erp-v2/assets/icon_exportar.png" alt="" data-size="line"> exportar movimentações [**`clique aqui`**](/erp-v2/primeiro_acesso/exportar.md) para acessar a explicação sobre cada parte desta função.
@@ -329,10 +325,14 @@ Como podemos ver, a venda que criamos como exemplo foi confirmada, ainda não ho
 
 Além do status de venda confirmada, temos outros:
 
-|                                                                                   |                                                                   |
-|-----------------------------------------------------------------------------------|-------------------------------------------------------------------|
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_baixado.png)        |Venda com o financeiro baixado.                                    |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_parcial.png)        |Parcialmente baixado (Apenas uma ou algumas parcelas foram pagas). |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_autorizado.png)     |Financeiro baixado, nota fiscal autorizada e itens entregues.      |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)   |Nota fiscal rejeitada.                                             |
+|                                                                                           |                                                                      |
+|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_confirmado.png)             |Venda confirmada (Entrega e pagamento pendente).                      |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_parcial.png)                |Parcialmente baixado (Apenas uma ou algumas parcelas foram pagas).    |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_autorizado.png)             |Financeiro baixado, nota fiscal autorizada e itens entregues.         |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_entrega_parcial.png)        |Entrega parcial (Pagamento pendente).                                 |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_processando.png)         |Nota fiscal sendo processada (Entrega e pagamento pendente).          |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)           |Nota fiscal rejeitada (Entrega e pagamento pendente).                 |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_cancelada.png)           |Nota fiscal cancelada (Entrega e pagamento pendente).                 |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_entrega_autorizada.png)     |Liberação de entrega e entrega realizada (Pagamento pendente).        |
 
