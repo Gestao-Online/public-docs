@@ -256,9 +256,12 @@ Como podemos ver, a venda que criamos como exemplo foi confirmada, ainda não ho
 
 Além do status de venda confirmada, temos outros:
 
-|                                                                                   |                                                                   |
-|-----------------------------------------------------------------------------------|-------------------------------------------------------------------|
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_baixado.png)        |Venda com o financeiro baixado.                                    |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_parcial.png)        |Parcialmente baixado (Apenas uma ou algumas parcelas foram pagas). |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_autorizado.png)     |Financeiro baixado, nota fiscal autorizada e itens entregues.      |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)   |Nota fiscal rejeitada.                                             |
+|                                                                                   |                                                                      |
+|-----------------------------------------------------------------------------------|----------------------------------------------------------------------|
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_confirmado.png)     |Venda confirmada, itens não entregues e paganto ainda não realizado.  |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_parcial.png)        |Parcialmente baixado (Apenas uma ou algumas parcelas foram pagas).    |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_autorizado.png)     |Financeiro baixado, nota fiscal autorizada e itens entregues.         |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)   |Nota fiscal rejeitada.                                                |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_cancelada.png)   |Nota fiscal cancelada.                                                |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_processando.png)   |Nota fiscal cancelada.                                                |
+.
