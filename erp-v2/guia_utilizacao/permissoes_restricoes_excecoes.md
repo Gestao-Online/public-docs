@@ -2,10 +2,9 @@
 
 ## Botão de Permissões
 
-O botão de permissões é habilitado somente para usuários específicos, caso você não tenha permissão para utilizá-lo, entre em contato com seu supervisor e 
+O botão de permissões é habilitado somente para usuários específicos. Caso você não tenha permissão para utilizá-lo, entre em contato com seu supervisor.
 
-
-Ao clicar no botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> de permissões, uma nova janela irá de abrir. E nela você a *Central de permissões*.
+Ao clicar no botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> de permissões, uma nova janela irá se abrir. E nela você encontra a *Central de Permissões*.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_menu_btn_permissoes.png)
 
@@ -17,26 +16,26 @@ Observe que ao lado direito da tela você tem a descrição da permissão, e ao 
 
 ### Adicionar/remover permissão de usuário
 
-Aqui você pode definir, que terá permissão para estornar cartão de crédito, pix, emitir nota fiscal, liberação de entrega, etc.
+Aqui você pode definir quem terá permissão para estornar cartão de crédito, pix, emitir nota fiscal, liberação de entrega, etc.
 
-Quando o nome do usuário não esta nessa permissão, o botão que ativa essa função irá sumir para esse usuário e ele não conseguirá usar, a menos que você defina aqui na *Central de permissões*.
+Quando o nome do usuário não está nessa permissão, o botão que ativa essa função irá sumir para esse usuário e ele não conseguirá usar, a menos que você defina aqui na *Central de Permissões*.
 
 {% hint style="warning" %}
-**Atenção:** Sempre que fizer alguma alteração na central de permissões é necessário clicar no botão de salvar <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> para que ela entre em vigor, caso somente clique no botão de **`OK`** não irá registrar a alteração.
+**Atenção:** Sempre que fizer alguma alteração na central de permissões, é necessário clicar no botão de salvar <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> para que ela entre em vigor, caso somente clique no botão de **`OK`** não irá registrar a alteração.
 {% endhint %}
 
-É bem fácil para adicionar um usuário da permissão, observe nossa demonstração abaixo. 
+É bem fácil adicionar um usuário à permissão, observe nossa demonstração abaixo.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_menu_btn_permissoes_janela_add_user.gif)
 
-Agora caso queira remover uma permissão de um usuário, basta tirar seu nome do campo que precisa e depois salvar a modificação. Observe nossa outra demonstração de remoção abaixo.
+Agora, caso queira remover uma permissão de um usuário, basta tirar seu nome do campo que precisa e depois salvar a modificação. Observe nossa outra demonstração de remoção abaixo.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_menu_btn_permissoes_janela_remove_user.gif)
 
 
 ## Botão de Restrições e Exceções
 
-O botão de restrições/exceções, pode aparecer para você no momento que for adicionar algum item em alguma das telas do sistema, ele já aparece junto a menu de ações dessa tela de adição, vejamos abaixo o exemplo de uso dele com a tela **Tipo de agendamento**.
+O botão de restrições/exceções pode aparecer para você no momento que for adicionar algum item em alguma das telas do sistema, ele já aparece junto ao menu de ações dessa tela de adição, vejamos abaixo o exemplo de uso dele com a tela **Tipo de agendamento**.
 
 Ao clicar no botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> de restrições/exceções, uma nova janela irá de abrir. Aqui você pode encontrar as definições de uso para o tipo de agendamento que você está editando.
 
@@ -48,7 +47,7 @@ Ao clicar no botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size=
 
 ### Adicionar/remover restrição/exceção de usuário
 
-Seguindo o exemplo demonstrado abaixo, você pode definir, um tipo de agendamento válido somente para um vendedor em específico. Lembrando que existem outros campos, mas a tela que você se encontra é que definirá quais serão.
+Seguindo o exemplo demonstrado abaixo, você pode definir um tipo de agendamento válido somente para um vendedor em específico. Lembrando que existem outros campos, mas a tela em que você se encontra é que definirá quais serão.
 
 Das opções disponíveis no lado esquerdo, temos:
 
