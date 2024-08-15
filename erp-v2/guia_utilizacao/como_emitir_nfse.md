@@ -1,71 +1,81 @@
 # Como configurar o sistema para emissão de notas fiscais de serviço (NFSe)
 
-A configuração para emissão de NFSe é muito importante e precisa evitar que erros ocorram. Pois isso implica em vendas paradas e problemas em solicitação.
+A configuração para emissão de NFSe é crucial para evitar erros que possam interromper vendas e gerar problemas com solicitações.
 
-Vejamos agora o procedimento passo a passo para configurar a emissão de notas fiscais no nosso sistema.
+Neste guia, vamos detalhar o procedimento passo a passo para configurar a emissão de notas fiscais no nosso sistema.
 
 {% hint style="danger" %}
-**Atenção:** Você precisará de informações importantes para o preenchimento das informações mostradas aqui. Para caso de dúvidas, recomendamos solicitar as informações junto ao contador de sua empresa, pois ele pode fornecer as informações corretas e necessárias.
+**Atenção:** Você precisará de informações importantes para o preenchimento dos dados mostrados aqui. Em caso de dúvidas, recomendamos que solicite essas informações ao contador de sua empresa, que poderá fornecer as orientações corretas e necessárias.
 {% endhint %}
 
-Primeiro será necessário efetuar o cadastro de sua empresa, e esta parte em específico é bem prática em casos de CNPJ, pois nosso sistema, após você digitar o CNPJ, trará os dados completos de sua empresa. Fazendo assim, com que tenhamos foco na parte fiscal mais rápido.
+## Cadastro da Empresa
 
-Faremos um teste com o CNPJ da gestão online, observe os dados serem preenchidos automaticamente.
+Primeiro, é necessário efetuar o cadastro da sua empresa. Essa parte é prática, especialmente para CNPJs. Ao digitar o CNPJ, nosso sistema preenche automaticamente os dados completos da empresa, permitindo que você foque rapidamente na parte fiscal.
+
+Vamos fazer um teste com o CNPJ da Gestão Online. Observe os dados sendo preenchidos automaticamente:
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_emitir_nfse_campo_cnpj.gif)
 
-## NFSe ativado
+## Configuração dos Dados Fiscais
 
-Agora o preenchimento dos dados fiscais da empresa. Destas informações, se sua empresa é optante pelo **Simples Nacional**, o indicador de **Inscrição Estadual**, se você é tomador ou prestador de serviço, qual o **Regime Tributário** utilizado, e por último, ativar a opção de NFSe ativo (esta opção fará com que mais opções fiquem disponíveis para você acessar).
+### NFSe ativado
+
+Após o cadastro inicial, você deve preencher os dados fiscais da empresa. As principais informações incluem:
+
+- Se a empresa é optante pelo **Simples Nacional**.
+- Indicador de **Inscrição Estadual**.
+- Se você é tomador ou prestador de serviço.
+- Qual o **Regime Tributário** utilizado.
+- Ativar a opção de NFSe ativo (isso habilitará mais opções para você acessar).
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_emitir_nfse_campos_preenchimento_geral.png)
 
 ### Campo NFSe ambiente
 
-Neste campo você vai definir o ambiente de criação das Notas Fiscais. Você terá duas opções para utilização, vejamos a definição de cada uma:
+Neste campo, você define o ambiente de criação das Notas Fiscais. Existem duas opções:
 
-- **Homologação:** É o ambiente de testes sem nenhuma validade fiscal ou jurídica, podendo também usar dados reais ou fictícios no preenchimento do documento.
-- **Produção:** É o ambiente designado para documentos com valor fiscal, ou seja, são documentos válidos e reconhecidos fiscal e juridicamente.
+- **Homologação:** Ambiente de testes sem validade fiscal ou jurídica. Você pode usar dados reais ou fictícios.
+- **Produção:** Ambiente designado para documentos com valor fiscal, válidos e reconhecidos fiscalmente.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_ambiente.png)
 
 ### Campo NFSe RPS Série
 
-O campo de série utilizada no recibo provisório de serviço (RPS) pode ser composto por número (1, 2 ou 3, por exemplo) ou letras (A, S, NFS, para o exemplo), varia de acordo com cada prefeitura, portanto, consulte-a com o município da empresa antes de iniciar a emissão das NFS-e.
+O campo de série utilizada no Recibo Provisório de Serviço (RPS) pode ser composto por números (1, 2, 3, etc.) ou letras (A, S, NFS, etc.). Consulte o município da empresa para obter a série correta antes de iniciar a emissão das NFS-e.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_serie.png)
 
 ### Campo NFSe RPS Número
 
-Neste campo você preenche o número inicial que será utilizado no recibo provisório de serviço (RPS). Cada RPS gerado possui uma numeração, por isso, ao configurar a emissão de NFS-e, é importante que a numeração do RPS seja informada de acordo com a sequência da sua prefeitura.
+Preencha aqui o número inicial que será utilizado no RPS. Cada RPS gerado possui uma numeração, portanto, informe a sequência correta conforme a prefeitura.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_numero.png)
 
 ### Campo NFSe RPS Lote
 
-Alguns municípios utilizam o conceito de lote para emissão de NFS-e. Ele nada mais é que um controle de quantidade de notas que foram emitidas por CNPJ e deve ser sequencial. Lembrando que essa informação também é encontrada no portal da prefeitura da empresa que está sendo cadastrada no momento.
+Alguns municípios utilizam o conceito de lote para emissão de NFS-e. É um controle de quantidade de notas emitidas por CNPJ e deve ser sequencial. Essa informação pode ser verificada no portal da prefeitura.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_lote.png)
 
 ### NFSe Prefeitura Login e senha
 
-Esses campos tem variação de prefeitura para prefeitura. Mas com o preenchimento destes campos o acesso ao portal pode ser feito automaticamente, para emissão de NFSe.
+Esses campos variam de prefeitura para prefeitura. O preenchimento correto permite o acesso automático ao portal para emissão de NFSe.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_login_senha.png)
 
 ## NFSe configuração padrão
 
-Quando você ativa esta opção, novos campos ficam disponíveis para você preencher. Vejamos a definição e modo de preenchimento de cada um dos campos logo abaixo.
+Ativando esta opção, novos campos ficam disponíveis para preenchimento. Abaixo, veja a definição e o modo de preenchimento de cada um:
 
 ### Campo NFSe principal código de serviço
 
-Neste campo, você pode adicionar um novo código ou usar os códigos cadastrados na tela [**`LC116`**](/erp-v2/funcionalidades/fiscal/lc116.md). Através deste campo você define o tipo de serviço para esta NFSe.
+Aqui, você pode adicionar um novo código ou usar os códigos cadastrados na tela [**`LC116`**](/erp-v2/funcionalidades/fiscal/lc116.md). Este campo define o tipo de serviço para a NFSe.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_codigo_servico.png)
 
 ### Campo NFSe principal código de tributação
 
-asdfasdfasdfas
+Preencha o código de tributação principal conforme as orientações específicas do seu município.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_codigo_tributacao.png)
 

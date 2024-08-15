@@ -188,7 +188,7 @@ Neste campo, você pode adicionar um novo código ou usar os códigos cadastrado
 
 ### Campo NFSe principal código de tributação
 
-asdfasdfasdfas
+Preencha o código de tributação principal conforme as orientações específicas do seu município.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_codigo_tributacao.png)
 
