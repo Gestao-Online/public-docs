@@ -16,10 +16,14 @@ Observe que ao abrirmos esta venda no menu superior, temos o botão de acompanha
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_status_nf_nao_emitida_tela_vendas_btn_acompanhar_nf.gif)
 
-Para nossa demonstração, iremos utilizar o botão de atualizar status de NF, pois assim confirmar se realmente houve algum problema com a emissão desta NF.
+Na tela após aberta, você pode conferir a mensagem de erro/situação da NF bem no final da página. Podemos observar que houve a falta de informação a respeito do RPS. Observe nossa demonstração abaixo.
 
-Na tela após aberta, podemos clicar no menu, leva um tempinho dependendo da conexão, logo em seguida ele coloca sua NF em processamento novamente, e você pode conferir a mensagem de erro/situação da NF bem no final da página. Podemos observar que houve a falta de informação a respeito do RPS. Após corrigi-lo, a emissão poderá ser feita! 😁👍
+![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_status_nf_nao_emitida_tela_vendas_btn_acompanhar_nf_mensagem_erro.png)
 
- Observe nossa demonstração abaixo.
+Após corrigir, será necessário abrir novamente a movimentação que estava com a nota fiscal rejeitada e clicar no botão <img> gerar nf, para então ela ser criada corretamente!😁
 
-![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_status_nf_nao_emitida_tela_vendas_btn_acompanhar_nf_btn_atualizar_nf.gif)
+{% hint style="info" %}
+**Nota fiscal:** Somente atualizar a nota fiscal depois de corrigir o erro não fará com que ela seja arrumada automaticamente, por isso a necessidade de clicar no botão para gerar ela novamente. 😉
+{% endhint %}
+
+![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_status_nf_nao_emitida_tela_vendas_btn_acompanhar_nf_mensagem_erro_btn_gerar.png)
