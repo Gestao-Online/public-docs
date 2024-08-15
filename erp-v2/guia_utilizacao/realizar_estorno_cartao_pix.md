@@ -26,7 +26,23 @@ Com o estorno realizado, logo em sequência, na tela **Anexos** você irá encon
 
 ## Como cancelar a venda após o estorno
 
+Ao abrir a venda/movimentação e observar o menu cinza na parte superior, você verá o botão para efetuar o estorno da compra.
 
+![](/erp-v2/assets/guia_utilizacao/aba_vendas_add_guia_financeir_edit_estorno_cc_btn.png)
+
+Após clicar neste botão, uma janela será mostrada a você exigindo o motivo do cancelamento para que possa depois clicar no botão `Confirmar estorno`.
+
+![](/erp-v2/assets/guia_utilizacao/aba_vendas_add_guia_financeir_edit_estorno_cc_btn_janela.png)
+
+Pronto, o dinheiro será devolvido ao cliente! 😁👍 Porém, não termina por aí, você agora precisa remover a baixa no sistema para que efetue o cancelamento da venda.
+
+![](/erp-v2/assets/guia_utilizacao/aba_vendas_add_guia_financeir_edit_estorno_cc_editar_item.png)
+
+Agora será mostrado para você esta tela com as informações da transação que foi realizada. E no menu superior teremos o botão <img> estornar, mas não se preocupe, aqui será somente para remover a baixa que foi feita no financeiro.
+
+![](/erp-v2/assets/guia_utilizacao/aba_vendas_add_guia_financeir_edit_estorno_cc_editar_item_btn_remove_baixa_financeiro.png)
+
+Depois basta confirmar clicando no botão `OK` e pronto, agora poderá cancelar a venda sem ter problema de alguma mensagem de erro aparecer para você.
 
 ## Como alterar forma de pagamento após estorno
 
