@@ -1,7 +1,5 @@
 # Como corrigir uma nota fiscal de serviço rejeitada (NFSe)?
 
-<!-- CONFIRMAR COM PAULO SOBRE ESSA GUIA EM ESPECÍFICO, POIS EXISTEM MUITAS POSSIBILIDADES DE ERRO EM UMA NFSe E PRECISO SABER SE SERÃO CITADOS TODOS OU SOMENTE OS MAIS FREQUENTES. -->
-
 A nota fiscal pode ser rejeitada por algumas situações específicas. A maioria delas é causada por erros contidos nas informações enviadas ao fisco.
 
 Assim, ao preencher determinados campos, é possível que sejam percebidas inconsistências que geram diferentes tipos de rejeições. Felizmente, cada uma delas tem uma solução.
@@ -31,5 +29,3 @@ Para este caso, a subtituição do certificado digital pode ser feita acessando 
 Nos dados fiscais você pode adicionar o certificado digital da empresa. Os certificados digitais são aceitos em formato **`.pfx`** ou **`.p12`**. 
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_certificado.png)
-
-Agora com o 
