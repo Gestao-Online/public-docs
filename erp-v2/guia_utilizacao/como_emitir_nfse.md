@@ -18,6 +18,16 @@ Vamos fazer um teste com o CNPJ da Gestão Online. Observe os dados sendo preenc
 
 ## Configuração dos Dados Fiscais
 
+### Anexar certificado Digital
+
+Nos dados fiscais você pode adicionar o certificado digital da empresa, permitindo assinar documentos com validade jurídica e fazer transações online com segurança.
+
+{% hint style="warning" %}
+**Importante:** Os certificados digitais são aceitos em **`.pfx`** ou **`.p12`**.
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_certificado.png)
+
 ### NFSe ativado
 
 Após o cadastro inicial, você deve preencher os dados fiscais da empresa. As principais informações incluem:
