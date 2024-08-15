@@ -34,7 +34,7 @@ Após clicar neste botão, uma janela será mostrada a você exigindo o motivo d
 
 ![](/erp-v2/assets/guia_utilizacao/aba_vendas_add_guia_financeir_edit_estorno_cc_btn_janela.png)
 
-Pronto, o dinheiro será devolvido ao cliente! 😁👍 Porém, não termina por aí, você agora precisa remover a baixa no sistema para que efetue o cancelamento da venda.
+Pronto, o dinheiro será devolvido ao cliente automaticamente! 😁👍 Porém, não termina por aí, você agora precisa remover a baixa no sistema para que efetue o cancelamento da venda.
 
 ![](/erp-v2/assets/guia_utilizacao/aba_vendas_add_guia_financeir_edit_estorno_cc_editar_item.png)
 
