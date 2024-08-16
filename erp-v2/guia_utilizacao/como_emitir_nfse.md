@@ -10,9 +10,9 @@ Neste guia, vamos detalhar o procedimento passo a passo para configurar a emiss�
 
 ## Cadastro da Empresa
 
-Primeiro, é necessário efetuar o cadastro da sua empresa. Essa parte é prática, especialmente para CNPJs. Ao digitar o CNPJ, nosso sistema preenche automaticamente os dados completos da empresa, permitindo que você foque rapidamente na parte fiscal.
+Primeiro, é necessário efetuar o cadastro da sua empresa. Essa parte é prática, especialmente para CNPJ. Ao digitar o CNPJ, nosso sistema preenche automaticamente os dados completos da empresa, permitindo que você foque rapidamente na parte fiscal.
 
-Vamos fazer um teste com o CNPJ da Gestão Online. Observe os dados sendo preenchidos automaticamente:
+Vamos fazer um teste com o CNPJ da Gestão Online. Observe os dados preenchidos automaticamente:
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_emitir_nfse_campo_cnpj.gif)
 
@@ -20,7 +20,7 @@ Vamos fazer um teste com o CNPJ da Gestão Online. Observe os dados sendo preenc
 
 ### Anexar certificado Digital
 
-Nos dados fiscais você pode adicionar o certificado digital da empresa, permitindo assinar documentos com validade jurídica e fazer transações online com segurança.
+Nos dados fiscais, você pode adicionar o certificado digital da empresa, permitindo assinar documentos com validade jurídica e fazer transações online com segurança.
 
 {% hint style="warning" %}
 **Importante:** Os certificados digitais são aceitos em **`.pfx`** ou **`.p12`**.
@@ -42,7 +42,7 @@ Após o cadastro inicial, você deve preencher os dados fiscais da empresa. As p
 
 ### Campo NFSe ambiente
 
-Neste campo, você define o ambiente de criação das Notas Fiscais. Existem duas opções:
+Neste campo, você define o ambiente de criação das notas fiscais. Existem duas opções:
 
 - **Homologação:** Ambiente de testes sem validade fiscal ou jurídica. Você pode usar dados reais ou fictícios.
 - **Produção:** Ambiente designado para documentos com valor fiscal, válidos e reconhecidos fiscalmente.
@@ -110,7 +110,7 @@ Este campo oferece várias opções, como:
 - **Isenção:** Serviços isentos do ISS por disposição legal.
 - **Exportação:** Aplicável a serviços prestados a clientes no exterior.
 - **Imunidade:** Certas entidades, como templos religiosos e partidos políticos, podem ser imunes ao ISS.
-- **Suspenso por Ação Judicial:** Suspensão temporária devido a ação judicial.
+- **Suspenso por Ação Judicial:** Suspensão temporária devido à ação judicial.
 - **Suspenso por Ação Administrativa:** Suspensão temporária devido a processo administrativo.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_iss_exigibilidade.png)

@@ -12,7 +12,7 @@ Com a venda que você deseja fazer o estorno já aberta, observe que o nosso sis
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_estorno_pic_cc.png)
 
-O sistema realizará a baixa automática do financeiro para vendas efetuadas com o **Tipo de negociação** cartão ou pix. Lembrando que o banco precisa estar integrado ao nosso sistema **Gestão.Online** para que a baixa automática ocorra.
+O sistema realizará a baixa automática do financeiro para vendas efetuadas com o **Tipo de negociação**, cartão ou pix. Lembrando que o banco precisa estar integrado ao nosso sistema **Gestão.Online** para que a baixa automática ocorra.
 
 {% hint style="warning" %}
 **Contas bancárias:** Para mais informações sobre a tela de cadastro das contas bancárias, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md)
@@ -20,31 +20,33 @@ O sistema realizará a baixa automática do financeiro para vendas efetuadas com
 
 Caso contrário, os pagamentos efetuados em dinheiro, maquininha física, boleto ou outras formas sem vínculo com o sistema, a baixa precisa ser realizada manualmente. Precisando ser feito o registro no sistema para não perder o controle.
 
-Com o estorno realizado, logo em sequência, na tela **Anexos** você irá encontrar a carta de cancelamento assim que o estorno for atualizado pela adquirente.
+Com o estorno realizado, logo em sequência, na tela **Anexos**, você irá encontrar a carta de cancelamento assim que o estorno for atualizado pela adquirente.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_estorno_pix_cc_carta.gif)
 
-## Como cancelar a venda após o estorno
+## Como cancelar a venda após o estorno?
 
 Ao abrir a venda/movimentação e observar o menu cinza na parte superior, você verá o botão para efetuar o estorno da compra.
 
 ![](/erp-v2/assets/guia_utilizacao/aba_vendas_add_guia_financeir_edit_estorno_cc_btn.png)
 
-Após clicar neste botão, uma janela será mostrada a você exigindo o motivo do cancelamento para que possa depois clicar no botão `Confirmar estorno`.
+Após clicar neste botão, uma janela será mostrada a você exigindo o motivo do cancelamento para poder depois clicar no botão `Confirmar estorno`.
 
 ![](/erp-v2/assets/guia_utilizacao/aba_vendas_add_guia_financeir_edit_estorno_cc_btn_janela.png)
 
-Pronto, o dinheiro será devolvido ao cliente automaticamente! 😁👍 Porém, não termina por aí, você agora precisa remover a baixa no sistema para que efetue o cancelamento da venda.
+Pronto, o dinheiro será devolvido ao cliente automaticamente! 😁👍 
+
+Porém, não termina por aí, você agora precisa remover a baixa no sistema para efetuar o cancelamento da venda.
 
 ![](/erp-v2/assets/guia_utilizacao/aba_vendas_add_guia_financeir_edit_estorno_cc_editar_item.png)
 
-Agora será mostrado para você esta tela com as informações da transação que foi realizada. E no menu superior teremos o botão <img> estornar, mas não se preocupe, aqui será somente para remover a baixa que foi feita no financeiro.
+Agora será mostrada para você esta tela com as informações da transação que foi realizada. E no menu superior teremos o botão <img src="/erp-v2/assets/icon_estornar.png" alt="" data-size="line"> estornar, mas não se preocupe, aqui será somente para remover a baixa que foi feita no financeiro.
 
 ![](/erp-v2/assets/guia_utilizacao/aba_vendas_add_guia_financeir_edit_estorno_cc_editar_item_btn_remove_baixa_financeiro.png)
 
 Depois basta confirmar clicando no botão `OK` e pronto, agora poderá cancelar a venda sem ter problema de alguma mensagem de erro aparecer para você.
 
-## Como alterar forma de pagamento após estorno
+## Como alterar forma de pagamento após estorno?
 
 Com a venda aberta, observe que no campo tipo de negociação você tem uma seta que exibe um botão para editar o tipo de negociação existente.
 
@@ -61,4 +63,3 @@ Feito isso, só clicar no botão `Confirmar alteração`.
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_tipo_negociacao_btn_janela_tipo_motivo.gif)
 
 Pronto, alteração concluída com sucesso sem precisar cancelar a venda! 😁👍
-

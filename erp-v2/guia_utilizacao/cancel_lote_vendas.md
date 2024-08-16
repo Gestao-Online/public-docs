@@ -1,18 +1,18 @@
 # Como fazer o cancelamento em lote de vendas não concretizadas (não pagas)?
 
-O cancelamento em lote é bem prático em nosso sistema, lembrando muitos as teclas de atalho que você utiliza em seu sistema operacional no dia a dia! 😁
+O cancelamento em lote é bem prático em nosso sistema, lembrando muitas das teclas de atalho que você utiliza em seu sistema operacional no dia a dia! 😁
 
-Por exemplo, para selecionar mais de uma venda que não foi concretizada e cancelar, você pode primeiro, filtrar as vendas que se encontram pendentes, e depois definir uma data em específico das vendas mais antigas, para não correr o risco de cancelar uma venda recente.
+Por exemplo, para selecionar mais de uma venda que não foi concretizada e cancelar, você pode, primeiro, filtrar as vendas que se encontram pendentes e depois definir uma data específica para as vendas mais antigas, para não arriscar cancelar uma venda recente.
 
 {% hint style="warning" %}
-**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md), para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-Veja nossa demonstração abaixo. Primeiro adicionamos o filtro para exibir somente as vendas pendentes.
+Veja nossa demonstração abaixo. Primeiro, adicionamos o filtro para exibir somente as vendas pendentes.
 
 ![](/erp-v2/assets/guia_utilizacao/guia_cancelar_lote_vendas_filtrar_financeiro.gif)
 
-Depois disso, separamos por data de negociação. Em nosso exemplo iremos buscar somente as vendas que não foram concretizadas no mês passado.
+Depois disso, separamos por data de negociação. Em nosso exemplo, iremos buscar somente as vendas que não foram concretizadas no mês passado.
 
 ![](/erp-v2/assets/guia_utilizacao/guia_cancelar_lote_vendas_filtrar_data_negociacao.gif)
 

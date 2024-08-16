@@ -20,10 +20,10 @@ Na tela após aberta, você pode conferir a mensagem de erro/situação da NF be
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_status_nf_nao_emitida_tela_vendas_btn_acompanhar_nf_mensagem_erro.png)
 
-Após corrigir, será necessário abrir novamente a movimentação que estava com a nota fiscal rejeitada e clicar no botão <img> gerar nf, para então ela ser criada corretamente!😁
+Após corrigir, será necessário abrir novamente a movimentação que estava com a nota fiscal rejeitada e clicar no botão <img> gerar NF, para então ela ser criada corretamente!😁
 
 {% hint style="info" %}
-**Nota fiscal:** Somente atualizar a nota fiscal depois de corrigir o erro não fará com que ela seja arrumada automaticamente, por isso a necessidade de clicar no botão para gerar ela novamente. 😉
+**Nota fiscal:** Somente atualizar a nota fiscal após corrigir o erro não fará com que ela seja arrumada automaticamente, por isso a necessidade de clicar no botão para gerar ela novamente. 😉
 {% endhint %}
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_status_nf_nao_emitida_tela_vendas_btn_acompanhar_nf_mensagem_erro_btn_gerar.png)
