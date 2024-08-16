@@ -334,5 +334,5 @@ Além do status de venda confirmada, temos outros:
 |![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_processando.png)         |Nota fiscal sendo processada (Entrega e pagamento pendente).          |
 |![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_rejeitada.png)           |Nota fiscal rejeitada (Entrega e pagamento pendente).                 |
 |![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_nf_cancelada.png)           |Nota fiscal cancelada (Entrega e pagamento pendente).                 |
-|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_entrega_autorizada.png)     |Liberação de entrega e entrega realizada (Pagamento pendente).        |
-
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_entrega_autorizada.png)     |Liberação de entrega (Pagamento e entrega pendente).                  |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_status_estorno.png)                |Pagamento estornado (Entrega pendente).                               |

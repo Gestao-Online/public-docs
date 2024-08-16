@@ -295,5 +295,6 @@ Como podemos ver, o pedido de venda que criamos como exemplo foi liberado e aind
 |![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_status_atendimento.png)        |Pedido de venda em atendimento (Salvo rascunho).                   |
 |![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_status_liberado.png)           |Pedido de venda confirmada aguardando o pagamento.                 |
 |![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_status_pago.png)               |Pedido de venda com financeiro baixado, e pedido liberado.         |
+|![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_status_entorno.png)            |Pedido de venda com pagamento estornado                            |
 |![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_status_cancelado.png)          |Pedido de venda cancelado.                                         |
 
