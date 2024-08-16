@@ -12,11 +12,11 @@ Observe nesta tela que os campos estão todos bloqueados para alteração. Mas n
 
 ![](/erp-v2/assets/guia_utilizacao/guia_alterar_desconto_tela_venda_btn_editar.png)
 
-Uma janela será mostrada para você com algumas opções para escolher e ser liberado a modificação.
+Uma janela será mostrada para você com algumas opções para escolher e ser liberada a modificação.
 
 ![](/erp-v2/assets/guia_utilizacao/guia_alterar_desconto_tela_venda_btn_editar_janela_tipo.png)
 
-Você tem a opção de escolher alterar o valor unitário desse item, mas esse não é o foco do nosso guia:
+Você tem a opção de escolher alterar o valor unitário desse item, mas esse não é o foco do nosso guia.
 
 ![](/erp-v2/assets/guia_utilizacao/guia_alterar_desconto_tela_venda_btn_editar_janela_tipo_valor_unitario.png)
 
@@ -28,7 +28,7 @@ E a opção de alterar o desconto do item, com ela, algumas opções serão most
 
 ![](/erp-v2/assets/guia_utilizacao/guia_alterar_desconto_tela_venda_btn_editar_janela_tipo_valor_desconto.png)
 
-Após preencher o valor que você precisa, agora pode clicar no botão confirmar, uma janela será mostrada para você confirmando que as alterações foram efetuadas:
+Após preencher o valor que você precisa, agora pode clicar no botão confirmar, uma janela será mostrada para você confirmando que as alterações foram efetuadas.
 
 ![](/erp-v2/assets/guia_utilizacao/guia_alterar_desconto_tela_venda_btn_editar_janela_tipo_valor_desconto_salvar.gif)
 
