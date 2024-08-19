@@ -1,6 +1,6 @@
 # 🏪 Unidades/Lojas
 
-Aqui você tem a visão de todas as unidades/lojas cadastradas na plataforma **Gestão Online**, podendo fazer cadastro, editar informações e até excluir um item cadastrado.
+Aqui você tem a visão de todas as unidades/lojas cadastradas na plataforma **Gestão Online**, podendo fazer cadastro, editar informações e até excluir uma unidade/loja cadastrada no sistema.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -10,13 +10,9 @@ Aqui você tem a visão de todas as unidades/lojas cadastradas na plataforma **G
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade.gif)
 
-<br>
-
-Nesta tela tem um menu ao lado direito com as seguintes funções:
+Nesta tela temos um menu cinza ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar Unidade/Loja.
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -25,8 +21,6 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_menu.png)
-
-<br>
 
 {% hint style="warning" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
@@ -42,18 +36,13 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add.png)
 
-
-<br>
-
-Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados da nova unidade/loja:
+Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados da nova unidade/loja que você está criando no momento, observe que os campos que possuem asterisco vermelho, são de preenchimento obrigatório para salvar:
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_inicio.png)
 
-<br>
-
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
-- <img src="/erp-v2/assets/icon_paleta_cores.png" alt="" data-size="line"> Alterar cores da landing page (Este item só fica disponível caso você faça a configuração para venda online);
+- <img src="/erp-v2/assets/icon_paleta_cores.png" alt="" data-size="line"> Alterar cores da landing page (Este item só fica disponível caso você faça a configuração para que esta unidade possua venda online);
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
@@ -63,70 +52,105 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ## Aba Geral
 
-Olhando para a aba **`Geral`**, por padrão, quando você for criar uma unidade/loja é exigido nome, identificador e status. 
-
-Agora os outros campos podem ser preenchidos depois, vejamos abaixo um pouco sobre eles:
-
-- **Descrição** (Nome para identificar a unidade/loja cadastrada);
-- **Identificador** (É gerado por padrão pela plataforma, mas você pode colocar outro, desde que, não esteja sendo utilizado);
-- **Analítica** (Ativada irá abrir para você uma série de outros campos para completar o cadastro);
-- **Status** (Com duas opções para selecionar, entre ativado e desativado);
+Olhando para a aba **`Geral`**, por padrão, quando você for criar uma unidade/loja é exigido nome, identificador e status. Em **Descrição**, você identifica a unidade/loja que está sendo cadastrada no momento, o campo **Identificador**, é gerado um código padrão que será usando para identificar em nossa plataforma. Agora o campo de **Status** você tem duas opções para selecionar, entre ativado para a unidade ficar ativa e disponível, e inativa para que ela deixe de funcionar.
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_unidade_itens.png)
 
-Mas não termina por aí, ao clicarmos no botão seletor `Analítica` teremos mais campos para preenchimento, e não só isso, quando está ativada a função de adicionar uma unidade dependente ficará desativada, vejamos abaixo:
+### Campo unidade analítica
+
+Em específico, no campo **Analítica**, caso deixe ele em ativo, a unidade/loja criada deixa de possuir uma hierarquia. O uso da hierarquia é interessante para melhorar a identificação e separação das novas unidades/lojas que você for adicionar, podendo definir uma como matriz e as demais como filiais.
+
+Para melhor exemplo, veja o campo **Identificador** ele tem a sequência padrão usada em nosso sistema, neste caso 05.000. Caso você fizesse o cadastro de alguma filial vínculada a esta unidade identificada como 05, os demais teriam o identificador 05.001, 05.002, 05.003... e assim em diante. 😁👍
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_analitica.gif)
 
-Aos campos extras exibidos, nós temos:
+### Campo de parceiro
 
-- **Parceiro:** Que é o responsável pela unidade;
-- **Telefone:** Telefone fixo caso a unidade tenha;
-- **Celular:** Pode ser usado para hiperlinks do WhatsApp, Telegram e outros;
-- **Email:** Email da unidade para contato.
+Aos campos extras exibidos, nós temos: o de **Parceiro**, que é o responsável pela unidade, observe que o campo dele tem botões a mais para que você possa cadastrar um novo parceiro ali mesmo, ou abrir em uma nova aba o parceiro adicionado neste campo.
 
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral1.png)
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_campo_parceiro.png)
 
-Aqui na parte de `endereço da unidade` já colocamos em nossa plataforma o preenchimento automático assim que você inserir o CEP, confira abaixo:
+### Demais campos
+
+Nos demais campos, temos o **Telefone** que é para telefone fixo caso a unidade tenha, **Celular** para ser usado em hiperlinks do WhatsApp, Telegram e **Email** da unidade para contatos através da landing page criada.
+
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_campo_telefone_Celular_email.png)
+
+## Endereço da unidade
+
+Aqui na parte de **`Endereço da unidade`** já colocamos em nossa plataforma o preenchimento automático assim que você inserir o CEP, confira abaixo:
 
 {% hint style="info" %}
-**Atenção:** Os campos `Número` e `Complemento` não são preenchidos automaticamente, sendo necessária sua intervenção.
+**Atenção:** Os campos `Número` e `Complemento` não são preenchidos automaticamente, sendo necessária sua intervenção para que tudo fique preenchido.
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_guia_geral2.gif)
 
-Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas da nossa plataforma da **Gestão Online**, abaixo explicamos um pouco melhor sobre cada uma, para o caso de você querer saber mais sobre alguma [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md):
+## Cadastrando tabelas de preço
 
-- **Tabela de preço principal:** Esta é a tabela de preço de venda para o cliente final (Precisa estar cadastrada no produto/serviço que você deseja vender);
-- **Tabela de preço secundária (Custo):** Aqui é a tabela de preço de custo da unidade parceira;
-- **Tabela de preço secundária (Comissão):** Esta tabela é de comissão da unidade parceira (Precisa estar cadastrada no parceiro indicador para que seja contabilizada sua comissão por venda realizada);
-- **Tabela de preço indicação padrão:** Aqui você informa qual será a tabela de preço que tem os ganhos/comissão dos novos indicadores;
-- **Tabela de preço de comissão de entrega:** Por último aqui é para indicar tabela de preço de comissão de entrega.
+Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas da nossa plataforma da **Gestão Online**, abaixo explicamos um pouco melhor sobre cada uma.
 
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral3.png)
+{% hint style="warning" %}
+**Tabelas de preço:** Caso você queira saber mais informações sobre como configurar as tabelas de preço, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
+{% endhint %}
 
-Na última parte, fica a **`Configuração para venda online`** vejamos um pouco mais sobre esses campos para preencher.
+### Campo tabela principal
 
-- **Imagem:** Aqui você carrega a logomarca da unidade/loja que está sendo cadastrada, para que alguns itens/links fiquem personalizados. Abaixo um exemplo de inserção de foto;
-    - ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral4.gif)
+O primeiro é a **Tabela de preço principal**, esta é a tabela de preço de venda para o cliente final, lembrando que ela precisa estar vinculada ao produto/serviço que você deseja vender. Observe que ao clicar no campo da tabela ela começa a buscar as tabelas disponíveis (caso cadastradas).
 
-- **Gerar Link:** É criado um link para efetuar vendas online se marcar como ativado;
-- **Unidade padrão:** É definida como unidade padrão para vendas online se marcada como ativado;
-- **[Tabela de preço (Venda)](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md):** Você pode clicar para acessar as tabelas de preços que serão utilizadas nas vendas online;
-- **[Tipo movimentação](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md):** Aqui você define o tipo de venda que será realizada com base nas já cadastradas;
-- **[Tabela de preço (Recorrência)](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md):** Mostrará as tabelas de preço, podendo escolher as de recorrência, lembrando que ficam todas no mesmo local;
-- **[Tipo movimentação (Recorrência)](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md):** Você define o tipo de movimento que mais ocorre;
-- **[Tipo movimentação Destino (Recorrência)](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md):** Você pode escolher a movimentação de destino que mais acontece;
-- **[Tipo de negociação (Venda/Recorrência)](/erp-v2/funcionalidades/financeiro/tipo_negociacao.md):** Escolher o tipo de negociação, dinheiro, boleto, cartão e afins, que estiverem cadastrados;
-- **[Produtos venda online](/erp-v2/funcionalidades/produtos_servicos/produtos.md):** Aqui você marca todos os produtos que ficarão disponibilizados para venda, precisando marcar um a um;
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_guia_geral_tabela_preco_principal.gif)
 
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral4.png)
+### Campos de tabela de preço secundária (Custo/Comissão)
+
+O segundo é a **Tabela de preço secundária (Custo)**, essa é a tabela de preço de custo da unidade parceira (Caso tenha). E o terceiro campo é a **Tabela de preço secundária (Comissão)**, que é para as comissões da unidade parceira, lembrando que ela precisa estar cadastrada no parceiro indicador para que seja contabilizada sua comissão por venda realizada.
+
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_guia_geral_tabela_preco_secundaria_custo_comissao.png)
+
+### Campos tabela de preço indicação e comissão de entrega
+
+No quarto campo, está a **Tabela de preço indicação padrão** Aqui você informa qual será a tabela de preço que tem os ganhos/comissão dos novos indicadores, e no quinto e último, a **Tabela de preço de comissão de entrega**, aqui é para indicar a tabela de preço de comissão de entrega para esta unidade que está sendo cadastrada.
+
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_indicacao_entrega.png)
+
+## Configuração para venda online (E-commerce)
+
+Esta parte em específico, esta dedicada a undiades/lojas que terão a opção de efetuar vendas online. Com o preenchimento destes campos, você poderá até mesmo gerar um link e uma página personalizada com as informações da sua empresa, vejamos os campos de preenchimento logo abaixo.
+
+O primeiro item é o da **Imagem**, nele você carrega a logomarca da unidade/loja que está sendo cadastrada, para que alguns itens/links fiquem personalizados. Abaixo um exemplo de inserção de foto;
+
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral4.gif)
+
+Logo ao lado, você tem o botão de **Gerar Link**, onde é criado um link para efetuar vendas online se marcar você o marcar como ativado. Observe que ao final da página fica liberado um botão para gerar o link de acesso a página de vendas.
+
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_btn_gerar_link.gif)
+
+Mais ao lado, temos o botão de **Unidade padrão**, ao ativar esta opção, você está definindo que esta unidade que esta sendo cadastrada é a unidade padrão para as futuras vendas online. Função importante para uso caso o campo **analítica** esteja desmarcado e tenha mais de uma unidade.
+
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_btn_unidade_padrao.png)
+
+Agora na parte de baixo, você encontra as informações das tabelas de preço que falamos acima, agora os tipos de movimentação e tipo de negociação, você precisa cadastrar em separado nas telas de cada um. Nós já deixamos em cada nome de campo um link para você poder acessar o manual de cada uma caso queira mais informações a respeito, e aqui falaremos de maneira mais mais simples sobre cada uma.
+
+A primeira é a [**`Tabela de preço (Venda)`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md), aqui você define qual a tabela de preço que será utilizada nas vendas online. A segunda é o [**`Tipo movimentação`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md), esse tipo já precisa estar configurado para realizar vendas online.
+
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_configuracao_venda_online_tabela_preco_tabela_movimentacao.png)
+
+Logo ao lado você tem também a [**`Tabela de preço (Recorrência)`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md), os preços cadastrados nelas que diferenciam, pois, você decide se na venda online, irá usar venda normal, ou venda recorrente, tudo depende das tabelas que você definir aqui. O mesmo vale para o [**`Tipo movimentação (Recorrência)`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md) e o [Tipo movimentação Destino (Recorrência)](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_configuracao_venda_online_tabela_preco_tabela_movimentacao_recorencia.png)
+
+Agora no [**`Tipo de negociação (Venda/Recorrência)`**](/erp-v2/funcionalidades/financeiro/tipo_negociacao.md), você precisa escolher o tipo de negociação, boleto, cartão e afins, que estiverem cadastrados, esse campo será válido tanto para o modo venda quanto recorrência. Fique atento para escolher a melhor opção para vendas do tipo online.
+
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_configuracao_venda_online_tipo_negociacao.gif)
+
+No campo [**`Produtos venda online`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md), você seleciona todos os produtos que ficarão disponibilizados para venda, lembre-se que precisa marcar um a um conforme nosso exemplo abaixo.
+
+![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_configuracao_venda_online_produtos.gif)
 
 No final tem um botão chamado `Ver links(s)`. Ao clicar nele, você vê o link da sua loja online para vendas:
 
-## Salvando nova unidade/loja
-
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral5.gif)
+
+## Salvando nova unidade/loja
 
 Após finalizar o preenchimento, você clica em **`Salvar`** e o registro da nova unidade/loja será salvo, e algumas mudanças acontecem. Primeiro, será o menu da guia, que recebe dois novos itens:
 
@@ -135,7 +159,7 @@ Após finalizar o preenchimento, você clica em **`Salvar`** e o registro da nov
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral6.png)
 
-## Aba Vendedores/Compradores
+### Aba Vendedores/Compradores
 
 Se você observou na imagem acima, deixamos marcados também as novas guias que ficaram disponíveis após criarmos uma nova unidade. Vamos falar um pouco melhor sobre cada uma, com a primeira **`Vendedores/Compradores`**.
 
