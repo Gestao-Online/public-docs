@@ -91,7 +91,7 @@
     * [📊 Dashboards na GRID](erp-v2/primeiro_acesso/relatorios_dashboard_grid.md)
     * [📤 Exportar](erp-v2/primeiro_acesso/exportar.md)
     * [📥 Importar](erp-v2/primeiro_acesso/importar.md)
-    * [🔒 Permissões, restrições/exceções](/erp-v2/guia_utilizacao/permissoes_restricoes_excecoes.md)
+    * [🔒 Permissões, restrições/exceções](/erp-v2/primeiro_acesso/permissoes_restricoes_excecoes.md)
  
   * [⚙️ Minhas preferências](erp-v2/minhas_preferencias/README.md)
     * [🎲 Editando meus dados](erp-v2/minhas_preferencias/edit_meus_dados.md)

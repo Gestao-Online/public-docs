@@ -209,6 +209,15 @@ Quando as vendas acontecem e o parceiro indicador é colocado, aqui ficam regist
 
 Nesta guia, todas as vendas realizadas com este cliente/fornecedor ficarão registradas. Esta guia tem a mesma funcionalidade da guia de vendas, podendo acompanhar somente as vendas deste cliente/fornecedor. Para mais informações sobre a tela de vendas e suas funcionalidades, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
 
+{% hint style="warning" %}
+**Botão exportar:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_exportar.png" alt="" data-size="line"> exportar, [**`clique aqui`**](/erp-v2/primeiro_acesso/exportar.md).
+{% endhint %}
+
+
+{% hint style="warning" %}
+**Botão permissões:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> permissões, [**`clique aqui`**](/erp-v2/primeiro_acesso/permissoes_restricoes_excecoes.md).
+{% endhint %}
+
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_guia_historico_movimentacoes.png)
 
 ## Menu após salvar novo fornecedor
