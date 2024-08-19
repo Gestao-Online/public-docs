@@ -65,7 +65,9 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo pro
 
 - **Descrição** (Nome para identificar o novo produto a ser criado);
 - **Imagem (Principal)** (Para facilitar identificação do produto);
-    - ![](/erp-v2/assets/funcionalidades/produtos/aba_produto_add_imagem.gif)
+
+![](/erp-v2/assets/funcionalidades/produtos/aba_produto_add_imagem.gif)
+
 - **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
 - **Código** (SKU ou código de barras referente ao produto);
 - **Status** (Com duas opções para selecionar, entre ativado e desativado);
