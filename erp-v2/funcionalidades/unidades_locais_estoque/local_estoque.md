@@ -22,8 +22,6 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_menu.png)
 
-<br>
-
 {% hint style="warning" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
 {% endhint %}
@@ -34,7 +32,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add.png)
 
-Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados do novo local de estoque:
+Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados do novo local de estoque, os itens marcados com asterisco vermelho são de preenchimento obrigatório:
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_inicio.png)
 
@@ -48,14 +46,17 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_menu.png)
 
-Olhando para a guia **`Geral`**, por padrão, quando você for criar novo local de estoque é exigida descrição, identificador e status.
-
-- **Descrição** (Nome para identificar o novo local de estoque);
-- **Identificador** (É gerado por padrão pela plataforma, mas você pode colocar outro, desde que não esteja sendo utilizado);
-- **Analítica** (Quando ativada, não aceitará integração com outros locais de estoque como dependentes);
-- **Status** (Com duas opções para selecionar, entre ativado e desativado);
+Olhando para a aba **`Geral`**, por padrão, quando você for criar um local de estoque é exigido descrição, identificador e status. Em **Descrição**, você define um nome ao local de estoque que está sendo cadastrado no momento, o campo **Identificador**, é gerado um código padrão que será usando para identificar este local de estoque em nossa plataforma. E o campo de **Status** você tem duas opções para selecionar, entre ativado para o local de estoque ficar ativa e disponível, e inativo para que ele deixe de funcionar.
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_unidade_itens.png)
+
+### Campo Analítica
+
+Em específico, no campo **Analítica**, caso deixe ele em ativo, o local de estoque criado deixa de possuir uma hierarquia. O uso da hierarquia é interessante para melhorar a identificação e separação de novos locais de estoque que você for adicionar, podendo definir um como principal e os demais como dependentes, pois a regra aplicada ao principal é repassada para os dependentes automaticamente.
+
+Para melhor exemplo, veja o campo **Identificador** ele tem a sequência padrão usada em nosso sistema, neste caso 01.00. Caso você fizesse o cadastro de algum local de estoque vínculado a esta unidade identificado como 01, os demais teriam o identificador 01.01, 01.02, 01.03... e assim em diante. 😁👍
+
+![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_btn_analitica.gif)
 
 ## Salvando novo local de estoque
 
@@ -70,7 +71,7 @@ A partir do momento que você concluir a criação, uma nova guia ficará dispon
 Observe também que esta aba é similar a tela de **Movimentação Estoque**, porém, trazendo somente as informações deste estoque que você criou.
 
 {% hint style="warning" %}
-**Informativo:** Se você deseja saber mais informações sobre Movimentações/Transferências, [clique aqui](/erp-v2/funcionalidades/produtos_servicos/movimentacao_estoque.md)
+**Tela Movimentações estoque:** Se você deseja saber mais informações sobre Movimentações de estoque, [clique aqui](/erp-v2/funcionalidades/produtos_servicos/movimentacao_estoque.md)
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_unidade_guia_movimentacao.gif)
