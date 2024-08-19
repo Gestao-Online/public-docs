@@ -211,6 +211,14 @@ Quando as vendas acontecem e o parceiro indicador é colocado, aqui ficam regist
 
 Nesta aba, todas as vendas realizadas com este cliente/fornecedor/indicador ficarão registradas. Esta aba tem a mesma funcionalidade da tela de vendas, podendo acompanhar somente as vendas deste cliente/fornecedor/indicador. Para mais informações sobre a tela de vendas e suas funcionalidades, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
 
+{% hint style="warning" %}
+**Exportar:** Caso queira mais informações sobre como utilizar o botão <img src="/erp-v2/assets/icon_exportar.png" alt="" data-size="line"> exportar movimentações [**`clique aqui`**](/erp-v2/primeiro_acesso/exportar.md) para acessar a explicação sobre cada parte desta função.
+{% endhint %}
+
+{% hint style="warning" %}
+**Botão permissões:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> permissões, [**`clique aqui`**](/erp-v2/primeiro_acesso/permissoes_restricoes_excecoes.md).
+{% endhint %}
+
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_guia_historico_movimentacoes.png)
 
 ## Menu após salvar novo indicadores
