@@ -64,7 +64,7 @@ Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do nov
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_unidade_salvar.gif)
 
-## Aba Movimentações/Transferências
+### Aba Movimentações/Transferências
 
 A partir do momento que você concluir a criação, uma nova guia ficará disponível, a de `Movimentações/Transferências`, e aqui serão mostradas todas as transferências, vendas,  compras, devoluções e ajustes. Esta aba não sofre alterações ou remoções, pois é ligada direto ao sistema e isso atrapalharia sua integridade. 
 
