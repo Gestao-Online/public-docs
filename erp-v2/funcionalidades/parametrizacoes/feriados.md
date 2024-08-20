@@ -51,9 +51,13 @@ Quando você for adicionar um novo feriado, precisará preecnher a **Descrição
 
 Após isso, é só definir o **Dia** em que acontece o feriado, o **Mês**, e o **Tipo** para definir entre nacional, estadual e municipal.
 
-No campo de item em específico serão mostrados novos campos de preenchimento, se escolher nacional ou municipal.
-
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados_add_feriado_campos.png)
+
+### Campo Tipo de feriado
+
+No campo de item em específico serão mostrados novos campos de preenchimento, se escolher nacional ou municipal. Para o caso de feriado nacional será necessário escolher o estado, e no caso de municipal, preencher estado e cidade.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados_add_feriado_campos_estado_cidade.gif)
 
 ## Salvando novo feriado
 
