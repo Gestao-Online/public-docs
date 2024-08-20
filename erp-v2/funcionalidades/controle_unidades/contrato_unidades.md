@@ -17,12 +17,16 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar novo contrato.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros de busca [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md).
 {% endhint %}
 
 {% hint style="warning" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse, [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse).
+{% endhint %}
+
+{% hint style="danger" %}
+**Botão permissões:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> permissões, [**`clique aqui`**](/erp-v2/primeiro_acesso/permissoes_restricoes_excecoes.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_menu.png)

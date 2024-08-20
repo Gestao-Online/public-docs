@@ -126,7 +126,7 @@ Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaix
 {% endhint %}
 
 {% hint style="warning" %}
-**Botão permissões:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> permissões, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
+**Botão permissões:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> permissões, [**`clique aqui`**](/erp-v2/primeiro_acesso/permissoes_restricoes_excecoes.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item.png)

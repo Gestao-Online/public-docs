@@ -52,7 +52,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
 {% hint style="warning" %}
-**Botão restrições/exceções:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> restrições/exceções, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
+**Botão restrições/exceções:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> restrições/exceções, [**`clique aqui`**](/erp-v2/primeiro_acesso/permissoes_restricoes_excecoes.md).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_menu.png)

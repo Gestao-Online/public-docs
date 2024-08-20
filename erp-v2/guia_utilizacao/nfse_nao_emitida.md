@@ -5,7 +5,7 @@ A emissão de uma Nota Fiscal de Serviços Eletrônica (NFSe) é um processo cru
 Neste guia, vamos mostrar como monitorar e resolver questões relacionadas à emissão da NFSe, garantindo que sua operação continue fluindo sem problemas. Lembrando que as telas exibidas neste guia estão restringidas somente ao usuário de maior grau de acesso no sistema. Algumas configurações só serão permitidas ou desbloqueadas com a configuração das permissões.
 
 {% hint style="warning" %}
-**Botão permissões:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> permissões, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md).
+**Botão permissões:** Para mais informações sobre uso do botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> permissões, [**`clique aqui`**](/erp-v2/primeiro_acesso/permissoes_restricoes_excecoes.md).
 {% endhint %}
 
 Primeiro, vamos abrir a movimentação que tem a noa fiscal rejeitada. Em nosso exemplo, vamos abrir a movimentação 0003586037, ela se encontra com a NF em situação rejeitada, porém, para vermos essa situação melhor, vamos seguir mais alguns passos.
