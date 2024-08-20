@@ -12,8 +12,6 @@ Neste local, você pode visualizar todos os centros de resultados que estão dir
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_centro_resultado.gif)
 
-<br>
-
 Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar centro de resultado.
@@ -22,10 +20,7 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
 
-
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_centro_resultado_menu.png)
-
-<br>
 
 {% hint style="warning" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
@@ -37,8 +32,6 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_centro_resultado_add.png)
 
-<br>
-
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar item filho.
@@ -49,7 +42,7 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_centro_resultado_add_menu.png)
 
-<br>
+## Campos obrigatórios
 
 No momento do cadastro de um novo centro de resultado, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. 
 
@@ -57,12 +50,23 @@ Sendo a descrição, identificador e status, estes itens são o mínimo necessá
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_centro_resultado_add_centro.png)
 
-<br>
+### Campo descrição e identificador
 
-O único item não obrigatório é o modo analítico, pois ao ativar este modo, o centro de resultado será único e não terá outros centros dependentes:
+Olhando para os campos disponíveis, por padrão, quando você for criar um novo centro de resultado, será exigido que preencha uma **Descrição** para identificar o novo item que você está criando. Será pedido tambem um código **Identificador**, mas ele é gerado automaticamente por nossa plataforma, então você não precisa se preocupar.
 
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_centro_resultado_add_campos_descricao_identificador.png)
+
+### Campo analítica
+
+Em específico, no campo **Analítica**, caso deixe ele em ativo, o centro de resultado criado deixa de possuir uma hierarquia. O uso da hierarquia é interessante para melhorar a identificação e separação de novos centros de resultado que você for adicionar, podendo definir um como principal e os demais como dependentes.
+
+Para melhor exemplo, veja o campo **Identificador** ele tem a sequência padrão usada em nosso sistema, neste caso 001.000.000. Caso você fizesse o cadastro de algum centro de resultado vínculada a este identificado com o começo 001, os demais teriam o identificador 001.001.000, 001.002.00, 001.003.000... e assim em diante. 😁👍
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_centro_resultado_add_menu.gif)
+
+Conforme o modelo abaixo, temos um exemplo de um item com itens dependentes, neste caso, o centro de resultado, possui dependentes, um deles é o administrativo, e esse adminsitrativo também possui itens dependentes, como financeiro, departamento pessoal e etc.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_centro_resultado_add_campo_analitica_exemplo.png)
 
 ## Salvando centro de resultado
 

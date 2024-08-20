@@ -62,7 +62,7 @@ Para melhor exemplo, veja o campo **Identificador** ele tem a sequência padrão
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_naturezas_add_campo_analitica.gif)
 
-Conforme exemplo abaixo, temos um exemplo de um item com itens dependentes, neste caso, a natureza receitas, possui dependentes, no caso a receita de vendas e parceiros. 
+Conforme o modelo abaixo, temos um exemplo de um item com itens dependentes, neste caso, a natureza receitas, possui dependentes, no caso a receita de vendas e parceiros. 
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_naturezas_add_campo_analitica_exemplo.png)
 
