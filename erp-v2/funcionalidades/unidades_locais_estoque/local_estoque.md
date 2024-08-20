@@ -54,7 +54,7 @@ Olhando para a aba **`Geral`**, por padrão, quando você for criar um local de 
 
 Em específico, no campo **Analítica**, caso deixe ele em ativo, o local de estoque criado deixa de possuir uma hierarquia. O uso da hierarquia é interessante para melhorar a identificação e separação de novos locais de estoque que você for adicionar, podendo definir um como principal e os demais como dependentes, pois a regra aplicada ao principal é repassada para os dependentes automaticamente.
 
-Para melhor exemplo, veja o campo **Identificador** ele tem a sequência padrão usada em nosso sistema, neste caso 01.00. Caso você fizesse o cadastro de algum local de estoque vínculado a esta unidade identificado como 01, os demais teriam o identificador 01.01, 01.02, 01.03... e assim em diante. 😁👍
+Para melhor exemplo, veja o campo **Identificador** ele tem a sequência padrão usada em nosso sistema, neste caso 01.00. Caso você fizesse o cadastro de algum local de estoque vínculado a este local de estoque identificado como 01, os demais teriam o identificador 01.01, 01.02, 01.03... e assim em diante. 😁👍
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_btn_analitica.gif)
 
