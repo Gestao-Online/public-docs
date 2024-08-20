@@ -6,10 +6,10 @@ No contexto de *multi unidades*, é possível gerenciar movimentações de pedid
 
 Dentro de uma mesma empresa, por exemplo, você pode ter unidades de negócios, o que é muito útil para *departamentalizar* uma ou mais empresas. Alguns exemplos incluem:
 
-**- Venda Online (E-commerce)**
-**- Televendas**
-**- Venda Direta (BackOffice)**
-**- Vendedores Externos**
+- **Venda Online (E-commerce)**
+- **Televendas**
+- **Venda Direta (BackOffice)**
+- **Vendedores Externos**
 
 Essa separação por projeto pode ser útil para uma visão gerencial comercial (Ex: metas, resultados por canal, etc.) e também para uma visão estratégica financeira (Ex: identificar a unidade de negócio que teve o maior custo e o menor resultado, por exemplo), conectando diretamente as receitas e despesas a cada unidade.
 
