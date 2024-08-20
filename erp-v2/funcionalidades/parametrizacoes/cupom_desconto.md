@@ -6,13 +6,7 @@ Para aplicar uma promoção para clientes específicos em unidade/loja, você po
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-{% hint style="warning" %}
-**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
-{% endhint %}
-
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom.gif)
-
-<br>
 
 Nesta tela tem um menu ao lado direito com as seguintes funções:
 
@@ -26,7 +20,9 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_menu.png)
 
-<br>
+{% hint style="warning" %}
+**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+{% endhint %}
 
 {% hint style="warning" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
@@ -37,8 +33,6 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar novo cupom de desconto. Confira abaixo o procedimento para fazer a adição corretamente:
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add.png)
-
-<br>
 
 Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
 
@@ -53,8 +47,6 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_menu.png)
-
-<br>
 
 ## Menu de Restrições e Exceções
 
@@ -83,8 +75,6 @@ No momento da criação de um novo cupom de desconto, você não precisará pree
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_cupom.png)
 
-<br>
-
 ## Limitação e período de uso
 
 Após você preencher a descrição e definir o status para ativado, você pode definir o tipo de uso do cupom, entre ilimitado ou limitado.
@@ -93,15 +83,11 @@ Ao marcar a opção limitado um novo campo será mostrado logo abaixo para você
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_limitado.gif)
 
-<br>
-
 Logo abaixo tem o período de uso, também com duas opções, entre limitado e ilimitado.
 
 Quando escolher por limitado, dois novos campos ficarão disponíveis para você definir a data de duração deste cupom de desconto que você está criando, veja o exemplo:
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_periodo.gif)
-
-<br>
 
 Por último no preenchimento antes de salvar o novo cupom, você tem o tipo de desconto. Nele também são duas opções para você escolher, sendo elas valor em reais, ou em percentual. Utilize o que melhor se aplica para sua situação. 😁
 
@@ -129,8 +115,6 @@ Veja o exemplo que criamos, nós digitamos o nome NATAL10, para um cupom fictíc
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_novo_cod.gif)
 
-<br>
-
 ## Botão código aleatório
 
 No segundo botão, que se chama **Novo código aleatório**, um valor é criado automaticamente por nossa plataforma, agilizando assim o processo para você.
@@ -138,8 +122,6 @@ No segundo botão, que se chama **Novo código aleatório**, um valor é criado 
 Veja o exemplo que criamos para dois cupom fictício om código aleatório, de 10% de desconto:
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_novo_cod_aleatorio.gif)
-
-<br>
 
 ## Aba histórico
 
