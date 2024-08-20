@@ -32,7 +32,6 @@ Agora, caso queira remover uma permissão de um usuário, basta tirar seu nome d
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_menu_btn_permissoes_janela_remove_user.gif)
 
-
 ## Botão de Restrições e Exceções
 
 O botão de restrições/exceções pode aparecer para você no momento que for adicionar algum item em alguma das telas do sistema, ele já aparece junto ao menu de ações dessa tela de adição, vejamos abaixo o exemplo de uso dele com a tela **Tipo de agendamento**.
