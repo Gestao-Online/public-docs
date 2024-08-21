@@ -12,13 +12,17 @@ Clicando nele uma nova janela será mostrada para você solicitando que envie um
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_btn_importar_janela.png)
 
-A estrutura de informações da planilha não é complexa, sendo somente cinco colunas e algumas informações como **ID contrato** e **ID unidade** sendo necessárias como identificador para o tipo de lançamento receita ou despesa.
+A estrutura de informações da planilha não é complexa, sendo somente cinco colunas e algumas informações como **ID contrato** e **ID unidade** sendo necessárias como identificador para o tipo de lançamento receita ou despesa. Muita atenção para os valores, não é necessário a utilização do cifrão, o sistema fará a conversão automaticamente, quando ler a planilha enviada.
 
-Observe abaixo o exemplo que utilizaremos.
+{% hint style="info" %}
+Você pdoe baixar o modelo desta planilha. [**`PLANILHA TESTE CONTRATO.xlsx`**](/erp-v2/assets/PLANILHA%20TESTE%20CONTRATO.xlsx)
+{% endhint %}
+
+Observe abaixo o exemplo de planilha que utilizaremos.
 
 ![Modelo de planilha com preenchimento de exemplo](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_modelo_planilha.png)
 
-Para nosso exemplo, temos duas unidade com contrato cadastradas, unidade A e unidade B. Iremos usar a planilha para processar algumas movimentações para estas unidades.
+Para nosso exemplo, temos duas unidades com contrato cadastradas, UNIDADE A e UNIDADE B. Iremos usar a planilha para processar algumas movimentações para estas unidades.
 
 Observe o procedimento passo a passo.
 
