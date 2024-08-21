@@ -108,9 +108,9 @@ Agora uma atenção maior a este campo de **Fechamento automático**, pois nele 
 
 ### Fechamento todo dia do mês
 
-Destas opções disponíveis, você tem para deixar ele desativado, onde não aparecerá nenhum campo extra para preenchimento. A opção de fechamento *Todo dia do mês* selecionado, você precisa depois definir os dias do mês, esses valores precisam ser separados por vírgula, ex: 1,15 (todo dia 1 e dia 15).
+Destas opções disponíveis, você tem para deixar ele desativado, onde não aparecerá nenhum campo extra para preenchimento. A opção de fechamento *Todo dia do mês* selecionado, você precisa depois definir os dias do mês, esses valores você precisa digitar e logo após pressionar a tecla enter para que seja confirmado. Observe nossa demonstração abaixo.
 
-![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_mes.png)
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_mes.gif)
 
 ### Fechamento todo dia da semana
 
