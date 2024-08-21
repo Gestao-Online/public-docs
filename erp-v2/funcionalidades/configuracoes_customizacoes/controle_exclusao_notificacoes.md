@@ -1,6 +1,8 @@
 # 🔔 Controle de exclusão em notificações
 
-Nesta tela você tem acesso administrativo ao controle de exclusão de notificações na plataforma **Gestão Online**:
+Nesta tela, você tem acesso administrativo ao controle de exclusão de notificações na plataforma, essencialmente funcionando como uma lista negativa (também conhecida como blacklist). 
+
+Os clientes também podem se auto-cadastrar nesta lista, por exemplo, ao se 'desinscrever' de um e-mail marketing ou informativo enviado pela plataforma
 
 ![](/erp-v2/assets/funcionalidades/configuracoes/aba_notificacoes.gif)
 

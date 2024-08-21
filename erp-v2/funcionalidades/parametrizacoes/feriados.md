@@ -1,8 +1,13 @@
 # 📆 Feriados
 
-O cadastro de feriados na plataforma **Gestão Online** é essencial para o bom funcionamento das operações empresariais, pois está vínculado em todo o nosso sistema. 
+O cadastro de feriados na plataforma é importante para o bom funcionamento de muitos recursos ligados a data/calendário, pois o seu uso se dá em muitas partes do sistema.
 
-Com os feriados devidamente cadastrados, você terá mais precisão no cálculo de prazos e entregas, datas de pagamento serão evitadas em caso de feriado coincidir com a data planejada, planejamento de recursos e relatórios e análises. Em resumo, manter o cadastro de feriados atualizado na plataforma é crucial para eficiência e conformidade. 📅✨
+Com os feriados devidamente cadastrados, você terá mais precisão no cálculo de datas. Como por exemplo:
+
+- Datas previstas de pagamento (ajuste automático no vencimento de um boleto em caso de feriado coincidir com a data planejada)
+- Silenciar notificaçāo, evitando enviar uma notificaçāo indesejada para um cliente no dia de feriado.
+
+Em resumo, manter o cadastro de feriados atualizado na plataforma é crucial para eficiência e conformidade. 📅✨
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.

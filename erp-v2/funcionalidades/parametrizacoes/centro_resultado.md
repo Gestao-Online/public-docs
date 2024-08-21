@@ -1,6 +1,6 @@
 # 💰 Centro de Resultado
 
-Neste local, você pode visualizar todos os centros de resultados que estão diretamente ligados às operações do negócio e ao financeiro. Isso permite uma análise mais detalhada das origens das receitas e despesas geradas pela unidade, conforme o centro de resultados selecionado.
+Neste local, você pode visualizar todos os centros de resultados que estão diretamente ligados às operações do negócio e ao financeiro. Isso permite uma análise mais detalhada das origens das receitas e despesas geradas. Por "área da empresa", o centro de resultados é importante para *departamentalizar* o fluxo de caixa da empresa. 
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.

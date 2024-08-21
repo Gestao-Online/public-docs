@@ -119,7 +119,9 @@ Veja o exemplo que criamos, nós digitamos o nome NATAL10, para um cupom fictíc
 
 No segundo botão, que se chama **Novo código aleatório**, um valor é criado automaticamente por nossa plataforma, agilizando assim o processo para você.
 
-Veja o exemplo que criamos para dois cupom fictício om código aleatório, de 10% de desconto:
+Veja o exemplo que criamos para dois cupom fictício com código aleatório, de 10% de desconto:
+
+A funçāo de gerar código aleatório combinada a limitaçāo de uso no cupom (com o valor 1), pode se tornar um recurso valioso. Permitindo gerar `N` códigos de uso único. Permitindo, informar um cupom de uso exclusivo para cada cliente, evitando o compartilhamento indesejado em canais paralelos.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_novo_cod_aleatorio.gif)
 

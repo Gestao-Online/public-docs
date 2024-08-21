@@ -1,8 +1,8 @@
 # Tabelas de preços
 
-Aqui estão concentradas todas as tabelas de preços utilizáveis na plataforma **Gestão Online**, podendo cadastrar uma nova tabela, editar informações existentes e até excluir uma tabela cadastrada.
+Aqui estão concentradas todas as tabelas de preços utilizáveis na plataforma, podendo cadastrar uma nova tabela, editar informações existentes e até excluir uma tabela cadastrada.
 
-Estas tabelas serão utilizadas em cadastro de produtos, registro de vendas e repasse de comissões para parceiros.
+Estas tabelas serão utilizadas para determinar a precificaçāo de pedidos,vendas,recorrência,comissões,custos e muito mais. 
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -60,26 +60,17 @@ Nos primeiros campos de preenchimento, você tem a descrição para explicar e d
 Nos campos abaixo, você tem disponível as opções de ativar e desativar, para os seguintes campos:
 
 - **Tipo Tabela de Venda:** Esta tabela é destinada à venda de serviços ou produtos em um ponto de venda físico (PDV), definindo os preços e condições de venda diretamente no estabelecimento comercial;
-- **Tipo Tabela de Venda Online:** Esta tabela é para vendas realizadas online, definindo os preços e condições de venda para produtos ou serviços disponibilizados em uma plataforma de e-commerce;
-- **Tipo Tabela de Comissão:** Tabela referente às comissões para vendas de serviços ou produtos online, determinando as comissões que serão pagas aos vendedores por cada venda realizada online;
-
-Vale frisar que o uso da tabela de comissão quando ativa permite a venda ser realizada, mas caso a comissão desta venda esteja zerada, uma mensagem de erro aparece para você antes mesmo de confirmar a venda.
-
-Para esse problema, você tem duas soluções. A primeira é configurar a tabela principal e não deixar ela com os valores iguais ao da tabela de origem, evitando assim o valor zerado na comissão.
-
-E a segunda opção de solução é configurar o tipo de movimentação, permitindo que confirme valor custo/comissão zerado.
-
-![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_tabela_comissão.png)
-
-- **Tipo Tabela de Custo:** Esta tabela é utilizada para definir os custos de serviços ou produtos fornecidos por unidades parceiras, estabelecendo os valores que serão pagos aos parceiros pela prestação de serviços ou fornecimento de produtos;
-- **Tipo Tabela de Comissão Indicador:** Tabela específica para comissões de serviços ou produtos indicados por parceiros, definindo as comissões que serão pagas aos parceiros que indicarem novos clientes ou negócios.
+- **Tipo Tabela de Venda Online:** Esta tabela é para vendas realizadas online, definindo os preços e condições de venda para produtos ou serviços disponibilizados para venda online (loja virtual).
+- **Tipo Tabela de Comissão:** Tabela referente às comissões (entre unidade/franquia e franqueador/empresa matriz)
+- **Tipo Tabela de Custo:** Tabela referente ao custo (entre unidade/franquia e franqueador/empresa matriz)
+- **Tipo Tabela de Comissão Indicador:** Tabela específica para comissões para ser utilizado no tipo "Parceiro/Indicador"
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_campos.gif)
 
 Nos últimos dois campos de preenchimento, há um **modo de uso** com duas opções para esta tabela:
 
 - **Exclusivo:** Único parceiro/unidade poderá utilizar essa tabela.;
-- **Compartilhado:** Mais de um parceiro poderá usar essa tabela.
+- **Compartilhado:** Mais de um parceiro/unidade poderá usar essa tabela.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_modo_uso.png)
 
@@ -90,11 +81,11 @@ Por último, você tem o **modo de configuração**, ele tem algumas opções, d
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_modo_config_2.png)
 
-- **Valor percentual da venda/movimentação:** Ao selecionar esta opção, é possível definir o percentual para cada movimentação e escolher a qual grupo de produtos ele estará vinculado;
+- **Valor percentual da venda/movimentação:** Ao selecionar esta opção, a tabela será baseada no % do valor da venda que está ligada a essa tabela.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_modo_config_3.png)
 
-- **Valor da venda/movimentação subtraindo o valor produto/serviço de outra tabela:** Com este modo de configuração você define uma tabela de preço para subtrair o valor de outra tabela de produto ou serviço já criada.
+- **Valor da venda/movimentação subtraindo o valor produto/serviço de outra tabela:** Este modo de configuração, é semelhante ao anterior, mas aqui o cálculo é do valor da venda subtraído de uma tabela de preço indicada.
 
 ## Salvando nova tabela de preços
 
@@ -120,8 +111,6 @@ Caso tenha alguma dúvida sobre produto/serviço [clique aqui!](/erp-v2/funciona
 ## Aba histório
 
 Na aba de histórico você tem as movimentações que foram feitas nessa tabela que você criou, seja adicionando, alterando ou removendo um item dela. Até alteração em valores, tudo ficará registrado, informando o nome do usuário que fez a alteração, assim como a data e o horário exato da modificação.
-
-Vale lembrar que estas informações não podem ser alteradas por nenhum dos usuários ou administradores da plataforma. Essas informações garantem o bom funcionamento e integridade do ERP da **Gestão Online**.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_guia_historico.png)
 

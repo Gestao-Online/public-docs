@@ -1,6 +1,6 @@
 # Unidade e Medida de produtos/serviços
 
-As unidades de medida permitem entender como os itens estão sendo controlados no estoque, como por exemplo, em unidades, caixas, pacotes, metros, quilos, entre outros. Isso facilita a gestão precisa do inventário e ajuda a garantir que os níveis de estoque sejam mantidos conforme a demanda e as necessidades operacionais.
+As unidades de medida permitem entender como os itens estão sendo cadastrados no sistema, como por exemplo, em unidades, caixas, pacotes, metros, quilos, entre outros. Isso facilita a gestão precisa do inventário e ajuda a garantir que os níveis de estoque sejam mantidos conforme a demanda e as necessidades operacionais.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
