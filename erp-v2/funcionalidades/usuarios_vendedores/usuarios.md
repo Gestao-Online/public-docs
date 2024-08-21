@@ -135,8 +135,16 @@ Após definido o tipo de usuário, agora vamos para a mensagem, deixamos um edit
 - <img src="/erp-v2/assets/funcionalidades/icon_lista_nao_ordenada.png" alt="" data-size="line"> Lista não ordenada;
 - <img src="/erp-v2/assets/funcionalidades/icon_limpar_formatacao.png" alt="" data-size="line"> Limpar formatação. 
 
-Agora basta clicar em `Enviar notificaçāo`
+Agora basta clicar em `Enviar notificaçāo`. O tempo para essa notificação chegar aos usuários determinados é em questão de minutos.
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_enviada.gif)
+
+E para os usuários, a notificação aparecerá minutos depois, como escolhemos o modo normal, foi mostrado um aviso simples no ícone de notificações e ao clicar nele pdoemos ver a mensagem completa.
+
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_enviada_usuario_recebido.gif)
+
+Agora veja um exemplo de notificação de nível de criticidade alta, uma janela se abre para o usuário no momento em que ele estiver utilizando o sistema.
+
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_enviada_usuario_recebido_alta.gif)
 
 <br>
