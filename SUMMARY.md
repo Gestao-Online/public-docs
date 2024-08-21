@@ -169,6 +169,7 @@
     
     * [📝 Controle de unidades](erp-v2/funcionalidades/controle_unidades/README.md)
       * [📄 Contrato do controle de unidade](/erp-v2/funcionalidades/controle_unidades/contrato_unidades.md)
+        * [Importar movimentações para controle de unidade](/erp-v2/funcionalidades/controle_unidades/importar_movimentacoes_controle_unidade.md)
       * [🔂 Controle movimentação unidade](/erp-v2/funcionalidades/controle_unidades/controle_movimentacao.md)
     
     * [📦 Produtos & Serviços](erp-v2/funcionalidades/produtos_servicos/README.md)
