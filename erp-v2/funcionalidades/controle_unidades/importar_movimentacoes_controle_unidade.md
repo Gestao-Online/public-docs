@@ -32,6 +32,6 @@ Observe o procedimento passo a passo.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_btn_importar_janela_importando.gif)
 
-Em caso de erros uma mensagem é encaminhada para se e-mail informando o possíveis problemas com essa importação. Em nosso caso, mesmo com a mensagem de erro aparecendo, os dados foram carregados em casa unidade, observe abaixo.
+Pronto, com a planilha carregada, agora você pode conferir se as movimentações foram carregadas corretamente.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_btn_importar_janela_olhando_importacoes.gif)
