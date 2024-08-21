@@ -6,13 +6,7 @@ Aqui você tem a visão de todos os usuários cadastrados na plataforma, podendo
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
-{% hint style="warning" %}
-**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
-{% endhint %}
-
 ![](/erp-v2/assets/funcionalidades/modulo_usuario.gif)
-
-<br>
 
 Nesta tela está um menu ao lado direito com as seguintes funções:
 
@@ -25,7 +19,9 @@ Nesta tela está um menu ao lado direito com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios.png)
 
-<br>
+{% hint style="warning" %}
+**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+{% endhint %}
 
 {% hint style="warning" %}
 **Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse [**`clique aqui`**](/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse) para acessar a explicação.
@@ -37,13 +33,9 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_ususarios_menu_add_user.png)
 
-<br>
-
 Ao clicar neste botão, você será direcionado para esta página, para fazer o preenchimento dos dados do novo usuário:
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuario_add_user.png)
-
-<br>
 
 Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
@@ -53,8 +45,6 @@ Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor ci
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuario_add_user_menu.png)
-
-<br>
 
 Olhando para a aba **`Geral`**, por padrão, quando você for criar uma conta é exigido o perfil e e-mail. Agora os outros campos para preenchimento podem deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
 
@@ -69,14 +59,9 @@ Olhando para a aba **`Geral`**, por padrão, quando você for criar uma conta é
 - **Documento** (Pode ser um RG/CPF/CNH, o usuário pode preencher depois);
 - **CEP** (Após inserir o CEP os demais dados serão preenchidos automaticamente);
 
-<br>
-
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuario_add_user_itens.png)
 
-<br>
-
 Uma breve informação, de forma bem resumida sobre os tipos de Perfis (com as regras padrões):
-
 
 - **Usuário:**
 -> Parceiros/Clientes (todos da unidade/projeto em que trabalha)
@@ -119,40 +104,23 @@ Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do usu
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_salvar.gif)
 
-
 ## Enviar notificaçāo interna para os usuários
 
 Ao clicar no primeiro item do menu vamos para o envio de notificação aos usuários, o preenchimento é bem simples e intuitivo.
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao.png)
 
-<br>
-
 Você precisa definir primeiro nível de criticidade da notificação, das opções disponíveis têm:
 
-- Mínimo;
-- Baixo;
-- Normal;
-- Alto;
-- Urgente.
+`Mínimo`, `Baixo`, `Normal`, `Alto`, `Urgente`.
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_criticidade.png)
 
-<br>
-
 Após a definição do nível, seguimos para o perfil de usuário que irá receber esta notificação que você está gerando, são os tipos:
 
-- Todos;
-- Usuário;
-- Coordenador;
-- Gerente;
-- Administrador;
-- Super administrador.
-
+`Todos`, `Usuário`, `Coordenador`, `Gerente`, `Administrador`, `Super administrador`.
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_perfil.png)
-
-<br>
 
 ### Enviando notificação
 
