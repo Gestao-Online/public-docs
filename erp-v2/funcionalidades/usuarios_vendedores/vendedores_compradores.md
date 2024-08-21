@@ -1,6 +1,8 @@
 # 👔 Vendedores & Compradores
 
-Aqui você tem a visão de todos os vendedores e compradores cadastrados na plataforma **Gestão Online**, podendo fazer cadastro, edição e até excluir um vendedor/comprador cadastrado.
+Aqui você tem a visão de todos os vendedores e compradores cadastrados na plataforma, podendo fazer cadastro, edição e até excluir um vendedor/comprador cadastrado.
+
+O cadastro de um vendedor/comprador é necessário caso o usuário tenha atividades relacionadas as funcionalidades comerciais (compra e venda)
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -66,15 +68,18 @@ Olhando para a aba **`Geral`**, por padrão, quando você for criar um vendedor 
 - **Unidade** (Nome do local/setor de trabalho, para mais informações [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md));
 - **Centro de resultado** (Defina qual parte da empresa pertence, para mais informações [clique aqui](/erp-v2/funcionalidades/parametrizacoes/centro_resultado.md));
 - **Status** (Aqui você define o status do vendedor, sendo ativado ou desativado);
-- **Usuário** (Defina o usuário existente do vendedor, sem não tem como prosseguir);
+- **Usuário** (Defina o usuário existente do vendedor, aqui estabeleceremos o vínculo do usuário autenticado com o perfil do vendedor);
 - **Local estoque** (Qual local terá acesso, para saber mais [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md));
+
+Já os campos de `Configuraçāo adicional`, servem para facilitar o dia a dia do vendedor/comprador, preenchendo automáticamente os campos no momento de uma venda/pedido. Com valores estabelecidos aqui, como "padrāo para o vendedor".
+
 - **Tipo de movimentação** (Definir o tipo de entrada/saída sendo compra ou venda, para saber mais [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md));
 - **Tipo de negociação** (Definir a forma de pagamento padrão, para saber mais [clique aqui](/erp-v2/funcionalidades/financeiro/tipo_negociacao.md)).
 
 <br>
 
-{% hint style="danger" %}
-**Atenção:** Quando você for criar um vendedor é exigido preencher os campos com asterisco, o restante pode ser preenchido depois.
+{% hint style="info" %}
+Quando você for criar um vendedor é exigido preencher os campos com asterisco, o restante pode ser preenchido depois.
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_vendedores_criar_vendedor.png)
@@ -111,7 +116,7 @@ A primeira é a de perfil de desconto (vendas), por padrão ficará em branco, m
 
 <br>
 
-Você pode deixar definido um limite de desconto em vendas para esse vendedor, sendo valor ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
+Você pode deixar definido um limite de desconto em vendas para esse vendedor, sendo valor (em reais R$) ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_vendedores_guia_.gif)
 
@@ -119,7 +124,7 @@ Você pode deixar definido um limite de desconto em vendas para esse vendedor, s
 
 ### Aba perfil de desconto (compras)
 
-Você também pode deixar definido um limite de desconto em compras para esse vendedor, sendo valor ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
+Você também pode deixar definido um limite de desconto em compras para esse vendedor, sendo valor (em reais R$) ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_vendedores_guia_2.gif)
 
@@ -130,9 +135,9 @@ Você também pode deixar definido um limite de desconto em compras para esse ve
 
 ### Aba Parceiros (Carteira vendedor)
 
-Na última aba, temos os parceiros (Carteira vendedor), nela é listado primeiro todos os parceiros que tenham vínculo a este vendedor. 
+Na última aba, temos os parceiros (Carteira vendedor), nela é listado primeiro todos os parceiros (clientes/indicadores/fornecedores) que tenham vínculo a este vendedor. 
 
-Podendo fazer até mesmo o cadastro de novos clientes, fornecedores, indicadores e até transportadoras com o seu login:
+Podendo fazer até mesmo o cadastro de novos parceiros, diretamente vinculados ao vendedor:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_parceiros_inicio.png)
 

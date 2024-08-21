@@ -1,6 +1,6 @@
 # 🏷️ Perfil de Desconto
 
-Para utilizar da melhor maneira possível o perfil de desconto na plataforma **Gestão Online**, seguiremos agora com a explicação parte a parte para você utilizá-la:
+Para utilizar da melhor maneira possível o perfil de desconto na plataforma, seguiremos agora com a explicação parte a parte para você utilizá-la:
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
