@@ -1,6 +1,6 @@
 # 🏪 Unidades/Lojas
 
-Aqui você tem a visão de todas as unidades/lojas cadastradas na plataforma **Gestão Online**, podendo fazer cadastro, editar informações e até excluir uma unidade/loja cadastrada no sistema.
+Aqui você tem a visão de todas as unidades/lojas cadastradas na plataforma, podendo fazer cadastro, editar informações e até excluir uma unidade/loja cadastrada no sistema.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -40,7 +40,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_inicio.png)
 
-Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_paleta_cores.png" alt="" data-size="line"> Alterar cores da landing page (Este item só fica disponível caso você faça a configuração para que esta unidade possua venda online);
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -88,7 +88,7 @@ Aqui na parte de **`Endereço da unidade`** já colocamos em nossa plataforma o 
 
 ## Cadastrando tabelas de preço
 
-Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas da nossa plataforma da **Gestão Online**, abaixo explicamos um pouco melhor sobre cada uma.
+Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas da plataforma **Gestão Online**, abaixo explicamos um pouco melhor sobre cada uma.
 
 {% hint style="warning" %}
 **Tabelas de preço:** Caso você queira saber mais informações sobre como configurar as tabelas de preço, [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
@@ -102,17 +102,19 @@ O primeiro é a **Tabela de preço principal**, esta é a tabela de preço de ve
 
 ### Campos de tabela de preço secundária (Custo/Comissão)
 
-O segundo é a **Tabela de preço secundária (Custo)**, essa é a tabela de preço de custo da unidade parceira (Caso tenha). E o terceiro campo é a **Tabela de preço secundária (Comissão)**, que é para as comissões da unidade parceira, lembrando que ela precisa estar cadastrada no parceiro indicador para que seja contabilizada sua comissão por venda realizada.
+O segundo é a **Tabela de preço secundária (Custo)**, essa é a tabela de preço de custo da unidade parceira (Caso tenha). E o terceiro campo é a **Tabela de preço secundária (Comissão)**, que é para as comissões da unidade parceira (Caso tenha)
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_guia_geral_tabela_preco_secundaria_custo_comissao.png)
 
 ### Campos tabela de preço indicação e comissão de entrega
 
-No quarto campo, está a **Tabela de preço indicação padrão** Aqui você informa qual será a tabela de preço que tem os ganhos/comissão dos novos indicadores, e no quinto e último, a **Tabela de preço de comissão de entrega**, aqui é para indicar a tabela de preço de comissão de entrega para esta unidade que está sendo cadastrada.
+No quarto campo, está a **Tabela de preço indicação padrão** Aqui você informa qual será a tabela de preço padrāo que tem os ganhos/comissão dos novos parceiros/indicadores (cadastrados por essa unidade). Usuários que possuem permissāo de alterar a tabela de indicaçāo de um parceiro indicador, poderá alterar para outra tabela em qualquer momento posterior.
+
+A **Tabela de preço de comissão de entrega** Se aplica somente para algumas situações onde há uma comissāo por entrega realizada nessa unidade
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_indicacao_entrega.png)
 
-## Configuração para venda online (E-commerce)
+## Configuração para venda online (Loja Virtual)
 
 Esta parte em específico, esta dedicada a undiades/lojas que terão a opção de efetuar vendas online. Com o preenchimento destes campos, você poderá até mesmo gerar um link e uma página personalizada com as informações da sua empresa, vejamos os campos de preenchimento logo abaixo.
 
@@ -124,25 +126,45 @@ Logo ao lado, você tem o botão de **Gerar Link**, onde é criado um link para 
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_btn_gerar_link.gif)
 
-Mais ao lado, temos o botão de **Unidade padrão**, ao ativar esta opção, você está definindo que esta unidade que esta sendo cadastrada é a unidade padrão para as futuras vendas online. Função importante para uso caso o campo **analítica** esteja desmarcado e tenha mais de uma unidade.
+Mais ao lado, temos o botão de **Unidade padrão**, ao ativar esta opção, você está definindo que esta unidade que esta sendo cadastrada é a unidade padrão para as futuras vendas online.
+
+{% hint style="warning" %}
+**Atençāo:** Muito cuidado ao alterar a unidade padrāo de venda online do sistema, isso pode afetar o funcionamento de diversos recursos, Ex: LandinPage de parceiro/indicadores ou integrações externas
+{% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_btn_unidade_padrao.png)
 
-Agora na parte de baixo, você encontra as informações das tabelas de preço que falamos acima, agora os tipos de movimentação e tipo de negociação, você precisa cadastrar em separado nas telas de cada um. Nós já deixamos em cada nome de campo um link para você poder acessar o manual de cada uma caso queira mais informações a respeito, e aqui falaremos de maneira mais mais simples sobre cada uma.
+Agora na parte de baixo, você encontra as informações das tabelas de preço que falamos acima (mas agora, exclusivamente para a parte de "venda online"). Também será necessário preencher os campos de `tipos de movimentação` e `tipo de negociação` que estarāo habilitados para essa loja online desta unidade.
 
-A primeira é a [**`Tabela de preço (Venda)`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md), aqui você define qual a tabela de preço que será utilizada nas vendas online. A segunda é o [**`Tipo movimentação`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md), esse tipo já precisa estar configurado para realizar vendas online.
+{% hint style="info" %}
+Nós já deixamos em cada nome de campo um link para você poder acessar o manual de cada uma caso queira mais informações a respeito, e aqui falaremos de maneira mais mais simples sobre cada uma.
+
+Caso nāo seja a primeira unidade cadastrada, consulte as condições e recomendações do implantandor interno (administrador/gestor da sua empresa).
+{% endhint %}
+
+
+Nós já deixamos em cada nome de campo um link para você poder acessar o manual de cada uma caso queira mais informações a respeito, e aqui falaremos de maneira mais mais simples sobre cada uma.
+
+A primeira é a [**`Tabela de preço (Venda)`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md), aqui você define qual a tabela de preço que será utilizada nas vendas online. A segunda é o [**`Tipo movimentação`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md), esse tipo já precisa estar configurado para realizar vendas online. 
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_configuracao_venda_online_tabela_preco_tabela_movimentacao.png)
 
-Logo ao lado você tem também a [**`Tabela de preço (Recorrência)`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md), os preços cadastrados nelas que diferenciam, pois, você decide se na venda online, irá usar venda normal, ou venda recorrente, tudo depende das tabelas que você definir aqui. O mesmo vale para o [**`Tipo movimentação (Recorrência)`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md) e o [Tipo movimentação Destino (Recorrência)](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+Logo ao lado você tem também as opções de Recorrência (Modelo de assinatura), só é necessário preencher caso pretenda utilizar essa modalidade em vendas online [**`Tabela de preço (Recorrência)`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md), os preços cadastrados nelas que diferenciam, pois, você decide se na venda online, irá usar venda normal, ou venda recorrente, tudo depende das tabelas que você definir aqui. O mesmo vale para o [**`Tipo movimentação (Recorrência)`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md) e o [Tipo movimentação Destino (Recorrência)](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_configuracao_venda_online_tabela_preco_tabela_movimentacao_recorencia.png)
 
-Agora no [**`Tipo de negociação (Venda/Recorrência)`**](/erp-v2/funcionalidades/financeiro/tipo_negociacao.md), você precisa escolher o tipo de negociação, boleto, cartão e afins, que estiverem cadastrados, esse campo será válido tanto para o modo venda quanto recorrência. Fique atento para escolher a melhor opção para vendas do tipo online.
+Agora no [**`Tipo de negociação (Venda/Recorrência)`**](/erp-v2/funcionalidades/financeiro/tipo_negociacao.md), você precisa escolher o tipo de negociação que estará habilitado no checkout dessa página de venda online, Por exemplo: boleto, cartão de crédito 1x, Cartāo de crédito 2x, PIX etc. Este campo será válido tanto para o modo venda quanto recorrência. Fique atento para escolher a melhor opção para vendas do tipo online. 
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_configuracao_venda_online_tipo_negociacao.gif)
 
 No campo [**`Produtos venda online`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md), você seleciona todos os produtos que ficarão disponibilizados para venda, lembre-se que precisa marcar um a um conforme nosso exemplo abaixo.
+
+{% hint style="info" %}
+Caso nāo seja preenchido nenhum valor no campo "Produtos venda online", automáticamente será listados todos os produtos/serviços na "Tabela de preço" (Configuraçāo para venda online) desta unidade.
+
+Caso seja inseridos produtos, o sistema automaticamente limitará a página de vendas somente a eles. (E esses mesmos produtos precisam estar vinculados a tabela de preço)
+{% endhint %}
+
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_configuracao_venda_online_produtos.gif)
 
@@ -166,14 +188,6 @@ Se você observou na imagem acima, deixamos marcados também as novas guias que 
 Você terá uma lista de todos os vendedores dessa unidade, podendo também fazer adição, alteração e até exclusão.
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_vendedores.png)
-
-Poderá utilizar os filtros para efetuar buscas específicas e organizar a ordem de visualização.
-
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidades_vendedores_filtroa.gif)
-
-E também terá acesso ao dashboard com quantidade de vendedores por centro de resultado e por local de estoque:
-
-![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_vendedores_dashboard.gif)
 
 {% hint style="warning" %}
 **Atenção:** Se você quer saber mais sobre cadastro, edição e exclusão de vendedores, [clique aqui!](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md)

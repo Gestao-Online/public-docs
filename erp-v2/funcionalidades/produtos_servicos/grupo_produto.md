@@ -36,7 +36,7 @@ Ao clicar neste botão, você será levado para esta página para fazer a adiç�
 
 ![](/erp-v2/assets/funcionalidades/grupo_produto/aba_grupo_produto_add_inicio.png)
 
-Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar item dependente;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;

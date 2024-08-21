@@ -40,7 +40,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_ctrl_movimentacao_add.png)
 
-Após clicarmos no botão adicionar novo controle de movimentação, uma nova página será aberta e, ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicarmos no botão adicionar novo controle de movimentação, uma nova página será aberta e, Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;   
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
@@ -63,7 +63,7 @@ O campo **tipo lançamento**, tem duas opções para você escolher, entre *cré
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_ctrl_movimentacao_add_campo_lancamento.png)
 
-Logo ao lado, temos o campo **Unidade**, lembre-se de que ele está vinculado com a **Tela Unidade** e as opções que ele trará são as cadastradas nesta tela. 😁 (Pode ser que esse campo não apareça, caso você usando essa tela a partir de uma "Aba" dentro da tela que já está referenciando uma unidade)
+Logo ao lado, temos o campo **Unidade**, lembre-se de que ele está vinculado com a **Tela Unidade** e as opções que ele trará são as cadastradas nesta tela. 😁 (Pode ser que esse campo não apareça, caso você usando essa tela a partir de uma "Aba" dentro da tela que já está referenciando uma unidade/contrato)
 
 {% hint style="warning" %}
 **Tela Unidades:** Caso queira mais informações sobre como utilizar a tela Unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).

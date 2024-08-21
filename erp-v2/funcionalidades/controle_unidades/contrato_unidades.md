@@ -37,7 +37,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add.png)
 
-Após clicarmos no botão adicionar novo contrato de controle, uma nova página será aberta e, ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicarmos no botão adicionar novo contrato de controle, uma nova página será aberta e, Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;   
@@ -120,6 +120,10 @@ Destas opções disponíveis, você tem para deixar ele desativado, onde não ap
 
 Logo após, o campo de **fechamento automático tipo de negociação**, lembre-se que este campo está vinculado diretamente com a tela **Tipo de negociação** e as opções que ele trará, são as cadastradas nesta tela. 😁
 
+{% hint style="info" %}
+**Tipo de negociação:** Além de poder utilizar os tipos de negociação já disponíveis (que são compartilhados com a tela de vendas e financeiro, por exemplo), também é possível cadastrar um tipo de negociação com propósito específico para 'Fechamento/Acerto' ou até mesmo 'particular' para esse contrato. Por exemplo: boleto com prazo de 2 dias para pagamento; caso atrase, já incide juros e multa.
+{% endhint %}
+
 {% hint style="warning" %}
 **Tipo de negociação:** Caso queira mais informações sobre como utilizar a tela tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md).
 {% endhint %}
@@ -200,9 +204,7 @@ Após clicar para fazer o fechamento, observe que um nova linha foi adicionada a
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo_fechamento_gerar_relatorio.gif)
 
-O arquivo em PDF é enviado para seu email cadastrado no nosso sistema, e você logo tem um prévia das informações, podendo também fazer o downlad do arquivo.
-
-Este documento gerado trás algumas informações importantes, como por exemplo, o parceiro/cliente que efetuou a venda/compra, qual foi o produto, o histórico dessa venda, valor de referência, o tipo (caso seja crédito ou débito) e o valor final.
+Este documento gerado trás algumas informações importantes, como por exemplo, o parceiro/cliente (final) que efetuou a venda/compra, qual foi o produto, o histórico dessa venda, valor de referência, o tipo (caso seja crédito ou débito) e o valor final.
 
 Já parte final do relatório em PDF colocamos as somas e cálculos de fechamento, saldo anterior e atual, conforme marcado na imagem abaixo.
 

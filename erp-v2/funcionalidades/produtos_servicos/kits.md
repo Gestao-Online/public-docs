@@ -53,7 +53,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_inicio.png)
 
-Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
@@ -67,16 +67,16 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo kit
 - **Descrição** (Nome para identificar o novo kit a ser criado);
 - **Imagem (Principal)** (Para facilitar identificação do kit);
     - ![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_imagem.gif)
-- **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
+- **Descrição complementar** (A descriçāo complementar, é utilizada em catálogos, páginas de venda online e em outros lugares que precisam detalhar melhor o produto);
 - **Código** (SKU ou código de barras referente ao kit);
 - **Status** (Com duas opções para selecionar, entre ativado e desativado);
 - **Unidade/Medida** (Serão mostradas as opções cadastradas [aqui](/erp-v2/funcionalidades/parametrizacoes/unidade_medida_produto_servico.md));
 - **Grupo** (Serão mostradas as opções cadastradas [aqui](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md));
 - **Valor Custo** (Aqui você declara o valor deste kit);
 - **Tipo de entrega:**
-    - **Digital** Não mostrará as opções de NFe/NFCe;
-    - **Unidade:** Não mostrará as opções de NFe/NFCe;
-    - **Transporte:** Ao escolher, poderá definir as dimensões do produto, altura, largura, comprimento e peso.
+    - **Digital** Se trata de um produto digital (como um ebook ou infoproduto por exemplo), onde nāo há uma entrega física
+    - **Unidade:** Entrega física exclusivamente na unidade de entrega/venda. (Retirada)
+    - **Transporte:** Entrega física via transportadora (Nesse caso, é necessário colocar informações de medida do produto por exemplo)
 
 ![](/erp-v2/assets/funcionalidades/kits/aba_kits_add_kit_itens.png)
 

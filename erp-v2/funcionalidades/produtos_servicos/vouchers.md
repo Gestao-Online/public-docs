@@ -43,7 +43,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_inicio.png)
 
-Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> Restrições/Exceções;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -57,11 +57,13 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos ab
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_menu.png)
 
-Quando você for criar um voucher, é exigido produto, status e permissão de produto secundário. 
+Quando você for criar um voucher, é exigido produto, status. 
+
+Opcionalmente, é possível ativar a permissão de produto secundário. 
 
 - **Produto:** Você pode escolher um dos produtos disponíveis na lista, ou digitar o nome para selecionar;
 - **Status:** Aqui você define se o voucher estará ativado ou desativado;
-- **Permite produto secundário:** Caso você ative esta opção, poderá vincular outro produto ao voucher.
+- **Permite produto secundário:** Caso você ative esta opção, poderá vincular outro produto ao voucher. 
 
 ![](/erp-v2/assets/funcionalidades/vouchers/aba_vouchers_add_voucher_itens.png)
 

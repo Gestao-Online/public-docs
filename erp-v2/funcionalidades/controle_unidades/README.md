@@ -2,7 +2,7 @@
 
 No conjunto de funcionalidades de **`Controle de unidades`**, você encontra os itens contrato do controle de unidades e controle da movimentação da unidade.
 
-A telas desse conjunto de funcionalidades fazem parte do módulo de gestão de franquia, oferecendo um sistema completo para o controle de acertos com unidades. Alguns dos recursos que são permitidos através dessas funcionalidades:
+As telas desse conjunto de funcionalidades fazem parte do módulo de gestão de franquia, oferecendo um sistema completo para o controle de acertos com unidades. Alguns dos recursos que são permitidos através dessas funcionalidades:
 
 - **Gestão de Contrato**: Faça a gestão do ciclo de vida dos contratos com as unidades parceiras (franquias).
 - **Gestão de Saldo**: Administre saldos (`a receber` e `a pagar`) com os franqueados de maneira eficiente.

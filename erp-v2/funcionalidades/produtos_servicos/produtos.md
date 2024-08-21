@@ -52,7 +52,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_inicio.png)
 
-Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
@@ -68,16 +68,16 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo pro
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produto_add_imagem.gif)
 
-- **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
+- **Descrição complementar** (A descriçāo complementar, é utilizada em catálogos, páginas de venda online e em outros lugares que precisam detalhar melhor o produto);
 - **Código** (SKU ou código de barras referente ao produto);
 - **Status** (Com duas opções para selecionar, entre ativado e desativado);
 - **Unidade/Medida** (Serão mostradas as opções cadastradas [aqui](/erp-v2/funcionalidades/parametrizacoes/unidade_medida_produto_servico.md));
 - **Grupo** (Serão mostradas as opções cadastradas [aqui](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md));
 - **Valor Custo** (Aqui você declara o valor deste produto);
 - **Tipo de entrega:**
-    - **Digital** Não mostrará as opções de NFe/NFCe e não terá a guia estoque quando salvar o produto;
-    - **Unidade:** Ao marcar esta opção, terá que confirmar as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST;
-    - **Transporte:** Ao escolher, poderá definir as dimensões do produto, altura, largura, comprimento e peso. E também as informações de NFe/NFCe, sendo tipo, origem da mercadoria, NCM e CEST.
+    - **Digital** Se trata de um produto digital (como um ebook ou infoproduto por exemplo), onde nāo há uma entrega física
+    - **Unidade:** Entrega física exclusivamente na unidade de entrega/venda. (Retirada)
+    - **Transporte:** Entrega física via transportadora (Nesse caso, é necessário colocar informações de medida do produto por exemplo)
 
 {% hint style="warning" %}
 **Importante:** A foto do produto precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite que é de apenas 5MB! 🖼️
@@ -87,11 +87,21 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar um novo pro
 
 ## Tipo de entrega
 
-Agora, falando em específico do campo de **Tipo de entrega**, ficou marcada a opção digital, mas nosso produto não é digital, então vamos escolher a opção unidade. Observe que novos campos irão aparecer na parte de baixo da página.
+Como explicado, anteriormente temos 3 opções que definem o "tipo de entrega do produto"
+
+### Tipo de entrega Digital (Produto digital)
+
+Produtos digitais e/ou virtuais. Nāo necessariamente possuem uma entrega física que precisa controlar campos como altura,largura, peso etc. Por isso, utilize essa modalidade caso trabalhe com venda de InfoProdutos, Ebooks, Produtos Digitais etc
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_unidade.png)
 
-### Tipo de entrega Unidade
+### Tipo de entrega Unidade (Produto físico)
+
+Caso seja produto físico, que será "Retirado" em uma unidade, o sistema nāo irá exigir alguns campos (Como altura, largura, peso etc). Mas irá solicitar o preeenchimento dos campos fiscais descritos abaixo. (Para NFe e/ou NFCe)
+
+{% hint style="warning" %}
+**Atençāo:** Em caso de dúvidas sobre o preenchimento, sempre solicite ajuda do seu contador para preencher esses campos.
+{% endhint %}
 
 No primeiro campo **NFe/NFCe Tipo**, você define qual tipo de produto será cadastrado, observe que tem disponível várias opções. Em nosso exemplo, iremos marcar a primeira opção.
 
@@ -113,13 +123,13 @@ E agora no campo de CEST (Código Especificador da Substituição Tributária) s
 
 Neste mesmo campo de **CEST**, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> de atalho para adicionar um novo código CEST, ou no botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar o código CEST selecionado em uma nova tela.
 
-Para nosso exemplo, adicionamos o CEST de referência ao NCM deste produto, que é o de artigos de casa.
+Para nosso exemplo, adicionamos o CEST de referência ao NCM deste produto, que é o de "artigos de casa".
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_unidade_cest.png)
 
-### Tipo de entrega transporte
+### Tipo de entrega transporte  (Produto físico)
 
-Caso no campo **Tipo de entrega** você marque a opção *Transporte*, além dos campos citados acima de configuração de NFe, aparecerão as configurações de envio deste produto.
+Caso no campo **Tipo de entrega** você marque a opção *Transporte*, além dos campos citados acima de configuração de NF, aparecerão as configurações que serāo necessárias para o envio deste produto.
 
 Essas informações são de *Altura*, *Largura*, *Comprimento* e *Peso*. Lembrando que estas informações são feitas com base na embalagem que este produto terá para envio e a unidade de medida é em centímetros.
 

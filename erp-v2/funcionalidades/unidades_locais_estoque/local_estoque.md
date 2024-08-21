@@ -1,6 +1,6 @@
 # 🏭 Local de estoque
 
-Aqui você tem a visão de todos os locais de estoque cadastrados na plataforma **Gestão Online**, podendo fazer cadastro, editar informações, adicionar item dependente e até excluir um estoque cadastrado.
+Aqui você tem a visão de todos os locais de estoque cadastrados na plataforma, podendo fazer cadastro, editar informações, adicionar item dependente e até excluir um estoque cadastrado.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -34,7 +34,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ### Menu superior
 
-Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar novo local de estoque;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;

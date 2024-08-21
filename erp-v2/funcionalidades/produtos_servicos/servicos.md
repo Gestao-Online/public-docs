@@ -52,7 +52,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_inicio.png)
 
-Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
@@ -68,13 +68,13 @@ Olhando para a guia **`Geral`**, por padrão, quando você for criar novo servi�
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_campo_imagem.gif)
 
-- **Descrição complementar** (Na falta de imagem, a descrição cai muito bem como opção extra);
+- **Descrição complementar** (A descriçāo complementar, é utilizada em catálogos, páginas de venda online e em outros lugares que precisam detalhar melhor o produto);
 - **Código** (SKU ou código de barras referente ao serviço);
 - **Status** (Com duas opções para selecionar, entre ativado e desativado);
 - **Unidade/Medida** (Serão mostradas as opções cadastradas [aqui](/erp-v2/funcionalidades/parametrizacoes/unidade_medida_produto_servico.md));
 - **Grupo** (Serão mostradas as opções cadastradas [aqui](/erp-v2/funcionalidades/produtos_servicos/grupo_produto.md));
 - **Valor Custo** (Aqui você declara o valor deste serviço);
-- **Tipo de entrega**;
+- **Tipo de entrega:**
 - **Utilizar configuração padrão NFSe da empresa** (Caso essa opção esteja ativada, serão utilizados os critérios fiscais Nfse padrão da empresa emitente).
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_itens.png)
@@ -94,6 +94,10 @@ Pois o sistema entende que esse serviço que será prestado pode entrar na confi
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_entrega_digital_nfse_empresa.gif)
 
 ## Não utilizar configuração padrão NFSe da empresa
+
+{% hint style="warning" %}
+**Atençāo:** Em caso de dúvidas sobre o preenchimento, sempre solicite ajuda do seu contador para preencher esses campos.
+{% endhint %}
 
 Agora quando este campo está desativado, ficam disponíveis os campo de preenchimento para NFSe. 
 

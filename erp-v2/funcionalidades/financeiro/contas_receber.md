@@ -32,7 +32,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add.png)
 
-Após clicarmos no botão adicionar nova conta a receber, uma nova página será aberta e nela, ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicarmos no botão adicionar nova conta a receber, uma nova página será aberta e nela, Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Baixar;
 - <img src="/erp-v2/assets/icon_estornar.png" alt="" data-size="line"> Estornar;
