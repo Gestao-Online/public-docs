@@ -1,6 +1,6 @@
 # 👤 Usuários
 
-Aqui você tem a visão de todos os usuários cadastrados na plataforma **Gestão Online**, podendo fazer cadastro, enviar notificações e até excluir um usuário cadastrado.
+Aqui você tem a visão de todos os usuários cadastrados na plataforma, podendo fazer um novo cadastro, alterar e até excluir um usuário cadastrado.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -24,59 +24,6 @@ Nesta tela está um menu ao lado direito com as seguintes funções:
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar usuário.
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios.png)
-
-<br>
-
-## Criar notificação
-
-Ao clicar no primeiro item do menu vamos para o envio de notificação aos usuários, o preenchimento é bem simples e intuitivo.
-
-![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao.png)
-
-<br>
-
-Você precisa definir primeiro nível de criticidade da notificação, das opções disponíveis têm:
-
-- Mínimo;
-- Baixo;
-- Normal;
-- Alto;
-- Urgente.
-
-![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_criticidade.png)
-
-<br>
-
-Após a definição do nível, seguimos para o perfil de usuário que irá receber esta notificação que você está gerando, são os tipos:
-
-- Todos;
-- Usuário;
-- Coordenador;
-- Gerente;
-- Administrador;
-- Super administrador.
-
-
-![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_perfil.png)
-
-<br>
-
-### Salvando notificação
-
-Após definido o tipo de usuário, agora vamos para a mensagem, deixamos um editor de texto com algumas funções para você poder escrever a sua notificação:
-
-- <img src="/erp-v2/assets/funcionalidades/icon_tamanho_texto.png" alt="" data-size="line"> Escolha de tamanho do texto;
-- <img src="/erp-v2/assets/funcionalidades/icon_negrito.png" alt="" data-size="line"> Negrito;
-- <img src="/erp-v2/assets/funcionalidades/icon_italico.png" alt="" data-size="line"> Itálico;
-- <img src="/erp-v2/assets/funcionalidades/icon_sublinhado.png" alt="" data-size="line"> Sublinhado
-- <img src="/erp-v2/assets/funcionalidades/icon_hiperlink.png" alt="" data-size="line"> Hiperlink;
-- <img src="/erp-v2/assets/funcionalidades/icon_lista_ordenada.png" alt="" data-size="line"> Lista ordenada;
-- <img src="/erp-v2/assets/funcionalidades/icon_lista_nao_ordenada.png" alt="" data-size="line"> Lista não ordenada;
-- <img src="/erp-v2/assets/funcionalidades/icon_limpar_formatacao.png" alt="" data-size="line"> Limpar formatação. 
-
-<!-- Nesta parte perguntar ao Paulo as restrições de envio de notificação para deixar o aviso na página para os demais usuários -->
-
-![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_enviada.gif)
 
 <br>
 
@@ -112,7 +59,7 @@ Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor ci
 Olhando para a aba **`Geral`**, por padrão, quando você for criar uma conta é exigido o perfil e e-mail. Agora os outros campos para preenchimento podem deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
 
 - **Nome** (Nome completo do usuário, podendo preencher depois);
-- **Nome usuário** (É usado para login na plataforma, podendo ser um nome/código/CPF);
+- **Nome de usuário** (É usado para login na plataforma, podendo ser um nome/código/CPF);
 - **Alterar senha** (Para mais informações [clique aqui](/erp-v2/minhas_preferencias/alt_minha_senha.md));
 - **Status** (Aqui você define o status do usuário, sendo ativado, desativado ou aguardando registro);
 - **Perfil** (Item obrigatório, aqui define que tipo de autorização que terá na plataforma);
@@ -128,19 +75,100 @@ Olhando para a aba **`Geral`**, por padrão, quando você for criar uma conta é
 
 <br>
 
-Uma informação importante sobre os tipos de Perfis:
+Uma breve informação, de forma bem resumida sobre os tipos de Perfis (com as regras padrões):
 
-- **Usuário:** Terá acesso básico à plataforma, é responsável pelo cadastro de clientes, realizar vendas e gerar relatórios.
 
-- **Coordenador:** Além das permissões de usuário, possui acesso ao financeiro e aos dashboards de sua unidade.
+- **Usuário:**
+-> Parceiros/Clientes (todos da unidade/projeto em que trabalha)
+-> Vendas (somente as criadas por ele)
+-> Agendamento/Atividades (todas da unidade em que trabalha)
+-> Dashboards/Relatórios (somente das próprias vendas)
 
-- **Gerente:** Também pode visualizar os relatórios financeiros de outras unidades, cadastrar vendedores (porém não pode apagá-los), além de cadastrar novos usuários de perfil tipo `usuário`.
+- **Coordenador:**
+-> Parceiros/Clientes (todos da unidade/projeto em que trabalha)
+-> Vendas (todas da unidade em que trabalha)
+-> Agendamento/Atividades (todas da unidade em que trabalha)
+-> Pode cadastrar usuários na unidade que trabalha
+-> Dashboards/Relatórios (somente da unidade que trabalha)
 
-- **Administrador:** Possui acesso à maioria das funcionalidades, pode cadastrar novos usuários como administrador ou usuário, visualizar o histórico de todas as unidades, alterar ou remover vendedores/usuários, ou clientes, alterar entradas no financeiro, cadastrar tabelas de preço e alterar detalhes em formas de pagamento, tipos de negociação e contas bancárias.
+- **Gerente/Administrador:**
+-> Parceiros/Clientes (Acesso total)
+-> Vendas (Acesso total)
+-> Agendamento/Atividades (Acesso total)
+-> Dashboards/Relatórios (Acesso total)
+-> Pode realizar alterações financeiro (Baixa/Estorno)
+-> Cadastro de produtos
+-> Cadastro de tabela de preço das unidades/indicadores.
 
-- **Super administrador:** ste perfil tem acesso total à plataforma e também pode realizar alterações em eventos e geração de relatórios em páginas como `Notification Template` e `Reports and Widgets`.
+- **Superadministrador:** (Mesmo acesso do administrador, mas com permissões de parâmetrizações)
+
+{% hint style="info" %}
+**Permissões por usuário:** 
+
+As principais ações no sistema, permitem fazer liberações por usuário, combinado as permissões gerais nos perfis.
+
+Alguns exemplos de permissões por usuário:
+-> Estorno cartão de crédito 
+-> Regras de comissão/custo 
+-> Perfil de desconto
+
+Essas configurações sāo feitas em cada tela/funçāo, atribuindo diretamente o usuário a aquela permissāo/regra. Para mais informações `🔒Permissões, restrições/exceções` [**`clique aqui`**](/erp-v2/primeiro_acesso/permissoes_restricoes_excecoes) 
+{% endhint %}
 
 Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do usuário será salvo e enviado para o e-mail cadastrado, uma mensagem para finalizar o registro:
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_salvar.gif)
 
+
+## Enviar notificaçāo interna para os usuários
+
+Ao clicar no primeiro item do menu vamos para o envio de notificação aos usuários, o preenchimento é bem simples e intuitivo.
+
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao.png)
+
+<br>
+
+Você precisa definir primeiro nível de criticidade da notificação, das opções disponíveis têm:
+
+- Mínimo;
+- Baixo;
+- Normal;
+- Alto;
+- Urgente.
+
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_criticidade.png)
+
+<br>
+
+Após a definição do nível, seguimos para o perfil de usuário que irá receber esta notificação que você está gerando, são os tipos:
+
+- Todos;
+- Usuário;
+- Coordenador;
+- Gerente;
+- Administrador;
+- Super administrador.
+
+
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_perfil.png)
+
+<br>
+
+### Enviando notificação
+
+Após definido o tipo de usuário, agora vamos para a mensagem, deixamos um editor de texto com algumas funções para você poder escrever a sua notificação:
+
+- <img src="/erp-v2/assets/funcionalidades/icon_tamanho_texto.png" alt="" data-size="line"> Escolha de tamanho do texto;
+- <img src="/erp-v2/assets/funcionalidades/icon_negrito.png" alt="" data-size="line"> Negrito;
+- <img src="/erp-v2/assets/funcionalidades/icon_italico.png" alt="" data-size="line"> Itálico;
+- <img src="/erp-v2/assets/funcionalidades/icon_sublinhado.png" alt="" data-size="line"> Sublinhado
+- <img src="/erp-v2/assets/funcionalidades/icon_hiperlink.png" alt="" data-size="line"> Hiperlink;
+- <img src="/erp-v2/assets/funcionalidades/icon_lista_ordenada.png" alt="" data-size="line"> Lista ordenada;
+- <img src="/erp-v2/assets/funcionalidades/icon_lista_nao_ordenada.png" alt="" data-size="line"> Lista não ordenada;
+- <img src="/erp-v2/assets/funcionalidades/icon_limpar_formatacao.png" alt="" data-size="line"> Limpar formatação. 
+
+Agora basta clicar em `Enviar notificaçāo`
+
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao_enviada.gif)
+
+<br>
