@@ -15,7 +15,7 @@ Clicando nele uma nova janela será mostrada para você solicitando que envie um
 A estrutura de informações da planilha não é complexa, sendo somente cinco colunas e algumas informações como **ID contrato** e **ID unidade** sendo necessárias como identificador para o tipo de lançamento receita ou despesa. Muita atenção para os valores, não é necessário a utilização do cifrão, o sistema fará a conversão automaticamente, quando ler a planilha enviada.
 
 {% hint style="info" %}
-Você pdoe baixar o modelo desta planilha. [**`PLANILHA TESTE CONTRATO.xlsx`**](/erp-v2/assets/PLANILHA%20TESTE%20CONTRATO.xlsx)
+Você pdoe baixar o modelo desta planilha. [**`PLANILHA TESTE CONTRATO.xlsx`**](https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/assets/PLANILHA%20TESTE%20CONTRATO.xlsx)
 {% endhint %}
 
 Observe abaixo o exemplo de planilha que utilizaremos.
