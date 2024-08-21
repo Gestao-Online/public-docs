@@ -1,8 +1,12 @@
 # 🏨 Empresas
 
-Aqui você tem a visão de todos as empresas cadastradas na plataforma **Gestão Online**, podendo cadastrar uma nova empresa, editar informações existentes e até excluir uma empresa cadastrada.
+Aqui você tem a visão de todos as empresas cadastradas na plataforma, podendo cadastrar uma nova empresa, editar informações existentes e até excluir uma empresa cadastrada.
 
-Estas empresas serão utilizadas em cadastro de estoques, lojas e vínculos com produtos e serviços.
+Estas empresas serão utilizadas em cadastro de estoques, lojas e vínculos com produtos, serviços etc.
+
+{% hint style="danger" %}
+**Atenção:** Você precisará de informações importantes para o preenchimento dos dados mostrados aqui. Em caso de dúvidas, recomendamos que solicite essas informações ao contador de sua empresa, que poderá fornecer as orientações corretas e necessárias.
+{% endhint %}
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -53,7 +57,7 @@ Sendo eles CNPJ, nome fantasia e razão social, estes itens são o mínimo neces
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa.png)
 
-Você pode adicionar uma imagem para empresa, facilitando assim a identificação da mesma em buscas e relatórios. Confira abaixo como adicionar:
+Você pode adicionar uma imagem para empresa. (Observaçāo: essa imagem será utilizada em diversos locais do sistema)
 
 {% hint style="warning" %}
 **Importante:** A foto de perfil precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite que é de apenas 5MB! 🖼️
@@ -75,7 +79,7 @@ Chegando ao final da página de cadastro da nova empresa, nos deparamos com os d
 
 ### Anexar certificado Digital
 
-Nos dados fiscais você pode adicionar o certificado digital da empresa, permitindo assinar documentos com validade jurídica e fazer transações online com segurança.
+Nos dados fiscais você pode adicionar o certificado digital da empresa, esse certificado é necessário para autenticaçāo da empresa em diversos serviços externos. Como por exemplo: no site da prefeitura para emissāo de NFSe ou na Sefaz para emissāo de NFe/NFCe.
 
 {% hint style="warning" %}
 **Importante:** Os certificados digitais são aceitos em **`.pfx`** ou **`.p12`**.
@@ -172,7 +176,7 @@ Alguns municípios utilizam o conceito de lote para emissão de NFS-e. Ele nada 
 
 ### NFSe Prefeitura Login e senha
 
-Esses campos tem variação de prefeitura para prefeitura. Mas com o preenchimento destes campos o acesso ao portal pode ser feito automaticamente, para emissão de NFSe.
+Esses campos tem variação de prefeitura para prefeitura. Mas com o preenchimento destes campos o acesso ao portal pode ser feito automaticamente, para emissão de NFSe. (A maioria das prefeituras nāo exige o preenchimento deste campo, pois a autenticaçāo é realizada através do certificado digital)
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_login_senha.png)
 
@@ -370,6 +374,6 @@ Duas novas abas ficam disponíveis a partir do momento que você salva uma nova 
 
 ### Aba Anexos arquivos de processamento
 
-- Anexos arquivos de processamento, vão aparecer todos os arquivos utilizados em transações realizadas por esta empresa na plataforma da **Gestão Online**.
+- Anexos arquivos de processamento, vão aparecer todos os arquivos utilizados em transações realizadas por esta empresa na plataforma. (Através de integraçāo, ou processamento externo)
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_guia_arquivos.png)

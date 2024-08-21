@@ -1,12 +1,14 @@
 # 🔁 Tipo de movimentação
 
-Aqui você tem a visão de todas as movimentações cadastradas na plataforma **Gestão Online**, podendo cadastrar um novo tipo de movimentação, editar informações existentes e até excluir uma movimentação cadastrada.
-
-Estas movimentações serão utilizadas em vendas, vendas recorrentes, pedidos de venda, compras, pedidos de compra, importações e financeiro.
+Aqui você tem a visão de todas os tipos de movimentações cadastrados na plataforma, podendo cadastrar um novo tipo de movimentação, editar informações existentes e até excluir um tipo de movimentação cadastrado.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
+
+Estes tipos de movimentações serão utilizadas em vendas, vendas recorrentes, pedidos de venda, compras, pedidos de compra, importações e financeiro (contas a pagar/receber).
+
+A configuraçāo do `Tipo de movimentaçāo` utilizado em uma movimentaçāo ou financeiro, talvez seja uma das mais importantes do sistema, pois a configuraçāo dentro desta tela determinará todo o comportamento em relaçāo as principais regras e registros e controles do sistema.  
 
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
@@ -65,9 +67,11 @@ Ao clicar no botão de restrições/exceções, uma nova janela irá de abrir. A
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_btn_restricao.png)
 
-Seguindo o exemplo demonstrado abaixo, você pode definir, por exemplo, um tipo de negociação em dinheiro e definir se ele será sem restrição, restrição (Só pode ser utilizado com) e exceção (Só não pode ser utilizado com).
+Seguindo o exemplo demonstrado abaixo, você pode definir, por exemplo, um tipo de negociação em "dinheiro" e definir se ele será sem restrição, restrição (Só pode ser utilizado com) e exceção (Só não pode ser utilizado com).
 
-E essa configuração pode ser feita com grupo de produto, um produto, uma empresa, vendedor, unidade e até um parceiro. Fazendo assim com que a possibilidade de erro por falta de atenção em alguma venda não aconteça, pois a restrição/exceção entrará em ação assim que for preciso.
+E essa configuração pode ser feita com grupo de produto, um produto, uma empresa, vendedor, unidade e até um parceiro.
+
+Essa possibilidade de restriçāo é muito importante, Pois é possível criar um tipo de movimentaçāo que tenha determinado comportamento, e restringir por diversos filtros diferentes. 
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_btn_restricao.gif)
 
@@ -119,6 +123,7 @@ Ao marcar a opção atualiza controle de unidade (comercial/saldo), isso criará
 
 {% hint style="info" %}
 **Controle de unidade:** Para mais informações sobre como configurar esta tela, [**`clique aqui`**](/erp-v2/funcionalidades/controle_unidades/contrato_unidades.md).
+{% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_venda_controle_comercial.png)
 
@@ -144,6 +149,7 @@ Ao marcar a opção atualizacontrole de unidade (produtivo/fechamento), isso cri
 
 {% hint style="info" %}
 **Controle de unidade:** Para mais informações sobre como configurar esta tela, [**`clique aqui`**](/erp-v2/funcionalidades/controle_unidades/contrato_unidades.md).
+{% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_venda_controle_produtivo.png)
 
@@ -172,7 +178,7 @@ Lembrando que cada item marcado pode abrir um novo menu de opções na parte de 
 
 ## Tipo Compra
 
-No tipo compra, você pode atualizar o financeiro, estoque, controle de unidade (Seja comercial/saldo ou produtivo/fechamento) e também gerar fiscal. Lembrando que cada item marcado, um novo menu será disponibilizado com mais opções para preenchimento. Agora, os campos de usuário e data de alteração não podem ser alterados, por servirem para controle da nossa plataforma.
+No tipo compra, você pode atualizar o financeiro, estoque, controle de unidade (Seja comercial/saldo ou produtivo/fechamento). Lembrando que cada item marcado, um novo menu será disponibilizado com mais opções para preenchimento. Agora, os campos de usuário e data de alteração não podem ser alterados, por servirem para controle da nossa plataforma.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_compra.gif)
 
@@ -191,6 +197,10 @@ No tipo financeiro você pode ativar a atualização de controle da unidade (Com
 ## Tipo Importação
 
 Agora, o tipo importação também não possui menus alternativos para preenchimento, sendo uma função única, sem necessidade de intervenção. Mas não esqueça que o botão de restrições se aplica nele, caso necessite.
+
+{% hint style="info" %}
+Esse `tipo de movimentaçāo` só está disponível para importações externas (Via API), normalmente utilizado quando sāo migrados dados de vendas de um sistema legado. 
+{% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_importacao.png)
 
