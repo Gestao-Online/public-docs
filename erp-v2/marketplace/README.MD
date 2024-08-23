@@ -1,6 +1,6 @@
 # 🏬 Marketplace
 
-No Marketplace da Gestão Online, você encontra uma variedade de produtos desenvolvidos para atender suas necessidades, semelhante à loja de aplicativos que você utiliza em seu smartphone. 😉
+No Marketplace da Gestão Online, você encontra uma variedade de produtos desenvolvidos para atender suas necessidades, desde aplicativos, dashboards personalidos e módulos completos para uso, muito semelhante à loja de aplicativos que você utiliza em seu smartphone. 😉
 
 Desde ferramentas para criação de Landing Pages personalizadas até consultas de CPF de clientes e sistemas de cobrança integrados com mensagens automáticas, tudo está disponível com instalação e uso simplificados diretamente em nosso sistema.
 
