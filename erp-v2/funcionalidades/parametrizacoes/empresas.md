@@ -79,7 +79,11 @@ Chegando ao final da página de cadastro da nova empresa, nos deparamos com os d
 
 ### Anexar certificado Digital
 
-Nos dados fiscais você pode adicionar o certificado digital da empresa, esse certificado é necessário para autenticaçāo da empresa em diversos serviços externos. Como por exemplo: no site da prefeitura para emissāo de NFSe ou na Sefaz para emissāo de NFe/NFCe.
+Nos dados fiscais você pode adicionar o certificado digital da empresa.
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_campo_certificado.png)
+
+Esse certificado é necessário para autenticaçāo da empresa em diversos serviços externos. Como por exemplo: no site da prefeitura para emissāo de NFSe ou na Sefaz para emissāo de NFe/NFCe.
 
 {% hint style="warning" %}
 **Importante:** Os certificados digitais são aceitos em **`.pfx`** ou **`.p12`**.
