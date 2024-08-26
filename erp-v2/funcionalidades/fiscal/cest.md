@@ -73,7 +73,7 @@ Já no campo de **Descrição completa**, por ser um item opcional, você decide
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_cest_add_campo_descricao_completa.png)
 
-## Salnvando código CEST
+## Salvando código CEST
 
 Feito o preenchimento das informações, agora salvaremos para ele ficar ativo.
 

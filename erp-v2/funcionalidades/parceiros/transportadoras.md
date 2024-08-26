@@ -58,7 +58,7 @@ Lembrando que este menu ganhará um novo botão quando salvarmos este novo trans
 No momento do cadastro de uma nova transportadora, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
 
 {% hint style="info" %}
-**Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados do transpor. 😉👍
+**Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados do transportador. 😉👍
 {% endhint %}
 
 ![Exemplo de campos obrigatórios para CNPJ](/erp-v2/assets/funcionalidades/parceiros/aba_transportadoras_add_transportadoras.png)

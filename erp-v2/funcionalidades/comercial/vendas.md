@@ -4,14 +4,16 @@ Aqui você tem a visão das vendas/movimentações na plataforma **Gestão Onlin
 
 Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de preço, tabela de custo, tabela de comissão, unidade, empresa, conta bancária e parceiro indicador. São muitos vínculos, mas isso faz o sistema da Gestão.Online ser preciso nos resultados.
 
-Este menu de vendas estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [**`clique aqui`**](/erp-v2/primeiro_acesso/favoritos.md)).
-
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+{% endhint %}
+
+{% hint style="info" %}
+**Favoritos:** Este menu de vendas estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [**`clique aqui`**](/erp-v2/primeiro_acesso/favoritos.md)).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas.gif)
@@ -44,8 +46,6 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add.png)
 
-<br>
-
 Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar rascunho;
@@ -57,8 +57,6 @@ Vale lembrar que esse menu mudará trazendo novas opções, mas somente quando v
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu.png)
 
-<br>
-
 No momento do cadastro de uma nova venda, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho.
 
 Aqui, o único item obrigatório para preenchimento é o tipo de negociação, pois a venda pode ser preenchida depois, salvando como rascunho. 😁
@@ -68,8 +66,6 @@ Aqui, o único item obrigatório para preenchimento é o tipo de negociação, p
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_venda.png)
-
-<br>
 
 Para o preenchimento do primeiro campo, você precisará ter cadastrado os tipos de movimentação que utilizará. Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
 
@@ -91,8 +87,6 @@ Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que e
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_1_e_2.gif)
 
-<br>
-
 Agora, nos campos de cliente/parceiro e Parceiro indicador, nós temos alguns botões extras com funções para facilitar seu dia a dia com o nosso sistema. Quando você clica no campo para buscar um cliente e este ainda não possui um cadastro, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para que você possa cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
 
 Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a tela deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
@@ -101,15 +95,11 @@ Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Vej
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_3_e_4.gif)
 
-<br>
-
 Mais abaixo, o campo de **Observação**, no qual é possível incluir um lembrete ou informação adicional sobre a venda que está sendo criada, e o campo de **Unidade**, onde somente serão exibidos os itens se você já tiver cadastrado as unidades/lojas. Em nosso exemplo, usaremos a **unidade SEDE/MATRIZ** que já está configurada com uma [**`tabela de preços`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md) e com um [**`vendedor`**](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md) cadastrado.
 
 Se você tiver alguma dúvida sobre as unidades, é possível acessar nosso guia passo a passo [**`clicando aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_5_e_6.gif)
-
-<br>
 
 ## Salvando rascunho de uma nova venda
 
@@ -144,8 +134,6 @@ Montamos um infográfico para exemplificar melhor como funciona o vínculo de ca
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/infografico-passos-venda.png)
-
-<br>
 
 Essa parte é importante para você observar, pois o produto já veio com o preço determinado na tabela de preço. E assim você pode adicionar os demais produtos/serviços de que precisa. Agora, caso o preço do produto não seja carregado quando você escolher, então algum item dessa sequência está faltando, vale a pena rever para não acontecer novamente. 😅
 
@@ -266,8 +254,6 @@ Após você adicionar os itens para venda e confirmar, o status desta venda muda
 Ao clicar no botão adicionar voucher, uma janela será aberta e você poderá adicionar o código.
 
 Esta opção é para auxiliar clientes que utilizam um sistema de voucher diferente do presente em nossa plataforma.
-
-<!-- REVISAR ESTA INFORMAÇÃO, FICOU MUITO FRACA -->
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_voucher.png)
 

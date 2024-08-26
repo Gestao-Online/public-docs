@@ -8,6 +8,8 @@ Nesta tela você encontra listadas todas as movimentações bancárias registrad
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao.gif)
 
+## Menu superior
+
 Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 - <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
@@ -26,6 +28,8 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_menu.png)
 
+## Adicionar uma Movimentação Bancária
+
 Neste mesmo menu, tem o botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar uma nova movimentação, confira abaixo o procedimento para fazer a inserção da nova movimentação:
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_movimentacao.png)
@@ -39,6 +43,8 @@ Após clicarmos no botão adicionar nova movimentação, uma nova página será 
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_menu.png)
 
+## Campos obrogatórios para preenchimento
+
 No momento do cadastro de uma nova movimentação, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
 
 {% hint style="info" %}
@@ -46,6 +52,8 @@ No momento do cadastro de uma nova movimentação, você precisará preencher al
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campos_obrigatorios.png)
+
+### Tipo de movimentação
 
 A primeira opção para preenchimento é o tipo de movimentação. Das opções disponíveis, a de transferência é a única que cria dois novos campos para preenchimento.
 
@@ -70,6 +78,8 @@ Por último, temos dois últimos campos, o de **Lançamento**, sendo débito ou 
 Em nossa demonstração, vamos marcar a opção débito e colocaremos uma descrição simples, observe abaixo.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_movimentacao_add_campo_lancamento_descricao.png)
+
+## Salvando movimentação bancária
 
 Após o preenchimento das informações obrigatórias, você pode clicar no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line">salvar para o registro ser feito.
 

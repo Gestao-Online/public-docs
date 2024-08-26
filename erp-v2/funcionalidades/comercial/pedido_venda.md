@@ -8,14 +8,16 @@ Com o pedido de venda, o comprador pode adquirir os cinco certificados digitais 
 
 Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de preço, tabela de custo, tabela de comissão, unidade, empresa e parceiro indicador. São muitos vínculos, mas isso faz o sistema da Gestão.Online ser preciso nos resultados.
 
-Este menu de vendas estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [**`clique aqui`**](/erp-v2/primeiro_acesso/favoritos.md)).
-
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
 {% endhint %}
 
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+{% endhint %}
+
+{% hint style="info" %}
+**Favoritos:** Este menu de vendas estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [**`clique aqui`**](/erp-v2/primeiro_acesso/favoritos.md)).
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda.gif)
@@ -62,8 +64,6 @@ Vale lembrar que esse menu mudará trazendo novas opções, mas somente quando v
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_menu.png)
 
-<br>
-
 No momento do cadastro de uma nova venda, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho.
 
 Aqui, o único item obrigatório para preenchimento é o tipo de negociação, pois a venda pode ser preenchida depois, salvando como rascunho. 😁
@@ -73,8 +73,6 @@ Aqui, o único item obrigatório para preenchimento é o tipo de negociação, p
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_venda.png)
-
-<br>
 
 Para o preenchimento do primeiro campo, você precisará ter cadastrado os tipos de movimentação que utilizará. Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
 
@@ -96,8 +94,6 @@ Veja esse exemplo abaixo, iremos usar a movimentação **Venda - (Pedido de vend
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_campo_1_e_2.gif)
 
-<br>
-
 Agora, nos campos de **Cliente/Parceiro** e **Parceiro indicador**, nós temos alguns botões extras com funções para facilitar seu dia a dia com o nosso sistema. Quando você clica no campo para buscar um cliente e este ainda não possui um cadastro, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para que você possa cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
 
 Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a tela deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
@@ -106,15 +102,11 @@ Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Vej
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_campo_3_e_4.gif)
 
-<br>
-
 Mais abaixo, o campo de **Observação**, no qual é possível incluir um lembrete ou informação adicional sobre a venda que está sendo criada, e o campo de **Unidade**, onde somente serão exibidos os itens se você já tiver cadastrado as unidades/lojas. Em nosso exemplo, usaremos a **unidade SEDE/MATRIZ** já configurada com uma [**`tabela de preços`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md) e com um [**`vendedor`**](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md) cadastrado.
 
 Se você tiver alguma dúvida sobre as unidades, é possível acessar nosso guia passo a passo [**`clicando aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_campo_5_e_6.gif)
-
-<br>
 
 ## Salvando o rascunho de um novo pedido de venda
 
@@ -132,8 +124,6 @@ Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaix
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_item.png)
 
-<br>
-
 Quando clicamos neste botão, são mostradas as opções para inserirmos um produto. São duas opções, o campo **produto/serviço** e **quantidade**. O campo de produtos tem busca automática assim que clicado, mas você pode digitar o nome do produto/serviço para buscar caso queira. 
 
 Em nosso exemplo, iremos adicionar um serviço, e colocaremos ele com quantidade três, pois em movimentações ele irá gerar um código único para cada um dos serviços, conforme explicado no início da página desse guia:
@@ -145,8 +135,6 @@ Em nosso exemplo, iremos adicionar um serviço, e colocaremos ele com quantidade
 {% hint style="info" %}
 **Informativo:** Caso esteja utilizando um produto/serviço com controle de estoque, o produto/serviço precisa estar vinculado ao local de estoque e ter quantidade para poder vender. Para mais informações sobre estoque,  [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md). 😉👍
 {% endhint %}
-
-<br>
 
 Essa parte é importante para você observar, pois o serviço de exemplo que adicionamos, já veio com o preço determinado na **tabela de preço**. E assim você pode adicionar os demais produtos/serviços de que precisa.
 
@@ -179,8 +167,6 @@ Observe que ela traz informações como a forma de pagamento escolhida, o tipo, 
 No caso de vencimento de um boleto, você pode emitir um novo editando o boleto que aparece na guia de **financeiro**, precisando apenas clicar no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar, conforme mostrado abaixo:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_guia_financeiro_edit.png)
-
-<br>
 
 Lembrando que essa opção só está disponível caso não tenha ocorrido uma baixa no financeiro. 😉👍
 
@@ -280,7 +266,6 @@ Lembrando que os dados do cliente devem estar preenchidos para o envio ser reali
 {% hint style="warning" %}
 **Cadastro cliente:** Para mais informações sobre configuração do tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parceiros/clientes.md). 😉👍
 {% endhint %}
-
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_menu_novo_cancelar.png)
 

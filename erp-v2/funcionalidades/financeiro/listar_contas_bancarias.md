@@ -239,7 +239,10 @@ Esse arquivo inclui informações que possibilitam registrar ou dar baixas em co
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_remessa.png)
 
-Você pode adicionar o arquivo remessa manualmente, clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar, esta tela será mostrada a você. Pode adicionar a descrição do arquivo, e clicar no botão **Escolher arquivo** para poder 
+Você pode adicionar o arquivo remessa manualmente, clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar, esta tela será mostrada a você. 
+
+Pode adicionar a descrição do arquivo, e clicar no botão **Escolher arquivo**. Uma janela será aberta para você selecionar os arquivo e enviar para nosso sistema.
+
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_remessa_add.png)
 
 É possível também, através do menu superior, clicar no botão gerar remessa, e o arquivo será criado para você automaticamente.

@@ -126,13 +126,7 @@ Após salvarmos esta tabela de indicação, algumas guias passam a ficar dispon�
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_tabela_indicacao_add_salvar.gif)
 
-Após salvar, o menu superior ganha alguns botões extras, dentre eles o botão de importar <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line">.
-
-{% hint style="info" %}
-**Importar:** Caso queira mais informações sobre a tela grupo de produto, [**`clique aqui`**](/erp-v2/primeiro_acesso/importar.md).
-{% endhint %}
-
-Além dele, há o botão de duplicar <img src="/erp-v2/assets/icon_importar.png" alt="" data-size="line">, caso queira criar uma cópia com as informações dessa tabela, incluindo até os produtos adicionados a ela.
+Após salvar, o menu superior ganha um botão extra, o de duplicar <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line">, caso queira criar uma cópia com as informações dessa tabela, incluindo até os produtos adicionados a ela.
 
 ## Botão de relatórios
 

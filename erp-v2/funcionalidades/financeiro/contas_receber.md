@@ -68,7 +68,7 @@ Agora nos campos **Empresa** e **Unidade** você também tem os botões de atalh
 
 O campo de empresa tem um vínculo direto com a tela **Empresas**. Se você quiser mais informações sobre as funcionalidades desta tela, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
 
-A mesma informação vale para o campo de **Unidade**, você pode ter mais informações sobre as unidades de atendimento, criação, edição e exclusão, para saber mais, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/empresas.md).
+A mesma informação vale para o campo de **Unidade**, você pode ter mais informações sobre as unidades de atendimento, criação, edição e exclusão, para saber mais, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/unidades_lojas.md).
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_contas_receber_add_conta_campo_empresa_unidade.png)
 
