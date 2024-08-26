@@ -18,8 +18,6 @@ Ao clicar com o botão direito do mouse em cima de um item da tela (Neste caso, 
 
 ![](/erp-v2/assets/atalho_interno_btn_direito.gif)
 
-<br>
-
 ## Selecionar vários itens
 
 Outra função bem interessante que temos é usar a tecla **`Ctrl`** (Controle) para Windows/Linux e **`⌘ command`** para Mac, e assim clicar e selecionar vários itens ao mesmo tempo.
@@ -28,21 +26,15 @@ Observe que até um novo menu rápido fica disponível ao clicar com o botão di
 
 ![](/erp-v2/assets/atalho_btn_ctrl.gif)
 
-<br>
-
 Se por acaso você marcar algum item errado, ou quiser cancelar a seleção, pode clicar no ícone <img src="/erp-v2/assets/funcionalidades/icon_limpar_selecao.png" alt="" data-size="line"> limpar seleção, clicando nele, todos os itens são desmarcados:
 
 ![](/erp-v2/assets/atalho_btn_ctrl_limpar.gif)
-
-<br>
 
 ## Atalho de nova tela
 
 Seguindo o exemplo de uso do botão direito do mouse, na tela de vendas, por exemplo, temos o ícone <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> do quadrado com a seta. Clicando nele, você é direcionado para a tela cliente/parceiro:
 
 ![](/erp-v2/assets/atalho_icone_vendas.gif)
-
-<br>
 
 ## Menu, botão direito do mouse 
 <!-- right-click (Ações no botāo direito de um item da grid) -->
@@ -51,17 +43,12 @@ Ainda na tela de vendas, ao clicar com o botão direito do mouse, você encontra
 
 ![](/erp-v2/assets/atalho_btn_mouse_vendas.gif)
 
-<br>
-
 ## Ações em lote com menu do botão direito do mouse 
-
 <!-- multi-right-click (Ações em lote de itens selecionados no botāo direito de um item na grid) -->
 
 Importante lembrar que você pode fazer alterações em lote selecionando vários itens ao mesmo tempo, clicando com o botão direito do mouse, conforme exemplo abaixo:
 
 ![](/erp-v2/assets/atalho_btn_mouse_lotes.gif)
-
-<br>
 
 ## Menu de ações superior 
 <!-- list-toolbar (Ações na barra de ferramentas da grid - indepente do item geral, sem seleçāo) -->
@@ -74,46 +61,34 @@ Não só a função do botão direito, você tem disponíveis em cada tela um me
 
 ![](/erp-v2/assets/atalho_menus_superiores.gif)
 
-<br>
-
 Ainda mostrando os tipos de menus superiores, temos na tela de vendas outras opções disponíveis para facilitar o seu dia a dia com a plataforma **Gestão Online**, veja abaixo:
 
 ![](/erp-v2/assets/atalho_menus_superiores2.gif)
-
 
 Até quando clicar para editar/criar um novo cliente, você tem atalhos na parte superior, como, por exemplo, realizar uma venda, atualizar página, duplicar item, salvar e voltar:
 
 ![](/erp-v2/assets/atalho_interno_botoes_cliente.png)
 
-<br>
-
 ## Atalhos com teclas
 
-Assim como o botão direito do mouse, na plataforma também está disponível o uso de atalhos com teclas, por exemplo, o `Ctrl` + `A`, sendo utilizado para você selecionar vários itens ao mesmo tempo, observe abaixo:
+Assim como o botão direito do mouse, na plataforma também está disponível o uso de atalhos com teclas, por exemplo, o **`Ctrl`** + **`A`**, sendo utilizado para você selecionar vários itens ao mesmo tempo, observe abaixo:
 
 {% hint style="info" %}
-**Exemplo:** Você precisa emitir NF para vendas específicas realizadas, pegando o código ou id de cada venda, você pode procurar e fazer a seleção dos itens manualmente, ou usar o atalho de teclas `Ctr`+`A`, em seguida o botão direito do mouse para escolher a opção emitir NF. 
+**Exemplo:** Você precisa emitir NF para vendas específicas realizadas, pegando o código ou id de cada venda, você pode procurar e fazer a seleção dos itens manualmente, ou usar o atalho de teclas **`Ctr`**+**`A`**, em seguida o botão direito do mouse para escolher a opção emitir NF. 
 {% endhint %}
 
 ![](/erp-v2/assets/atalho_ctrl_a.gif)
 
-<br>
-
-Outro atalho com teclas é o `Ctrl` + `C`, podendo copiar textos que você clicou e podendo colar em outros locais. Adicionamos um efeito no texto que é copiado, observe abaixo o teste que fizemos clicando e copiando os itens com o atalho:
+Outro atalho com teclas é o **`Ctrl`** + **`C`**, podendo copiar textos que você clicou e podendo colar em outros locais. Adicionamos um efeito no texto que é copiado, observe abaixo o teste que fizemos clicando e copiando os itens com o atalho:
 
 ![](/erp-v2/assets/atalho_ctrl_c.gif)
-
-<br>
 
 ## Botão de ação de um item
 
 Você também tem atalhos no momento de fazer o cadastro de um item, seja produto, venda ou uma loja, por exemplo. Os campos de preenchimento, na sua maioria, contam com atalhos para tanto criar um item, quanto abrir a tela de referência para uma busca ou edição:
 
 {% hint style="info" %}
-**Informação:** Para este exemplo, utilizamos a tela `Vendas`, podendo ter variação de opções disponíveis caso use outra tela na plataforma. Este exemplo é apenas para demonstrar a função.
+**Informação:** Para este exemplo, utilizamos a tela **`Vendas`**, podendo ter variação de opções disponíveis caso use outra tela na plataforma. Este exemplo é apenas para demonstrar a função.
 {% endhint %}
 
 ![](/erp-v2/assets/atalho_icone_novo_abrir.gif)
-
-<!-- ## Exportar movimentações -->
-

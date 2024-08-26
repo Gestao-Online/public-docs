@@ -10,15 +10,21 @@ Ao clicar neste botão, será aberta uma janela pop-up para você fazer a import
 
 **Essa é a tela que você verá ao clicar para fazer importação, são muitos campos para preencher, não é mesmo? 😅**
 
+## Janela de importação
+
 Porém, os campos necessários podem variar dependendo da tela que você estiver utilizando no sistema, podendo ter mais ou menos campos para importação:
 
 ![](/erp-v2/assets/importar_tela_importacao.png)
+
+## Importando uma planilha
 
 Ao clicar no botão <img src="https://cdn-icons-png.flaticon.com/128/25/25399.png" alt="" data-size="line"> para fazer o envio da planilha, outra janela vai abrir para você poder enviar a sua planilha.
 
 Neste exemplo, utilizamos uma planilha simples somente com os campos obrigatórios solicitados pelo sistema para poder fazer o upload:
 
 ![](/erp-v2/assets/importar_botao_planilha.gif)
+
+## Associando campos com planilha importada
 
 Logo após importar, você define manualmente os campos relacionados para que a nossa plataforma possa fazer a importação. 
 
@@ -29,6 +35,8 @@ Confira abaixo o procedimento:
 {% endhint %}
 
 ![](/erp-v2/assets/importar_botao_planilha_campos.gif)
+
+## Campos Tipo e Status
 
 Agora, dando uma atenção para o último campo, podemos observar que ele tem um campo de seleção a mais. Esse campo com a seleção irá aparecer em outras telas do sistema com a opção de importar, então já saiba que tem variações 😁
 
@@ -47,6 +55,8 @@ Com o tipo selecionado, os agendamento importados terão ele como padrão, entã
 {% endhint %}
 
 ![](/erp-v2/assets/importar_botao_planilha_campos_select.gif)
+
+## Botão Importar
 
 Após selecionar os campos relacionados para importação, basta clicar no botão que fica logo abaixo `Importar`, e então o sistema começará a importação e carregará os dados:
 

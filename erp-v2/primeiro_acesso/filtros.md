@@ -12,7 +12,7 @@ No menu de filtro você pode definir uma busca específica por itens, seja por I
 
 ![Para esta demonstração, utilizamos a tela Produtos.](/erp-v2/assets/filtros/cabecalho_filtro.png)
 
-<br>
+## Botão de atalho dos filtros
 
 Logo acima no menu superior, temos o botão de atalho dos filtros, quando clicamos nele, podemos ver todos os itens de busca disponíveis, tendo assim mais de uma forma de busca, confira abaixo:
 
@@ -22,8 +22,6 @@ Logo acima no menu superior, temos o botão de atalho dos filtros, quando clicam
 
 ![](/erp-v2/assets/filtros/aba_vendas_menu_filtro.gif)
 
-<br>
-
 Sempre que você abrir uma tela na plataforma, o primeiro filtro é o ID, dois ícones utilizáveis estão nele:
 
 - <img src="/erp-v2/assets/icon_ordem.png" alt="" data-size="line"> Ordenar lista por maior ou menor;
@@ -31,7 +29,7 @@ Sempre que você abrir uma tela na plataforma, o primeiro filtro é o ID, dois �
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_filtro_id.png)
 
-<br>
+## Filtro busca por ID 
 
 Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o primeiro é o tipo de busca, veja as opções:
 
@@ -50,24 +48,23 @@ Nesta janela que se abriu, tem algumas funções importantes para abordarmos, o 
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_filtro_dentrode.gif)
 
-
 Ainda sobre a função de digitar valores, você pode também copiar uma lista e adicionar na pesquisa, caso já tenha uma pronta. Demonstramos abaixo o exemplo de uso com uma tabela no Excel, e inserindo os dados na plataforma:
 
 ![](/erp-v2/assets/filtros/aba_produtos_filtro_dentrode_colar.gif)
 
-<br>
+## Filtro de Descrição
 
 Depois do filtro de ID, está o filtro de **`Descrição`**, onde você pode digitar parte ou todo o texto que será buscado, sendo sempre importante o preenchimento completo dos dados de cada item na nossa plataforma 😉👍
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_filtro_descricao.png)
 
-<br>
+## Filtro por Código
 
 Agora no filtro por **`Código`** repetimos três opções do filtro ID para você utilizar nas buscas, sendo elas `Igual a`, `Dentro de` e `Fora de`. Lembrando que é necessário digitar os valores que deseja buscar:
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_filtro_codigo.png)
 
-<br>
+## Filtro por Status
 
 Agora no filtro por **`Status`** existem duas opções para você utilizar nas buscas, sendo elas:
 
@@ -76,7 +73,7 @@ Agora no filtro por **`Status`** existem duas opções para você utilizar nas b
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_filtro_status.png)
 
-<br>
+## Botões Editar e Excluir
 
 Se você observar, sempre ao **`lado direito`** de cada item listado, você tem dois ou três botões:
 

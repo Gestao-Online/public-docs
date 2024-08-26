@@ -4,8 +4,6 @@ Aqui você pode completar seu cadastro na nossa plataforma e acessar mais alguma
 
 ![](/erp-v2/assets/editando_meus_dados.gif)
 
-<br>
-
 Assim que entramos no meu de edição de usuário, você pode ver um pequeno menu na cor cinza ao lado direito da tela. Temos algumas funções neles:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -15,7 +13,7 @@ Assim que entramos no meu de edição de usuário, você pode ver um pequeno men
 
 ![](/erp-v2/assets/edit_dados_menu_superior.png)
 
-<br>
+## Guia Geral
 
 Olhando para a guia **`Geral`**, por padrão, quando sua conta é criada é exigido o nome de usuário, e-mail e unidade. Então, essas informações você não precisa alterar, mas tem outros campos para preenchimento, são eles:
 
@@ -30,11 +28,9 @@ Olhando para a guia **`Geral`**, por padrão, quando sua conta é criada é exig
 - **Documento** (Pode colocar um documento seu de identificação, RG/CPF/CNH);
 - **CEP** (Após inserir o CEP, os demais dados serão preenchidos automaticamente);
 
-<br>
-
 ![](/erp-v2/assets/edit_dados_guia_geral.png)
 
-<br>
+### Campos de Status, perfil e unidade
 
 Na parte de status, perfil e unidade, como usuário comum, você não consegue fazer alterações. Para cada um dos casos, uma mensagem específica de erro irá aparecer:
 
@@ -42,9 +38,13 @@ Estas opções permitem alterações somente pelo administrador 😉👍
 
 ![](/erp-v2/assets/edit_dados_bloqueados.gif)
 
+## Guia Notificações
+
 Agora, na guia **`Notificações`** você tem controle de todas as notificações geradas para o seu usuário em nossa plataforma. Confira abaixo:
 
 ![](/erp-v2/assets/edit_dados_notificacao.png)
+
+### Menu superior guia notificações
 
 Aqui temos um pequeno menu no lado direito da tela com algumas funções, sendo elas:
 
@@ -64,19 +64,19 @@ E você como usuário pode **`apagar`** as notificações recebidas (Não sendo 
 
 ![](/erp-v2/assets/edit_menu_notificacao_apagar.gif)
 
-<br>
+## Guia Access Tokens
 
 Agora, na guia **`Access Tokens`** você encontra o relatório de tokens de acesso gerado ao seu usuário e o período de duração de cada um em cada sessão em que você esteve na nossa plataforma, e estas informações não são permitidas modificações em nenhum dos níveis de acesso. Pois são gravadas no banco de dados para registro:
 
 ![](/erp-v2/assets/edit_dados_access_token.png)
 
-<br>
+## Guia Metadata
 
 Na guia **`Metadata`** ficam seus registros de perfil, modificação de foto de perfil, alteração de cor do tema, adição de itens nos favoritos ou até mesmo remoção. Todas as informações que você organizar na nossa plataforma ficarão salvas e registradas nessa guia, para quando você fizer login tudo ficar do jeitinho que você deixou! 😁
 
 ![](/erp-v2/assets/edit_dados_metadata.png)
 
-<br>
+## Guia Events
 
 Na última guia ficaram os **`Events`** com tudo que o seu usuário fez, um pouco parecido com o Access Tokens, mas enquanto lá registra somente seu acesso, aqui no `events` ficará tudo o que você fizer, alteração, adição, pesquisa, visualização de algum item ou cliente, todas as informações registradas aqui.
 
