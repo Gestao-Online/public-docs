@@ -21,7 +21,7 @@ Aqui você pode definir quem terá permissão para estornar cartão de crédito,
 Quando o nome do usuário não está nessa permissão, o botão que ativa essa função irá sumir para esse usuário e ele não conseguirá usar, a menos que você defina aqui na *Central de Permissões*.
 
 {% hint style="warning" %}
-**Atenção:** Sempre que fizer alguma alteração na central de permissões, é necessário clicar no botão de salvar <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> para que ela entre em vigor, caso somente clique no botão de **`OK`** não irá registrar a alteração.
+**Atenção:** Sempre que fizer alguma alteração na central de permissões, é necessário clicar no botão de salvar <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> para que ela entre em vigor, caso somente clique no botão de <mark style="color:green;background-color:white;">**`OK`**</mark> não irá registrar a alteração.
 {% endhint %}
 
 É bem fácil adicionar um usuário à permissão, observe nossa demonstração abaixo.
