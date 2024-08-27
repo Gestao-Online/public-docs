@@ -7,3 +7,5 @@ Desde ferramentas para criação de Landing Pages personalizadas até consultas 
 Nas próximas páginas deste manual, apresentaremos detalhadamente cada item que desenvolvemos, mostrando como utilizar cada um deles. Assim, você poderá avaliar se as aplicações de seu interesse serão úteis para suas atividades diárias! 😁
 
 ....
+
+![Imagem de exemplo](/erp-v2/assets/marketplace/logo-marketplace-gestao-online.png)
