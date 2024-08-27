@@ -12,6 +12,8 @@ Na parte de baixo desta janela, você verá uma guia de descrição, com a expli
 
 ![](/erp-v2/assets/marketplace/tela_marketplace_app_descricao.png)
 
+## Guia detalhes
+
 Em algumas aplicações pode existir mais de uma guia, como de exemplo na imagem abaixo, temos a guia de detalhes e a guia de preços.
 
 ![](/erp-v2/assets/marketplace/tela_marketplace_app_descricao_guias.png)
@@ -19,6 +21,8 @@ Em algumas aplicações pode existir mais de uma guia, como de exemplo na imagem
 Ao lado direito da janela você vê o valor que é cobrado mensalmente, ou gratuito, para uso desta aplicação, e logo abaixo o botão para instalar. Ao clicar neste botão a instalação será iniciada e novos botões ficarão disponíveis para você utilizar. Observe abaixo a demonstração
 
 ![](/erp-v2/assets/marketplace/tela_marketplace_app_valor.png)
+
+## Aplicação instalada
 
 Com a aplicação instalada, agora dois botões ficarão disponíveis para você, o de **configuração** e **desinstalar**. Clicando no primeiro de configuração, outra janela será mostrada a você solicitando as configurações desta aplicação.
 
