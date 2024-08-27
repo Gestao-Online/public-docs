@@ -194,7 +194,7 @@
     * [Como alterar a minha conta de recebimento?](/erp-v2/guia_utilizacao/como_alterar_conta_receber.md)
     * [Como alterar valor de desconto depois da venda confirmada?](/erp-v2/guia_utilizacao/como_alterar_valor_desconto_venda_confirmada.md)
 
- * [🏬 Marketplace](erp-v2/marketplace/README.md)
+ * [🏬 Marketplace](erp-v2/marketplace/inicio.md)
     * [Como funciona o marketplace?](erp-v2/marketplace/como-funciona.md)
     * [Como instalar uma extensāo?](erp-v2/marketplace/como-instalar.md)
     * [Extensões](erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/README.md)
