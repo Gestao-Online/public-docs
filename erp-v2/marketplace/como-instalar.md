@@ -18,7 +18,7 @@ Em algumas aplicações pode existir mais de uma guia, como de exemplo na imagem
 
 ![](/erp-v2/assets/marketplace/tela_marketplace_app_descricao_guias.png)
 
-Ao lado direito da janela você vê o valor que é cobrado mensalmente, ou gratuito, para uso desta aplicação, e logo abaixo o botão para instalar. Ao clicar neste botão a instalação será iniciada e novos botões ficarão disponíveis para você utilizar. Observe abaixo a demonstração
+Ao lado direito da janela você vê o valor que é cobrado mensalmente, ou gratuito, para uso desta aplicação, e logo abaixo o botão para instalar. Ao clicar neste botão a instalação será iniciada e novos botões ficarão disponíveis para você utilizar. Observe abaixo a demonstração.
 
 ![](/erp-v2/assets/marketplace/tela_marketplace_app_valor.png)
 
