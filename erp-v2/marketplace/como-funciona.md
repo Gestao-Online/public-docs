@@ -1,2 +1,1 @@
-# Como funciona
-
+# Como funciona?
