@@ -198,6 +198,7 @@
     * [Como funciona o marketplace?](erp-v2/marketplace/como-funciona.md)
     * [Como instalar uma extensāo?](erp-v2/marketplace/como-instalar.md)
     * [Extensões](erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/README.md)
+      * [App GO-Consulta](/erp-v2/marketplace/go-consulta.md)
 
 * [👨🏻‍💻Portal do parceiro](portal/README.md)
   * [🤝 Modo Indicador](portal/indicador.md)
