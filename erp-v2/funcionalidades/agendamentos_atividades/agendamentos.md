@@ -124,7 +124,7 @@ Estes atalhos são colocados para facilitar ainda mais a probabilidade de ganho 
 
 Na guia de histórico, você acompanha todas as movimentações feitas com esse agendamento. Informações do nome do usuário, código, descrição, data e hora, ou qualquer outra alteração a respeito.
 
-![](/erp-v2/assets/funcionalidades/iagendamentos/aba_agendamento_add_guia_historico.png)
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_guia_historico.png)
 
 ## Dashboard de agendamento
 
@@ -134,7 +134,7 @@ Os agendamentos criados por você estarão disponíveis de forma visual na tela 
 **Dashboard:** Caso queira mais informações sobre os dashboards, [**`clique aqui`**](/erp-v2/primeiro_acesso/relatorios_dashboard_grid.md).
 {% endhint %}
 
-![](/erp-v2/assets/funcionalidades/iagendamentos/aba_agendamento_dashboard_agendamentos.gif)
+![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_dashboard_agendamentos.gif)
 
 ## Botão importar
 
@@ -149,3 +149,19 @@ Com o tipo selecionado, os agendamentos importados terão ele como padrão, ent�
 {% endhint %}
 
 ![](/erp-v2/assets/importar_botao_planilha_campos_select.gif)
+
+## Botão relatório de renovação CSV
+
+No menu superior logo quando abre a tela de agendamentos, você verá o botão <img src="/erp-v2/assets/icon_folha_x.png" alt="" data-size="line"> **Relatório de renovação - CSV**.
+
+![](/erp-v2/assets/funcionalidades/agendamentos/tela_agendamentos_btn_relatorio_csv.png)
+
+Ao clicar neste botão, um pequeno menu ao lado direito da tela será mostrado para você, onde será preciso definir a data que precisa visualizar para emitir o relatório.
+
+![](/erp-v2/assets/funcionalidades/agendamentos/tela_agendamentos_btn_relatorio_csv_menu_lateral.png)
+
+Além da data, você também precisa definir a busca por unidade.
+
+![](/erp-v2/assets/funcionalidades/agendamentos/tela_agendamentos_btn_relatorio_csv_menu_lateral_unidades.png)
+
+Depois de definido a data e a unidade de referência, você precisa somente clicar no botão `<img src="/erp-v2/assets/icon_salvar_black.png" alt="" data-size="line">Gerar relatório`
