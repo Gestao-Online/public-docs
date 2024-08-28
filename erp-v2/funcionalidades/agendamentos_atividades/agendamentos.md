@@ -160,8 +160,12 @@ Ao clicar neste botão, um pequeno menu ao lado direito da tela será mostrado p
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/tela_agendamentos_btn_relatorio_csv_menu_lateral.png)
 
-Além da data, você também precisa definir a busca por unidade.
+Além da data, você também pode definir a busca por unidade, mas não é um item obrigatório.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/tela_agendamentos_btn_relatorio_csv_menu_lateral_unidades.png)
 
-Depois de definido a data e a unidade de referência, você precisa somente clicar no botão `<img src="/erp-v2/assets/icon_salvar_black.png" alt="" data-size="line">Gerar relatório`
+Depois de definido a data e a unidade de referência caso você queira, você clicaa no botão <img src="/erp-v2/assets/icon_salvar_black.png" alt="" data-size="line">`Gerar relatório` e uma nova janela será mostrada a você para poder salvar o arquivo em seu computador.
+
+Após salvar, pode abrir o arquivo utilizando seu programa de editar planilhas de preferência.
+
+![](/erp-v2/assets/funcionalidades/agendamentos/tela_agendamentos_btn_relatorio_csv_menu_lateral_btn_gerar_relatorio.gif)
