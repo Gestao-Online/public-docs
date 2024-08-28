@@ -31,7 +31,7 @@ Observe nossa demonstração abaixo, adicionamos uma função para facilitar a e
 ![](/erp-v2/assets/marketplace/go_notificacoes_auto/tela_marketplace_config_horas.gif)
 
 Por último, precisa somente definir quantos dias antes do vencimento irá ser enviado a notificação. Exemplos de dias: 
- 
+
  - 0 - Para vencimento no dia atual;
  - 15 - Para 15 dias antes do vencimento;
  - 30 - Para 30 dias antes do vencimento.
