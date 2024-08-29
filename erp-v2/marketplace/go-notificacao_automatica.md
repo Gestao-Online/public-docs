@@ -2,7 +2,7 @@
 
 O módulo de disparo automático de notificações de vencimento de agendamentos foi desenvolvido para garantir que os usuários sejam informados de forma eficaz e pontual sobre compromissos agendados que estão prestes a vencer. 
 
-Com este recurso, o sistema monitora constantemente os prazos definidos e, quando necessário, envia notificações automáticas via e-mail, configurado, para lembrar os clientes de suas responsabilidades. 
+Com este recurso, o sistema monitora constantemente os prazos definidos e, quando necessário, envia notificações automáticas via e-mail, configurado para lembrar os clientes de suas responsabilidades. 
 
 ![](/erp-v2/assets/marketplace/go_notificacoes_auto/tela_marketplace_inicio.png)
 
@@ -16,15 +16,15 @@ O primeiro campo é do [**`Tipo de agendamento`**](/erp-v2/funcionalidades/agend
 
 ![](/erp-v2/assets/marketplace/go_notificacoes_auto/tela_marketplace_config_tipos_agendamento.gif)
 
-Em seguida, o campo de **Status**, ele já vem com opções pré-definidas, em nosso exemplo vamos escolher a opção agendamento para que o envio de mensagem seja feito smente para estes agendamentos.
+Em seguida, o campo de **Status**, ele já vem com opções pré-definidas. Em nosso exemplo, vamos escolher a opção agendamento para que o envio de mensagem seja feito exclusivamente para estes agendamentos.
 
 ![](/erp-v2/assets/marketplace/go_notificacoes_auto/tela_marketplace_config_status.png)
 
-Na sequência, temos a configuração da notificação, nela temos algumas opções, na primeira o botão de ativar ou não a notificação para ser enviada no final de semana ou feriados.
+Na sequência, temos a configuração da notificação, nela temos algumas opções, na primeira o botão de ativar ou não a notificação para ser enviada no final de semana, ou feriados.
 
 ![](/erp-v2/assets/marketplace/go_notificacoes_auto/tela_marketplace_config_envio_fds.png)
 
-Você também pode definir qual horário de início e fim do envio das notificações, durante esse período de horas que você determinar, os disparos serão feitos automaticamente.
+Você também pode definir qual horário de início e fim do envio das notificações. Durante esse período de horas que você determinar, os disparos serão feitos automaticamente.
 
 Observe nossa demonstração abaixo, adicionamos uma função para facilitar a escolha dos horários.
 
@@ -40,7 +40,7 @@ Por último, precisa somente definir quantos dias antes do vencimento irá ser e
 **Informativo:** Quando for digitar o valor, pressione a tecla **Enter** para que o número seja validado.
 {% endhint %}
 
-Observe nossa demonstração abaixo inserindo os valores **0**, **15** e **30**.
+Observe nossa demonstração abaixo, inserindo os valores **0**, **15** e **30**.
 
 ![](/erp-v2/assets/marketplace/go_notificacoes_auto/tela_marketplace_config_dias_vencimento.gif)
 
