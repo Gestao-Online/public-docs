@@ -90,7 +90,7 @@ Logo ao lado, temos o campo **Departamento (Contigência)**, aqui você vai inse
 
 ![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_contigencia.png)
 
-### Configurando textos
+### Configurando textos iniciais
 
 Continuando com a configuração, agora temos o campo de texto exibido acima do menu de opções. Esse será o texto que o robô irá enviar junto com menu inicial.
 
@@ -104,15 +104,94 @@ Para preencher este campo você pode usar por exemplo: **"Nós temos uma gama de
 
 ![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_produtos.png)
 
-Descendo um pouco mais, temos o campo **Texto desconto/acrescimo cliente antigo (pré)** que o robô irá enviar antes da listagem de produtos, mas isso, caso seja um cliente antigo e você tenha configurado um desconto ou acréscimo no campo [**Desconto/Acrescimo(Cliente antigo)**](/erp-v2/marketplace/go-digisac###_desconto_ou_acrescimo_para_cliente_novo_ou_antigo), que foi explicado em configuração de venda.
+Descendo um pouco mais, temos o campo **Texto desconto/acrescimo cliente antigo (pré)** que o robô irá enviar antes da listagem de produtos, mas isso, caso seja um cliente antigo e você tenha configurado um desconto ou acréscimo no campo [**Desconto/Acrescimo(Cliente antigo)**](/erp-v2/marketplace/go-digisac#desconto-ou-acrescimo-para-cliente-novo-ou-antigo), que foi explicado em configuração de venda.
 
 Um exemplo de texto que você pode preencher este campo: **"Vi aqui no nosso sistema que você é um cliente antigo, temos um descontão exclusivo para você!"**
 
 ![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_desconto_antigo.png)
 
-No mesmo seguimento, ao lado, temos a configuração da mensagem do campo **Texto desconto/acrescimo cliente novo (pré)**, este será o texto que o robô vai enviar antes da listagem de produtos mas somente caso o cliente seja novo e você tenha configurado um desconto ou acréscimo no campo, [**Desconto/Acrescimo(Cliente antigo)**](/erp-v2/marketplace/go-digisac###_desconto_ou_acrescimo_para_cliente_novo_ou_antigo), que foi explicado em configuração de venda.
+No mesmo seguimento, ao lado, temos a configuração da mensagem do campo **Texto desconto/acrescimo cliente novo (pré)**, este será o texto que o robô vai enviar antes da listagem de produtos mas somente caso o cliente seja novo e você tenha configurado um desconto ou acréscimo no campo, [**Desconto/Acrescimo(Cliente antigo)**](/erp-v2/marketplace/go-digisac#desconto-ou-acrescimo-para-cliente-novo-ou-antigo), que foi explicado em configuração de venda.
 
 Você pode utilizar um texto de exemplo: **"Vi aqui no nosso sistema que é a sua primeira compra conosco, temos um descontão exclusivo para você!"**
 
 ![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_desconto_novo.png)
 
+### Configuração de textos para dados dos clientes
+
+Aqui fica o campo **Texto preenchimento CPF/CNPJ (pré)**, esse será o texto que o robô irá enviar ao cliente perguntando seu CPF ou CNPJ. Pois a dependender da resposta uma nova mensagem será mostrada ao cliente.
+
+Das possíveis mensagens de exemplo que você pode utilizar: **"Para prosseguir, digite o CPF ou o CNPJ:"**
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_cpf_cnpj.png)
+
+Para o caso de preenchimento do campo anterior mostrado ao cliente ser um CPF, você precisa configurar o campo **Texto preenchimento nome PF (pré)**, esse será o texto que o robô vai enviar perguntando o nome do cliente quando for pessoa física.
+
+A mensagem deste campo pode ser por exemplo: **"Para prosseguir, insira o seu nome:"**
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_caso_cpf.png)
+
+No caso de preenchimento do campo anterior mostrado ao cliente ser um CNPJ, você precisa configurar o campo **Texto preenchimento Nome/Razão social PJ (pré)**, esse será o texto que o robô vai enviar perguntando o nome do cliente quando for pessoa jurídica.
+
+Pode ser esta mensagem por exemplo: **"Para prosseguir, insira a razão social da sua empresa:"**
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_caso_cnpj.png)
+
+Agora com o CPF/CNPJ, nome da pessoa/empresa preenchidos, o próximo passo é solicitar o e-mail do cliente. Configurando o campo **Texto preenchimento E-mail (pré)**, fará com que o robô envie o texto perguntando o e-mail ao cliente, você pode colocar um texto de exemplo assim: **"Agora, nos informe um e-mail válido:"**
+
+{% hint style="info" %}
+**Informativo:**  O painel do Digisac fará a conferência do e-mail do cliente para caso ele digite algo fora do padrão solicite que ele digite o e-mail novamente.
+{% endhint %}
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_email.png)
+
+Continuando o próximo passo é o campo **Texto preenchimento CEP (pré)** para que o robô identifique e busque os dados do endereço de forma mais rápida. 
+
+Essa é uma das últimas mensagens, pode ser por exemplo: **"Para finalizar, nos informe o CEP:"**
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_cep.png)
+
+### Configurando texto para pagamento
+
+Feito isso, agora você tem o campo de **Texto escolhe Forma de pagamento (pré)**, neste campo você definirá o texto que o robô irá enviar perguntando qual a forma de pagamento. Lembrando que as opções que apareceção para o cliente, são configuradas na parte de [**configuração de venda**](/erp-v2/marketplace/go-digisac#forma-de-pagamento), que foi mostrado mais ao início do nosso manual.
+
+Um exemplo de mensagem que você pode utilizar: **"Para finalizar, escolha a forma de pagamento:"**
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_pgto.png)
+
+Agora com a forma de pagamento escolhida e o cliente realizando o pagamento, você vai configurar a mensagem do campo **Texto resumo pedido (pré)**, para que o robô envie uma mensagem informando sobre a geração do pedido.
+
+Exemplo de mensagem que pode ser utilizada: **"Aguarde um momento enquanto estamos processando o seu pedido."**
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_resumo_pedido.png)
+
+Finalizada a compra, você pode configurar a mensagem e agradecimento para que o robô envie agradecendo sobre a compra realizada. Pode ser por exemplo a seguinte mensagem: **"Obrigado pela compra! Se ficar com alguma dúvida sobre o pagamento, é só me chamar aqui."**
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_resumo_pedido_realizado.png)
+
+Agora você precisa somente clicar no botão **`Salvar`** para que seu robô comece a funcionar.
+
+**E assim chegamos ao fim da configuração do seu robô de vendas! Viu só, foram somente alguns poucos passos!** 😅
+
+<br>
+
+## Acompanhando as vendas do robô
+
+Montamos em nossa plataforma um dashboard para que você acompanhe todas as vendas que estão acontecendo em tempo real.
+
+Para acessar essa tela ,você precisa utilizar a barra de pesquisa e procurar pelo nome **Dash - Robô de vendas**. Veja abaixo nossa demonstração.
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_tela_dash_robo.gif)
+
+Nesta tela, você terá o relatório das vendas, com número do pedido, situação do pagamento, produtos e etc.
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_tela_dash_robo_campos.png)
+
+Além de você ver todos os dados das vendas, você pode clicar sobre uma venda e uma janela será aberta para você mostrando a movimentação desta venda.
+
+{% hint style="info" %}
+**Tela de vendas:** Caso queira mais informações sobre como configurar uma venda, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
+{% endhint %}
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_tela_dash_robo_campos_janela_movimentacao.gif)
+
+<br>
