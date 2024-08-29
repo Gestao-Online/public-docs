@@ -30,4 +30,47 @@ Exemplo: 19d18f5cb22f1d116f09dc8bd438fc871d513838
 
 ### Token da API Gestão Online
 
-Agora é preciso obter o token da API da Gestão Online, esse token você só irá conseguir entrando em contato com o nosso suporte.
+Agora é preciso obter o token da API da Gestão Online, esse token você só irá conseguir entrando em contato com o nosso suporte. Pois esse código é exclusivo e não compartilhável por motivo de segurança no uso do sistema.
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_go_digisac_token_api_gestao_online.png)
+
+## Configuração de venda
+
+### Undiade de venda
+
+Agora partindo para a configuração da venda que o robô irá fazer, primeiramente precisamos configurar a **Unidade de venda**, por que essa unidade será a que o robo irá utilizar para fazer o lançamento das vendas.
+
+{% hint style="info" %}
+**Unidade de venda:** Para maiores informações sobre como utilizar ou configurar uma unidade de venda, [**`Clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos.md).
+{% endhint %}
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_go_digisac_token_unidade_venda.png)
+
+### Produto para venda
+
+Definido a unidade, você agora precisa escolher qual produto ou produtos seu robô irá comercializar, observe em nossa demonstração que você pode definir mais de um item ao mesmo tempo.
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_go_digisac_token_produto.gif)
+
+### Forma de pagamento
+
+A escolha das formas de pagamento disponíveis seguem a mesma regra de escolha do produto, ao clicar no campo de preenchimento você pode digitar as formas de pagamento que deseja utilizar. Pode adicionar o pix, cartão de crédito em 1x, 2x ou até 12x. Veja abaixo nosso exemplo.
+
+{% hint style="warning" %}
+**Atenção:** Fique atento para definir somente formas de pagamento digitais, pois qualquer outro meio não será possivel a finalização da venda.
+{% endhint %}
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_go_digisac_forma_pagamento.gif)
+
+### Desconto ou Acréscimo para cliente novo ou antigo
+
+Na conquista por cliente um atrativo é sempre interessante, por isso colocamos a opção de você adicionar desconto em dinheiro ou porcentagem para esse cliente novo que nunca fez uma compra ainda, e para clientes antigos pode colocar um valor de acréscimo. Mas você também pode fazer o contrário, e colocar valores maiores para clientes novos e valores menores para clientes antigos.
+
+Essa estratégia vai ficar a seu critério, pois estes campos não são de preenchimento obrigatório. 😉
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_go_digisac_desconto_acrescimo.gif)
+
+## Configuração do robô
+
+Agora os próximos passos você terá vários campos para preencher, cada um fará com que o seu robô funcione perfeitamente e exite erros no momento em que o cliente for efetuar uma compra.
+
