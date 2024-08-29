@@ -8,7 +8,7 @@ Com a extensão **GO-Consulta**, você pode realizar consultas de CPF, CNPJ e at
 
 Após a instalação da extensão, você precisa vincular uma tabela de preço aos serviços criados por ela.
 
-Esses serviços, são criados automaticamente na tela de [**`Serviços`**](/erp-v2/funcionalidades/produtos_servicos/servicos.md). Observe abaixo.
+Esses serviços são criados automaticamente na tela de [**`Serviços`**](/erp-v2/funcionalidades/produtos_servicos/servicos.md). Observe abaixo.
 
 ![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_tela_servicos.png)
 
@@ -22,7 +22,7 @@ Com a aba *Tabela de preço* aberta, você precisa clicar no botão <img src="/e
 
 ![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_tela_servicos_guia_tabela_preco_add.png)
 
-Em seguida defina o valor ou porcentagem que será cobrado por este serviço. E logo abaixo o campo para escolher a tabela de preço, após definir, clique no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> salvar, pronto, está feito o vínculo com a tabela de preço, agora você já pode utilizar esta consulta.
+Em seguida, defina o valor ou porcentagem que será cobrado por este serviço. E logo abaixo o campo para escolher a tabela de preço. Após definir, clique no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> salvar, pronto, está feito o vínculo com a tabela de preço, agora você já pode utilizar esta consulta.
 
 Acompanhe nossa demonstração.
 
@@ -46,15 +46,15 @@ Com os campos necessários preenchidos, você pode salvar o rascunho para poderm
 
 ![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_add_venda_rascunho.gif)
 
-Após salvar o rascunho da venda, você precisa adicionar o serviço de consulta, primeiro vamos clicar no botão adicionar item <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">.
+Após salvar o rascunho da venda, você precisa adicionar o serviço de consulta. Primeiro vamos clicar no botão adicionar item <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">.
 
 ![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_add_venda_add_item.png)
 
-Depois você pode procurar o serviço que precisa. Observe nossa demonstração abaixo, iremos procurar o serviço **Consulta Carro Top**.
+Depois, você pode procurar o serviço de que precisa. Observe nossa demonstração abaixo, iremos procurar o serviço **Consulta Carro Top**.
 
 ![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_add_venda_add_item_consulta_carro.gif)
 
-Adicionado o serviço de consulta, agora você precisa confirmar a venda para que seja liberado o botão de consulta. 
+Adicionado o serviço de consulta, agora você precisa confirmar a venda para ser liberado o botão de consulta. 
 
 Em nosso exemplo, utilizamos o tipo de negociação em dinheiro, então você só precisa clicar no botão <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> atualizar para que a consulta seja liberada.
 
@@ -70,6 +70,6 @@ Observe nosso exemplo abaixo. Quando o arquivo for mostrado, você tem a opção
 
 ![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_add_venda_consulta_termino.gif)
 
-Caso queira acessar o arquivo PDF novamente, ele fica salvo na aba *Anexos* dentro desta venda que você criou. Observe abaixo nossa demosntração de como acessar a aba e acessar o arquivo.
+Caso queira acessar o arquivo PDF novamente, ele fica salvo na aba *Anexos* dentro desta venda que você criou. Observe abaixo nossa demonstração de como acessar a aba e acessar o arquivo.
 
 ![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_add_venda_consulta_aba_anexos.gif)
