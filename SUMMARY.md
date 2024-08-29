@@ -199,6 +199,7 @@
     * [Como instalar uma extensāo?](erp-v2/marketplace/como-instalar.md)
     * [App GO-Consulta](/erp-v2/marketplace/go-consulta.md)
     * [App Notificação Automática de vencimento](/erp-v2/marketplace/go-notificacao_automatica.md)
+    * [App GO-Digisac](/erp-v2/marketplace/go-digisac.md)
     * [Extensões](erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/README.md)
       
 
