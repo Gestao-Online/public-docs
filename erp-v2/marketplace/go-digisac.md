@@ -72,5 +72,47 @@ Essa estratégia vai ficar a seu critério, pois estes campos não são de preen
 
 ## Configuração do robô
 
-Agora os próximos passos você terá vários campos para preencher, cada um fará com que o seu robô funcione perfeitamente e exite erros no momento em que o cliente for efetuar uma compra.
+Agora os próximos passos você terá vários campos para preencher, cada um fará com que o seu robô funcione perfeitamente e evite erros no momento em que o cliente for efetuar uma compra.
+
+### Criar menu inicial
+
+Ativando a opção **Criar menu inicial** você precisará criar os departamentos que serão mostrados para o cliente, no caso o campo **Opções de menu**, neste campo os nomes dos departamentos precisam ser separados por vírgula. 
+
+Criamos algumas opções, e a última opção vamos chamar de *Comprar pelo Whatsapp*, pois usaremos ela mais abaixo.
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu.png)
+
+Agora você precisa degitar o **Nome na opção de compra do menu**. Esta opção é que será para o cliente efetuar a compra, no exemplo anterior nós criamos uma opção no menu com o nome *Comprar pelo Whatsapp*, então neste campo iremos repetir esse nome, porque assim faremos esse vínculo com a opção.
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_compra.png)
+
+Logo ao lado, temos o campo **Departamento (Contigência)**, aqui você vai inserir o nome do departamento no Digisac que o Robô irá transferir o cliente no caso de qualquer imprevisto no fluxo de venda do robô.
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_contigencia.png)
+
+### Configurando textos
+
+Continuando com a configuração, agora temos o campo de texto exibido acima do menu de opções. Esse será o texto que o robô irá enviar junto com menu inicial.
+
+Você pode colocar por exemplo a seguinte mensagem: **"Olá, seja bem-vindo, escolha uma das opções a seguir:"**.
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_menu.png)
+
+Ao lado, temos o campo **Texto de listagem Produtos (pré)**, aqui você pode colocar o texto que o robô irá enviar antes da listagem de produtos.
+
+Para preencher este campo você pode usar por exemplo: **"Nós temos uma gama de produtos, qual melhor te atenderia?"**. E m seguida os produtos são listados para o cliente selecionar.
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_produtos.png)
+
+Descendo um pouco mais, temos o campo **Texto desconto/acrescimo cliente antigo (pré)** que o robô irá enviar antes da listagem de produtos, mas isso, caso seja um cliente antigo e você tenha configurado um desconto ou acréscimo no campo [**Desconto/Acrescimo(Cliente antigo)**](/erp-v2/marketplace/go-digisac###_desconto_ou_acrescimo_para_cliente_novo_ou_antigo), que foi explicado em configuração de venda.
+
+Um exemplo de texto que você pode preencher este campo: **"Vi aqui no nosso sistema que você é um cliente antigo, temos um descontão exclusivo para você!"**
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_desconto_antigo.png)
+
+No mesmo seguimento, ao lado, temos a configuração da mensagem do campo **Texto desconto/acrescimo cliente novo (pré)**, este será o texto que o robô vai enviar antes da listagem de produtos mas somente caso o cliente seja novo e você tenha configurado um desconto ou acréscimo no campo, [**Desconto/Acrescimo(Cliente antigo)**](/erp-v2/marketplace/go-digisac###_desconto_ou_acrescimo_para_cliente_novo_ou_antigo), que foi explicado em configuração de venda.
+
+Você pode utilizar um texto de exemplo: **"Vi aqui no nosso sistema que é a sua primeira compra conosco, temos um descontão exclusivo para você!"**
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_desconto_novo.png)
 
