@@ -4,8 +4,33 @@ Com a extensão **GO-Consulta**, você pode realizar consultas de CPF, CNPJ e at
 
 ![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_inicio.png)
 
-Com a extensão instalada através do nosso marketplace, você pode agora fazer uso da extensão.
-Vamos primeiro abrir a tela de [**`Vendas`**](/erp-v2/funcionalidades/comercial/vendas.md). Com ela aberta, iremos criar uma nova venda.
+## Vinculando tabela de preço
+
+Após a instalação da extensão, você precisa vincular uma tabela de preço aos serviços criados por ela.
+
+Esses serviços, são criados automaticamente na tela de [**`Serviços`**](/erp-v2/funcionalidades/produtos_servicos/servicos.md). Observe abaixo.
+
+![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_tela_servicos.png)
+
+Clique no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar para abrir o serviço que você irá utilizar e em seguida clique na aba *Tabelas de preço*.
+
+Observe nosso exemplo abaixo.
+
+![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_tela_servicos_guia_tabela_preco.gif)
+
+Com a aba *Tabela de preço* aberta, você precisa clicar no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar um item.
+
+![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_tela_servicos_guia_tabela_preco_add.png)
+
+Em seguida defina o valor ou porcentagem que será cobrado por este serviço. E logo abaixo o campo para escolher a tabela de preço, após definir, clique no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> salvar, pronto, está feito o vínculo com a tabela de preço, agora você já pode utilizar esta consulta.
+
+Acompanhe nossa demonstração.
+
+![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_tela_servicos_guia_tabela_preco_add_tabela.gif)
+
+## Criando venda para consulta
+
+Vamos agora abrir a tela de [**`Vendas`**](/erp-v2/funcionalidades/comercial/vendas.md). Com ela aberta, iremos criar uma nova venda.
 
 {% hint style="info" %}
 **Informativo:** Quando você fizer a instalação da aplicação, automaticamente os serviços serão cadastrados no ERP na tela de serviços, para que você possa utilizar na venda.
@@ -44,3 +69,7 @@ Após preencher os dados da consulta, pode clicar no botão **`Consultar`** e as
 Observe nosso exemplo abaixo. Quando o arquivo for mostrado, você tem a opção de baixar ele em PDF em seu computador, conforme a seta indica no final da demonstração.
 
 ![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_add_venda_consulta_termino.gif)
+
+Caso queira acessar o arquivo PDF novamente, ele fica salvo na aba *Anexos* dentro desta venda que você criou. Observe abaixo nossa demosntração de como acessar a aba e acessar o arquivo.
+
+![](/erp-v2/assets/marketplace/go_consulta/tela_marketplace_add_venda_consulta_aba_anexos.gif)
