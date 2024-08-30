@@ -12,11 +12,11 @@ Nesta aplicação ao clicar no botão de configurações uma notificação pop-u
 
 ![](/erp-v2/assets/marketplace/go_relatorio_custo/tela_marketplace_btn_config_clicando.gif)
 
-Com a aplicação instalada e configurada, agora você precisa acessar a tela de vendas. Caso o novo botão <img> de gerar relatório de custos não apareça, você pode clicar no botão <img> atualizar que ele será carregado, observe nossa demonstração abaixo.
+Com a aplicação instalada e configurada, agora você precisa acessar a tela de vendas. Caso o novo botão <img src="/erp-v2/assets/icon_folha_x.png" alt="" data-size="line"> de gerar relatório de custos não apareça, você pode clicar no botão <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> atualizar que ele será carregado, observe nossa demonstração abaixo.
 
 ![](/erp-v2/assets/marketplace/go_relatorio_custo/tela_marketplace_tela_vendas_btn_atualizar.gif)
 
-Agora você pode clicar no botão <img> gerar relatório, que será mostrado um menu novo ao lado direito da tela. Neste menu você tem alguns campos para preencher e filtar o resultado do relatório.
+Agora você pode clicar no botão <img src="/erp-v2/assets/btn_gerar_relatorio.png" alt="" data-size="line"> gerar relatório, que será mostrado um menu novo ao lado direito da tela. Neste menu você tem alguns campos para preencher e filtar o resultado do relatório.
 
 ![](/erp-v2/assets/marketplace/go_relatorio_custo/tela_marketplace_tela_vendas_menu_relatorio.png)
 
