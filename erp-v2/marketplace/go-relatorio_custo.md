@@ -44,6 +44,4 @@ Por último, dos campos disponíveis você tem a situação de entrega e o de si
 
 Feito isso, agora você pode clicar no botão **`Gerar Relatório`**, e uma nova janela será carregada com os dados selecionados. Este arquivo será gerado no formato CSV de planilhas, e você pode utilizar o programa de planilhas da sua preferência para acessar o arquivo.
 
-<!-- Projeto incompleto, falou configurar o sistema que gera o arquivo CSV, assim que for finalizado, precisa atualizar a última imagem, pois está em branco -->
-
 ![](/erp-v2/assets/marketplace/go_relatorio_custo/tela_marketplace_tela_vendas_menu_campo_btn_gerar.gif)
