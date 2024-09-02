@@ -201,6 +201,7 @@
     * [App Notificação Automática de vencimento](/erp-v2/marketplace/go-notificacao_automatica.md)
     * [App GO-Digisac](/erp-v2/marketplace/go-digisac.md)
     * [App Relatório Custo](/erp-v2/marketplace/go-relatorio_custo.md)
+    * [App Personalização de Landing Page](/erp-v2/marketplace/go-personalizar_lp.md)
     * [Extensões](erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/README.md)
       
 
