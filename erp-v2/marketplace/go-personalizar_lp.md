@@ -1,6 +1,6 @@
 # Personalização de Landing Page
 
-Personalize as Landing Pages geradas para vendas online em sua empresa, utilizando nossa extensão, com ela você poderá alterar imagens, cores e textos da apresentação da página.
+Personalize as Landing Pages geradas para vendas online em sua empresa, utilizando nossa extensão, com ela você poderá alterar imagens, cores e textos da apresentação da página de vendas online da sua empresa, ou das páginas de unidades e parceiros indicadores.
 
 ![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_inicio.png)
 
@@ -29,7 +29,7 @@ Nos primeiros campos você tem a imagem do banner principal da loja, e o texto q
 Observe nossa demonstração de preenchimento abaixo.
 
 {% hint style="warning" %}
-**Imagem:** Para este primeiro bannera imagem possui um tamnho padrão para que fique bem distribuído, use imagens com dimensões 1850x850 pixeis.
+**Imagem:** Para este primeiro banner a imagem possui um tamanho padrão para que fique bem distribuído, use imagens com dimensões entre 1850x850 pixels.
 {% endhint %}
 
 ![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_loja_banner_principal.gif)
