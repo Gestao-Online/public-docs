@@ -58,7 +58,7 @@ Você pode personalizar também as Lojas de Parceiros Indicadores. Esse espaço 
 
 ![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_parceiro_banner_principal.gif)
 
-Logo abaixo você encontra os campos do **Texto 1** e **Texto 2**, esses campos de texto ficam logo abaixo do banner de exemplo acima. Ao lado você também tem a opção de ativar a **imagem do Texto 2**, mas essa imagem é fixa e sem opção de alteração. Caso não queira pode desativá-la.
+Abaixo destes campos você encontra os de **Texto 1** e **Texto 2**, esses campos de texto ficam logo abaixo do banner de exemplo acima. Ao lado você também tem a opção de ativar a **imagem do Texto 2**, mas essa imagem é fixa e sem opção de alteração. Caso não queira pode desativá-la.
 
 ![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_parceiro_textos.png)
 
@@ -66,4 +66,46 @@ Pronto, estas são as configurações que pode colocar na landing page das Lojas
 
 ### Configurações Gerais
 
-<!-- a parte do script é para inserir por exemplo Google Analitycs. -->
+Nas configurações gerais da Landing Page, você pode configurar a cor dos botões (Cor do texto dos botões) e cor de fundo dos botões que aparecem abaixo do nome e foto de cada produto cadastrado. Essa configuração é bem intuitiva, você precisa somente clicar na cor que é mostrada a você na tela. Acompanhe nossa demonstração de uso abaixo.
+ 
+![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_cor_btns.gif)
+
+Ainda em configurações, você tem o campo de **Script Integrado**, este campos pode ser utilizado para você habilitar um serviço de coleta dados do seu site e para criar relatórios com insights sobre sua empresa. Como exemplo você tem o serviço do Google Analytics 4 ou Adobe Analytics e outros disponíveis no mercado, fica sua escolha para utilização.
+
+![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_script.png)
+
+No campo de **Créditos de Rodapé**, você pode adicionar dados institucionais, seu endereço, CNPJ ou algum link para suas redes sociais. Fica a sua escolha  as informações que deseja mostrar em sua Landing Page. 
+
+{% hint style="info" %}
+**Informação:** Lembrando que essa informação será mostrada em todas as páginas, tanto das páginas de Unidade quanto das páginas de Parceiros.
+{% endhint %}
+
+![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_rodape.png)
+
+### Configurações do Checkout
+
+Por último, você tem nas configurações de checkout, a opção de ativar ou desativar o botão **Criar uma nova senha para novos clientes**, esta opção quando ativada fará com que o cliente crie uma senha ao fazer o preenchimento dos dados no momento de efetuar o pagamento.
+
+E junto a ele o botão para **Permitir Cupom de Desconto**, com esta função ativa, o cliente pode inserir um cupom de desconto que você cadastrar no sistema e habilitar para o produto, e com isso no ato do pagamento, um campo ficará disponível para inserir o cupom.
+
+![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_checkout.png)
+
+## Salvando informações da Landing page
+
+Finalizado o preenchimento das informações da sua landing page, você precisa clicar no botão **`Salvar`**, e assim as informações serão salvas e vocÊ cpode conferir sua landing page pronta.
+
+{% hint style="Warning" %}
+**Importante:** As informações após serem salvas, demoram alguns minutos para serem carregadas a sua página, apenas aguarde e atualize a página da loja que suas alterações serão mostradas. 😁 
+{% endhint %}
+
+![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_salvar.gif)
+
+Veja abaixo a demonstração de como ficará a Landing Page após as modificações que fizemos seguindo este manual. O link de acesso para a loja segue um padrão:
+
+Onde o espaço de **`nomesuaempresa`**, tem o nome registrado da sua empresa no momento que adquire nosso sistema. O link de acesso ficará da seguinte forma:
+
+https://**`nomesuaempresa`**.gestao.plus/loja/
+
+![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_link_site.gif)
+
+<br>
