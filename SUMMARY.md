@@ -203,7 +203,7 @@
     * [📦 App GO-Digisac](/erp-v2/marketplace/go-digisac.md)
     * [📦 App Relatório Custo](/erp-v2/marketplace/go-relatorio_custo.md)
     * [📦 App Personalização de Landing Page](/erp-v2/marketplace/go-personalizar_lp.md)
-    * [📦 App Notas Fiscais Produtos](/erp-v2/marketplace/.md)
+    * [📦 App Notas Fiscais Produtos](/erp-v2/marketplace/go-notas-fiscais-produtos.md)
 
       
 
