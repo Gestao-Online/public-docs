@@ -29,7 +29,7 @@ Nos primeiros campos você tem a imagem do banner principal da loja, e o texto q
 Observe nossa demonstração de preenchimento abaixo.
 
 {% hint style="warning" %}
-**Imagem:** Para este primeiro banner a imagem possui um tamanho padrão para que fique bem distribuído, use imagens com dimensões entre 1850x850 pixels.
+**Imagem:** Para este primeiro banner, a imagem possui um tamanho padrão para ficar bem distribuído, use imagens com dimensões entre 1850x850 píxeis.
 {% endhint %}
 
 ![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_loja_banner_principal.gif)
@@ -42,7 +42,7 @@ Pronto, estas são as configurações para o padrão da loja online sua empresa.
 
 ### Configurações de Lojas de Unidades/Pontos de Atendimento
 
-Você pode personalizar também as Lojas de unidades ou Pontos de antendimentos. Esse espaço possui os mesmos campos da configuração inicial, com o banner, o texto que ficará dentro deste banner e o botão para ativar a sombra neste banner e dar destaque ao texto dentro dele.
+Você pode personalizar também as Lojas de unidades ou Pontos de atendimentos. Esse espaço possui os mesmos campos da configuração inicial, com o banner, o texto que ficará dentro deste banner e o botão para ativar a sombra neste banner e dar destaque ao texto dentro dele.
 
 ![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_unidade_banner_principal.gif)
 
@@ -70,7 +70,7 @@ Nas configurações gerais da Landing Page, você pode configurar a cor dos bot�
  
 ![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_cor_btns.gif)
 
-Ainda em configurações, você tem o campo de **Script Integrado**, este campos pode ser utilizado para você habilitar um serviço de coleta dados do seu site e para criar relatórios com insights sobre sua empresa. Como exemplo você tem o serviço do Google Analytics 4 ou Adobe Analytics e outros disponíveis no mercado, fica sua escolha para utilização.
+Ainda em configurações, você tem o campo de **Script Integrado**. Este campo pode ser utilizado para você habilitar um serviço de coleta de dados do seu site e para criar relatórios com insights sobre sua empresa. Como exemplo, você tem o serviço do Google Analytics 4 ou Adobe Analytics e outros disponíveis no mercado, fica sua escolha para utilização.
 
 ![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_script.png)
 
@@ -92,17 +92,17 @@ E junto a ele o botão para **Permitir Cupom de Desconto**, com esta função at
 
 ## Salvando informações da Landing page
 
-Finalizado o preenchimento das informações da sua landing page, você precisa clicar no botão **`Salvar`**, e assim as informações serão salvas e vocÊ cpode conferir sua landing page pronta.
+Finalizado o preenchimento das informações da sua landing page, você precisa clicar no botão **`Salvar`**, e assim as informações serão salvas e você pode conferir sua landing page pronta.
 
 {% hint style="Warning" %}
-**Importante:** As informações após serem salvas, demoram alguns minutos para serem carregadas a sua página, apenas aguarde e atualize a página da loja que suas alterações serão mostradas. 😁 
+**Importante:** As informações, após serem salvas, demoram alguns minutos para serem carregadas a sua página. Apenas aguarde e atualize a página da loja que suas alterações serão mostradas.  😁 
 {% endhint %}
 
 ![](/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_salvar.gif)
 
 Veja abaixo a demonstração de como ficará a Landing Page após as modificações que fizemos seguindo este manual. O link de acesso para a loja segue um padrão:
 
-Onde o espaço de **`nomesuaempresa`**, tem o nome registrado da sua empresa no momento que adquire nosso sistema. O link de acesso ficará da seguinte forma:
+Onde o espaço de **`nomesuaempresa`**, tem o nome registrado da sua empresa no momento que adquire nosso sistema. Este link de acesso ficará da seguinte forma:
 
 https://**`nomesuaempresa`**.gestao.plus/loja/
 
