@@ -197,12 +197,12 @@
  * [🏬 Marketplace](erp-v2/marketplace/inicio.md)
     * [Como funciona o marketplace?](erp-v2/marketplace/como-funciona.md)
     * [Como instalar uma extensāo?](erp-v2/marketplace/como-instalar.md)
-    * [App GO-Consulta](/erp-v2/marketplace/go-consulta.md)
-    * [App Notificação Automática de vencimento](/erp-v2/marketplace/go-notificacao_automatica.md)
-    * [App GO-Digisac](/erp-v2/marketplace/go-digisac.md)
-    * [App Relatório Custo](/erp-v2/marketplace/go-relatorio_custo.md)
-    * [App Personalização de Landing Page](/erp-v2/marketplace/go-personalizar_lp.md)
     * [Extensões](erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/README.md)
+    * [📦 App GO-Consulta](/erp-v2/marketplace/go-consulta.md)
+    * [📦 App Notificação Automática de vencimento](/erp-v2/marketplace/go-notificacao_automatica.md)
+    * [📦 App GO-Digisac](/erp-v2/marketplace/go-digisac.md)
+    * [📦 App Relatório Custo](/erp-v2/marketplace/go-relatorio_custo.md)
+    * [📦 App Personalização de Landing Page](/erp-v2/marketplace/go-personalizar_lp.md)
       
 
 * [👨🏻‍💻Portal do parceiro](portal/README.md)
