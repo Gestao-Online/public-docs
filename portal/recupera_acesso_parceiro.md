@@ -1,4 +1,4 @@
-# 🔐 Recuperar acesso a conta de parceiro
+# 🔐 Recuperar acesso à conta de parceiro
 
 Esta página é para você conhecer o passo a passo de como recuperar o acesso à sua conta no Portal do Parceiro caso tenha esquecido a sua senha! 😁
 
@@ -10,7 +10,7 @@ Ao clicar nesta opção, você é encaminhado para a tela de recuperação, onde
 
 ![](/portal/assets/recupera_acesso__cpf_btn_enviar.png)
 
-Escolha a forma de receber o seu código de segurança para poder redefinira sua senha, neste caso escolhemos o email, e depois prencha seu email para receber o código de segurança no e-mail cadastrado.
+Escolha a forma de receber o seu código de segurança para poder redefinir a sua senha, neste caso escolhemos o e-mail, e depois preencha seu email para receber o código de segurança no e-mail cadastrado.
 
 ![](/portal/assets/recupera_acesso__cpf_btn_enviar_preencher_email.gif)
 
@@ -22,7 +22,7 @@ Agora, chegará um e-mail na caixa de entrada, e você precisa copiar o código 
 
 ![](/erp-v2/assets/tela_login_cod_email.gif)
 
-Agora voltando à tela de recuperação de conta, você colocará o código de segurança que recebeu e criará uma nova senha segura para sua conta.
+Agora, voltando à tela de recuperação de conta, você colocará o código de segurança que recebeu e criará uma nova senha segura para sua conta.
 
 {% hint style="danger" %}
 **Atenção:** Existem alguns requisitos de segurança para uma senha ser aceita em nossa plataforma, precisa ter no mínimo 8 caracteres, dentre eles Letra Minúscula (a - z), Letra Maiúscula (A - Z) e Número (0 - 9).

@@ -212,7 +212,7 @@
 * [👨🏻‍💻Portal do parceiro](portal/README.md)
   * [🖥️ Criar e/ou Recuperar acesso ao Portal](portal/criar_recuperar_acesso_portal.md)
     * [✅ Primeiro acesso ao portal Parceiro](portal/primeiro_acesso_parceiro.md)
-    * [🔐 Recuperar acesso a conta de Parceiro](portal/recupera_acesso_parceiro.md)
+    * [🔐 Recuperar acesso à conta de Parceiro](portal/recupera_acesso_parceiro.md)
   * [🤝 Modo Indicador](portal/indicador.md)
   * [💰 Modo Cliente](portal/cliente.md)
 
