@@ -28,7 +28,7 @@ Clique na opção de interesse abaixo para seguir:
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="portal/primeiro_acesso_parceiro.md">primeiro_acesso_parceiro.md</a>
+                    <a href="/portal/primeiro_acesso_parceiro.md">primeiro_acesso_parceiro.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/icon_user_novo.png">icon_user_novo.png</a>
@@ -41,7 +41,7 @@ Clique na opção de interesse abaixo para seguir:
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="portal/recupera_acesso_parceiro.md">recupera_acesso_parceiro.md</a>
+                    <a href="/portal/recupera_acesso_parceiro.md">recupera_acesso_parceiro.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/icon_user_recupera.png">icon_user_recupera.png</a>
