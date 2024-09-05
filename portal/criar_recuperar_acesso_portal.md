@@ -23,12 +23,12 @@ Clique na opção de interesse abaixo para seguir:
         <tbody>
             <tr>
                 <td>
-                    <strong>Cadastro novo usuário</strong>
+                    <strong>Primeiro acesso</strong>
                 </td>
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="portal/email_confirma_cadastro.md">email_confirma_cadastro.md</a>
+                    <a href="portal/primeiro_acesso_parceiro.md">primeiro_acesso_parceiro.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/icon_user_novo.png">icon_user_novo.png</a>
@@ -36,12 +36,12 @@ Clique na opção de interesse abaixo para seguir:
             </tr>
             <tr>
                 <td>
-                    <strong>Recuperar acesso usuário</strong>
+                    <strong>Recuperar acesso</strong>
                 </td>
                 <td></td>
                 <td></td>
                 <td>
-                    <a href="/erp-v2/criar_recuperar_acesso/recuperar_acesso.md">recuperar_acesso.md</a>
+                    <a href="portal/recupera_acesso_parceiro.md">recupera_acesso_parceiro.md</a>
                 </td>
                 <td>
                     <a href="/erp-v2/assets/icon_user_recupera.png">icon_user_recupera.png</a>
