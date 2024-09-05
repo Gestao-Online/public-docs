@@ -84,8 +84,6 @@ Depois você define se o **status** desse contrato estará ativado ou desativado
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_status.png)
 
-<!-- CONFIRMAR COM O PAULO ESTA PARTE, POIS FIQUEI COM DÚVIDA SOBRE USO DO CAMPO DE TIPO CONTRATO -->
-
 ### Campo tipo contrato
 
 No campo **Tipo Contrato**, você tem quatro opções disponíveis, vejamos um pouco mais sobre cada uma. Observe que, ao clicar em algumas opções, um novo campo será mostrado ao lado para preencher o valor:
@@ -230,7 +228,6 @@ O tipo de movimentação recomendado que seja utilizado para os "Fechamentos do 
 Lembrando que é possível realizar um fechamento manualmente, caso o saldo esteja negativo. Sempre que necessário. (Botão na barra de ferramentas do contrato)
 {% endhint %}
 
-
 {% hint style="info" %}
 Caso necessite ajustar algo no fechamento apurado, como por exemplo alterar a data de vencimento do boleto bancário, um ajuste na nota fiscal ou qualquer outra situação, basta abrir a "Venda". Para mais informações sobre como utilizar a tela de movimentações/vendas, [**`clique aqui`**](/erp-v2/funcionalidades/comercial/vendas.md).
 {% endhint %}
@@ -240,7 +237,6 @@ Caso necessite ajustar algo no fechamento apurado, como por exemplo alterar a da
 Por último, na aba de histórico, você consegue acompanhar todas as modificações/alterações feitas no contrato através desta aba.
 
 Os lançamentos aqui são automáticos, ao ajustar um campo por exemplo. Ou até mesmo baseado em eventos que acontecem; quando uma unidade é bloqueada por inadimplência, ou desbloqueada ao efetuar o pagamento. Ou mesmo quando um gestor faz a liberação de confiança (para permitir que uma unidade, mesmo que inadimplente, continue operando).
-
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_historico.png)
 
@@ -260,7 +256,6 @@ Observe nosso teste abaixo, a mensagem que será mostrada é informando que não
 
 Porém, se houvesse algum caso, ele teria realizado o fechamento automaticamente e mostrado a mensagem de fechamentos realizados com sucesso.
 
-
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_menu_novos_btns_processar_pendentes_fechamento.gif)
 
 ### Botão Processar fechamento automático
@@ -268,7 +263,6 @@ Porém, se houvesse algum caso, ele teria realizado o fechamento automaticamente
 Agora o botão processar fechamento automático faz basicamente o papel de antecipar o fechamento que você programou.
 
 Quando você clica neste botão, uma janela será mostrada para você. Nela, pode escolher uma das duas opções de tipo. A primeira é `processar "Movimentações pendentes de fechamento" e saldo atual`, e a outra `somente saldo atual`.
-
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_menu_novos_btns_processar_fechamento_automatico.png)
 
@@ -293,3 +287,23 @@ Você também tem a opção de enviar este relatório por e-mail, pois ele criar
 Observe nosso exemplo abaixo, criando o arquivo e abrindo-o.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_menu_novos_btns_gerar_previsao.gif)
+
+## Liberação de confiança da unidade
+
+A liberação de confiança, também conhecida como desbloqueio em confiança, é uma funcionalidade que permite que contratos suspensos por atraso no pagamento voltem a funcionar temporariamente. 
+
+Quando um contrato criado tem atraso de pagamento, o sistema automaticamente bloqueia e deixa o status de inadimplente ativo.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_status_inadimplente.png)
+
+Você pode clicar com o botão direito do mouse sobre o contrato atrasado e uma nova opção ficará disponível, a de opção liberação de confiança.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_btn_direito_mouse.gif)
+
+Essa mesma opção você encontra também editando o contrato, no menu superior estará disponível a opção de liberação de confiança.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_editar_item_janela_opcoes.png)
+
+Em seguida, uma janela será aberta mostrando um campo de preenchimento obrigatório, para explicar o motivo da liberação, e depois a data da liberação. Essa data é que determinará quando o contrato voltará a ficar inadimplente de novo.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_btn_direito_mouse_janela_opcoes.png)
