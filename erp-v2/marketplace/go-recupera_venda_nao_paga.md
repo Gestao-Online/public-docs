@@ -1,6 +1,6 @@
 # 📦 App Recuperação de compras não pagas
 
-A extensão para disparos de notificações foi desenvolvido para facilitar a recuperação de compras não pagas, automatizando o envio de alertas para os clientes. 
+A extensão para disparos de notificações foi desenvolvida para facilitar a recuperação de compras não pagas, automatizando o envio de alerta para os clientes. 
 
 A solução permite configurar lembretes via diferentes canais, como e-mail ou SMS, incentivando assim o cliente a concluir o pagamento de compras pendentes.
 
@@ -12,23 +12,23 @@ Com a extensão instalada, você precisa configurá-la clicando no botão de con
 
 ## Configurando extensão
 
-No primeiro momento você vai definir os [**`Tipos de movimentação`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md) que serão permitidos. As opções que aparecerão neste campo estão cadastradas na tela **Tipo de movimentação**. Você pode digitar o nome do tipo e logo ele será buscado, e para selecionar o que deseja, você pode clicar sobre a opção de que precisa.
+No primeiro momento, você vai definir os [**`Tipos de movimentação`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md) que serão permitidos. As opções que aparecerão neste campo estão cadastradas na tela **Tipo de movimentação**. Você pode digitar o nome do tipo e logo ele será buscado, e para selecionar o que deseja, você pode clicar sobre a opção de que precisa.
 
 Observe nossa demonstração abaixo.
 
 ![](/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/marketplace_go_recupera_venda_nao_paga_tipo_movimentacao.gif)
 
-O mesmo vale para a seleção dos [**`Tipos de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md) permitidos, você também pode clicar no campo e digitar o nome do tipo de negociação que deseja vincular a extensão.
+O mesmo vale para a seleção dos [**`Tipos de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md) permitidos, você também pode clicar no campo e digitar o nome do tipo de negociação que deseja vincular à extensão.
 
 ![](/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/marketplace_go_recupera_venda_nao_paga_tipo_negociacao.gif)
 
 ## Configurando notificações
 
-Você terá duas opções para poder selecionar, o primeiro é para autorizar a extensão à enviar notificações nos finais de semana, e o segundo para enviar notificações fora do horário comercial.
+Você terá duas opções para poder selecionar, o primeiro é para autorizar a extensão a enviar notificações nos finais de semana, e o segundo para enviar notificações fora do horário comercial.
 
 ![](/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/marketplace_go_recupera_venda_nao_paga_noificacao_fds_fora_comercial.png)
 
-E logo abaixo você pode configurar a hora de ínicio e hora de fim para a extensão fazer o envio das mensagens. Veja nosso exemplo abaixo.
+E logo abaixo você pode configurar a hora de início e hora de fim para a extensão fazer o envio das mensagens. Veja nosso exemplo abaixo.
 
 ![](/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/marketplace_go_recupera_venda_nao_paga_notificacao_horario.gif)
 
