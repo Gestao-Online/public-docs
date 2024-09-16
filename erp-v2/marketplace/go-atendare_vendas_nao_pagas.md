@@ -26,11 +26,13 @@ O primeiro campo a ser preenchido é o **ID do pipeline**, esse número vai indi
 
 O segundo campo é o **ID do responsável padrão**. Dentro do Atendare, cada usuário pertence a um papel que contém diversas permissões específicas que definem os acessos de cada um. Esse número de ID será necessário para identificarmos e vincularmos com o painel que será usado.
 
-No terceiro e quarto campos temos o **ID da Etapa de vendas não pagas** e o **ID da Etapa de vendas pagas**. Essas etapas irão separar vendas que ainda não foram pagas das que já tiveram o pagamento efetuado. 
-
-Estas informações você pode conseguir solicitando diretamente com o suporte da Atendare, pois esses IDs exigem um certo nível de complexidade que eles podem repassar com mais facilidade a você.
+No terceiro e quarto campos temos o **ID da Etapa de vendas não pagas** e o **ID da Etapa de vendas pagas**. Essas etapas irão separar vendas que ainda não foram pagas das que já tiveram o pagamento efetuado. Então em seu pipeline novo ou já criado, coloque os ID's de referência onde nossa extensão irá fazer o preenchimento automático.
 
 ![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_atendare.png)
+
+Estas informações você pode precisa solicitar diretamente com o suporte da Atendare, pois esses IDs exigem um certo nível de complexidade que eles podem repassar com mais facilidade a você.
+
+![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_atendare_suporte.png)
 
 ### Configuração de Venda
 
