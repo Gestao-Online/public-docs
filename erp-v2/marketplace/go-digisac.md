@@ -82,6 +82,16 @@ Criamos algumas opções, e a última opção vamos chamar de *Comprar pelo What
 
 ![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu.png)
 
+Você pode ativar o **aviso de horário de atendimento** para os departamentos que cadastrar no campo anterior, ao ativar esta opção, preencha o campo ao lado com a mensagem personalizada do horário de atendimento.
+
+Essa mensagem será mostrada ao cliente caso esteja fora do hoarario de atendimento configurado no painel do Digisac.
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_aviso_horario.png)
+
+O mesmo vale para o campo de **aviso de feriado**, com os feriados já previamente cadastrados no painel do Digisac, você pode ativar essa função e configurar uma mensagem de aviso padrão para ser exibida aos clientes no ato da compra.
+
+![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_aviso_feriado.png)
+
 Agora você precisa digitar o **Nome na opção de compra do menu**. Esta opção é que será para o cliente efetuar a compra. No exemplo anterior, nós criamos uma opção no menu com o nome *Comprar pelo WhatsApp*, então neste campo iremos repetir esse nome, porque assim faremos esse vínculo com a opção.
 
 ![](/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_compra.png)
