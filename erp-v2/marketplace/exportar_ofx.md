@@ -38,33 +38,42 @@ Clique no botão salvar na parte superior da tela, e escolha a opção **Money 2
 
 O Banco Bradesco oferece o serviço para exportar seu extrato no formato OFX, que ajuda na conciliação bancária do financeiro. Neste manual o objetivo será mostrar o passo a passo para obter o arquivo OFX.
 
-### 1. Acesse Saldos e Extratos
+### 1. Acesse a página inicial
+
+Acesse sua conta no Internet Banking, e clique na opção **Saldos e Extratos** no menu superior da tela.
 
 ![](/erp-v2/assets/marketplace/OFX_bancos/01_bradesco_pagina_inicial.png)
 
 ### 2. Selecionar a opção Extrato Mensal / Por Período
 
+Com as opções abertas, na seção de saldos e extratos clique na opção **Extrato Mensal - Por período**.
+
 ![](/erp-v2/assets/marketplace/OFX_bancos/02_bradesco_pagina_inicial_menu.png)
 
-### 3. Selecionar o período
+### 3. Selecionar o período e buscar
 
-![](/erp-v2/assets/marketplace/OFX_bancos/03_bradesco_pagina_extrato.png)
+Defina o período, selecione a conta desejada e clique em **Buscar**.
 
-### 4. Clicar no botão Buscar
+![](/erp-v2/assets/marketplace/OFX_bancos/03_bradesco_pagina_periodo.png)
 
-Importante lembrar que o banco disponibiliza apenas o extrato dos últimos 60 dias, logo é importante fazer essa exportação com frequência. Ao clicar em exibir verifique se o banco carregou todos os movimentos.
+### 4. Extrato mensal / Por período
 
-### 5. Selecione a Opção Money 2000
+Importante lembrar que o banco disponibiliza apenas o extrato dos últimos 60 dias, logo é importante fazer essa exportação com frequência. Ao clicar em buscar, verifique se o banco carregou todos os movimentos.
 
-![](/erp-v2/assets/marketplace/OFX_bancos/05_bradesco_extrato_btn_salvar.png)
+Selecione a opção **Salvar como arquivo**.
 
-### 6. Selecionar o Formato
+![](/erp-v2/assets/marketplace/OFX_bancos/04_bradesco_extrato_mensal.png)
 
-![](/erp-v2/assets/marketplace/OFX_bancos/06_bradesco_extrato_btn_salvar_opc.png)
+### 5. Selecione a opção OFX (Money 2000 em diante)
 
-### Passo a passo animação Banco Bradesco
+Escolha a opção **OFX (Money 2000 em diante)**. Assim, o arquivo será baixado em seu computador e você pode vincular a extensão.
 
-![](/erp-v2/assets/marketplace/OFX_bancos/05_bradesco_pagina_gif.gif)
+![](/erp-v2/assets/marketplace/OFX_bancos/05_bradesco_extrato_btn_ofx.png)
+
+
+<!-- ### Passo a passo animação Banco Bradesco
+
+![](/erp-v2/assets/marketplace/OFX_bancos/05_bradesco_pagina_gif.gif) -->
 
 ## Como exportar o extrato bancário em arquivo OFX na Caixa Econômica Federal
 
