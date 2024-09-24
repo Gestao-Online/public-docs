@@ -181,11 +181,73 @@ CONFIRMAR COM O PAULO SOBRE O MODO DE ATIVAR OS TIPOS DE CONCILIAÇÃO BANCÁRIA
 
 ##  Tipos de conciliação
 
-### Tipo conciliação - Desativado
+### Tipo conciliação - Desativado -->
 
-### Tipo conciliação - Simples
+### Tipo conciliação - Simples 
 
-### Tipo conciliação - Integrado -->
+Com o modo de conciliação simples ativado, você precisa realizar manualmente as conciliações, vejamos abaixo o modo de uso.
+
+O primeiro botão <img src="/erp-v2/assets/icon_mao_dinheiro.png" alt="" data-size="line"> **Ativar/Alterar conciliação** permite que você defina o saldo inicial da sua conta, a data em que irá iniciar essa conciliação e qual o tipo de conciliação você irá utilizar. 
+
+Em nosso caso, será o tipo **Simples**.
+
+{% hint style="warning" %} 
+**Atenção:** Ao definir o saldo inicial, recomendamos usar o saldo atual da sua conta bancária e começar a registrar as transações corretamente a partir desse ponto. Isso evita o trabalho excessivo de lançar todas as transações anteriores, o que seria muito oneroso e desnecessário. 
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_simples_menu_ativar.gif)
+
+### Tipo conciliação - Integrado 
+
+Com o modo de concicliação integrado ativado, você não precisará se preocupar com os lançamentos no fluxo de caixa com a conta bancária.
+
+O primeiro botão <img src="/erp-v2/assets/icon_mao_dinheiro.png" alt="" data-size="line"> **Ativar/Alterar conciliação** permite que você defina o saldo inicial da sua conta, a data em que irá iniciar essa conciliação e qual o tipo de conciliação você irá utilizar. Em nosso caso, o tipo será **Integrado**.
+
+{% hint style="warning" %} 
+**Atenção:** Ao definir o saldo inicial, recomendamos usar o saldo atual da conta e começar a registrar as transações corretamente a partir desse ponto. Isso evita o trabalho excessivo de lançar todas as transações anteriores, o que seria muito oneroso e desnecessário. 
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_integrado_menu_ativar.gif)
+
+Desta forma, a conciliação automática estará ativa em sua conta, lembrando que esta função é ativa **somente** para a conta GOPag, caso você utilize outro tipo de banco, você pode utilizar a função **importar arquivo OFX**. 
+
+Caso queira mais informações pode acessar nosso manual de [Exportar arquivo OFX](/erp-v2/marketplace/exportar_ofx.md) e conferir a maneira de exportar do seu banco.
+
+Não só os botões do menu, como também novas abas são mostradas a você, entre elas a de **Extrato**.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_integrado_aba_extrato.png)
+
+Com o extrato já no sistema (seja por meio da GOPag ou Importação do arquivo OFX), você pode clicar no botão <img src="/erp-v2/assets/icon_lupa_dinheiro.png" alt="" data-size="line"> **Busca extrato para conciliação**.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_integrado_btn_lupa_dinheiro.png)
+
+Com a janela de **Busca extrato para conciliação**, você precisa definir a data inicial e data final de busca, em seguida clicar no botão **Buscar**. 
+
+{% hint style="info" %} 
+**Improtante:** A data de inicio não pode ser menor que a data do saldo inicial que você configurou. 📆
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_integrado_busca_extrato.gif)
+
+Em seguida, você pode utilizar o botão **Conciliação inteligente**, ao clicar nele uma janela será aberta com algumas opções para você preencher.
+
+Dos campos disponiveis, primeiro são as datas de início e datas de fim da concicliação inteligente.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_inteligente_datas.png)
+
+Você pode definir o tipo de conciliação entre, crédito, débito, pagamento, transferência ou todos os tipos.
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_inteligente_tipos.png)
+
+E por último o modo que a conciliação inteligente irá tratar as informações do extrato, como por exemplo, os 100 primeiros resultados, os 500 primeiros resultados, ou então todos os resultados do período.
+
+{% hint style="info" %} 
+**Improtante:** Em nosso sistema, caso o número de informações seja muito grande, uma mensagem será exibida a você informando que não poderá processar tudo de uma vez, neste caso, você pode usar as outras opções disponíveis e seguir com a conciliação até encerrar.
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_inteligente_modo.png)
+
+Agora você pode conferir suas transações, e verá que a conciliação já foi realizada. Em alguns casos pode ocorrer de uma transação ou outra não serem lidas, neste caso você pode efetuar manualmente a conciliação.
 
 ## Salvando uma conta bancária
 
