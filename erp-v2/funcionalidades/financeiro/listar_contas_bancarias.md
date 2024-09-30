@@ -175,27 +175,29 @@ Todas as transações estarão vinculadas ao Token/número do convênio, que exp
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_cc_formas_pagamento.png)
 
-<!-- 
-
-CONFIRMAR COM O PAULO SOBRE O MODO DE ATIVAR OS TIPOS DE CONCILIAÇÃO BANCÁRIA
-
 ##  Tipos de conciliação
 
-### Tipo conciliação - Desativado -->
+Você tem três opções de conciliação bancária para utilização, sendo sos tipos, desativada, onde não existe a função de conciliação, o tipo simples, onde as informações são inseridas manualmente no sistema, e a conciliação integrada, que para o caso do banco da GOPag tudo é vinculado automaticamente para você.
+
+### Tipo conciliação - Desativado
+
+Com o tipo de conciliação desativada, deixa de existir as opções dentro do sistema.
 
 ### Tipo conciliação - Simples 
 
-Com o modo de conciliação simples ativado, você precisa realizar manualmente as conciliações, vejamos abaixo o modo de uso.
+Com o modo de conciliação simples ativado, todos os dados de comparação da conta bancária com o sistema deverão ser feitos de forma manual, precisando ter muito cuidade com os preenchimentos e verificando bem os lançamentos para não haver divergencia entre os valorese possíveis relatórios que for emitir dentro do sistema.
 
 O primeiro botão <img src="/erp-v2/assets/icon_mao_dinheiro.png" alt="" data-size="line"> **Ativar/Alterar conciliação** permite que você defina o saldo inicial da sua conta, a data em que irá iniciar essa conciliação e qual o tipo de conciliação você irá utilizar. 
 
 Em nosso caso, será o tipo **Simples**.
 
-{% hint style="warning" %} 
+{% hint style="warning" %}
 **Atenção:** Ao definir o saldo inicial, recomendamos usar o saldo atual da sua conta bancária e começar a registrar as transações corretamente a partir desse ponto. Isso evita o trabalho excessivo de lançar todas as transações anteriores, o que seria muito oneroso e desnecessário. 
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_simples_menu_ativar.gif)
+
+
 
 ### Tipo conciliação - Integrado 
 
@@ -209,7 +211,7 @@ O primeiro botão <img src="/erp-v2/assets/icon_mao_dinheiro.png" alt="" data-si
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_integrado_menu_ativar.gif)
 
-Desta forma, a conciliação automática estará ativa em sua conta, lembrando que esta função é ativa **somente** para a conta GOPag, caso você utilize outro tipo de banco, você pode utilizar a função **importar arquivo OFX**. 
+Desta forma, a conciliação automática estará ativa em sua conta, lembrando que esta função é ativa **somente** para a conta GOPag, caso você utilize outro tipo de banco, você pode utilizar a função **Importar arquivo OFX**. 
 
 Caso queira mais informações pode acessar nosso manual de [Exportar arquivo OFX](/erp-v2/marketplace/exportar_ofx.md) e conferir a maneira de exportar do seu banco.
 
