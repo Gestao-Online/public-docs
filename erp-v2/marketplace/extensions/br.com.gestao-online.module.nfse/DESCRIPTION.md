@@ -4,4 +4,4 @@ O Módulo NFSe é uma ferramenta essencial para empresas que prestam serviços e
 
 Com esse módulo, você pode verificar a qual transação cada NFSe está associada e acompanhar o status da nota em tempo real, seja "Processando", "Rejeitado" ou "Concluído". Isso traz mais organização e segurança no gerenciamento fiscal, evitando inconsistências e assegurando que todas as obrigações legais sejam cumpridas com precisão.
 
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.nfse/assets/modulo_nfse_01.png)
+![](https://github.com/Gestao-Online/public-docs/blob/c80618df6acf77be76ae119b7aa08d87adcf5ce6/erp-v2/marketplace/extensions/br.com.gestao-online.module.nfse/assets/modulo_nfse_01.png?raw=true)

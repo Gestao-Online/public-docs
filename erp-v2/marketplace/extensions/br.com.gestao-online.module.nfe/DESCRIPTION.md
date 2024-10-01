@@ -4,4 +4,4 @@ O Módulo NFe é indispensável para empresas que desejam manter o controle comp
 
 Com esse módulo, você pode conferir facilmente a qual movimentação (venda ou compra) cada nota fiscal está vinculada, além de monitorar o status de cada NFe em tempo real, seja ele "Processando", "Rejeitado" ou "Concluído". Isso proporciona mais segurança e eficiência no controle fiscal, evitando erros e garantindo que as informações estejam sempre corretas e atualizadas.
 
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.nfe/assets/modoulo_nfe_01.png)
+![](https://github.com/Gestao-Online/public-docs/blob/c80618df6acf77be76ae119b7aa08d87adcf5ce6/erp-v2/marketplace/extensions/br.com.gestao-online.module.nfe/assets/modoulo_nfe_01.png?raw=true)

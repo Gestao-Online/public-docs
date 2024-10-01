@@ -4,4 +4,4 @@ O Módulo de Recorrência é uma ferramenta essencial para empresas que oferecem
 
 Com esse módulo, você garante mais praticidade na gestão de cobranças e uma experiência simplificada para os seus clientes, que não precisam repetir o processo de compra a cada ciclo. A venda recorrente é uma maneira eficiente de garantir receita constante, além de fortalecer o relacionamento com seus clientes, oferecendo a eles comodidade e previsibilidade nos pagamentos.
 
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.recorrencia/assets/modulo_recorrencia_01.png)
+![](https://github.com/Gestao-Online/public-docs/blob/c80618df6acf77be76ae119b7aa08d87adcf5ce6/erp-v2/marketplace/extensions/br.com.gestao-online.module.recorrencia/assets/modulo_recorrencia_01.png?raw=true)
