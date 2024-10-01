@@ -6,8 +6,4 @@ Isso significa mais controle sobre o fluxo de caixa, facilidade no acompanhament
 
 Com este módulo, você simplifica processos, economiza tempo e garante uma gestão mais estratégica, permitindo que você foque no que realmente importa: o crescimento do seu negócio. 😁👍
 
-## Requer
-
-Para o funcionamento ideal deste módulo, é necessário a instalação dos módulos .........
-
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.modulo.essencial/assets/modulo_essencial_01.png)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.modulo.essencial/assets/modulo_essencial_01.png?raw=true)

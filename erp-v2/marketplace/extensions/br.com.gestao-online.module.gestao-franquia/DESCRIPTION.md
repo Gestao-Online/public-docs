@@ -8,7 +8,7 @@ Além disso, o franqueado tem acesso detalhado ao extrato de todas as movimenta�
 
 ## Requer
 
-Para o funcionamento correto deste módulo, é necessário possuir instalado o módulo de [Franquia](/erp-v2/marketplace/extensions/br.com.gestao-online.module.franquia/)
+Para o funcionamento correto deste módulo, é necessário possuir instalado o módulo de Franquia.
 
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.gestao-franquia/assets/modulo_gestao_franquia_01.png)
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.gestao-franquia/assets/modulo_gestao_franquia_02.png)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.gestao-franquia/assets/modulo_gestao_franquia_01.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.gestao-franquia/assets/modulo_gestao_franquia_02.png?raw=true)

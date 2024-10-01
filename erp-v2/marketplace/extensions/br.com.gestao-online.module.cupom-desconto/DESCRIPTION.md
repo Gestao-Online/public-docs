@@ -4,4 +4,4 @@ O Módulo de Cupom de Desconto é uma poderosa ferramenta para aumentar as venda
 
 Esse módulo permite que você crie campanhas promocionais eficientes e impulsionando suas estratégias de marketing. Ele é ideal para quem deseja aumentar a competitividade, oferecer incentivos e fechar mais negócios, tudo de forma simples e automatizada.
 
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_01.png)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_01.png?raw=true)

@@ -6,5 +6,5 @@ Dentro de uma mesma empresa, por exemplo, você pode ter unidades de negócios, 
 
 Essa separação por projeto pode ser útil para uma visão gerencial comercial (Ex: metas, resultados por canal, etc.) e também para uma visão estratégica financeira (Ex: identificar a unidade de negócio que teve o maior custo e o menor resultado, por exemplo), conectando diretamente as receitas e despesas a cada unidade.
 
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade/assets/modulo_multi_unidade_01.png)
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade/assets/modulo_multi_unidade_02.png)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade/assets/modulo_multi_unidade_01.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade/assets/modulo_multi_unidade_02.png?raw=true)

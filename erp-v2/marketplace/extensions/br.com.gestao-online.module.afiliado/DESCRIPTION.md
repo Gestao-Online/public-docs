@@ -6,5 +6,5 @@ Além disso, o parceiro indicador pode ter acesso a informações específicas s
 
 Requer: Módulo de Tabela de Preço
 
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.afiliado/assets/modulo_afiliado_01.png)
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.afiliado/assets/modulo_afiliado_02.png)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.afiliado/assets/modulo_afiliado_01.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.afiliado/assets/modulo_afiliado_02.png?raw=true)

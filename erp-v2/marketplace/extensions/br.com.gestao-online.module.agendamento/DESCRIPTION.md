@@ -6,4 +6,4 @@ Também existe o recurso de "Etiquetas de agendamento", sendo uma forma de marca
 
 Esses registros também podem servir como fonte de dados e motor para automatizações externas (CRM, Chatbot, etc.) através de extensões e integrações.
 
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_01.png)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_01.png?raw=true)

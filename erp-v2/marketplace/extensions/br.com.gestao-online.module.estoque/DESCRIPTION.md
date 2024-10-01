@@ -6,4 +6,4 @@ Isso permite que você evite falhas de estoque e excesso de inventário, otimiza
 
 Este módulo oferece telas dedicadas para facilitar o acompanhamento do estoque em diferentes níveis, como no próprio produto, no local específico do vendedor, e em movimentações detalhadas de itens. Essa visibilidade total garante que sua equipe tenha informações sempre atualizadas, melhorando o planejamento e a tomada de decisões estratégicas para o seu negócio.
 
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.estoque/assets/modulo_estoque_01.png)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.estoque/assets/modulo_estoque_01.png?raw=true)

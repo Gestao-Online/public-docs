@@ -4,4 +4,4 @@ O Módulo de Tipos de Movimentação oferece total flexibilidade para a criaçã
 
 Cada movimentação reflete com precisão a realidade operacional do seu negócio, garantindo uma gestão eficiente e segura. Personalize o fluxo das suas transações e tenha uma visão clara e organizada de todo o processo, alinhando-o às suas necessidades específicas.
 
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.tipo-movimentacao/assets/modulo_tipo_movimentacao_01.png)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.tipo-movimentacao/assets/modulo_tipo_movimentacao_01.png?raw=true)

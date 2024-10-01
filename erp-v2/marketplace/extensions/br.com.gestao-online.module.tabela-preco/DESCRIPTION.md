@@ -8,6 +8,6 @@ Essa funcionalidade é essencial para otimizar sua estratégia de precificação
 
 ## Requer
 
-Para o funcionamento correto deste módulo, é necessário possuir instalado o módulo [Essencial](/erp-v2/marketplace/extensions/br.com.gestao-online.modulo.essencial/).
+Para o funcionamento correto deste módulo, é necessário possuir instalado o módulo Essencial.
 
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.tabela-preco/assets/modulo_tabelas_preco_01.png)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.tabela-preco/assets/modulo_tabelas_preco_01.png?raw=true)

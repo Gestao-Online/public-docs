@@ -8,4 +8,4 @@ Esse recurso automatiza o processo de apuração de valores, reduz erros manuais
 
 ## Requer
 
-Para o funcionamento correto deste módulo, é necessário possuir instalado o módulo de [Multiunidades](/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade/README.md)
+Para o funcionamento correto deste módulo, é necessário possuir instalado o módulo de Multiunidades.

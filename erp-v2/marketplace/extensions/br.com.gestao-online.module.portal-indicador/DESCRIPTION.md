@@ -6,4 +6,4 @@ Através deste módulo, você pode monitorar o status de todas as indicações e
 
 Um dos maiores benefícios é a capacidade de acompanhar seus ganhos totais com facilidade, ajudando você a visualizar o retorno gerado pelas suas indicações e a otimizar seu desempenho como parceiro.
 
-![](/erp-v2/marketplace/extensions/br.com.gestao-online.module.portal-indicador/assets/modulo_portal_indicador_01.png)
+![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.portal-indicador/assets/modulo_portal_indicador_01.png?raw=true)
