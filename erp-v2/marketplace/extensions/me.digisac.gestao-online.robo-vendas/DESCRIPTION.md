@@ -1,4 +1,4 @@
-# GO Digisac Robo Vendas
+# Enxtensão - GO Digisac - Robô de Vendas
 
 Otimize o atendimento aos clientes com um verdadeiro sistema PABX digital de mensageria para a sua empresa. Ao configurar o GO Digisac Robo Vendas, você poderá acompanhar através de um dashboard personalizado todos os atendimentos que estão sendo realizados em tempo real.
 

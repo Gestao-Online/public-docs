@@ -1,1 +1,5 @@
-# 🔑 Atendare
+# Extensão Atendare - Vendas não pagas
+
+É uma poderosa ferramenta de recuperação de vendas, especialmente projetada para ajudar sua empresa a acompanhar e converter leads que não finalizaram suas compras. Integrada ao Atendare - Sistema CRM com Automação de Marketing, essa extensão facilita o envio automático de leads e atualizações sobre vendas não pagas, permitindo que sua equipe de vendas e marketing reaja rapidamente para recuperar clientes e aumentar suas conversões.
+
+Com essa extensão, você pode monitorar todas as transações não concluídas e, por meio do vínculo com o Atendare, criar campanhas automatizadas de marketing para reengajar os clientes e incentivá-los a completar suas compras. Essa solução não apenas aumenta a eficiência do seu processo de vendas, mas também potencializa o retorno sobre o investimento, ao transformar oportunidades perdidas em novas vendas.

@@ -1,5 +1,5 @@
 # Módulo Loja Virtual (LandingPage)
 
-O Módulo de Loja Virtual (LP) é uma solução indispensável para empresas que desejam suas páginas de vendas online de maneira simples e eficaz. Com esse módulo, você tem total controle sobre a aparência das suas Landing Pages, permitindo personalizar imagens, cores e textos, garantindo que a apresentação da sua loja virtual esteja sempre alinhada à identidade visual da sua marca.
+O Módulo de Loja Virtual é a solução ideal para empresas que desejam expandir suas vendas online de forma rápida e eficiente. Com esse módulo, você pode criar uma landing page exclusiva para vendas, sem a necessidade de desenvolvimentos complexos.
 
-Seja para personalizar a página de vendas da sua empresa ou as páginas de unidades e parceiros indicadores, o módulo oferece flexibilidade total, permitindo que você crie uma experiência de compra visualmente atraente e personalizada para seus clientes. Com essa ferramenta, você otimiza suas estratégias de marketing digital, proporcionando um ambiente de vendas online mais profissional e eficiente.
+A página é pré-configurada, simplificando o processo, permitindo que seus produtos cadastrados no sistema sejam automaticamente vinculados e disponibilizados para venda na landing page. Isso garante que sua loja esteja sempre atualizada com o estoque e as ofertas mais recentes, sem a necessidade de ajustes manuais. É a forma mais prática de iniciar suas vendas online e oferecer aos clientes uma experiência de compra rápida e acessível.
