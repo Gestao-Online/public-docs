@@ -92,6 +92,16 @@ Uma observação para o preenchimento dos dados de vendedor, nós colocamos um m
 
 <br>
 
+## Configurações adicionais
+
+Logo abaixo do preenchimento dos dados do vendedor, você encontrará dois campos: Tipo de Movimentação (com valor padrão) e Tipo de Negociação (com valor padrão). Assim que esses campos forem preenchidos, quando ele realizar uma venda, o sistema os preencherá automaticamente com os valores que você definiu.
+
+Caso esses campos sejam deixados em branco, o vendedor precisará selecioná-los manualmente toda vez que realizar uma venda.
+
+![](/erp-v2/assets/funcionalidades/vendedores/aba_vendedores_config_adicional.gif)
+
+<br>
+
 ## Salvando novo vendedor
 
 Após finalizar o preenchimento você clica em **`Salvar`** e o registro do usuário será salvo e o acesso disponível ao vendedor usando seu login de usuário:
