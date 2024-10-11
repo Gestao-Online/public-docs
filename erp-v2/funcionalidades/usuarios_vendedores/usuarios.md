@@ -64,28 +64,32 @@ Olhando para a aba **`Geral`**, por padrão, quando você for criar uma conta é
 Uma breve informação, de forma bem resumida sobre os tipos de Perfis (com as regras padrões):
 
 - **Usuário:**
--> Parceiros/Clientes (todos da unidade/projeto em que trabalha)
--> Vendas (somente as criadas por ele)
--> Agendamento/Atividades (todas da unidade em que trabalha)
--> Dashboards/Relatórios (somente das próprias vendas)
+    - Parceiros/Clientes (todos da unidade/projeto em que trabalha)
+    - Vendas (somente as criadas por ele)
+    - Agendamento/Atividades (todas da unidade em que trabalha)
+    - Dashboards/Relatórios (somente das próprias vendas)
 
 - **Coordenador:**
--> Parceiros/Clientes (todos da unidade/projeto em que trabalha)
--> Vendas (todas da unidade em que trabalha)
--> Agendamento/Atividades (todas da unidade em que trabalha)
--> Pode cadastrar usuários na unidade que trabalha
--> Dashboards/Relatórios (somente da unidade que trabalha)
+    - Parceiros/Clientes (todos da unidade/projeto em que trabalha)
+    - Vendas (todas da unidade em que trabalha)
+    - Agendamento/Atividades (todas da unidade em que trabalha)
+    - Pode cadastrar usuários na unidade que trabalha
+    - Dashboards/Relatórios (somente da unidade que trabalha)
 
 - **Gerente/Administrador:**
--> Parceiros/Clientes (Acesso total)
--> Vendas (Acesso total)
--> Agendamento/Atividades (Acesso total)
--> Dashboards/Relatórios (Acesso total)
--> Pode realizar alterações financeiro (Baixa/Estorno)
--> Cadastro de produtos
--> Cadastro de tabela de preço das unidades/indicadores.
+    - Parceiros/Clientes (Acesso total)
+    - Vendas (Acesso total)
+    - Agendamento/Atividades (Acesso total)
+    - Dashboards/Relatórios (Acesso total)
+    - Pode realizar alterações financeiro (Baixa/Estorno)
+    - Cadastro de produtos
+    - Cadastro de tabela de preço das unidades/indicadores.
 
 - **Superadministrador:** (Mesmo acesso do administrador, mas com permissões de parâmetrizações)
+
+Essas informações de forma detalhada você encontra clicando na foto de perfil que fica no canto superior direito da tela, e depois clicando no botão `Sobre`, e quandoa tela se abrir com as informações do sistema, você pode clicar no botão `Permissões`. Observe a demonstração abaixo:
+
+![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_btn_permissoes.gif)
 
 {% hint style="info" %}
 **Permissões por usuário:** 
@@ -93,9 +97,9 @@ Uma breve informação, de forma bem resumida sobre os tipos de Perfis (com as r
 As principais ações no sistema, permitem fazer liberações por usuário, combinado as permissões gerais nos perfis.
 
 Alguns exemplos de permissões por usuário:
--> Estorno cartão de crédito 
--> Regras de comissão/custo 
--> Perfil de desconto
+- Estorno cartão de crédito 
+- Regras de comissão/custo 
+- Perfil de desconto
 
 Essas configurações sāo feitas em cada tela/funçāo, atribuindo diretamente o usuário a aquela permissāo/regra. Para mais informações `🔒Permissões, restrições/exceções` [**`clique aqui`**](/erp-v2/primeiro_acesso/permissoes_restricoes_excecoes) 
 {% endhint %}
