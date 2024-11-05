@@ -20,4 +20,4 @@ Podendo acompanhar dentro do próprio Gestão Online as vendas que estão ocorre
 
 | | |
 |-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/13da8bd1b573365b31cfd67c451dcbcc953d65b7/erp-v2/assets/marketplace/go-digisac/robo_digisac_msgs.gif?raw=true) |Com o Digisac, você reúne, em uma plataforma, os melhores canais de mensageria. Mantenha todos os seus colaboradores conectados, atendendo todas as mensagens do WhatsApp (WABA), Telegram, Facebook Messenger, Instagram Direct, WebChat, SMS, na mesma tela, e entregue um atendimento mais organizado e rápido para seus clientes! |
+|![](https://github.com/Gestao-Online/public-docs/blob/a1f7903f0cf31fa2fd2258381e83a2a78d72d6c7/erp-v2/assets/marketplace/go-digisac/robo_digisac_msgs.gif?raw=true) |Com o Digisac, você reúne, em uma plataforma, os melhores canais de mensageria. Mantenha todos os seus colaboradores conectados, atendendo todas as mensagens do WhatsApp (WABA), Telegram, Facebook Messenger, Instagram Direct, WebChat, SMS, na mesma tela, e entregue um atendimento mais organizado e rápido para seus clientes! |
