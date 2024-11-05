@@ -1,5 +1,26 @@
 # Recuperação de compras não pagas
 
-A extensão para disparos de notificações foi desenvolvida para facilitar a recuperação de compras não pagas, automatizando o envio de alerta para os clientes.
+### Transforme Tentativas em Vendas!
 
-A solução permite configurar lembretes via diferentes canais, como e-mail ou SMS, incentivando assim o cliente a concluir o pagamento de compras pendentes.
+Sua empresa está perdendo vendas por compras que não foram finalizadas? A extensão *Recuperação de Compras Não Pagas* do Gestão Online é a solução ideal para transformar abandonos de vendas em landing pages ou por links, em oportunidades reais de negócio!
+
+Com a nossa ferramenta de recuperação, você pode configurar notificações automáticas que chegam ao cliente na hora certa, seja por e-mail ou SMS. Cada lembrete é personalizado para incentivar o cliente a concluir a compra, ajudando a recuperar faturamento que poderia ser perdido.
+
+### Funcionalidades principais:
+
+**Notificações por E-mail e SMS:** Alcance seu cliente de forma rápida e eficiente no canal que ele prefere, com mensagens automáticas e configuráveis.
+
+**Automação Personalizada:** Ajuste o tempo e a frequência dos disparos para obter os melhores resultados.
+
+**Análise de Resultados:** Acompanhe a taxa de recuperação e veja, em tempo real, como a ferramenta está impactando o seu faturamento.
+
+### Benefícios para sua empresa:
+
+**Aumento nas Vendas:** Recupere uma porcentagem significativa de compras abandonadas.
+Automação e Praticidade: Economize tempo com uma extensão que trabalha para você, 24 horas por dia.
+
+**Engajamento e Satisfação do Cliente:** Proporciona uma experiência completa ao lembrar o cliente de finalizar a compra de maneira prática e oportuna.
+
+Não perca mais vendas por compras não pagas! Com a extensão Recuperação de Compras Não Pagas do Gestão Online, sua empresa tem uma ferramenta poderosa de marketing para melhorar resultados e maximizar o faturamento.
+
+**Instale agora e veja o impacto direto na sua receita!**
