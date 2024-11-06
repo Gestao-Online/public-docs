@@ -195,7 +195,7 @@
     * [Como alterar valor de desconto depois da venda confirmada?](/erp-v2/guia_utilizacao/como_alterar_valor_desconto_venda_confirmada.md)
 
  * [🏬 Marketplace](erp-v2/marketplace/inicio.md)
-    * [Como funciona o marketplace?](erp-v2/marketplace/como-funciona.md)
+    <!-- * [Como funciona o marketplace?](erp-v2/marketplace/como-funciona.md) -->
     * [Como instalar uma extensāo?](erp-v2/marketplace/como-instalar.md)
     <!-- * [Extensões]() -->
     * [📦 App GO-Consulta](/erp-v2/marketplace/go-consulta.md)
