@@ -25,6 +25,10 @@ O GO Consultas não só adiciona valor ao ERP Gestão Online, mas também permit
 
 ### Exemplo caso de uso
 
-Imagine que um cliente precisa avaliar o perfil de um potencial comprador ou fornecedor. Com o **GO Consultas**, ele poderá realizar uma Consulta Completa CPF + SCORE para entender o perfil financeiro e a pontuação de crédito, além de uma Consulta de Ações e Processos Judiciais para garantir que não existem pendências jurídicas relevantes. Em um único sistema, ele terá todas as informações necessárias para uma tomada de decisão rápida e assertiva.
+| | |
+|-|-|
+|![](https://github.com/Gestao-Online/public-docs/blob/b121f99c299c3959d4621141ffd4ec16f53a6185/erp-v2/assets/marketplace/go_consulta/spc_serasa_score_modelo.png?raw=true)  |Imagine que um cliente precisa avaliar o perfil de um potencial comprador ou fornecedor. Com o **GO Consultas**, ele poderá realizar uma Consulta Completa CPF + SCORE para entender o perfil financeiro e a pontuação de crédito, além de uma Consulta de Ações e Processos Judiciais para garantir que não existem pendências jurídicas relevantes. Em um único sistema, ele terá todas as informações necessárias para uma tomada de decisão rápida e assertiva. |
+
+
 
 **Aproveite e ofereça mais possibilidades de sucesso para seus clientes com o GO Consultas!**
