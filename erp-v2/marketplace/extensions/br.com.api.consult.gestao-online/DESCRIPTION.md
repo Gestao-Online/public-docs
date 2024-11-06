@@ -6,23 +6,22 @@ Apresentamos a extensão GO Consultas, uma poderosa ferramenta integrada ao seu 
 
 Com diversas opções de consultas, você pode atender às necessidades de diferentes setores, como financeiro, jurídico, comercial e até o segmento automotivo. Algumas das opções abaixo.
 
-* **Consulta Completa Plus (CPF e CNPJ):** Análises detalhadas de crédito, histórico financeiro e situação cadastral.
-* **Consulta com SCORE:** Visualize o potencial de crédito e o perfil de risco dos clientes.
-* **Consulta de Ações e Processos Judiciais:** Acompanhe pendências jurídicas, essencial para avaliações criteriosas.
-* **Consulta Localiza e Busca por CPF, CNPJ, Nome ou Telefone:** Para encontrar informações cadastrais completas.
-* **Consultas Veiculares:** Tenha acesso a informações completas do veículo, incluindo débitos, proprietário atual e status geral.
+|**Consulta Completa Plus (CPF e CNPJ)** |**Consulta com SCORE** |**Consulta de Ações e Processos Judiciais** |**Consulta Localiza e Busca por CPF, CNPJ, Nome ou Telefone** |**Consultas Veiculares** |
+|-|-|-|-|-|
+|Análises detalhadas de crédito, histórico financeiro e situação cadastral. |Visualize o potencial de crédito e o perfil de risco dos clientes. |Acompanhe pendências jurídicas, essencial para avaliações criteriosas. |Para encontrar informações cadastrais completas. |Tenha acesso a informações completas do veículo, incluindo débitos, proprietário atual e status geral. |
+
+Logo após uma venda realizada e paga, você verá que o botão `Realizar consultas` disponível para uso, conforme nosso exemplo.
+
+![](https://github.com/Gestao-Online/public-docs/blob/b121f99c299c3959d4621141ffd4ec16f53a6185/erp-v2/assets/marketplace/go_consulta/tela_marketplace_add_venda_confirmar_venda.gif?raw=true) 
+
 
 ### Praticidade e Flexibilidade para Seus Clientes
 
 Com o **GO Consultas**, seus clientes têm acesso direto a essas funcionalidades através do seu marketplace, podendo visualizar e gerar os relatórios instantaneamente. Eles têm a liberdade de comercializar essas consultas e definir os valores, potencializando seu faturamento e expandindo os serviços oferecidos.
 
-### Emissão de Relatórios Completos em PDF
-
-Cada consulta gera um relatório em PDF, com todos os dados necessários para uma análise profunda e de fácil interpretação. Esses relatórios são ideais para processos de avaliação de crédito, decisões jurídicas, consultas veiculares e muito mais.
-
 ### Ganhos para o Negócio
 
-A extensão não só adiciona valor ao ERP Gestão Online, mas também permite que seus clientes ampliem suas oportunidades de receita e agreguem valor aos seus próprios serviços.
+O GO Consultas não só adiciona valor ao ERP Gestão Online, mas também permite que seus clientes ampliem suas oportunidades de receita e agreguem valor aos seus próprios serviços.
 
 ### Exemplo de régua de cobrança
 
