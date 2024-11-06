@@ -1,4 +1,4 @@
-# GO - Consultas
+
 
 A Extensão de Consulta de CPF, CNPJ, Veículos e Mais é uma solução prática e indispensável para empresas que precisam de informações precisas e detalhadas na hora de realizar negócios ou tomar decisões. Com essa extensão, você pode acessar rapidamente dados confiáveis sobre pessoas físicas (CPF), empresas (CNPJ), e veículos, garantindo mais segurança e agilidade nas suas transações.
 

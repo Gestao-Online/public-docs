@@ -1,4 +1,3 @@
-# Recuperação de compras não pagas
 
 ### Transforme Tentativas em Vendas!
 
