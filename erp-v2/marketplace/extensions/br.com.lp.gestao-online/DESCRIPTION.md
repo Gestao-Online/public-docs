@@ -6,11 +6,15 @@
 
 ### Principais vantagens:
 
+<br>
+
 ![](https://github.com/Gestao-Online/public-docs/blob/feedbdbf4290584e61625d33d0058fa36f7f16c9/erp-v2/assets/marketplace/go_personalizar_lp/edit_lp_go.gif?raw=true)
 
 |**Facilidade e rapidez** |**Design profissional** |**Personalização completa** |
 |-------------------------|------------------------|----------------------------|
 |Interface amigável, com campos prontos para você inserir as informações que deseja exibir. |Mantenha seu site atualizado e com um visual moderno, usando layout já projetado para conversão. |Adapte a página de vendas e as páginas de parceiros para refletirem a identidade da sua empresa. |
+
+<br>
 
 | | |
 |-|-|
