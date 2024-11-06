@@ -1,7 +1,7 @@
 
 | | |
 |-|-|
-|Apresentamos a extensão GO Consultas, uma poderosa ferramenta integrada ao seu ERP Gestão Online, ideal para empresas que buscam ampliar seus serviços de análise e consulta para seus clientes, com total praticidade e segurança. É possível oferecer um leque completo de consultas especializadas em CPF, CNPJ e informações veiculares, todas emitidas em relatórios detalhados em PDF, perfeitos para a tomada de decisão e análise de crédito. |![](https://github.com/Gestao-Online/public-docs/blob/bfb02685754e9d9fc137532e89b9d855ff8604d1/erp-v2/assets/marketplace/go_consulta/spc_serasa_score_modelo.png?raw=true) |
+|Apresentamos a extensão GO Consultas, uma poderosa ferramenta integrada ao seu ERP Gestão Online, ideal para empresas que buscam ampliar seus serviços de análise e consulta para seus clientes, com total praticidade e segurança. <br><br>É possível oferecer um leque completo de consultas especializadas em CPF, CNPJ e informações veiculares, todas emitidas em relatórios detalhados em PDF, perfeitos para a tomada de decisão e análise de crédito. |![](https://github.com/Gestao-Online/public-docs/blob/bfb02685754e9d9fc137532e89b9d855ff8604d1/erp-v2/assets/marketplace/go_consulta/card_consulta_veiculos.png?raw=true) |
 
 ### Variedade de Consultas Especializadas
 
