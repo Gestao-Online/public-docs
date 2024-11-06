@@ -2,13 +2,13 @@
 
 | | |
 |-|-|
-|Transforme a gestão financeira do seu negócio com o Relatório de Custo, projetado para proporcionar total visibilidade sobre os custos das suas transações.<br><br>Com o Relatório de Custo, você terá em mãos informações detalhadas sobre o custo de cada venda realizada. Otimize suas decisões com relatórios que detalham despesas e margens de lucro, ajudando a identificar oportunidades de economia e melhorar a rentabilidade do seu negócio. |![](https://github.com/Gestao-Online/public-docs/blob/6819f826bf0dc6801ef8219562052ffc18bc8391/erp-v2/assets/marketplace/go_relatorio_custo/report-custo.png?raw=true) |
+|Transforme a gestão financeira do seu negócio com o Relatório de Custo, projetado para proporcionar total visibilidade sobre os custos das suas transações.<br><br>Com o Relatório de Custo, você terá em mãos informações detalhadas sobre o custo de cada venda realizada. Otimize suas decisões com relatórios que detalham despesas e margens de lucro, ajudando a identificar oportunidades de economia e melhorar a rentabilidade do seu negócio. |![](https://github.com/Gestao-Online/public-docs/blob/f802dd7b01ef2ee7ebd33037628ada0c2d1b4830/erp-v2/assets/marketplace/go_relatorio_custo/report-custo.png?raw=true) |
 
 ### Principais recursos:
 
 **Filtros avançados:** Refinar os dados para obter exatamente o que precisa. Filtre relatórios por data de negociação, vendedor, unidade, parceiro, situação de entrega e status financeiro.
 
-![](https://github.com/Gestao-Online/public-docs/blob/6819f826bf0dc6801ef8219562052ffc18bc8391/erp-v2/assets/marketplace/go_relatorio_custo/marketplace_report_custo.gif?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/f802dd7b01ef2ee7ebd33037628ada0c2d1b4830/erp-v2/assets/marketplace/go_relatorio_custo/marketplace_report_custo.gif?raw=true)
 
 <br>
 
