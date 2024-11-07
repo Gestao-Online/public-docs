@@ -6,9 +6,9 @@ Imagine nunca mais perder uma oportunidade de entrar em contato no momento certo
 
 ### Principais Benefícios
 
-| | |
-|-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/22c06ddf6ba7936d4bd27fd90588098198e33e7e/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_04.svg?raw=true) |**Automatização de Lembretes de Vencimentos:** Crie lembretes para cada cliente e serviço, assegurando que todos os prazos e renovação de contratos sejam acompanhados sem falhas.<br><br>**Dashboard Interativo com Calendário Mensal:** Visualize de forma intuitiva todas as suas atividades e compromissos em um calendário mensal, facilitando a organização e o planejamento das suas interações.<br><br>**Organização com Etiquetas:** Separe e categorize seus agendamentos por etiquetas para que nada escape do seu radar. Agrupe por tipo de serviço, prioridade, clientes e muito mais!<br><br>**Facilidade de Acompanhamento:** Com todas as informações de compromissos centralizadas, o acompanhamento fica muito mais prático, e você otimiza o seu tempo e o dos seus colaboradores. |
+| | | |
+|-|-|-|
+|![](https://github.com/Gestao-Online/public-docs/blob/22c06ddf6ba7936d4bd27fd90588098198e33e7e/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_04.svg?raw=true) |**Automatização de Lembretes de Vencimentos:** Crie lembretes para cada cliente e serviço, assegurando que todos os prazos e renovação de contratos sejam acompanhados sem falhas.<br><br>**Dashboard Interativo com Calendário Mensal:** Visualize de forma intuitiva todas as suas atividades e compromissos em um calendário mensal, facilitando a organização e o planejamento das suas interações.|**Organização com Etiquetas:** Separe e categorize seus agendamentos por etiquetas para que nada escape do seu radar. Agrupe por tipo de serviço, prioridade, clientes e muito mais!<br><br>**Facilidade de Acompanhamento:** Com todas as informações de compromissos centralizadas, o acompanhamento fica muito mais prático, e você otimiza o seu tempo e o dos seus colaboradores.  |
 
 <br>
 
