@@ -13,13 +13,13 @@ Com diversas opções de consultas, você pode atender às necessidades de difer
 
 <br>
 
-|**Consulta Localiza e Busca por CPF, CNPJ, Nome ou Telefone** |**Consultas Veiculares** |
-|--------------------------------------------------------------|-------------------------|
-|Para encontrar informações cadastrais completas. |Tenha acesso a informações completas do veículo, incluindo débitos, proprietário atual e status geral. |
+**Consulta Localiza e Busca por CPF, CNPJ, Nome ou Telefone:** Para encontrar informações cadastrais completas.
+
+**Consultas Veiculares:** Tenha acesso a informações completas do veículo, incluindo débitos, proprietário atual e status geral.
 
 <br>
 
-Logo após uma venda realizada e paga, você verá que o botão `Realizar consultas` disponível para uso, conforme nosso exemplo.
+Logo após uma venda realizada e paga, você verá que o botão **Realizar consultas** disponível para uso, conforme nosso exemplo.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/b121f99c299c3959d4621141ffd4ec16f53a6185/erp-v2/assets/marketplace/go_consulta/tela_marketplace_add_venda_confirmar_venda.gif?raw=true) 
 
@@ -35,7 +35,7 @@ O GO Consultas não só adiciona valor ao ERP Gestão Online, mas também permit
 
 | | |
 |-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/6819f826bf0dc6801ef8219562052ffc18bc8391/erp-v2/assets/marketplace/go_consulta/spc_serasa_score_modelo.png?raw=true)  |Imagine que um cliente precisa avaliar o perfil de um potencial comprador ou fornecedor. Com o **GO Consultas**, ele poderá realizar uma Consulta Completa CPF + SCORE para entender o perfil financeiro e a pontuação de crédito, além de uma Consulta de Ações e Processos Judiciais para garantir que não existem pendências jurídicas relevantes. Em um único sistema, ele terá todas as informações necessárias para uma tomada de decisão rápida e assertiva. |
+|![](https://github.com/Gestao-Online/public-docs/blob/6819f826bf0dc6801ef8219562052ffc18bc8391/erp-v2/assets/marketplace/go_consulta/spc_serasa_score_modelo.png?raw=true)  | Imagine que um cliente precisa avaliar o perfil de um potencial comprador ou fornecedor. Com o **GO Consultas**, ele poderá realizar uma Consulta Completa CPF + SCORE para entender o perfil financeiro e a pontuação de crédito, além de uma Consulta de Ações e Processos Judiciais para garantir que não existem pendências jurídicas relevantes.<br><br>Em um único sistema, ele terá todas as informações necessárias para uma tomada de decisão rápida e assertiva. |
 
 <br>
 
