@@ -22,7 +22,7 @@
 |------------------------|-----------------------------|-----------------------------------------|
 |Recupere uma porcentagem significativa de compras abandonadas. |Economize tempo com uma extensão que trabalha para você, 24 horas por dia. |Proporciona uma experiência completa ao lembrar o cliente de finalizar a compra de maneira prática e oportuna.|
 
-![](https://github.com/Gestao-Online/public-docs/blob/3bb59b023e1bed926e193a22010bd955a0044ed7/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/modelo_email.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/59a71bd5e9c8bae24824f706a89db0d0ef528cf6/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/modelo-email.png?raw=true)
 
 Não perca mais vendas por compras não pagas! Com a extensão Recuperação de Compras Não Pagas do Gestão Online, sua empresa tem uma ferramenta poderosa de marketing para melhorar resultados e maximizar o faturamento.
 
