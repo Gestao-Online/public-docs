@@ -4,7 +4,7 @@ Nós sabemos o quanto a gestão de produtos e serviços com prazo para expirar �
 
 Com a Notificação Automática de Vencimento, o cliente é avisado de forma simples e prática quando o serviço estiver próximo do vencimento, garantindo tempo suficiente para renovação.
 
-### Vantagens da Notificação Automática de Vencimento:
+### Vantagens da Notificação Automática de Vencimento
 
 | | |
 |-|-|
