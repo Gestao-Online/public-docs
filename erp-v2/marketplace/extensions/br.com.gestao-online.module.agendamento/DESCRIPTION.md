@@ -24,7 +24,7 @@ Você terá acesso a três novas telas (Agendamneto, Etiqueta de agendamentos e 
 
 | | |
 |-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_02.gif?raw=true) |![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_03.gif?raw=true) |
+|![](https://github.com/Gestao-Online/public-docs/blob/bc7691bd63c89093a0029cb0aba3f3fe6f72aa6c/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_02.gif?raw=true) |![](https://github.com/Gestao-Online/public-docs/blob/bc7691bd63c89093a0029cb0aba3f3fe6f72aa6c/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_03.gif?raw=true) |
 
 
 
