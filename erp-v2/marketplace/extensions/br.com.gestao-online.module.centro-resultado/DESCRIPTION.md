@@ -24,7 +24,7 @@ Potencialize o controle e a análise das áreas de sua empresa com o módulo Cen
 
 ### O que muda no meu sistema?
 
-Dentro da opção Parametrizações no seu menu, ao clicar, você encontrará um novo item com o nome "Centro de Resultado", ele será a nova tela que você terá para acesso no sistema.
+Dentro da opção Parametrizações no seu menu, ao clicar, você encontrará um novo item com o nome "Centro de Resultado", ele será a nova tela que você terá para acesso no sistema. A partir deste momento, você poderá definir no cadastro dos vendedores qual centro de resultado ele pertence e assim a cada nova venda ou compra realizada, um novo filtro é adicionado a tela de Fluxo de caixa para você poder acompanhar as movimentações.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/20516384dd5db2f5e83617a43f3889f7ce2bcac5/erp-v2/marketplace/extensions/br.com.gestao-online.module.centro-resultado/assets/modulo_centro_resultado_03.gif?raw=true)
 
