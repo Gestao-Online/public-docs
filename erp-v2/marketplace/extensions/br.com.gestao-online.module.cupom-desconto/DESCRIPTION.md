@@ -1,7 +1,13 @@
-# Módulo Cupom de desconto
+### Conheça o módulo "Cupom de Desconto" do Gestão Online e potencialize suas vendas com facilidade!
 
-O Módulo de Cupom de Desconto é uma poderosa ferramenta para aumentar as vendas e atrair mais clientes, oferecendo descontos personalizados no momento da compra. Com ele, seus clientes podem inserir um código de cupom durante a finalização da compra, garantindo que o desconto seja aplicado automaticamente sobre o valor total da venda ou serviço.
+Aumente o poder das suas campanhas e fidelize seus clientes com o módulo **Cupom de Desconto** do nosso ERP Gestão Online! Este módulo oferece tudo o que você precisa para criar cupons de desconto personalizados de forma prática e estratégica, permitindo que você impulsione suas vendas e conquiste novos públicos.
 
-Esse módulo permite que você crie campanhas promocionais eficientes e impulsionando suas estratégias de marketing. Ele é ideal para quem deseja aumentar a competitividade, oferecer incentivos e fechar mais negócios, tudo de forma simples e automatizada.
+### Principais funcionalidades:
 
-![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_01.png?raw=true)
+* Descontos Flexíveis: Crie cupons com desconto em valor fixo ou percentual, conforme a necessidade da sua campanha.
+
+* Limite de Uso Personalizável: Defina se o cupom será de uso ilimitado ou restrinja-o com uma quantidade específica de usos, ideal para controlar promoções relâmpago e estimular o senso de urgência nos clientes.
+
+* Códigos Personalizados e Aleatórios: Cadastre os códigos de uso do seu cupom de maneira prática, podendo optar por códigos personalizados ou aleatórios, que podem ser definidos automaticamente pelo sistema.
+
+O módulo "Cupom de Desconto" do Gestão Online é uma ferramenta essencial para quem quer elevar a performance de vendas, gerenciar campanhas promocionais e criar experiências de compra únicas. Transforme sua estratégia de marketing com uma solução ágil e totalmente integrada ao seu ERP!
