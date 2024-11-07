@@ -22,7 +22,7 @@ Com o módulo **Agendamento & Atividades** do Gestão Online, você proporciona 
 
 | | |
 |-|-|
-|Você terá acesso a três novas telas (Agendamneto, Etiqueta de agendamentos e Tipo de agendamentos).<br><br>Todas as novas telas estarão organizadas no novo item do menu que aparecerá para você no momento que fizer a instalação. |![](https://github.com/Gestao-Online/public-docs/blob/bc7691bd63c89093a0029cb0aba3f3fe6f72aa6c/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_02.gif?raw=true) |
+|Você terá acesso a três novas telas (Agendamento, Etiqueta de agendamentos e Tipo de agendamentos).<br><br>Todas as novas telas estarão organizadas no novo item do menu que aparecerá para você no momento que fizer a instalação. |![](https://github.com/Gestao-Online/public-docs/blob/bc7691bd63c89093a0029cb0aba3f3fe6f72aa6c/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_02.gif?raw=true) |
 
 <br>
 
