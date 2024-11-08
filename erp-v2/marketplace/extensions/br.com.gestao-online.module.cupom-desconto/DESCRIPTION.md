@@ -16,7 +16,7 @@
 
 ### O que muda no meu sistema?
 
-Dentro da opção Parametrizações no seu menu, ao clicar, você encontrará um novo item com o nome "Cupom de desconto", ele será a nova tela que você terá acesso no sistema. Quando ativo, você precisará cpmfigurar na tela **Tipo Movimentação** que fará venda com desconto, e em seguida escolher a opção que agora ficará disponível **Cupom de Desconto**.
+Dentro da opção Parametrizações no seu menu, ao clicar, você encontrará um novo item com o nome "Cupom de desconto", ele será a nova tela que você terá acesso no sistema. Quando ativo, você precisará configurar na tela **Tipo Movimentação** que fará venda com desconto, e em seguida escolher a opção que agora ficará disponível **Cupom de Desconto**.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/b69aefa32475b8554119a3a118f8fc721068da88/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_03.gif?raw=true)
 
