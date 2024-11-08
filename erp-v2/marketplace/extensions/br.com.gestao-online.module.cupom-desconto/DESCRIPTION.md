@@ -16,8 +16,18 @@
 
 ### O que muda no meu sistema?
 
-Dentro da opção Parametrizações no seu menu, ao clicar, você encontrará um novo item com o nome "Cupom de desconto", ele será a nova tela que você terá para acesso no sistema. Quando ativo....
+Dentro da opção Parametrizações no seu menu, ao clicar, você encontrará um novo item com o nome "Cupom de desconto", ele será a nova tela que você terá acesso no sistema. Quando ativo, você precisará cpmfigurar na tela **Tipo Movimentação** que fará venda com desconto, e em seguida escolher a opção que agora ficará disponível **Cupom de Desconto**.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/b69aefa32475b8554119a3a118f8fc721068da88/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_03.gif?raw=true)
+
+Com os cupons já cadastrados e configurados, você agora pode efetuar vendas e o botão cupom de desconto ficará disponível para os clientes utilizarem no momento da compra por usa landing page, ou então você usá-lo em vendas diretas pelo sistema.
+
+<br>
+
+| | |
+|-|-|
+|![](https://github.com/Gestao-Online/public-docs/blob/b69aefa32475b8554119a3a118f8fc721068da88/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_03.png?raw=true) |![](https://github.com/Gestao-Online/public-docs/blob/b69aefa32475b8554119a3a118f8fc721068da88/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_04.png?raw=true) |
+
+<br>
 
 O módulo *Cupom de Desconto* do Gestão Online é uma ferramenta essencial para quem quer elevar a performance de vendas, gerenciar campanhas promocionais e criar experiências de compra únicas. Transforme sua estratégia de marketing com uma solução ágil e totalmente integrada ao seu ERP!
