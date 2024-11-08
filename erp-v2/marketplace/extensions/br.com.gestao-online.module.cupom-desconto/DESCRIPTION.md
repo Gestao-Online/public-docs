@@ -26,7 +26,7 @@ Com os cupons já cadastrados e configurados, você agora pode efetuar vendas e 
 
 | | |
 |-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/b69aefa32475b8554119a3a118f8fc721068da88/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_03.png?raw=true) |![](https://github.com/Gestao-Online/public-docs/blob/b69aefa32475b8554119a3a118f8fc721068da88/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_04.png?raw=true) |
+|![](https://github.com/Gestao-Online/public-docs/blob/c357565e3079aff1add9eafe366cd27a22f6a6c5/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_04.png?raw=true) |![](https://github.com/Gestao-Online/public-docs/blob/c357565e3079aff1add9eafe366cd27a22f6a6c5/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_03.png?raw=true) |
 
 <br>
 
