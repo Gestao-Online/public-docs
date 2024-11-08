@@ -18,12 +18,12 @@ Além disso, o módulo permite registrar todas as entradas e saídas de produtos
 
 Ao instalar o módulo de controle de estoque, você terá disponível três telas novas para uso, a primeira é a de ***Local de estoque** onde você pode cadastrar mais de um local de estoque, podendo este local ter outros vinculados a ele. E cadas movimentação realizada nele também fica disponível para análise somente abrindo o local cadastrado.
 
-![](https://github.com/Gestao-Online/public-docs/blob/2bf5f2b383d0a1fe1ca7e6c4410ceaf2ce6da8ad/erp-v2/marketplace/extensions/br.com.gestao-online.module.estoque/assets/modulo_estoque_02.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/565ffaa2d20e3fe2bae7637ef010f63583b820fe/erp-v2/marketplace/extensions/br.com.gestao-online.module.estoque/assets/modulo_estoque_02.gif?raw=true)
 
 A segunda tela disponível é **Estoque Produtos**, para você definir a quantidade disponível e mínima de cada produto, assim como definir a qual local pertence. E junto com a terceira tela disponível **Movimentações Estoque** você acompanha as entradas, saídas, ajustes e devoluções realizadas no estoque da sua empresa.
 
 | | |
 |-|-|
-|![]() |![]() |
+|![Tela Estoque Produtos](https://github.com/Gestao-Online/public-docs/blob/565ffaa2d20e3fe2bae7637ef010f63583b820fe/erp-v2/marketplace/extensions/br.com.gestao-online.module.estoque/assets/modulo_estoque_03.gif?raw=true) |![Tela Movimentações Estoque](https://github.com/Gestao-Online/public-docs/blob/565ffaa2d20e3fe2bae7637ef010f63583b820fe/erp-v2/marketplace/extensions/br.com.gestao-online.module.estoque/assets/modulo_estoque_04.gif?raw=true) |
 
-Com o Módulo de Controle de Estoque, você maximiza a produtividade, melhora o atendimento ao cliente e mantém o controle total do seu inventário.
+**Com o Módulo de Controle de Estoque, você maximiza a produtividade, melhora o atendimento ao cliente e mantém o controle total do seu inventário.**
