@@ -1,5 +1,28 @@
-# Módulo Loja Virtual (LandingPage)
+### Transforme seu Negócio com uma Loja Virtual Fácil e Completa!
 
-O Módulo de Loja Virtual é a solução ideal para empresas que desejam expandir suas vendas online de forma rápida e eficiente. Com esse módulo, você pode criar uma landing page exclusiva para vendas, sem a necessidade de desenvolvimentos complexos.
+| | |
+|-|-|
+|Com o Módulo de Loja Virtual do Gestão Online, você cria uma landing page exclusiva para vendas, sem complicações e sem a necessidade de desenvolvimentos complexos.<br><br>Ideal para empresas que querem entrar no e-commerce rapidamente, nossa solução oferece um modelo prático e otimizado, que permite ao usuário personalizar todos os detalhes com facilidade. |![]() |
 
-A página é pré-configurada, simplificando o processo, permitindo que seus produtos cadastrados no sistema sejam automaticamente vinculados e disponibilizados para venda na landing page. Isso garante que sua loja esteja sempre atualizada com o estoque e as ofertas mais recentes, sem a necessidade de ajustes manuais. É a forma mais prática de iniciar suas vendas online e oferecer aos clientes uma experiência de compra rápida e acessível.
+<br>
+
+### Principais Vantagens do Módulo de Loja Virtual
+
+| | |
+|-|-|
+|**Configuração Simples e Rápida**<br>Nossa loja virtual usa um modelo pré-definido que se adapta automaticamente aos dados da sua empresa, poupando seu tempo e esforço. Em apenas alguns passos, você tem uma página de vendas profissional e funcional. |**Integração Completa com o ERP Gestão Online**<br>As informações sobre vendas, estoque e pedidos ficam centralizadas em um só lugar, garantindo que você tenha total visibilidade e controle do seu negócio. |
+|**Controle Total dos Produtos e Preços**<br>Você define quais produtos serão vendidos, configura os preços e gerencia suas promoções diretamente no sistema, com atualizações em tempo real para o seu cliente. |**Design Profissional e Responsivo**<br>A loja virtual é projetada para oferecer uma ótima experiência de compra em todos os dispositivos, do desktop ao mobile.|
+
+<br>
+
+### Venda Online sem Complexidade!
+
+| | |
+|-|-|
+|Com o Módulo de Loja Virtual do Gestão Online, o seu negócio fica pronto para o e-commerce de forma descomplicada e com o suporte de uma ferramenta que entende as necessidades da sua empresa. Expanda sua presença digital, atraia mais clientes e aumente suas vendas sem precisar investir em uma infraestrutura complexa. |![]() |
+
+
+
+<br>
+
+**Comece Hoje Mesmo! Entre em contato para saber mais sobre o módulo e como ele pode transformar seu negócio.**
