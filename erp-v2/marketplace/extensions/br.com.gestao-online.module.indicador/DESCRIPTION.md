@@ -1,8 +1,8 @@
 ### Transforme suas vendas em oportunidades de ganho com o Módulo de Indicador do Gestão Online!
 
-Com o Módulo de Indicador, você agora pode controlar e recompensar aqueles que impulsionam suas vendas, tornando o processo de indicação uma parte estratégica do seu negócio. 
-
-Este módulo permite que você configure facilmente indicadores específicos para cada venda realizada, garantindo o acompanhamento e a valorização de quem contribui para o crescimento de sua empresa.
+| | |
+|-|-|
+|Com o Módulo de Indicador, você agora pode controlar e recompensar aqueles que impulsionam suas vendas, tornando o processo de indicação uma parte estratégica do seu negócio. <br><br>Este módulo permite que você configure facilmente indicadores específicos para cada venda realizada, garantindo o acompanhamento e a valorização de quem contribui para o crescimento de sua empresa. |![](https://github.com/Gestao-Online/public-docs/blob/56248ee37231d8fdd563d51baa42196905247872/erp-v2/marketplace/extensions/br.com.gestao-online.module.indicador/assets/modulo_indicador_01.png?raw=true) |
 
 ### Principais Funcionalidades
 
