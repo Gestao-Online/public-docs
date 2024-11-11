@@ -21,11 +21,11 @@
 
 ### O que muda no meu sistema?
 
-Você terá acesso a duas novas telas, a primeira sendo **Contrato de controle de unidades**, onde você pode configurar as unidades que gerencia definindo assim seus contratos, com datas de validades, valores, resultados obtidos, emitir relatórios de unidades cadastradas, etc.
+Você terá acesso a duas novas telas, a primeira sendo **Contrato de controle de unidades**, onde você pode configurar as unidades que gerencia, definindo assim seus contratos, com datas de validades, valores, resultados obtidos, emitir relatórios de unidades cadastradas, etc.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/2dc39b7967e58987f0b940a5d2af605da40ffbcc/erp-v2/marketplace/extensions/br.com.gestao-online.module.gestao-multi-unidade-parceira/assets/modulo_gestao-multi-unidade-parceiras_03.gif?raw=true)
 
-A segunda tela será de **Controle de movimentação unidade**, onde ficam organizadas todas as movimentações das unidades cadastradas no sistema, podendo utilizar filtros para ver receitas ,despesas, separar por unidades, data de lançamentos, etc.
+A segunda tela será de **Controle de movimentação unidade**, onde ficam organizadas todas as movimentações das unidades cadastradas no sistema, podendo utilizar filtros para ver receitas, despesas, separar por unidades, data de lançamentos, etc.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/2dc39b7967e58987f0b940a5d2af605da40ffbcc/erp-v2/marketplace/extensions/br.com.gestao-online.module.gestao-multi-unidade-parceira/assets/modulo_gestao-multi-unidade-parceiras_04.gif?raw=true)
 
