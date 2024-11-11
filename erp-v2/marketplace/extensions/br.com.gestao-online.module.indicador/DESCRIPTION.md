@@ -22,7 +22,8 @@
 
 ### O que muda no meu sistema?
 
-Com este módulo instalado você terá disponível uma tela específica somente os cadastros que possuam o tipo **indicador** definido em seus cadastros, podendo assim, de forma organizada gerenciar somente os indicadores, podendo remover, adicionar e alterar informações sobre eles.
+
+Com este módulo instalado, você terá disponível uma tela específica somente para os cadastros que possuam o tipo **indicador** definido em seus cadastros, podendo assim, de forma organizada, gerenciar somente os indicadores, podendo remover, adicionar e alterar informações sobre eles.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/47f3332d248bac92c6ab03c8e70b7294b09a239c/erp-v2/marketplace/extensions/br.com.gestao-online.module.indicador/assets/modulo_indicador_03.gif?raw=true)
 
@@ -30,7 +31,7 @@ Com este módulo instalado você terá disponível uma tela específica somente 
 
 | | |
 |-|-|
-|Quando efetuar novas vendas você verá que um novo campo estará disponível para utilização *Parceiro Inidcador*, e assim você pode definir os parceiros das futuras vendas que fizer no sistema, lembrando que também poderá definir o indicador dentro do cadastro do cliente no campo *Parceiro indicador*.|![](https://github.com/Gestao-Online/public-docs/blob/dd42afaec1e730ab3948e859de0b19c0b06ef6cb/erp-v2/marketplace/extensions/br.com.gestao-online.module.indicador/assets/modulo_indicador_04.png?raw=true)|
+|Quando efetuar novas vendas, você verá que um novo campo estará disponível para utilização, e assim você pode definir os parceiros das futuras vendas que fizer no sistema, lembrando que também poderá definir o indicador dentro do cadastro do cliente no campo *Parceiro Indicador.*|![](https://github.com/Gestao-Online/public-docs/blob/dd42afaec1e730ab3948e859de0b19c0b06ef6cb/erp-v2/marketplace/extensions/br.com.gestao-online.module.indicador/assets/modulo_indicador_04.png?raw=true)|
 
 <br>
 
