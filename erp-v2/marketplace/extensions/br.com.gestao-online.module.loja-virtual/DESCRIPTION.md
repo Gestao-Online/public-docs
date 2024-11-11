@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|Com o Módulo de Loja Virtual do Gestão Online, você cria uma landing page exclusiva para vendas, sem complicações e sem a necessidade de desenvolvimentos complexos.<br><br>Ideal para empresas que querem entrar no e-commerce rapidamente, nossa solução oferece um modelo prático e otimizado, que permite ao usuário personalizar todos os detalhes com facilidade. |![]() |
+|Com o Módulo de Loja Virtual do Gestão Online, você cria uma landing page exclusiva para vendas, sem complicações e sem a necessidade de desenvolvimentos complexos.<br><br>Ideal para empresas que querem entrar no e-commerce rapidamente, nossa solução oferece um modelo prático e otimizado, que permite ao usuário personalizar todos os detalhes com facilidade. |![](https://github.com/Gestao-Online/public-docs/blob/9366f813455acdb4d60e49abae687e1da1446751/erp-v2/marketplace/extensions/br.com.gestao-online.module.loja-virtual/assets/modulo_loja-virutal_01.png?raw=true) |
 
 <br>
 
@@ -19,7 +19,15 @@
 
 | | |
 |-|-|
-|Com o Módulo de Loja Virtual do Gestão Online, o seu negócio fica pronto para o e-commerce de forma descomplicada e com o suporte de uma ferramenta que entende as necessidades da sua empresa. Expanda sua presença digital, atraia mais clientes e aumente suas vendas sem precisar investir em uma infraestrutura complexa. |![]() |
+|Com o Módulo de Loja Virtual do Gestão Online, o seu negócio fica pronto para o e-commerce de forma descomplicada e com o suporte de uma ferramenta que entende as necessidades da sua empresa. Expanda sua presença digital, atraia mais clientes e aumente suas vendas sem precisar investir em uma infraestrutura complexa. |![](https://github.com/Gestao-Online/public-docs/blob/9366f813455acdb4d60e49abae687e1da1446751/erp-v2/marketplace/extensions/br.com.gestao-online.module.loja-virtual/assets/modulo_loja-virutal_02.png?raw=true) |
+
+<br>
+
+## O que muda no meu sistema?
+
+Ativando este módulo instalado você terá disponível a opção de ativar a sua loja dentro da tela de **Unidades/Loja**, podendo gerar um link único para os clientes acessarem e efetuarem compras na sua loja, podendo definir tabela dep reço, descontos, produtos. E ainda disponibilizar lojas virtuais para seus parceiros indicadores.
+
+
 
 
 
