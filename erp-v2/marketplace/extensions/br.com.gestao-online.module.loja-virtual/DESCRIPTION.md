@@ -9,7 +9,7 @@
 ### Principais Vantagens do Módulo de Loja Virtual
 
 | | |
-|-|-|
+|:-:|:-:|
 |**Configuração Simples e Rápida**<br>Nossa loja virtual usa um modelo pré-definido que se adapta automaticamente aos dados da sua empresa, poupando seu tempo e esforço. Em apenas alguns passos, você tem uma página de vendas profissional e funcional. |**Integração Completa com o ERP Gestão Online**<br>As informações sobre vendas, estoque e pedidos ficam centralizadas em um só lugar, garantindo que você tenha total visibilidade e controle do seu negócio. |
 |**Controle Total dos Produtos e Preços**<br>Você define quais produtos serão vendidos, configura os preços e gerencia suas promoções diretamente no sistema, com atualizações em tempo real para o seu cliente. |**Design Profissional e Responsivo**<br>A loja virtual é projetada para oferecer uma ótima experiência de compra em todos os dispositivos, do desktop ao mobile.|
 
@@ -25,11 +25,9 @@
 
 ## O que muda no meu sistema?
 
-Ativando este módulo instalado você terá disponível a opção de ativar a sua loja dentro da tela de **Unidades/Loja**, podendo gerar um link único para os clientes acessarem e efetuarem compras na sua loja, podendo definir tabela dep reço, descontos, produtos. E ainda disponibilizar lojas virtuais para seus parceiros indicadores.
+Ativando este módulo instalado você terá disponível a opção de ativar a sua loja dentro da tela de **Unidades/Loja**, podendo gerar um link único para os clientes acessarem e efetuarem compras na sua loja, podendo definir tabela de preço, descontos, produtos. E ainda disponibilizar lojas virtuais para seus parceiros indicadores.
 
-
-
-
+![](https://github.com/Gestao-Online/public-docs/blob/6f3bc83b55d9ed7a2f7e2b008cfeba4ba4e2ee2b/erp-v2/marketplace/extensions/br.com.gestao-online.module.loja-virtual/assets/modulo_loja-virtual_03.gif?raw=true)
 
 <br>
 
