@@ -29,6 +29,8 @@ Garanta a conformidade fiscal, facilite seu processo de emissão de notas e conc
 
 ### O que muda no meu sistema?
 
+A partir do momento que você instalar o modulo de NFe, você terá disponível para uso novas telas, das mais importantes para você acompanhar, será a de **Notas Fiscais (NFe)** e **Notas Fiscais (NFCe)**
+
 ![]()
 
 
