@@ -8,16 +8,14 @@
 
 ### Principais Benefícios
 
-| | |
-|-|-|
-|**Controle Unificado**<br>Gerencie múltiplas empresas em uma única plataforma, com visualização fácil e organizada. |**Configuração Personalizada**<br>Para cada empresa, é possível definir locais de estoque, produtos e serviços específicos, garantindo uma gestão independente e eficiente. |
-|**Relatórios Segregados**<br> Obtenha relatórios personalizados por empresa, permitindo um acompanhamento preciso dos resultados e da performance individual de cada unidade. |**Maior Organização e Agilidade**<br> Com o Módulo de Multi Empresas, você consegue visualizar e organizar as operações de cada unidade, facilitando a tomada de decisões estratégicas. |
+| | | |
+|-|-|-|
+|![](https://github.com/Gestao-Online/public-docs/blob/e88967409b996bc6a641694f0ded70f8f2f69a0f/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-empresa/assets/modulo_empresas_03.png?raw=true) |**Controle Unificado**<br>Gerencie múltiplas empresas em uma única plataforma, com visualização fácil e organizada.<br><br>**Relatórios Segregados**<br> Obtenha relatórios personalizados por empresa, permitindo um acompanhamento preciso dos resultados e da performance individual de cada unidade.|**Configuração Personalizada**<br>Para cada empresa, é possível definir locais de estoque, produtos e serviços específicos, garantindo uma gestão independente e eficiente.<br><br>**Maior Organização e Agilidade**<br> Com o Módulo de Multi Empresas, você consegue visualizar e organizar as operações de cada unidade, facilitando a tomada de decisões estratégicas.|
+
 
 <br>
 
-| | |
-|-|:-:|
-|![](https://github.com/Gestao-Online/public-docs/blob/e88967409b996bc6a641694f0ded70f8f2f69a0f/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-empresa/assets/modulo_empresas_03.png?raw=true) |Ideal para empresas que desejam expandir e precisam de uma plataforma que acompanhe o seu crescimento, o Módulo de Multi Empresas do Gestão Online oferece mais controle, agilidade e eficiência para o seu negócio. |
+Ideal para empresas que desejam expandir e precisam de uma plataforma que acompanhe o seu crescimento, o Módulo de Multi Empresas do Gestão Online oferece mais controle, agilidade e eficiência para o seu negócio.
 
 <br>
 
