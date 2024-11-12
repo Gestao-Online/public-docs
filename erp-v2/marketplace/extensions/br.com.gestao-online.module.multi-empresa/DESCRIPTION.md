@@ -15,13 +15,17 @@
 
 <br>
 
-Ideal para empresas que desejam expandir e precisam de uma plataforma que acompanhe o seu crescimento, o Módulo de Multi Empresas do Gestão Online oferece mais controle, agilidade e eficiência para o seu negócio.
+| | |
+|-|:-:|
+|![](https://github.com/Gestao-Online/public-docs/blob/e88967409b996bc6a641694f0ded70f8f2f69a0f/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-empresa/assets/modulo_empresas_03.png?raw=true) |Ideal para empresas que desejam expandir e precisam de uma plataforma que acompanhe o seu crescimento, o Módulo de Multi Empresas do Gestão Online oferece mais controle, agilidade e eficiência para o seu negócio. |
+
+
 
 ### O que muda no meu sistema?
 
 Com este módulo instalado em seu sistema, a tela de **Empresas** passará a ser exibida na forma de lista, possibilitando você cadastrar novas empresas, tambpem editar, e até remover empresas cadastradas. Este módulo trabalha muito bem em parceria com o módulo de unidades parceiras e controle de estoque, pois estes pontos podem ser vinculados e trabalharem em conjunto.
 
-![](https://github.com/Gestao-Online/public-docs/blob/76ce99cf2712f91fb96094b6041e415118a57524/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-empresa/assets/modulo_%2Culti-empresa_03.gif)
+![](https://github.com/Gestao-Online/public-docs/blob/76ce99cf2712f91fb96094b6041e415118a57524/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-empresa/assets/modulo_%2Culti-empresa_03.gif?raw=true)
 
 <br>
 
