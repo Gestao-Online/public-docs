@@ -1,10 +1,18 @@
-# Módulo de multi unidades/locais de estoque
+### Gestão Descentralizada e Conectada para sua Empresa
 
-No contexto de multi unidades, é possível gerenciar movimentações de pedidos, vendas, recorrência de vendas, etc. Gerenciar financeiro de contas a pagar e contas a receber por unidade de negócio (BU) ou Projeto.
+| | |
+|-|-|
+|Expanda sua capacidade de gestão com o Módulo de Multi Unidades do Gestão Online, pensado especialmente para empresas que operam em múltiplas localizações ou possuem filiais, unidades e centros de distribuição diversos.<br><br>Este módulo permite cadastrar e organizar todas as unidades da sua empresa, vinculando-as de forma prática e eficiente às empresas e locais de estoque já cadastrados no sistema.|![]() |
 
-Dentro de uma mesma empresa, por exemplo, você pode ter unidades de negócios, o que é muito útil para departamentalizar uma ou mais empresas.
 
-Essa separação por projeto pode ser útil para uma visão gerencial comercial (Ex: metas, resultados por canal, etc.) e também para uma visão estratégica financeira (Ex: identificar a unidade de negócio que teve o maior custo e o menor resultado, por exemplo), conectando diretamente as receitas e despesas a cada unidade.
+### Benefícios que Transformam a Gestão
 
-![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade/assets/modulo_multi_unidade_01.png?raw=true)
-![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade/assets/modulo_multi_unidade_02.png?raw=true)
+**Flexibilidade Total** Adicione quantas unidades desejar, e administre cada uma como unidade pai ou unidade filha, criando uma hierarquia clara e bem definida.
+
+**Controle Integrado de Estoques** Vincule suas unidades a diferentes locais de estoque, facilitando o controle de mercadorias em trânsito e a alocação de recursos entre diferentes unidades.
+
+**Relatórios Personalizados** Gere relatórios detalhados sobre as unidades cadastradas, permitindo uma visão completa de cada operação e facilitando a tomada de decisões estratégicas.
+
+### Ideal para Empresas em Crescimento
+
+Seja uma expansão nacional ou uma estrutura interna mais complexa, o Módulo de Multi Unidades oferece a flexibilidade e o controle que seu negócio precisa. Simplifique a operação em múltiplas unidades com um sistema centralizado, sem perder a capacidade de gerenciar cada ponto com a atenção e o detalhe necessários.
