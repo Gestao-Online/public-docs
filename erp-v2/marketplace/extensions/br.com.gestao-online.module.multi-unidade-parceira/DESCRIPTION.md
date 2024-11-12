@@ -22,10 +22,10 @@
 
 Você poderá incluir tabelas de custo e comissão nas unidades cadastradas ou unidades que cadastrar futuramente, podendo assim configurar informações de ganhos com custo de produto/serviço, podendo gerar relatórios com essas informações.
 
-![]()
+![](https://github.com/Gestao-Online/public-docs/blob/ff442f70e61a546cf97ed315fc00cb82c161610b/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade-parceira/assets/modulo_multi-unidade-parceira_03.gif?raw=true)
 
-E acompanhar o dashboard de vendas que receberá dois novos campos com os relatórios das unidades.
+E ainda, pode acompanhar pelo dashboard de vendas, dois novos campos, que exibem os relatórios das unidades.
 
-![]()
+![](https://github.com/Gestao-Online/public-docs/blob/ff442f70e61a546cf97ed315fc00cb82c161610b/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade-parceira/assets/modulo_multi-unidade-parceira_04.gif?raw=true)
 
 **Adicione agora o Módulo de Multi Unidade Parceira ao seu Gestão Online e descubra o poder do controle financeiro total!**
