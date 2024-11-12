@@ -29,6 +29,8 @@ Com este módulo instalado em seu sistema, a tela de **Empresas** passará a ser
 
 Com um sistema de cadastro pré automatizado, ao inserir o CNPJ da empresa, os demais campos terão preenchimento automático com base nos dados da receita federal.
 
+![](https://github.com/Gestao-Online/public-docs/blob/1262f54e01a6091af3a13cb2c4009a1ea4f648eb/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-empresa/assets/modulo_multi-empresa_05.gif?raw=true)
+
 <br>
 
 **Esse módulo é essencial para quem quer crescer com organização e segurança!**
