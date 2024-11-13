@@ -27,7 +27,7 @@
 
 A partir do momento que você instalar o modulo de NFe, você terá disponível para uso novas telas, dentre elas, você pode utilizar para acompanhamento a tela **Notas Fiscais (NFSe)**. Que te trará uma lista com todas as NF's geradas até o momento, e podendo ver as informações em cada uma, até mesmo baixar as NF's em lote, separando por periodo e escolhendo o tipo de arquivo que deseja baixar.
 
-![]()
+![](https://github.com/Gestao-Online/public-docs/blob/f650d5f054fe4bf1ced004563243e930f7ab8307/erp-v2/marketplace/extensions/br.com.gestao-online.module.nfse/assets/modulo_nfse_05.gif?raw=true)
 
 <br>
 
