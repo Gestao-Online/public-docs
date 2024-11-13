@@ -31,7 +31,7 @@ Garanta a conformidade fiscal, facilite seu processo de emissão de notas e conc
 
 A partir do momento que você instalar o modulo de NFe, você terá disponível para uso novas telas, das mais importantes para você acompanhar, será a de **Notas Fiscais (NFe)** e **Notas Fiscais (NFCe)**
 
-![]()
+![](https://github.com/Gestao-Online/public-docs/blob/1791347511025562eb10a9362642d2303430f9bc/erp-v2/marketplace/extensions/br.com.gestao-online.module.nfe/assets/modulo_nfe_04.gif?raw=true)
 
 
 **Experimente o Módulo NFe do Gestão Online e descubra como a tecnologia pode transformar a gestão fiscal do seu negócio!**
