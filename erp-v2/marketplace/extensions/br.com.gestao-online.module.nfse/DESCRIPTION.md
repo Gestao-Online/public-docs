@@ -2,9 +2,9 @@
 
 |||
 |-|-|
-|No mundo dos negócios, a agilidade e a precisão na emissão de notas fiscais são fundamentais para garantir o controle financeiro e o compliance. O Módulo NFSe do Gestão Online foi desenvolvido especialmente para facilitar a emissão de Notas Fiscais de Serviço (NFS-e), oferecendo uma solução completa e integrada ao seu ERP.||
+|No mundo dos negócios, a agilidade e a precisão na emissão de notas fiscais são fundamentais para garantir o controle financeiro e o compliance.<br><br>O Módulo NFSe do Gestão Online foi desenvolvido especialmente para facilitar a emissão de Notas Fiscais de Serviço (NFS-e), oferecendo uma solução completa e integrada ao seu ERP.|![](https://github.com/Gestao-Online/public-docs/blob/7ffdafceb463440138d1e44b6616e2f964be5b7e/erp-v2/marketplace/extensions/br.com.gestao-online.module.nfse/assets/modulo_nfse_03.png?raw=true)|
 
-
+<br>
 
 ### Vantagens do Módulo NFSe
 
