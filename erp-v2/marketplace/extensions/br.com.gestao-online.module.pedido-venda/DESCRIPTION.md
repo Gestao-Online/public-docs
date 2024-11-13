@@ -2,9 +2,7 @@
 
 | | |
 |-|-|
-| | |
-
-Simplifique e otimize suas vendas com o Módulo Pedido de Venda do Gestão Online! Esse poderoso recurso do nosso marketplace foi desenvolvido para consolidar serviços digitais em uma única transação, tornando o processo de compra muito mais prático e ágil para você e seus clientes.
+|Simplifique e otimize suas vendas com o Módulo Pedido de Venda do Gestão Online! Esse poderoso recurso do nosso marketplace foi desenvolvido para consolidar serviços digitais em uma única transação, tornando o processo de compra muito mais prático e ágil para você e seus clientes. |![](https://github.com/Gestao-Online/public-docs/blob/f323e7660e035528d9d1e83f05b4d1a6a38934fd/erp-v2/marketplace/extensions/br.com.gestao-online.module.pedido-venda/assets/modulo_pedido-venda_02.png?raw=true) |
 
 <br>
 
@@ -27,7 +25,7 @@ O Módulo Pedido de Venda é a escolha certa para empresas que valorizam a efici
 
 ### O que muda no meu sistema?
 
-
+Você terá acesso a uma nova tela para acessar, a tela de **Pedido de vendas**
 
 <br>
 
