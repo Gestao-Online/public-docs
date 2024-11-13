@@ -25,7 +25,9 @@ O Módulo Pedido de Venda é a escolha certa para empresas que valorizam a efici
 
 ### O que muda no meu sistema?
 
-Você terá acesso a uma nova tela para acessar, a tela de **Pedido de vendas**
+Você terá acesso a uma nova tela **Pedido de vendas** para acessar, ela terá as mesmas funções da tela de vendas padrão, porém com o diferencia da venda de vários itens digitais em uma só venda. Para casos que seja necessário em um mesmo código de venda ter vários itens de um único cliente.
+
+![](https://github.com/Gestao-Online/public-docs/blob/84a426f9075db2987b90c62ae39f54a7ee160961/erp-v2/marketplace/extensions/br.com.gestao-online.module.pedido-venda/assets/modulo_pedido-venda_03.gif?raw=true)
 
 <br>
 
