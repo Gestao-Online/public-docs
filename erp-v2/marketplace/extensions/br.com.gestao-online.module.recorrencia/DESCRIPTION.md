@@ -1,7 +1,27 @@
-# Módulo Recorrência
+### Transforme seu Negócio com Vendas Recorrentes Simplificadas!
 
-O Módulo de Recorrência é uma ferramenta essencial para empresas que oferecem produtos ou serviços de forma contínua. Ele permite que você automatize o processo de vendas recorrentes, facilitando a cobrança em ciclos regulares, como mensal, semestral ou anual. Essa funcionalidade é ideal para empresas que trabalham com assinaturas, contratos de longo prazo ou serviços de renovação automática.
+No atual mercado, a venda de produtos e serviços recorrentes, como assinaturas, mensalidades e planos contínuos, é uma estratégia poderosa para aumentar a previsibilidade de receita e fortalecer o relacionamento com os clientes. Com o Módulo de Recorrência do Gestão Online, você pode automatizar e organizar suas vendas recorrentes de maneira inteligente e eficiente.
 
-Com esse módulo, você garante mais praticidade na gestão de cobranças e uma experiência simplificada para os seus clientes, que não precisam repetir o processo de compra a cada ciclo. A venda recorrente é uma maneira eficiente de garantir receita constante, além de fortalecer o relacionamento com seus clientes, oferecendo a eles comodidade e previsibilidade nos pagamentos.
+### Por que escolher o Módulo de Recorrência?
 
-![](https://github.com/Gestao-Online/public-docs/blob/c80618df6acf77be76ae119b7aa08d87adcf5ce6/erp-v2/marketplace/extensions/br.com.gestao-online.module.recorrencia/assets/modulo_recorrencia_01.png?raw=true)
+    Gestão Automática de Cobranças
+    Simplifique o processo de cobrança com o sistema automático de faturas recorrentes. Defina intervalos de pagamento (mensal, trimestral, semestral, ou anual) e deixe que o módulo gerencie os ciclos de cobrança para você.
+
+    Controle de Adesões e Cancelamentos
+    Acompanhe assinaturas, renovações e cancelamentos em um painel intuitivo, garantindo controle e previsibilidade sobre as entradas de receita.
+
+    Flexibilidade para Ofertas Variadas
+    Seja qual for o seu modelo de negócios, o Módulo de Recorrência adapta-se facilmente, permitindo criar ofertas personalizadas que atendam exatamente às demandas dos seus clientes.
+
+    Integração Total com o Gestão Online
+    Totalmente integrado ao seu ERP, o Módulo de Recorrência conecta-se aos demais módulos de gestão financeira, relatórios e CRM, gerando insights completos sobre as vendas e facilitando sua análise de desempenho.
+
+### Benefícios para o seu Negócio:
+
+    Redução de Trabalho Operacional: Automatize tarefas repetitivas e elimine erros manuais nas cobranças.
+    Fidelização de Clientes: Com um sistema confiável de renovação, você reforça a confiança e a fidelidade dos clientes.
+    Previsibilidade de Receita: Tenha uma visão clara e planejada das receitas futuras, com a segurança e a estabilidade que só a recorrência oferece.
+
+Transforme a experiência dos seus clientes e otimize a receita do seu negócio com o Módulo de Recorrência do Gestão Online. Fale com um de nossos consultores e descubra como esse módulo pode ser o próximo passo para um crescimento contínuo e sustentável.
+
+**Aumente a eficiência, reduza o trabalho manual e garanta previsibilidade financeira. Adquira o Módulo de Recorrência e simplifique a gestão de vendas recorrentes no seu negócio!**
