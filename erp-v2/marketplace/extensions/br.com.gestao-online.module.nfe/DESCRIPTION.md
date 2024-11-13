@@ -10,8 +10,8 @@
 
 |||
 |:-:|:-:|
-|**Emissão Rápida e Simples**<br>Emita NFes diretamente pelo sistema, sem a necessidade de softwares adicionais ou procedimentos complicados.|**Acompanhamento em Tempo Real**<br>Monitore o status das notas fiscais emitidas, desde a criação até a validação, garantindo que tudo esteja sempre em conformidade com a legislação.|
-|**Impressão de Notas Fiscais**<br>Após a emissão, você pode gerar e imprimir as NFes com facilidade, garantindo um fluxo completo de emissão à entrega ao cliente.|**Integração Total com o Gestão Online**<br>O Módulo NFe é totalmente integrado ao seu ERP Gestão Online, oferecendo acesso a dados centralizados e facilitando a gestão do faturamento e das obrigações fiscais.|
+|**Emissão Rápida e Simples**<br>Emita NFe diretamente pelo sistema, sem a necessidade de softwares adicionais ou procedimentos complicados.|**Acompanhamento em Tempo Real**<br>Monitore o status das notas fiscais emitidas, desde a criação até a validação, garantindo que tudo esteja sempre em conformidade com a legislação.|
+|**Impressão de Notas Fiscais**<br>Após a emissão, você pode gerar e imprimir as NFe's com facilidade, garantindo um fluxo completo de emissão à entrega ao cliente.|**Integração Total com o Gestão Online**<br>O Módulo NFe é totalmente integrado ao seu ERP Gestão Online, oferecendo acesso a dados centralizados e facilitando a gestão do faturamento e das obrigações fiscais.|
 
 <br>
 
@@ -27,7 +27,7 @@ Garanta a conformidade fiscal, facilite seu processo de emissão de notas e conc
 
 ### O que muda no meu sistema?
 
-A partir do momento que você instalar o modulo de NFe, você terá disponível para uso novas telas, dentre elas, você pode utilizar para acompanhamento as telas **Notas Fiscais (NFe)** e **Notas Fiscais (NFCe)**. Que te trará uma lista com todas as NF's geradas até o momento, e podendo ver as informações em cada uma, até mesmo baixar as NF's em lote, separando por periodo e escolhendo o tipo de arquivo que deseja baixar.
+A partir do momento que você instalar o módulo de NFe, você terá disponíveis para uso novas telas, dentre elas, você pode utilizar para acompanhamento as telas **Notas Fiscais (NFe)** e **Notas Fiscais (NFCe)**. Que te trará uma lista com todas as NF's geradas até o momento, e podendo ver as informações em cada uma, até mesmo baixar as NF's em lote, separando por período e escolhendo o tipo de arquivo que deseja baixar.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/1791347511025562eb10a9362642d2303430f9bc/erp-v2/marketplace/extensions/br.com.gestao-online.module.nfe/assets/modulo_nfe_04.gif?raw=true)
 

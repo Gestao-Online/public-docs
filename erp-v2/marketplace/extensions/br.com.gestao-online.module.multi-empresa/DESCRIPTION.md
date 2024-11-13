@@ -21,13 +21,13 @@ Ideal para empresas que desejam expandir e precisam de uma plataforma que acompa
 
 ### O que muda no meu sistema?
 
-Com este módulo instalado em seu sistema, a tela de **Empresas** passará a ser exibida na forma de lista, possibilitando você cadastrar novas empresas, tambpem editar, e até remover empresas cadastradas. Este módulo trabalha muito bem em parceria com o módulo de unidades parceiras e controle de estoque, pois estes pontos podem ser vinculados e trabalharem em conjunto.
+Com este módulo instalado em seu sistema, a tela de **Empresas** passará a ser exibida na forma de lista, possibilitando você cadastrar novas empresas, também editar e até remover empresas cadastradas. Este módulo trabalha muito bem em parceria com o módulo de unidades parceiras e controle de estoque, pois estes pontos podem ser vinculados e trabalharem em conjunto.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/b231bca6ba9a139f375a96fadc1c53e3c427964b/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-empresa/assets/modulo_multi-empresa_04.gif?raw=true)
 
 <br>
 
-Com um sistema de cadastro pré automatizado, ao inserir o CNPJ da empresa, os demais campos terão preenchimento automático com base nos dados da receita federal.
+Com um sistema de cadastro pré-automatizado, ao inserir o CNPJ da empresa, os demais campos terão preenchimento automático com base nos dados da receita federal.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/1262f54e01a6091af3a13cb2c4009a1ea4f648eb/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-empresa/assets/modulo_multi-empresa_05.gif?raw=true)
 

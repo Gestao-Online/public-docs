@@ -17,7 +17,7 @@
 
 ### O que muda no meu sistema?
 
-Com ele instalado, você ganhará uma nova tela chamada **Liberação de desconto**, nela estarão reunidas todas as solicitações de desconto que ultrapassem o que foi definido no perfil de desconto de cada vendedor. E dentro de cada item você pode aprovar ou não o desconto solicitado.
+Com ele instalado, você ganhará uma nova tela chamada **Liberação de desconto**. Nela estarão reunidas todas as solicitações de desconto que ultrapassem o que foi definido no perfil de desconto de cada vendedor. E dentro de cada item, você pode aprovar ou não o desconto solicitado.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/86c69b20946807d59dcde88f293a4f281fc4280e/erp-v2/marketplace/extensions/br.com.gestao-online.module.liberacao-desconto/assets/modulo_liberacao-desconto_03.gif?raw=true)
 

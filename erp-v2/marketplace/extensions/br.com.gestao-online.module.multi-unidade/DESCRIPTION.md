@@ -24,6 +24,6 @@
 
 ### O que muda no meu sistema?
 
-Você terá acesso à tela **Unidades/Lojas**, onde poderá cadastrar novas unidades e vinculá-las às empresas já registradas no módulo de multi-empresas. Também é possível criar unidades dependentes, formando uma hierarquia entre elas. Integrado ao módulo de loja virtual, você pode ainda configurar uma loja específica para cada unidade cadastrada, garantindo maior controle e flexibilidade na gestão de múltiplos pontos de venda.
+Você terá acesso à tela **Unidades/Lojas**, onde poderá cadastrar novas unidades e vinculá-las às empresas já registradas no módulo de multi empresas. Também é possível criar unidades dependentes, formando uma hierarquia entre elas. Integrado ao módulo de loja virtual, você pode ainda configurar uma loja específica para cada unidade cadastrada, garantindo maior controle e flexibilidade na gestão de múltiplos pontos de venda.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/2bf9822b0606393bda72e265815aab7e4d6238a3/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade/assets/modulo_multi-unidade_05.gif?raw=true)
