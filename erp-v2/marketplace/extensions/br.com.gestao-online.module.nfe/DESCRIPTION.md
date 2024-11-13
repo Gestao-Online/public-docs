@@ -27,7 +27,7 @@ Garanta a conformidade fiscal, facilite seu processo de emissão de notas e conc
 
 ### O que muda no meu sistema?
 
-A partir do momento que você instalar o modulo de NFe, você terá disponível para uso novas telas, dentre leas, você pode utilizar para acompanhamento as telas **Notas Fiscais (NFe)** e **Notas Fiscais (NFCe)**. Que te trará uma lista com todas as NF's geradas até o momento, e podendo ver as informações em cada uma, podendo até mesmo baixar as NF's em lote, separando por periodo e escolhendo o tipo de arquivo que deseja baixar.
+A partir do momento que você instalar o modulo de NFe, você terá disponível para uso novas telas, dentre elas, você pode utilizar para acompanhamento as telas **Notas Fiscais (NFe)** e **Notas Fiscais (NFCe)**. Que te trará uma lista com todas as NF's geradas até o momento, e podendo ver as informações em cada uma, até mesmo baixar as NF's em lote, separando por periodo e escolhendo o tipo de arquivo que deseja baixar.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/1791347511025562eb10a9362642d2303430f9bc/erp-v2/marketplace/extensions/br.com.gestao-online.module.nfe/assets/modulo_nfe_04.gif?raw=true)
 
