@@ -18,9 +18,9 @@
 
 | | |
 |-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/8b265bb8d1e1532849d576220655c4d2eb9f850c/erp-v2/marketplace/extensions/br.com.gestao-online.module.tipo-movimentacao/assets/modulo_tipo_movimentacao_03.png?raw=true) |O Módulo de Tipo de Movimentação garante um fluxo de trabalho mais organizado, preciso e eficiente, permitindo que a sua equipe trabalhe com tipos de movimentação adaptados ao seu modelo de negócio. <br><br>**Maior controle financeiro:** Alinhe movimentações de forma estratégica para uma visão financeira mais clara e precisa.<br>**Processos simplificados:** Reduza o tempo de operação com movimentações predefinidas e automatizadas.<br>**Conformidade e segurança:** Defina se cada movimentação emitirá nota fiscal ou não, mantendo a conformidade com as obrigações fiscais do seu setor.
- |
+|![](https://github.com/Gestao-Online/public-docs/blob/8b265bb8d1e1532849d576220655c4d2eb9f850c/erp-v2/marketplace/extensions/br.com.gestao-online.module.tipo-movimentacao/assets/modulo_tipo_movimentacao_03.png?raw=true) |O Módulo de Tipo de Movimentação garante um fluxo de trabalho mais organizado, preciso e eficiente, permitindo que a sua equipe trabalhe com tipos de movimentação adaptados ao seu modelo de negócio. <br><br>**Maior controle financeiro:** Alinhe movimentações de forma estratégica para uma visão financeira mais clara e precisa.<br>**Processos simplificados:** Reduza o tempo de operação com movimentações predefinidas e automatizadas.<br>**Conformidade e segurança:** Defina se cada movimentação emitirá nota fiscal ou não, mantendo a conformidade com as obrigações fiscais do seu setor.|
 
+<br>
 
 ### Por Que Escolher o Módulo de Tipo de Movimentação?
 
