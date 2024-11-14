@@ -28,6 +28,10 @@ Você terá acesso a uma nova tela **Venda recorrente** para acessar, ela terá 
 
 ![](https://github.com/Gestao-Online/public-docs/blob/a80c13171d7c69f887ea555b191216fb16a4aee2/erp-v2/marketplace/extensions/br.com.gestao-online.module.recorrencia/assets/modulo_recorrencia_04.gif?raw=true)
 
+Nos dois novos campos, você precisa marcar a data de duração da venda recorrente. Estes campos já abrem um calendário no momento que você clicar sobre eles.
+
+![](https://github.com/Gestao-Online/public-docs/blob/3ea665b165b65a9ad48268f75cbe63d2f3e48435/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_10_e_11.gif?raw=true)
+
 <br>
 
 **Aumente a eficiência, reduza o trabalho manual e garanta previsibilidade financeira. Adquira o Módulo de Recorrência e simplifique a gestão de vendas recorrentes no seu negócio!**
