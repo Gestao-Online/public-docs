@@ -18,4 +18,10 @@ Essa integração facilita o controle e evita erros, garantindo que cada venda o
 
 ### O que muda no meu sistema?
 
+Você terá acesso a uma nova tela para uso **Tabela de preços**, onde estarão concetradas todas as tabelas que você criar no sistema, separadas por categoria, entre preço, venda, comissão e custo. Além da nova tela, você terá novos campos para utilização, nas telas de criação de produtos, vendedores, unidades e parceiros.
+
+![]()
+
+<br>
+
 **Este módulo é uma ferramenta essencial para quem deseja elevar o nível do controle financeiro e de precificação, impulsionando o crescimento e o sucesso comercial.**
