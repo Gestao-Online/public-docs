@@ -10,11 +10,9 @@
 
 | | |
 |-|-|
-|![]() |**Cadastrar novas tabelas de preço:** Personalize tabelas conforme os produtos, clientes, ou regiões, de forma rápida e sem complicação.<br>**Editar e atualizar preços existentes:** Ajuste valores e condições de forma dinâmica, mantendo-se competitivo e adaptando-se às oscilações do mercado.<br>**Excluir tabelas antigas ou obsoletas:** Mantenha o sistema organizado, com apenas as tabelas relevantes para seu negócio. |
+|![](https://github.com/Gestao-Online/public-docs/blob/f4b3195a0e56e274dac1fb284097b34bafaaef22/erp-v2/marketplace/extensions/br.com.gestao-online.module.tabela-preco/assets/modulo_tabelas_preco_03.png?raw=true) |**Cadastrar novas tabelas de preço:** Personalize tabelas conforme os produtos, clientes, ou regiões, de forma rápida e sem complicação.<br><br>**Editar e atualizar preços existentes:** Ajuste valores e condições de forma dinâmica, mantendo-se competitivo e adaptando-se às oscilações do mercado.<br><br>**Excluir tabelas antigas ou obsoletas:** Mantenha o sistema organizado, com apenas as tabelas relevantes para seu negócio.<br><br>Além disso, o módulo é integrado com os principais fluxos de precificação do seu sistema, sendo fundamental para calcular preços em pedidos, vendas, contratos de recorrência, comissões, custos e muito mais. |
 
-<br>
-
-Além disso, o módulo é integrado com os principais fluxos de precificação do seu sistema, sendo fundamental para calcular preços em pedidos, vendas, contratos de recorrência, comissões, custos e muito mais. Essa integração facilita o controle e evita erros, garantindo que cada venda ou operação seja calculada com precisão, de acordo com a estratégia de preços do seu negócio.
+Essa integração facilita o controle e evita erros, garantindo que cada venda ou operação seja calculada com precisão, de acordo com a estratégia de preços do seu negócio.
 
 <br>
 
