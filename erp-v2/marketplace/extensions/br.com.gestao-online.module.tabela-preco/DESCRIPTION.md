@@ -1,13 +1,23 @@
-# Módulo Tabela de preço
+### Controle Total da Precificação ao Seu Alcance
 
-O Módulo de Tabela de Preço oferece flexibilidade e precisão na gestão de preços, permitindo que sua empresa se adapte rapidamente às mudanças do mercado. Com ele, você pode criar tabelas de preço específicas para diferentes cenários, como viradas de coleção ou atualização de vigências de preço. 
+| | |
+|-|-|
+|No mercado competitivo de hoje, a precificação inteligente é fundamental para maximizar os lucros e otimizar as vendas. Pensando nisso, o Módulo de Tabelas de Preço do Gestão Online foi desenvolvido para entregar o máximo de flexibilidade e praticidade na gestão de preços.<br><br>Com uma interface simples e intuitiva, o módulo reúne em um único local todas as tabelas de preço do seu sistema, permitindo um gerenciamento completo para os diversos cenários de venda. |![](https://github.com/Gestao-Online/public-docs/blob/a6cec02d66f8255e653edf50346db873a9a34c02/erp-v2/marketplace/extensions/br.com.gestao-online.module.tabela-preco/assets/modulo_tabelas_preco_02.png?raw=true) |
 
-Além disso, se você integrá-lo com o Módulo de Multiunidades, consegue definir diversas tabelas de preço para produtos ou serviços, ajustando valores conforme a região ou canal de venda, como por exemplo, lojas físicas e e-commerce.
+<br>
 
-Essa funcionalidade é essencial para otimizar sua estratégia de precificação, possibilitando personalizar ofertas de acordo com as demandas locais e aumentando sua competitividade no mercado.
+### Com o Módulo de Tabelas de Preço, você pode:
 
-## Requer
+| | |
+|-|-|
+|![]() |**Cadastrar novas tabelas de preço:** Personalize tabelas conforme os produtos, clientes, ou regiões, de forma rápida e sem complicação.<br>**Editar e atualizar preços existentes:** Ajuste valores e condições de forma dinâmica, mantendo-se competitivo e adaptando-se às oscilações do mercado.<br>**Excluir tabelas antigas ou obsoletas:** Mantenha o sistema organizado, com apenas as tabelas relevantes para seu negócio. |
 
-Para o funcionamento correto deste módulo, é necessário possuir instalado o módulo Essencial.
+<br>
 
-![](https://github.com/Gestao-Online/public-docs/blob/8a40d6747bd5689f2f4c10fd4de77b501243328e/erp-v2/marketplace/extensions/br.com.gestao-online.module.tabela-preco/assets/modulo_tabelas_preco_01.png?raw=true)
+Além disso, o módulo é integrado com os principais fluxos de precificação do seu sistema, sendo fundamental para calcular preços em pedidos, vendas, contratos de recorrência, comissões, custos e muito mais. Essa integração facilita o controle e evita erros, garantindo que cada venda ou operação seja calculada com precisão, de acordo com a estratégia de preços do seu negócio.
+
+<br>
+
+### O que muda no meu sistema?
+
+**Este módulo é uma ferramenta essencial para quem deseja elevar o nível do controle financeiro e de precificação, impulsionando o crescimento e o sucesso comercial.**
