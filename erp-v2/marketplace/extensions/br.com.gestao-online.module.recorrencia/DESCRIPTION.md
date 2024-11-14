@@ -18,7 +18,11 @@
 
 | | |
 |-|-|
-|**Redução de Trabalho Operacional**<br>Automatize tarefas repetitivas e elimine erros manuais nas cobranças.<br><br>**Fidelização de Clientes** Com um sistema confiável de renovação, você reforça a confiança e a fidelidade dos clientes.<br><br>**Previsibilidade de Receita**<br>Tenha uma visão clara e planejada das receitas futuras, com a segurança e a estabilidade que só a recorrência oferece.<br><br>Transforme a experiência dos seus clientes e otimize a receita do seu negócio com o Módulo de Recorrência do Gestão Online. Fale com um de nossos consultores e descubra como esse módulo pode ser o próximo passo para um crescimento contínuo e sustentável. | |
+|**Redução de Trabalho Operacional**<br>Automatize tarefas repetitivas e elimine erros manuais nas cobranças.<br><br>**Fidelização de Clientes** Com um sistema confiável de renovação, você reforça a confiança e a fidelidade dos clientes.<br><br>**Previsibilidade de Receita**<br>Tenha uma visão clara e planejada das receitas futuras, com a segurança e a estabilidade que só a recorrência oferece.<br><br>Transforme a experiência dos seus clientes e otimize a receita do seu negócio com o Módulo de Recorrência do Gestão Online.|![](https://github.com/Gestao-Online/public-docs/blob/afa32f94c3c2f25056db0ef288d2af63ba57f9f2/erp-v2/marketplace/extensions/br.com.gestao-online.module.recorrencia/assets/modulo_recorrencia_03.png?raw=true) |
+
+<br>
+
+### O que muda no meu sistema?
 
 
 
