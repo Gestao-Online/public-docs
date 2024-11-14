@@ -24,7 +24,9 @@
 
 ### O que muda no meu sistema?
 
+Você terá acesso a uma nova tela **Venda recorrente** para acessar, ela terá as mesmas funções da tela de vendas padrão, porém com o diferencial de dois novos campos no momento de preencher uma venda, sendo eles, *Recorrência início contrato* e *Recorrência validade contrato*.
 
+![](https://github.com/Gestao-Online/public-docs/blob/a80c13171d7c69f887ea555b191216fb16a4aee2/erp-v2/marketplace/extensions/br.com.gestao-online.module.recorrencia/assets/modulo_recorrencia_04.gif?raw=true)
 
 <br>
 
