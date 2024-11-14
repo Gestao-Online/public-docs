@@ -22,7 +22,9 @@ Flexibilidade para Excluir Vouchers desnecessários ou com validade expirada, ma
 
 ### Para Quem é Ideal? 
 
-Esse módulo é perfeito para empresas que vendem produtos com entrega digital, como franquias que usam uma numeração específica para validar tickets ou lojas que comercializam códigos de acesso ou ofertas. A cada venda de um produto digital, o código é gerado e atualizado automaticamente, integrando seu sistema de vendas ao seu estoque de códigos.
+| | |
+|-|-|
+|Esse módulo é perfeito para empresas que vendem produtos com entrega digital, como franquias que usam uma numeração específica para validar tickets ou lojas que comercializam códigos de acesso ou ofertas.<br><br>A cada venda de um produto digital, o código é gerado e atualizado automaticamente, integrando seu sistema de vendas ao seu estoque de códigos. |![](https://github.com/Gestao-Online/public-docs/blob/0f6aadbaae2863fb61d6804beba029e333988527/erp-v2/marketplace/extensions/br.com.gestao-online.module.voucher/assets/modulo_vouchers_03.png?raw=true) |
 
 <br>
 
@@ -30,7 +32,7 @@ Esse módulo é perfeito para empresas que vendem produtos com entrega digital, 
 
 Você terá acesso a uma nova tela **Voucher** onse poderá criar, editar e excluir vouchers e grupos de vouchers. Podendo até mesmo vincular a venda dele a um outro produto como a montagem de um kit. O Gestão Online fará essa ligação para você e no momento da venda, ao definir o tipo de movimentação que usa voucher, ele irá fazer esse consumo automaticamente para você.
 
-![]()
+![](https://github.com/Gestao-Online/public-docs/blob/28abef7427dd83e49b053b59bf284001b09ae1dc/erp-v2/marketplace/extensions/br.com.gestao-online.module.voucher/assets/modulo_voucher_04.gif?raw=true)
 
 <br>
 
