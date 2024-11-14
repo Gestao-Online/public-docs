@@ -28,7 +28,9 @@ Ao escolher o Módulo de Tipo de Movimentação do Gestão Online, você ganha u
 
 ### O que muda no meu sistema?
 
-asdfasdfasdfasdfasdfasdf
+Você terá acesso a uma nova tela chamada **Tipo de Movimentação**, nela você poderá definir os tipos de movimentação que os usuários farão uso, e configurar as permissões para vendas especificas, como possuir entrega, controle de estoque, controle de financeiro, se irá ter comissão, uso de cupom de desconto. Podendo serparar por tipo de venda, desde online, presencial, venda exclusiva, etc. Todas as definições para que as vendas tenham total controle por você.
+
+![](https://github.com/Gestao-Online/public-docs/blob/d16cd6802ffa8df0a0e989b0899eea93a39692bc/erp-v2/marketplace/extensions/br.com.gestao-online.module.tipo-movimentacao/assets/modulo_tipo_movimentacao_04.gif?raw=true)
 
 <br>
 
