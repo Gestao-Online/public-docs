@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|No atual mercado, a venda de produtos e serviços recorrentes, como assinaturas, mensalidades e planos contínuos, é uma estratégia poderosa para aumentar a previsibilidade de receita e fortalecer o relacionamento com os clientes. Com o Módulo de Recorrência do Gestão Online, você pode automatizar e organizar suas vendas recorrentes de maneira inteligente e eficiente. |![]() |
+|No atual mercado, a venda de produtos e serviços recorrentes, como assinaturas, mensalidades e planos contínuos, é uma estratégia poderosa para aumentar a previsibilidade de receita e fortalecer o relacionamento com os clientes.<br><br>Com o Módulo de Recorrência do Gestão Online, você pode automatizar e organizar suas vendas recorrentes de maneira inteligente e eficiente. |![](https://github.com/Gestao-Online/public-docs/blob/a4d6cc15526c0a69e5d9222f29d9545b229c94b9/erp-v2/marketplace/extensions/br.com.gestao-online.module.recorrencia/assets/modulo_recorrencia_02.png?raw=true) |
 
 <br>
 
@@ -16,12 +16,12 @@
 
 ### Benefícios para o seu Negócio
 
-**Redução de Trabalho Operacional** Automatize tarefas repetitivas e elimine erros manuais nas cobranças.
+| | |
+|-|-|
+|**Redução de Trabalho Operacional**<br>Automatize tarefas repetitivas e elimine erros manuais nas cobranças.<br><br>**Fidelização de Clientes** Com um sistema confiável de renovação, você reforça a confiança e a fidelidade dos clientes.<br><br>**Previsibilidade de Receita**<br>Tenha uma visão clara e planejada das receitas futuras, com a segurança e a estabilidade que só a recorrência oferece.<br><br>Transforme a experiência dos seus clientes e otimize a receita do seu negócio com o Módulo de Recorrência do Gestão Online. Fale com um de nossos consultores e descubra como esse módulo pode ser o próximo passo para um crescimento contínuo e sustentável. | |
 
-**Fidelização de Clientes** Com um sistema confiável de renovação, você reforça a confiança e a fidelidade dos clientes.
 
-**Previsibilidade de Receita** Tenha uma visão clara e planejada das receitas futuras, com a segurança e a estabilidade que só a recorrência oferece.
 
-Transforme a experiência dos seus clientes e otimize a receita do seu negócio com o Módulo de Recorrência do Gestão Online. Fale com um de nossos consultores e descubra como esse módulo pode ser o próximo passo para um crescimento contínuo e sustentável.
+<br>
 
 **Aumente a eficiência, reduza o trabalho manual e garanta previsibilidade financeira. Adquira o Módulo de Recorrência e simplifique a gestão de vendas recorrentes no seu negócio!**
