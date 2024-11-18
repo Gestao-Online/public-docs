@@ -197,7 +197,7 @@
  * [🏬 Marketplace](erp-v2/marketplace/inicio.md)
     <!-- * [Como funciona o marketplace?](erp-v2/marketplace/como-funciona.md) -->
     * [Como instalar uma extensāo?](erp-v2/marketplace/como-instalar.md)
-    <!-- * [Extensões]() -->
+    * [Apps]()
     * [📦 App GO-Consulta](/erp-v2/marketplace/go-consulta.md)
     * [📦 App Notificação Automática de vencimento](/erp-v2/marketplace/go-notificacao_automatica.md)
     * [📦 App GO-Digisac](/erp-v2/marketplace/go-digisac.md)
@@ -208,8 +208,8 @@
     * [📦 App Recuperação de compras não pagas](/erp-v2/marketplace/go-recupera_venda_nao_paga.md)
     <!-- * [📦 App Maquininha PINPAD](/erp-v2/marketplace/go_maquininha_tef_ppc_930.md) -->
     <!-- * [Módulos]()
-            * [Módulo essencial (Comercial e financeiro)](/erp-v2/marketplace/extensions/br.com.gestao-online.modulo.essencial/README.md)
-            * [Módulo Afiliado (Controle de indicação)](/erp-v2/marketplace/extensions/br.com.gestao-online.module.afiliado/README.md)
+            * [Módulo essencial (Comercial e financeiro)](/erp-v2/marketplace/extensions/br.com.gestao-online.modulo.essencial/README.md) -->
+      <!-- *       * [Módulo Afiliado (Controle de indicação)](/erp-v2/marketplace/extensions/br.com.gestao-online.module.afiliado/README.md)
             * [Módulo Agendamento & Atividades](/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/README.md)
             * [Módulo Centro de Resultado](/erp-v2/marketplace/extensions/br.com.gestao-online.module.centro-resultado/README.md)
             * [Módulo Cupom de Desconto](/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/README.md)
