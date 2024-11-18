@@ -18,7 +18,7 @@ Essa integração facilita o controle e evita erros, garantindo que cada venda o
 
 ### O que muda no meu sistema?
 
-Você terá acesso a uma nova tela para uso **Tabela de preços**, onde estarão concetradas todas as tabelas que você criar no sistema, separadas por categoria, entre preço, venda, comissão e custo. Além da nova tela, você terá novos campos para utilização, nas telas de criação de produtos, vendedores, unidades e parceiros.
+Você terá acesso a uma nova tela para uso **Tabela de preços**, onde estarão concentradas todas as tabelas que você criar no sistema, separadas por categoria, entre preço, venda, comissão e custo. Além da nova tela, você terá novos campos para utilização, nas telas de criação de produtos, vendedores, unidades e parceiros.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/ee9af9322aaaed01bdd560a66e37c6f40edae096/erp-v2/marketplace/extensions/br.com.gestao-online.module.tabela-preco/assets/modulo_tabelas_preco_04.gif?raw=true)
 

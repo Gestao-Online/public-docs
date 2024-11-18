@@ -30,7 +30,7 @@ Flexibilidade para Excluir Vouchers desnecessários ou com validade expirada, ma
 
 ### O que muda no meu sistema?
 
-Você terá acesso a uma nova tela **Voucher** onse poderá criar, editar e excluir vouchers e grupos de vouchers. Podendo até mesmo vincular a venda dele a um outro produto como a montagem de um kit. O Gestão Online fará essa ligação para você e no momento da venda, ao definir o tipo de movimentação que usa voucher, ele irá fazer esse consumo automaticamente para você.
+Você terá acesso a uma nova tela **Voucher** onde poderá criar, editar e excluir vouchers e grupos de vouchers. Podendo até mesmo vincular a venda dele a outro produto como a montagem de um kit. O Gestão Online fará essa ligação para você e no momento da venda, ao definir o tipo de movimentação que usa voucher, ele irá fazer esse consumo automaticamente para você.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/28abef7427dd83e49b053b59bf284001b09ae1dc/erp-v2/marketplace/extensions/br.com.gestao-online.module.voucher/assets/modulo_voucher_04.gif?raw=true)
 
