@@ -20,9 +20,9 @@ Com diversas opções de consultas, você pode atender às necessidades de difer
 
 <br>
 
-Logo após uma venda realizada e paga, você verá que o botão **Realizar consultas** disponível para uso, conforme nosso exemplo.
+Logo após uma venda realizada e paga, você verá que o botão **Realizar consultas** estará disponível para uso. Clicando nele, uma nova janela é mostrada para você inserir os dados necessários para realizar a consulta, e clicando em Consultar o resultado é mostrado a você em uma tela dentro do Gestão Online:
 
-![](https://github.com/Gestao-Online/public-docs/blob/b121f99c299c3959d4621141ffd4ec16f53a6185/erp-v2/assets/marketplace/go_consulta/tela_marketplace_add_venda_confirmar_venda.gif?raw=true) 
+![](https://github.com/Gestao-Online/public-docs/blob/5ea51f9fde366c084e00937f01cf772cbaae1e27/erp-v2/marketplace/extensions/br.com.api.consult.gestao-online/assets/app_goconsulta_01.gif?raw=true) 
 
 <br>
 
@@ -41,6 +41,8 @@ O GO Consultas não só adiciona valor ao ERP Gestão Online, mas também permit
 | | |
 |-|-|
 |![](https://github.com/Gestao-Online/public-docs/blob/6819f826bf0dc6801ef8219562052ffc18bc8391/erp-v2/assets/marketplace/go_consulta/spc_serasa_score_modelo.png?raw=true)  | Imagine que um cliente precisa avaliar o perfil de um potencial comprador ou fornecedor. Com o **GO Consultas**, ele poderá realizar uma Consulta Completa CPF + SCORE para entender o perfil financeiro e a pontuação de crédito, além de uma Consulta de Ações e Processos Judiciais para garantir que não existem pendências jurídicas relevantes.<br><br>Em um único sistema, ele terá todas as informações necessárias para uma tomada de decisão rápida e assertiva. |
+
+
 
 <br>
 
