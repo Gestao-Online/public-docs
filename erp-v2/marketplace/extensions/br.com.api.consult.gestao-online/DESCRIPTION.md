@@ -1,7 +1,8 @@
-
 | | |
 |-|-|
 |Apresentamos a extensão GO Consultas, uma poderosa ferramenta integrada ao seu ERP Gestão Online, ideal para empresas que buscam ampliar seus serviços de análise e consulta para seus clientes, com total praticidade e segurança. <br><br>É possível oferecer um leque completo de consultas especializadas em CPF, CNPJ e informações veiculares, todas emitidas em relatórios detalhados em PDF, perfeitos para a tomada de decisão e análise de crédito. |![](https://github.com/Gestao-Online/public-docs/blob/6819f826bf0dc6801ef8219562052ffc18bc8391/erp-v2/assets/marketplace/go_consulta/card_consulta_veiculos.png?raw=true) |
+
+<br>
 
 ### Variedade de Consultas Especializadas
 
@@ -23,6 +24,8 @@ Logo após uma venda realizada e paga, você verá que o botão **Realizar consu
 
 ![](https://github.com/Gestao-Online/public-docs/blob/b121f99c299c3959d4621141ffd4ec16f53a6185/erp-v2/assets/marketplace/go_consulta/tela_marketplace_add_venda_confirmar_venda.gif?raw=true) 
 
+<br>
+
 ### Praticidade e Flexibilidade para Seus Clientes
 
 Com o **GO Consultas**, seus clientes têm acesso direto a essas funcionalidades através do seu marketplace, podendo visualizar e gerar os relatórios instantaneamente. Eles têm a liberdade de comercializar essas consultas e definir os valores, potencializando seu faturamento e expandindo os serviços oferecidos.
@@ -30,6 +33,8 @@ Com o **GO Consultas**, seus clientes têm acesso direto a essas funcionalidades
 ### Ganhos para o Negócio
 
 O GO Consultas não só adiciona valor ao ERP Gestão Online, mas também permite que seus clientes ampliem suas oportunidades de receita e agreguem valor aos seus próprios serviços.
+
+<br>
 
 ### Exemplo caso de uso
 
