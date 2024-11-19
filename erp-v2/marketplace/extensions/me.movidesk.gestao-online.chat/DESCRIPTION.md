@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-| |Maximize a eficiência da sua operação com o GO - Movidesk, a extensão perfeita para o seu ERP Gestão Online. Transforme a gestão do seu atendimento ao cliente em uma experiência integrada e otimizada. |
+|![](https://github.com/Gestao-Online/public-docs/blob/b5072b2d3118dfe1be419421b59b57f0f1d78fc0/erp-v2/marketplace/extensions/me.movidesk.gestao-online.chat/assets/extensao_movidesk_chat_01.png?raw=true) |Maximize a eficiência da sua operação com o GO - Movidesk, a extensão perfeita para o seu ERP Gestão Online.<br><br>Transforme a gestão do seu atendimento ao cliente em uma experiência integrada e otimizada. |
 
 <br>
 
