@@ -18,8 +18,6 @@
 
 Aumente a eficácia da sua estratégia digital com dados reais. Entenda o que funciona, ajuste o que precisa melhorar e leve seu negócio para o próximo nível. Todas as informações da sua landing page de forma rápida e prática com apenas algunas cliques, com a configuração feita aqui na extensão você já pode acompanhar os dados pela página do Google Analytics 4.
 
-<br>
-
 ![]()
 
 <br>
