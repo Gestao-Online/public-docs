@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|Com a Extensão Google Analytics do Gestão Online, você eleva o poder das suas Landing Pages e lojas criadas no nosso ERP. Essa integração permite que você tenha acesso completo às métricas e insights oferecidos pelo Google Analytics, trazendo uma visão estratégica sobre o comportamento dos seus visitantes e potencializando seus resultados. | |
+|Com a Extensão Google Analytics do Gestão Online, você eleva o poder das suas Landing Pages e lojas criadas no nosso ERP. Essa integração permite que você tenha acesso completo às métricas e insights oferecidos pelo Google Analytics, trazendo uma visão estratégica sobre o comportamento dos seus visitantes e potencializando seus resultados. |![]() |
 
 <br>
 
