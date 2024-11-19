@@ -27,10 +27,9 @@ Não perca mais tempo! Instale agora o GO - Jivochat no seu Gestão Online e com
 
 ### O que muda no meu sistema?
 
-asdfasdfasdfasdf
+Ao instalar ele no seu sistema e realizar as configurações necessárias, você verá que um balão flutuante ficará disponível na sua tela de uso, e aparecerá em todas as telas, podendo assim você conversar com seus clientes e continuar fazendo uso do sistema, seja em uma venda ou atendimento.
 
-
-![]()
+![](https://github.com/Gestao-Online/public-docs/blob/31b681796fdebb230cb11d7a6d75e4f461e32b1f/erp-v2/marketplace/extensions/me.jivochat.gestao-online.chat/assets/extensao_jivochat_chat_03.png?raw=true)
 
 <br>
 
