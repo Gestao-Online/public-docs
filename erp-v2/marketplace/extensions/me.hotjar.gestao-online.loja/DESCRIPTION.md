@@ -22,4 +22,10 @@
 
 <br>
 
+Todas as informações da sua landing page de forma rápida e prática com apenas algunas cliques, com a configuração feita aqui na extensão você já pode acompanhar os dados de mapa de calor, rota que o cliente fez, tudo isso pela página do Hotjar.
+
+![]()
+
+<br>
+
 **Não perca tempo! Instale agora a Extensão HotJar no Marketplace do Gestão Online e transforme dados em estratégias que impulsionam resultados.**
