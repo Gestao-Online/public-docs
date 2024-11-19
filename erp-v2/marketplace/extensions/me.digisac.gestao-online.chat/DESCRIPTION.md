@@ -25,6 +25,8 @@
 
 Ao instalar ele no seu sistema e realizar as configurações necessárias, você verá que uma janela flutuante ficará disponível na sua tela de uso, e aparecerá em todas as telas, podendo assim você conversar com seus clientes e continuar fazendo uso do sistema, seja em uma venda ou atendimento.
 
-![]()
+![](https://github.com/Gestao-Online/public-docs/blob/572c7c92d328e1e501643472cad4de413ea1e635/erp-v2/marketplace/extensions/me.digisac.gestao-online.chat/assets/extensao_digisaca_chat_03.png?raw=true)
+
+<br>
 
 **Adicione agora mesmo o GO - Digisac no seu Gestão Online e leve seu atendimento ao próximo nível!**
