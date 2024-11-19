@@ -17,8 +17,14 @@
 
 | | |
 |-|-|
-|Com o GO - Digisac, você transforma seu ERP em um verdadeiro hub de comunicação, otimizando processos e melhorando a experiência dos seus clientes. |![]() |
+|Com o GO - Digisac, você transforma seu ERP em um verdadeiro hub de comunicação, otimizando processos e melhorando a experiência dos seus clientes. |![](https://github.com/Gestao-Online/public-docs/blob/b8bf5a1c728e00c32eed36d9a0fa4e32a2c299a7/erp-v2/marketplace/extensions/me.digisac.gestao-online.chat/assets/extensao_digisaca_chat_02.png?raw=true) |
 
 <br>
+
+### O que muda no meu sistema?
+
+Ao instalar ele no seu sistema e realizar as configurações necessárias, você verá que uma janela flutuante ficará disponível na sua tela de uso, e aparecerá em todas as telas, podendo assim você conversar com seus clientes e continuar fazendo uso do sistema, seja em uma venda ou atendimento.
+
+![]()
 
 **Adicione agora mesmo o GO - Digisac no seu Gestão Online e leve seu atendimento ao próximo nível!**
