@@ -27,15 +27,9 @@ A integração é simples e intuitiva. Instale a extensão, configure o acesso a
 
 ### Garanta uma Experiência Superior para seus Clientes!
 
-Com a Extensão Microsoft Clarity, você terá todas as ferramentas para entender o comportamento dos seus visitantes e transformar cada clique em oportunidade de venda.
-
-<br>
-
-### O que muda no meu sistema?
-
-asdfasdf
-
-![]()
+| | |
+|-|-|
+|![](https://github.com/Gestao-Online/public-docs/blob/ce65331fd4339e03f913c14e4a2e540a2e1bb3c7/erp-v2/marketplace/extensions/me.clarity.gestao-online.loja/assets/extensao_clarity_loja_03.png?raw=true)|Com a Extensão Microsoft Clarity, você terá todas as ferramentas para entender o comportamento dos seus visitantes e transformar cada clique em oportunidade de venda.|
 
 <br>
 
