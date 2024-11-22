@@ -16,13 +16,11 @@
 
 ### Por que escolher o Portal do Indicador?
 
-**Aumente sua produtividade** com ferramentas pensadas para agilizar as rotinas de trabalho.
+| | |
+|-|-|
+|![]() |**Aumente sua produtividade** com ferramentas pensadas para agilizar as rotinas de trabalho.<br><br>**Mantenha seu time alinhado**, garantindo que todos estejam sempre atualizados sobre as oportunidades geradas.<br><br>**Tome decisões mais assertivas** com informações organizadas e sempre acessíveis.<br><br>Transforme suas indicações em resultados com o Módulo Portal do Indicador! |
 
-**Mantenha seu time alinhado**, garantindo que todos estejam sempre atualizados sobre as oportunidades geradas.
 
-**Tome decisões mais assertivas** com informações organizadas e sempre acessíveis.
-
-Transforme suas indicações em resultados com o Módulo Portal do Indicador!
 
 <br>
 
