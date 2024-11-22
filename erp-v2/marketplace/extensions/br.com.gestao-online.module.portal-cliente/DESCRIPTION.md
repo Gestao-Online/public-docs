@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|O Módulo Portal do Cliente é uma ferramenta poderosa e exclusiva que proporciona aos seus clientes um acesso rápido e seguro ao histórico de suas compras e transações. Com um link personalizado e um login único, seus clientes podem acessar o portal a qualquer momento, de forma simples e prática. |![]() |
+|O Módulo Portal do Cliente é uma ferramenta poderosa e exclusiva que proporciona aos seus clientes um acesso rápido e seguro ao histórico de suas compras e transações. Com um link personalizado e um login único, seus clientes podem acessar o portal a qualquer momento, de forma simples e prática. |![](https://github.com/Gestao-Online/public-docs/blob/656938f336b8ae967f7582bdfa66104a1f392472/erp-v2/marketplace/extensions/br.com.gestao-online.module.portal-cliente/assets/modulo_portal_cliente_02.png?raw=true) |
 
 <br>
 
@@ -15,8 +15,6 @@
 <br>
 
 Com o Módulo Portal do Cliente, você oferece uma experiência mais fluida e satisfatória, permitindo que seus clientes acompanhem todas as suas compras e documentos diretamente de seu portal personalizado.
-
-
 
 <br>
 
