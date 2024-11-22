@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|Leve a experiência do seu e-commerce a um novo nível com a Extensão HotJar, disponível no Marketplace do Gestão Online.<br><br>Agora, você pode integrar o poder das análises comportamentais diretamente à sua Landing Page (Loja), maximizando seu potencial de conversão. |![](https://github.com/Gestao-Online/public-docs/blob/158b426b725632d9c547d7c372adc7add5268f33/erp-v2/marketplace/extensions/me.hotjar.gestao-online.loja/assets/extensao_hotjar_loja_01.png?raw=true) |
+|Leve a experiência do seu e-commerce a um novo nível com a Extensão HotJar, disponível no Marketplace do Gestão Online.<br><br>Agora, você pode integrar o poder das análises comportamentais diretamente à sua Landing Page (Loja), maximizando seu potencial de conversão. |![](https://github.com/Gestao-Online/public-docs/blob/6bc539e82cf819b09f1288d81cd4decc18e38a52/erp-v2/marketplace/extensions/com.hotjar.loja/assets/extensao_hotjar_loja_01.png?raw=true) |
 
 <br>
 
