@@ -1,8 +1,10 @@
-### Descubra a Extensão "S.Deal Customizado - Soluti" no Gestão Online!
+### Descubra a Extensão S.Deal - Soluti no Gestão Online!
 
 | | |
 |-|-|
-|Maximize os benefícios do seu ERP com a integração exclusiva para vouchers S.Deal - Soluti.<br><br>Essa extensão foi projetada para oferecer aos seus negócios uma experiência personalizada e eficiente na gestão de vouchers, conectando diretamente o seu sistema Gestão Online à plataforma S.Deal - Soluti.|![](https://github.com/Gestao-Online/public-docs/blob/d5b87f419d291f5b9ae49481f66f02082fe0e63f/erp-v2/marketplace/extensions/br.com.sdeal-custom.gestao-online/assets/extensao_sdeal_soluti_01.png?raw=true) |
+|Ao instalar esta extensão, seu ERP Gestão Online poderá passar a vincular os vouchers com o sistema S.Deal, dessa forma, mesmo com o nosso sistema já gerando um código único ao final da compra para prosseguir com a venda do certificado, você pode deixar registrado dentro do Gestão Online todos os vouchers que já adquiriu e assim eles serão usados na venda ao invés do nosso código. |![](https://github.com/Gestao-Online/public-docs/blob/d5b87f419d291f5b9ae49481f66f02082fe0e63f/erp-v2/marketplace/extensions/br.com.sdeal-custom.gestao-online/assets/extensao_sdeal_soluti_01.png?raw=true) |
+
+Dessa forma é possível utilizar os vouchers que já foram adquiridos, mantendo o vínculo com a venda que originou o uso do voucher, permitindo manter a rastreabilidade do pedido.
 
 <br>
 
@@ -20,4 +22,4 @@ Ao instalar esta extensão, seu ERP Gestão Online passará a vincular os vouche
 
 <br>
 
-**Potencialize sua operação com a Extensão S.Deal Customizado - Soluti e experimente um novo nível de produtividade! 🚀**
+**Potencialize sua operação com a Extensão S.Deal - Soluti e experimente um novo nível de produtividade! 🚀**

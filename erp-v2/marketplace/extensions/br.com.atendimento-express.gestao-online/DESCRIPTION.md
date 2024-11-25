@@ -41,7 +41,7 @@ extraídos via computação gráfica e OCR:
 
     * Se o pedido for PJ, consulta se a foto do documento é de um
 sócio (QSA);
-    * Se o pedido for PF, verifica se o dados são compatíveis com
+    * Se o pedido for PF, verifica se os dados são compatíveis com
 o do pedido;
     * Sempre busca o melhor caminho para o cliente, então se
 tiver um certificado em nuvem (PSC/BirdID) direciona para a
@@ -52,7 +52,7 @@ atendido por videoconferência
 
 <br>
 
-O Atendimento Express é a escolha ideal para empresas que busczam otimizar o processo de atendimento ao cliente, oferecendo um serviço ágil e sem complicação, com o suporte de um sistema inteligente e integrado.
+O Atendimento Express é a escolha ideal para empresas que buscam otimizar o processo de atendimento ao cliente, oferecendo um serviço ágil e sem complicação, com o suporte de um sistema inteligente e integrado.
 
 <br>
 
