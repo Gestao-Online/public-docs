@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|A Extensão Sis AR - Soluti foi criada para oferecer aos revendedores e franqueados uma solução completa e prática para a gestão de suas operações de AC/AR diretamente no Gestão Online. Com ela, você tem acesso a funcionalidades exclusivas que agilizam o processo de vendas e o acompanhamento de renovação de certificados, tudo em um único lugar. |![]() |
+|A Extensão Sis AR - Soluti foi criada para oferecer aos revendedores e franqueados uma solução completa e prática para a gestão de suas operações de AC/AR diretamente no Gestão Online.<br><br>Com ela, você tem acesso a funcionalidades exclusivas que agilizam o processo de vendas e o acompanhamento de renovação de certificados, tudo em um único lugar. |![](https://github.com/Gestao-Online/public-docs/blob/5ccf64cec3051457fb2c1459f8dbd348a74324dc/erp-v2/marketplace/extensions/br.com.soluti.ars.gestao-online/assets/extensao_sisar_soluti_01.png?raw=true) |
 
 <br>
 

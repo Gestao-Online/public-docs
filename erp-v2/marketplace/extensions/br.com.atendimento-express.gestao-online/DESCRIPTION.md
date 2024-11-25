@@ -2,7 +2,19 @@
 
 | | |
 |-|-|
-|No Gestão Online, entendemos a importância de um atendimento rápido e eficaz para o sucesso do seu negócio. Pensando nisso, criamos o Módulo Atendimento Express, uma solução inovadora que integra diretamente seu sistema ERP ao processo de videochamada, garantindo um atendimento ágil e sem complicações.<br><br>Com o Módulo Atendimento Express trabalhando em conjunto com o sistema V.Line, assim que o cliente adquire o Certificado, ele já pode optar por realizara a Videoconferência naquele momento. Então ele cai em uma lista de atendimento. O cliente tem a informações da posição, o tempo médio e uma expectativa de minutos para ser atendido. Cabe ao cliente decidir se vai aguardar ou se retorna para o processo de agendamento. |![](https://github.com/Gestao-Online/public-docs/blob/b4bbaa138331bf4289c15b5684aa2d7ec5f860a3/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atedimento-express_soluti_02.png?raw=true) |
+|No Gestão Online, entendemos a importância de um atendimento rápido e eficaz para o sucesso do seu negócio. Pensando nisso, criamos o Atendimento Express, uma solução inovadora que integra diretamente seu sistema ERP ao processo de videochamada, garantindo um atendimento ágil e sem complicações.<br><br>O Atendimento Express oferece três modos distintos de operação, permitindo maior flexibilidade e adaptação às suas necessidades: |![](https://github.com/Gestao-Online/public-docs/blob/b4bbaa138331bf4289c15b5684aa2d7ec5f860a3/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atedimento-express_soluti_02.png?raw=true)  |
+
+<br>
+
+|**1️⃣ Integração Agenda do SisAR** |**2️⃣ Integração com o V-Line** |**3️⃣ Modo Híbrido** |
+|-|-|-|
+|Nesse modo, o cliente pode visualizar os horários disponíveis e agendar o atendimento no momento que for mais conveniente. Ideal para quem prefere planejar o atendimento com antecedência. |Permite que o cliente entre diretamente em uma fila de atendimento e seja atendido em poucos minutos, respeitando a ordem de chegada. Uma solução perfeita para quem busca rapidez e praticidade. |Oferece ao cliente a liberdade de escolha entre os dois modelos acima: agendar um horário ou entrar na fila de atendimento imediato. Uma opção versátil para atender diferentes perfis de clientes. |
+
+<br>
+
+| | |
+|-|-|
+|![](https://github.com/Gestao-Online/public-docs/blob/03dfc778ae28d578c43d22dd87003b276aefee98/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atedimento-express_soluti_03.png?raw=true) |É importante destacar que a agenda (incluindo horários disponíveis, duração dos slots, entre outros) será sincronizada diretamente com o SisAR Soluti, garantindo precisão e atualizações em tempo real.<br><br>Já o funcionamento do botão de fila (V-Line) segue a gestão dinâmica do sistema, sendo ajustado em tempo real conforme as condições e a disponibilidade no V-Line, assegurando um fluxo de atendimento eficiente e organizado. |
 
 <br>
 
@@ -14,8 +26,32 @@
 
 <br>
 
-O Módulo Atendimento Express é a escolha ideal para empresas que busczam otimizar o processo de atendimento ao cliente, oferecendo um serviço ágil e sem complicação, com o suporte de um sistema inteligente e integrado.
+| | |
+|-|-|
+|As vantagens do OCR(Reconhecimento Óptico de Caracteres) no sistema são evidentes, ele proporciona uma grande economia de tempo para os clientes ao realizar diversas pré-validações automaticamente. Isso não apenas agiliza o processo, mas também melhora significativamente a experiência do usuário, tornando mais simples e eficiente a emissão do certificado digital. |![]() |
+
+
+
+* Cliente captura a foto do documento do titular;
+
+* Sistema extrai de forma automatizada as informações;
+
+* Sistema faz uma série de checagens através dos dados
+extraídos via computação gráfica e OCR:
+
+    * Se o pedido for PJ, consulta se a foto do documento é de um
+sócio (QSA);
+    * Se o pedido for PF, verifica se o dados são compatíveis com
+o do pedido;
+    * Sempre busca o melhor caminho para o cliente, então se
+tiver um certificado em nuvem (PSC/BirdID) direciona para a
+jornada pulando a videochamada.
+    * Se o documento capturado não for uma CNH, verifica na
+base biométrica interna das ACs (PSBIO) se pode ser
+atendido por videoconferência
+
+O Atendimento Express é a escolha ideal para empresas que busczam otimizar o processo de atendimento ao cliente, oferecendo um serviço ágil e sem complicação, com o suporte de um sistema inteligente e integrado.
 
 <br>
 
-**Transforme o atendimento ao cliente da sua empresa com o Módulo Atendimento Express do Gestão Online!**
+**Transforme o atendimento ao cliente da sua empresa com o Atendimento Express do Gestão Online!**
