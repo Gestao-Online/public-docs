@@ -28,7 +28,7 @@
 
 | | |
 |-|-|
-|As vantagens do OCR(Reconhecimento Óptico de Caracteres) no sistema são evidentes, ele proporciona uma grande economia de tempo para os clientes ao realizar diversas pré-validações automaticamente. Isso não apenas agiliza o processo, mas também melhora significativamente a experiência do usuário, tornando mais simples e eficiente a emissão do certificado digital. |![]() |
+|As vantagens do OCR(Reconhecimento Óptico de Caracteres) no sistema são evidentes, ele proporciona uma grande economia de tempo para os clientes ao realizar diversas pré-validações automaticamente. <br>Isso não apenas agiliza o processo, mas também melhora significativamente a experiência do usuário, tornando mais simples e eficiente a emissão do certificado digital: |![](https://github.com/Gestao-Online/public-docs/blob/ac7981692998e53e6cde4614d26404a51c43cb65/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atedimento-express_soluti_04.png?raw=true) |
 
 
 
@@ -49,6 +49,8 @@ jornada pulando a videochamada.
     * Se o documento capturado não for uma CNH, verifica na
 base biométrica interna das ACs (PSBIO) se pode ser
 atendido por videoconferência
+
+<br>
 
 O Atendimento Express é a escolha ideal para empresas que busczam otimizar o processo de atendimento ao cliente, oferecendo um serviço ágil e sem complicação, com o suporte de um sistema inteligente e integrado.
 
