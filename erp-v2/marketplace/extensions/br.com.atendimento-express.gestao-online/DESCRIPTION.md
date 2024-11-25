@@ -14,7 +14,7 @@
 
 <br>
 
-O Módulo Atendimento Express é a escolha ideal para empresas que buscam otimizar o processo de atendimento ao cliente, oferecendo um serviço ágil e sem complicação, com o suporte de um sistema inteligente e integrado.
+O Módulo Atendimento Express é a escolha ideal para empresas que busczam otimizar o processo de atendimento ao cliente, oferecendo um serviço ágil e sem complicação, com o suporte de um sistema inteligente e integrado.
 
 <br>
 
