@@ -24,6 +24,14 @@ Sua empresa merece uma solução que conecte sistemas e facilite o dia a dia. O 
 
 Ao instalar ele no seu sistema e realizar as configurações necessárias, você verá que um balão flutuante ficará disponível na sua tela de uso, e aparecerá em todas as telas, podendo assim você conversar com seus clientes e continuar fazendo uso do sistema, seja em uma venda ou atendimento.
 
+Você poderá configurar um atendimento personalizado através de chat para diferentes áreas do seu negócio:
+
+* **No Sistema Interno:** Para oferecer suporte direto e ágil aos seus usuários.
+* **No Portal do Cliente/Indicador:** Para criar um canal exclusivo de comunicação com seus parceiros.
+* **No Checkout e na Loja Online:** Para atender seus clientes finais de forma instantânea, proporcionando uma experiência de compra impecável.
+
+Adapte o chat às necessidades de cada público e fortaleça a comunicação em todos os pontos de contato!
+
 ![](https://github.com/Gestao-Online/public-docs/blob/93b95c0520143985efb6f0987618452ff2bd4dab/erp-v2/marketplace/extensions/me.movidesk.gestao-online.chat/assets/extensao_movidesk_chat_03.png?raw=true)
 
 <br>

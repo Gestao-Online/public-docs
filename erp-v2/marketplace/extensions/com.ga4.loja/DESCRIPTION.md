@@ -16,9 +16,9 @@
 
 ### Resultados visíveis, decisões inteligentes
 
-Aumente a eficácia da sua estratégia digital com dados reais. Entenda o que funciona, ajuste o que precisa melhorar e leve seu negócio para o próximo nível. Todas as informações da sua landing page de forma rápida e prática com apenas algunas cliques, com a configuração feita aqui na extensão você já pode acompanhar os dados pela página do Google Analytics 4.
+Potencialize sua estratégia digital com dados reais e insights precisos. Descubra o que funciona, identifique pontos de melhoria e impulsione o crescimento do seu negócio. Com apenas alguns cliques, configure rapidamente a integração diretamente na extensão e tenha acesso imediato aos dados da sua Landing Page no Google Analytics 4. Simples, prático e eficiente!
 
-![](https://github.com/Gestao-Online/public-docs/blob/6bc539e82cf819b09f1288d81cd4decc18e38a52/erp-v2/marketplace/extensions/com.ga4.loja/assets/extensao_ga4_loja_03.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/6935647568c37bd794b31473ff6bc3de6bd6efd4/erp-v2/marketplace/extensions/com.ga4.loja/assets/extensao_ga4_loja_03.png?raw=true)
 
 <br>
 

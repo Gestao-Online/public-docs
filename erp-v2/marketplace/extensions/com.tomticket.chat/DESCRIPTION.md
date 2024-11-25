@@ -16,9 +16,17 @@
 
 <br>
 
-### Instale o TomTicket no seu Gestão Online
+### O que muda no meu sistema?
 
 Ao instalar ele no seu sistema e realizar as configurações necessárias, você verá que um balão flutuante ficará disponível na sua tela de uso, e aparecerá em todas as telas, podendo assim você conversar com seus clientes e continuar fazendo uso do sistema, seja em uma venda ou atendimento.
+
+Você poderá configurar um atendimento personalizado através de chat para diferentes áreas do seu negócio:
+
+* **No Sistema Interno:** Para oferecer suporte direto e ágil aos seus usuários.
+* **No Portal do Cliente/Indicador:** Para criar um canal exclusivo de comunicação com seus parceiros.
+* **No Checkout e na Loja Online:** Para atender seus clientes finais de forma instantânea, proporcionando uma experiência de compra impecável.
+
+Adapte o chat às necessidades de cada público e fortaleça a comunicação em todos os pontos de contato!
 
 ![](https://github.com/Gestao-Online/public-docs/blob/620a9ba4120ca2720698157f174a4648b10ab90a/erp-v2/marketplace/extensions/me.tomticket.gestao-online.chat/assets/extensao_go_tomticket_02.png?raw=true)
 
