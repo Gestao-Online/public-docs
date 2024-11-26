@@ -196,7 +196,7 @@
 
  * [🏬 Marketplace](erp-v2/marketplace/inicio.md)
     <!-- * [Como funciona o marketplace?](erp-v2/marketplace/como-funciona.md) -->
-    * [Como instalar uma extensāo?](erp-v2/marketplace/como-instalar.md)
+    <!-- * [Como instalar uma extensāo?](erp-v2/marketplace/como-instalar.md) -->
     <!-- * [Apps]() -->
     <!-- * [📦 App GO-Consulta](/erp-v2/marketplace/go-consulta.md)
     * [📦 App Notificação Automática de vencimento](/erp-v2/marketplace/go-notificacao_automatica.md)
