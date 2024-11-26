@@ -198,7 +198,7 @@
     <!-- * [Como funciona o marketplace?](erp-v2/marketplace/como-funciona.md) -->
     * [Como instalar uma extensāo?](erp-v2/marketplace/como-instalar.md)
     <!-- * [Apps]() -->
-    * [📦 App GO-Consulta](/erp-v2/marketplace/go-consulta.md)
+    <!-- * [📦 App GO-Consulta](/erp-v2/marketplace/go-consulta.md)
     * [📦 App Notificação Automática de vencimento](/erp-v2/marketplace/go-notificacao_automatica.md)
     * [📦 App GO-Digisac](/erp-v2/marketplace/go-digisac.md)
     * [📦 App Relatório Custo](/erp-v2/marketplace/go-relatorio_custo.md)
@@ -206,7 +206,7 @@
     * [📦 App Notas Fiscais Produtos](/erp-v2/marketplace/go-notas-fiscais-produtos.md)
     * [📦 App Atendare - Vendas não pagas](/erp-v2/marketplace/go-atendare_vendas_nao_pagas.md)
     * [📦 App Recuperação de compras não pagas](/erp-v2/marketplace/go-recupera_venda_nao_paga.md)
-    * [📦 App TomTicket - Chat](/erp-v2/marketplace/go_tomticket_chat.md)
+    * [📦 App TomTicket - Chat](/erp-v2/marketplace/go_tomticket_chat.md) -->
     <!-- * [📦 App Maquininha PINPAD](/erp-v2/marketplace/go_maquininha_tef_ppc_930.md) -->
     <!-- * [Módulos]()
             * [Módulo essencial (Comercial e financeiro)](/erp-v2/marketplace/extensions/br.com.gestao-online.modulo.essencial/README.md) -->
