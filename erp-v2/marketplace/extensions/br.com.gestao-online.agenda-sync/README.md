@@ -1,0 +1,1 @@
+# 📦 App Sincronia da Agenda
