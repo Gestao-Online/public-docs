@@ -24,3 +24,12 @@ Escolha quais objetivos você planeja com o Analytics, para ele poder ajustar os
 
 ![](/erp-v2/assets/marketplace/google_a4/extensao_google_a4_06.png)
 
+Agora escolha a plataforma Web como opção para analise dos dados coletados pelo Google. A partir do momento que você clicar no botão Web. uma nova janela será carregada solicitando as informações para cadastro e vínculo da landing page do Gestão Online. Após preencher todos esses dados, clique no botão **`Criar e continuar`** para salvar as informações.
+
+![](/erp-v2/assets/marketplace/google_a4/extensao_google_a4_07.gif)
+
+Após confirmar, o script será gerado para você e a TAG do Google criada. Porém desse código todo que é mostrado, você precisará pegar apenas o código único de identificação, conforme marcado abaixo no exemplo. (Este código aparece repetido dentro do script, podendo ser copiado qualquer um dos dois para uso em nossa extensão)
+
+![](/erp-v2/assets/marketplace/google_a4/extensao_google_a4_08.png)
+
+
