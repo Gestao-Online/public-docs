@@ -32,4 +32,12 @@ Após confirmar, o script será gerado para você e a TAG do Google criada. Por�
 
 ![](/erp-v2/assets/marketplace/google_a4/extensao_google_a4_08.png)
 
+## Configurando a extensão no Gestão Online
 
+Com o código copiado, agora você pode colar no campo específico dentro das configurações da extensão no Gestão Online. Primeiro clique no botão **Configurações**, para ser exibida a janela de opções para você.
+
+![](/erp-v2/assets/marketplace/google_a4/extensao_google_a4_09.png)
+
+Agora é só colar o código do Google Analytics e em seguida clicar no botão **`Salvar configurações`** e aguardar a conexão ser feita. Após instalação e partindo do princípio que terá visitação, os dados demorarão algumas horas para aparecer no dashboard da ferramenta.
+
+![](/erp-v2/assets/marketplace/clarity_loja/extensao_clarity_loja_06.png)
