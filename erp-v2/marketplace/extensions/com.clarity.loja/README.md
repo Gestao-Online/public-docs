@@ -27,4 +27,3 @@ Com o código copiado, agora você pode colar no campo específico dentro das co
 Agora é só colar o código do Clarity e em seguida clicar no botão **`Salvar configurações`** e aguardar a conexão ser feita. Após instalação e partindo do princípio que terá visitação, os dados demorarão cerca de 2 horas a aparecer no dashboard da ferramenta.
 
 ![](/erp-v2/assets/marketplace/clarity_loja/extensao_clarity_loja_06.png)
-
