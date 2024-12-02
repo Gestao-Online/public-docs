@@ -27,3 +27,16 @@ Agora vamos configurar o Pixel da Meta, para obtermos o código de acesso que se
 
 ![](/erp-v2/assets/marketplace/facebook_pixel_loja/extensao_facebook_pixel_07.gif)
 
+Com o código copiado, você pode utilizar um bloco de notas em seu computador, e colcar o código adquirido, e depois pegar o código de identificação único. (Este código aparece repetido dentro do script, podendo ser copiado qualquer um dos dois para uso em nossa extensão)
+
+![](/erp-v2/assets/marketplace/facebook_pixel_loja/extensao_facebook_pixel_08.png)
+
+## Configurando a extensão no Gestão Online
+
+Com o código copiado, agora você pode colar no campo específico dentro das configurações da extensão no Gestão Online. Primeiro clique no botão **Configurações**, para ser exibida a janela de opções para você.
+
+![](/erp-v2/assets/marketplace/facebook_pixel_loja/extensao_facebook_pixel_09.png)
+
+Agora é só colar o código do Pixel do Facebook e em seguida clicar no botão **`Salvar configurações`** e aguardar a conexão ser feita. Após instalação e partindo do princípio que terá visitação, os dados demorarão algumas horas para aparecer no dashboard da ferramenta.
+
+![](/erp-v2/assets/marketplace/clarity_loja/extensao_clarity_loja_06.png)
