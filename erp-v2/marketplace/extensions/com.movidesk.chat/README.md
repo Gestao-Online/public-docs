@@ -27,3 +27,13 @@ Em seguida, você precisará preecher as informações solicitadas das configura
 Após finalizar a configuração, você será encaminhado para uma nova página do Movidesk, e nela irá ficar disponível as informações de instalação com o código único de identificação. Para a fazermos o vínculo dele no Gestão Online, utilizaremos somente o código único que está marcado na imagem abaixo.
 
 ![](/erp-v2/assets/marketplace/movidesk_chat/extensao_movidesk_chat_06.png)
+
+## Configurando a extensão no Gestão Online
+
+Com o código copiado, agora você pode colar no campo específico dentro das configurações da extensão no Gestão Online. Primeiro clique no botão **Configurações**, para ser exibida a janela de opções para você.
+
+![](/erp-v2/assets/marketplace/movidesk_chat/extensao_movidesk_chat_07.png)
+
+Agora é só colar o código do Movidesk e em seguida clicar no botão **`Salvar configurações`** e aguardar a conexão ser feita. Após instalação você pode atualizar a página do Gestão Online e o chat logo ficará disponível para uso no lado direito da tela de forma suspensa, e aparecendo para os demais usuários.
+
+![](/erp-v2/assets/marketplace/clarity_loja/extensao_clarity_loja_06.png)
