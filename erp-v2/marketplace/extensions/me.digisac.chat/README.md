@@ -28,7 +28,7 @@ Você também pode inserir número de whatsapp que irá direcionar estas mensage
 
 ![](/erp-v2/assets/marketplace/digisac_chat/extensao_digisac_chat_05.png)
 
-Abaixo você tem as demais configurações de **Funcionamento do chat**
+Abaixo você tem as demais configurações de **Funcionamento do chat**, definindo abertura e fechamento do site, 
 
 ![](/erp-v2/assets/marketplace/digisac_chat/extensao_digisac_chat_06.png)
 ![](/erp-v2/assets/marketplace/digisac_chat/extensao_digisac_chat_07.png)
