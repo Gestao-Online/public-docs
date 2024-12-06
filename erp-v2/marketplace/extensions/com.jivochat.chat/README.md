@@ -4,34 +4,34 @@ O JivoChat é uma solução completa e gratuita para comunicação interna e ate
 
 A plataforma pode ser integrada de forma simples a sites desenvolvidos em WordPress ou Joomla, além de aplicativos móveis. Com um CRM integrado, o JivoChat facilita a organização do atendimento, garantindo uma experiência personalizada e eficiente para os seus clientes.
 
-![](/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_02.png)
+![](https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_02.png?raw=true)
 
 # Configurar o script do Jivochat
 
 Para você poder utilizar o Jivochat dentro do Gestão Online, você precisa ter uma conta criada no site do [Jivochat](https://app.jivosite.com/login)
 
-![](/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_01.png)
+![](https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_01.png?raw=true)
 
 Com a página do Jivochat aberta, para seguirmos com a instalação dele no Gestão Online, você precisará na página inicial, clicar no botão **Configurações**.
 
-![](/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_03.png)
+![](https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_03.png?raw=true)
 
 Nesta tela de configurações, você verá primeiramente os canais de comunicação, o primeiro que irá aparecer será o link do seu site, pois é um item obrigatório de preencher no momento do cadastro. (Você pode utilizar o link de acesso ao Gestão Online para ser um canal de atendimento)
 
 Observe que uma mensagem já irá ficar disponível solicitando você fazer a instalação do código em seu site, para que o Jivochat comece a funcionar.
 
-![](/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_04.png)
+![](https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_04.png?raw=true)
 
 Clicando nesta opção, você será encaminhado para uma nova página de instalação do Jivochat, e nela irá ficar disponível script de instalação com o código único de identificação. Para a instalação dele no Gestão Online, utilizaremos somente o código único que está marcado na imagem abaixo.
 
-![](/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_05.png)
+![](https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_05.png?raw=true)
 
 ## Configurando a extensão no Gestão Online
 
 Com o código copiado, agora você pode colar no campo específico dentro das configurações da extensão no Gestão Online. Primeiro clique no botão **Configurações**, para ser exibida a janela de opções para você.
 
-![](/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_06.png)
+![](https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_06.png?raw=true)
 
 Agora é só colar o código do Jivochat e em seguida clicar no botão **`Salvar configurações`** e aguardar a conexão ser feita. Após instalação você pode atualizar a página do Gestão Online e o chat logo ficará disponível para uso no lado direito da tela de forma suspensa, e aparecendo para os demais usuários.
 
-![](/erp-v2/assets/marketplace/clarity_loja/extensao_clarity_loja_06.png)
+![](https://github.com/Gestao-Online/public-docs/blob/98b0725276398cdddc6226354d56b427d2ce8fc1/erp-v2/assets/marketplace/clarity_loja/extensao_clarity_loja_06.png?raw=true)
