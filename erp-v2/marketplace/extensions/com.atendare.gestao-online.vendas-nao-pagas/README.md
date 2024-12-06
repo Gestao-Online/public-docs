@@ -2,11 +2,11 @@
 
 Com a extensão da Atendare para vendas não pagas, você terá um envio de leads e atualizações de vendas não pagas para melhor controle das vendas que não se concretizaram em seu site de vendas.
 
-![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_inicio.png)
+![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_inicio.png?raw=true)
 
 Com a extensão instalada, você precisa configurá-la clicando no botão de configuração que é exibido a partir do momento que você instala a extensão no sistema.
 
-![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_btn_config.png)
+![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_btn_config.png?raw=true)
 
 ## Configurando API Atendare
 
@@ -18,7 +18,7 @@ Na sequência, você precisa preencher o token da API, este token é único e vo
 
 Exemplo: 19d18f5cb22f1d116f09dc8bd438fc871d513838
 
-![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_token_api.png)
+![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_token_api.png?raw=true)
 
 ### Configuração do Atendare
 
@@ -28,11 +28,11 @@ O segundo campo é o **ID do responsável padrão**. Dentro do Atendare, cada us
 
 No terceiro e quarto campos temos o **ID da Etapa de vendas não pagas** e o **ID da Etapa de vendas pagas**. Essas etapas irão separar vendas que ainda não foram pagas das que já tiveram o pagamento efetuado. Então em seu pipeline novo ou já criado, coloque os ID's de referência onde nossa extensão irá fazer o preenchimento automático.
 
-![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_atendare.png)
+![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_atendare.png?raw=true)
 
 Estas informações você pode precisa solicitar diretamente com o suporte da Atendare, pois esses IDs exigem um certo nível de complexidade que eles podem repassar com mais facilidade a você.
 
-![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_atendare_suporte.png)
+![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_atendare_suporte.png?raw=true)
 
 ### Configuração de Venda
 
@@ -40,11 +40,11 @@ Para que as informações corretas sejam encaminhadas ao CRM da Atendare, você 
 
 Observe nossa demonstração abaixo.
 
-![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_venda_tipo_movimentacao.gif)
+![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_venda_tipo_movimentacao.gif?raw=true)
 
 O mesmo vale para a seleção dos [**`Tipos de negociação`**](https://docs.gestao.plus/erp-v2/funcionalidades/financeiro/tipos_negociacao) permitidos, você também pode clicar no campo e logo digitar o nome do tipo de negociação que deseja permitir para o painel da Atendare.
 
-![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_venda_tipo_negociacao.gif)
+![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_venda_tipo_negociacao.gif?raw=true)
 
 ## Configuração de periodicidade de pagamento
 
@@ -56,7 +56,7 @@ Você pode definir a periodicidade  em **`Dias`**, **`Horas`** ou **`Minutos`**,
 
 Observe nossa demonstração abaixo.
 
-![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_boleto.gif)
+![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_boleto.gif?raw=true)
 
 ### Periodicidade Cartão de crédito
 
@@ -64,7 +64,7 @@ Você pode definir a periodicidade  em **`Dias`**, **`Horas`** ou **`Minutos`**,
 
 Observe nossa demonstração abaixo.
 
-![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_cartao.gif)
+![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_cartao.gif?raw=true)
 
 ### Periodicidade Pix
 
@@ -72,13 +72,13 @@ Você pode definir a periodicidade  em **`Dias`**, **`Horas`** ou **`Minutos`**,
 
 Observe nossa demonstração abaixo.
 
-![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_pix.gif)
+![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_config_pix.gif?raw=true)
 
 ## Salvando configurações 
 
 Após preencher todas as informações, você pode clicar no botão **`Salvar configurações`** e assim a extensão está devidamente configurada e funcionando, já começando a separar as vendas não pagas com a periodicidade que você configurou.
 
-![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_salvar.gif)
+![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_salvar.gif?raw=true)
 
 ## Resultado no Atendare
 
@@ -86,4 +86,4 @@ Dentro do CRM da Atendare as informações serão mostradas conforme exemplo aba
 
 Separado por número da compra, nome do produto, valor da compra, tipo de movimentação utilizada e mais abaixo o nome do cliente.
 
-![](/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_atendare_exemplo.png)
+![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_atendare_exemplo.png?raw=true)
