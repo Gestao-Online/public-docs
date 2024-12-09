@@ -196,10 +196,6 @@ E nesta mesma aba, quando cadastraremos um contato, além das informações bás
 
 ### Aba parceiros indicados
 
-{% hint style="danger" %}
-<img src="/erp-v2/assets/marketplace/coroa_.gif" alt="" data-size="line"> Para ter acesso a estes campos, é necessário instalar o Módulo de Indicador a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
-{% endhint %}
-
 Nesta aba, você coloca os parceiros indicados, lembrando que eles recebem comissão por vendas realizadas para este cliente/fornecedor/indicador. Nesta aba, pode usar o botão de importação caso tenha muitos parceiros indicados, ou pode adicionar manualmente. 
 
 Caso tenha dúvidas sobre como funciona o sistema de importação, [**`Clique aqui`**](/erp-v2/primeiro_acesso/importar.md).
@@ -233,7 +229,3 @@ Logo após salvar o novo indicador, um novo botão <img src="/erp-v2/assets/icon
 Ao clicar neste botão, a plataforma da Gestão Online fará a busca dos dados do indicador por CNPJ e fará o preenchimento das informações automaticamente para você.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicadores_novo_menu.png)
-
-<br>
-
-<br>
