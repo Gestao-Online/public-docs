@@ -92,6 +92,10 @@ Aqui na parte de **`Endereço da unidade`** já colocamos em nossa plataforma o 
 
 ## Cadastrando tabelas de preço
 
+{% hint style="danger" %}
+<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> As funções de Tabelas de Preço é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
+
 Agora em **`Tabela de preço`**, temos algumas funções ligadas a outras telas da plataforma **Gestão Online**, abaixo explicamos um pouco melhor sobre cada uma.
 
 {% hint style="warning" %}
@@ -119,6 +123,10 @@ A **Tabela de preço de comissão de entrega** Se aplica somente para algumas si
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_indicacao_entrega.png)
 
 ## Configuração para venda online (Loja Virtual)
+
+{% hint style="danger" %}
+<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> A funcionalidade Loja Virtual é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
 
 Esta parte em específico, esta dedicada a undiades/lojas que terão a opção de efetuar vendas online. Com o preenchimento destes campos, você poderá até mesmo gerar um link e uma página personalizada com as informações da sua empresa, vejamos os campos de preenchimento logo abaixo.
 
