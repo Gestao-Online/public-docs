@@ -1,5 +1,9 @@
 # 🎫 Cupom de desconto
 
+{% hint style="danger" %}
+<img src="/erp-v2/assets/marketplace/coroa_.gif" alt="" data-size="line"> Esta tela é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
+
 Para aplicar uma promoção para clientes específicos em unidade/loja, você pode criar cupons promocionais. O cupom funciona como um código, que deve ser inserido na finalização da compra para o desconto ser aplicado na venda/serviço.
 
 {% hint style="danger" %}

@@ -1,5 +1,9 @@
 # 📈 Tabelas de indicação
 
+{% hint style="danger" %}
+<img src="/erp-v2/assets/marketplace/coroa_.gif" alt="" data-size="line"> Esta tela é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
+
 Nesta tela você encontra todas as tabelas de indicação que estão cadastradas na plataforma da **Gestão Online**. Essas tabelas definem os valores de comissão a serem repassados aos indicadores. E caso queira criar, editar ou excluir uma tabela existente, precisa somente seguir este manual.
 
 {% hint style="danger" %}

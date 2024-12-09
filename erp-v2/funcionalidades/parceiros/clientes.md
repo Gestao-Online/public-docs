@@ -97,6 +97,10 @@ Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo marcar
 
 No campo **parceiro indicador**, você coloca o nome de um cliente/parceiro que indicou este cliente para cadastro. Este campo está vinculado ao sistema de pagamento de comissões, que está presente no momento da realização de uma venda. Caso queira mais informações sobre **parceiros indicadores** [**`clique aqui`**](/erp-v2/funcionalidades/indicadores_afiliados/parceiros_indicadores.md)
 
+{% hint style="danger" %}
+<img src="/erp-v2/assets/marketplace/coroa_.gif" alt="" data-size="line"> Para ter acesso a estes campos, é necessário instalar o Módulo de Indicador a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
+
 Em nossa demonstração, utilizaremos o parceiro indicador **Gestão Online**. Mas veja que é possível cadastrar um novo parceiro na mesma página, e até editar um parceiro em uma nova tela:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campo_tipo_parceiro_indicador.gif)
@@ -106,6 +110,10 @@ Agora nos campos de endereço segue o padrão, ao inserir o CEP a maioria dos ca
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_endereco.png)
 
 ### Dados Fiscais
+
+{% hint style="danger" %}
+<img src="/erp-v2/assets/marketplace/coroa_.gif" alt="" data-size="line"> Para ter acesso a estes campos, é necessário instalar o Módulo de Emissão de NFSe ou NFe a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
 
 Nesta parte você precisa preencher os dados conforme as orientações do contador da sua empresa. Possui apenas dois campos para preenchimento o de **retenção de ISS** sobre a emissão de NFS-e, e o de **Indicador de Inscrição Estadual**:
 
@@ -133,6 +141,10 @@ Os demais campos serão preenchidos por nosso sistema, para controle interno. Ob
 
 ### Dados da parceria de indicação
 
+{% hint style="danger" %}
+<img src="/erp-v2/assets/marketplace/coroa_.gif" alt="" data-size="line"> Para ter acesso a estes campos, é necessário instalar o Módulo de Indicador a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
+
 Por último, em dados de parceria, você pode colocar uma descrição da parceria que ficará em páginas públicas, LandingPages/Venda Online, Link de pagamento, etc. Pode também inserir uma imagem com a logo desse cliente para aparecer em links de vendas online.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campos_dados_parceria.gif)
@@ -146,6 +158,10 @@ Ao lado, no campo tabela de preço indicação, você coloca a tabela de preço 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_campo_tabela_indicacao.gif)
 
 ### Dados para parceria com venda online
+
+{% hint style="danger" %}
+<img src="/erp-v2/assets/marketplace/coroa_.gif" alt="" data-size="line"> Para ter acesso a estes campos, é necessário instalar o Módulo de Loja Virtual a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
 
 Quando ativamos a opção **Gerar link venda online**, mais opções ficam disponíveis para preenchermos:
 
@@ -190,6 +206,10 @@ E nesta mesma guia, quando cadastraremos um contato, além das informações bá
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_clientes_add_cliente_guia_contatos_add.png)
 
 ### Aba parceiros indicados
+
+{% hint style="danger" %}
+<img src="/erp-v2/assets/marketplace/coroa_.gif" alt="" data-size="line"> Para ter acesso a estes campos, é necessário instalar o Módulo de Indicador a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
 
 Nesta guia, você coloca os parceiros indicados, lembrando que eles recebem comissão por vendas realizadas para este cliente. Nesta guia, pode usar o botão de importação caso tenha muitos parceiros indicados, ou pode adicionar manualmente.
 
