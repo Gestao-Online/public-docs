@@ -1,12 +1,13 @@
 # 🤝 Indicadores
 
+{% hint style="danger" %}
+<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> Esta tela é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
+
 Nesta tela você encontra todos os indicadores cadastrados na plataforma da **Gestão Online**. E caso tenha algum indicador faltando, pode efetuar o cadastro dele seguindo este manual.
 
 <img src="/erp-v2/assets/placa-aviso.gif" alt="" data-size="line"> É importante lembrar que dependendo do cliente que você cadastrar na **Tela  Clientes**, nas configurações, pode também definir este mesmo cliente como um **fornecedor**, **indicador** ou **transportador**. (Informação explicada no menu [**`Definição de tipo`**](/erp-v2/funcionalidades/parceiros/indicadores.md#campo-definicao-de-tipo))
 
-{% hint style="danger" %}
-**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
-{% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicadores.gif)
 

@@ -1,10 +1,10 @@
 # Notas fiscais (Nfse)
 
-Aqui você poderá ver as notas fiscais de serviço eletrônicas, baixadas pelo sistema na plataforma da **Gestão Online**. Podendo conferir as informações de qual movimentação (Venda/Compra) ela pertence, a situação (Processando, rejeitado e concluído), etc.
-
 {% hint style="danger" %}
-**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> Esta tela é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
 {% endhint %}
+
+Aqui você poderá ver as notas fiscais de serviço eletrônicas, baixadas pelo sistema na plataforma da **Gestão Online**. Podendo conferir as informações de qual movimentação (Venda/Compra) ela pertence, a situação (Processando, rejeitado e concluído), etc.
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_nfse.gif)
 

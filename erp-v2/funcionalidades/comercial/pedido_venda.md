@@ -1,5 +1,9 @@
 # 📄 Pedido de venda
 
+{% hint style="danger" %}
+<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> Esta tela é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
+
 A tela pedido de venda tem a função de consolidar vários certificados digitais em um único código. 
 
 Essa organização é realizada por meio da guia de movimentações. Por exemplo, ao adquirir 5 certificados digitais, em uma situação comum, o cliente teria que fazer cinco compras distintas para obter cinco códigos de acesso para os certificados. 
@@ -7,10 +11,6 @@ Essa organização é realizada por meio da guia de movimentações. Por exemplo
 Com o pedido de venda, o comprador pode adquirir os cinco certificados digitais em uma única transação. Além disso, é criado um sub código de movimentação para cada certificado, simplificando a compra, já que o cliente poderá usar esse único código por cinco vezes nas videoconferências de validação de identidade.
 
 Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de preço, tabela de custo, tabela de comissão, unidade, empresa e parceiro indicador. São muitos vínculos, mas isso faz o sistema da Gestão.Online ser preciso nos resultados.
-
-{% hint style="danger" %}
-**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
-{% endhint %}
 
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
