@@ -29,3 +29,7 @@ Você pode explorar o Marketplace Gestão Online de duas maneiras:
 Explore, personalize e adicione novas funcionalidades ao seu ERP Gestão Online com apenas alguns cliques. Descubra como nossas soluções podem facilitar sua rotina e transformar sua gestão empresarial!
 
 ![](/erp-v2/assets/marketplace/marketplace_tela_inicio.gif)
+
+{% hint style="danger" %}
+**Atenção:** O acesso a esta tela e a instalação de aplicativos estão restritos a usuários com perfil de **Super Administrador**, devido à possibilidade de cobranças mensais associadas a algumas funcionalidades.
+{% endhint %}
