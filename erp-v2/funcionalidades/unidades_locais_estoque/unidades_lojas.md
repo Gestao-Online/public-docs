@@ -27,7 +27,7 @@ Nesta tela temos um menu cinza ao lado direito com as seguintes funções:
 {% endhint %}
 
 {% hint style="danger" %}
-<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line">A função mostrada abaixo na tela de Unidades só aé ativada quando instalada pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line">A funções mostradas abaixo de edição/inserção de multiplas Unidades, só é ativada quando instalado o Módulo Multi-Unidades pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
 {% endhint %}
 
 Se você observou, nós colocamos <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> ícones de atalho, para abrir item em nova tela e editar.
