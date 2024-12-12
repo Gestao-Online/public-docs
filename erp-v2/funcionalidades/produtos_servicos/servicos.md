@@ -107,6 +107,10 @@ Essas informações são fornecidas por seu contador, mas iremos fazer um exempl
 
 ### Campo NFSe código de serviço
 
+{% hint style="danger" %}
+<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> Para ter acesso a estes campos citados abaixo, é necessário instalar o Módulo de Emissão de NFSe a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
+
 Este código tem vínculo direto com a **Tela LC116**, que dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza (ISSQN), de competência dos municípios e do Distrito Federal, e dá outras providências. Nesta tela você pode baixar todos os códigos disponíveis ou inseri-los manualmente.
 
 Em nosso exemplo, estamos usando o código *1.08 – Planejamento, confecção, manutenção e atualização de páginas eletrônicas*.
@@ -167,6 +171,10 @@ Agora, na guia de `Categorias`, você pode definir uma categoria para o serviço
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_servico_guia_categoria.gif)
 
 ## Aba tabelas de preço
+
+{% hint style="danger" %}
+<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> Para ter acesso a Aba tabelas de preço, é necessário instalar o Módulo Tabelas de Preço a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
 
 Já na guia `Tabelas de preço` é possível verificar todas as tabelas de preço a que esse serviço já está vinculado, permitindo também adicionar facilmente o serviço a uma tabela de preço:
 
