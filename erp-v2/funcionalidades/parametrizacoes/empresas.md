@@ -12,10 +12,6 @@ Estas empresas serão utilizadas em cadastro de estoques, lojas e vínculos com 
 **Atenção:** Você precisará de informações importantes para o preenchimento dos dados mostrados aqui. Em caso de dúvidas, recomendamos que solicite essas informações ao contador de sua empresa, que poderá fornecer as orientações corretas e necessárias.
 {% endhint %}
 
-{% hint style="danger" %}
-**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
-{% endhint %}
-
 {% hint style="warning" %}
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
@@ -78,6 +74,11 @@ Logo abaixo, você tem os dados de endereço da empresa, com o sistema de autoco
 ## Dados Fiscais da empresa
 
 Chegando ao final da página de cadastro da nova empresa, nos deparamos com os dados fiscais. Lembre-se em caso de dúvidas, preencha-os conforme a orientação do contador da empresa.
+
+{% hint style="danger" %}
+<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> Para que os demais campos citados abaixo tenham uso no sistema, é necessário instalar o Módulo de Emissão de NFSe ou NFe a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
+
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_fiscais.png)
 
