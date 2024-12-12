@@ -71,6 +71,10 @@ Olhando para a aba **`Geral`**, por padrão, quando você for criar um vendedor 
 - **Usuário** (Defina o usuário existente do vendedor, aqui estabeleceremos o vínculo do usuário autenticado com o perfil do vendedor);
 - **Local estoque** (Qual local terá acesso, para saber mais [clique aqui](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md));
 
+{% hint style="danger" %}
+<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> Para ter acesso aos campos Empresa, Unidade, Centro de Resultado e Local de Estoque, é necessário instalar o Módulo referente a cada um deles, a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+{% endhint %}
+
 Já os campos de `Configuraçāo adicional`, servem para facilitar o dia a dia do vendedor/comprador, preenchendo automáticamente os campos no momento de uma venda/pedido. Com valores estabelecidos aqui, como "padrāo para o vendedor".
 
 - **Tipo de movimentação** (Definir o tipo de entrada/saída sendo compra ou venda, para saber mais [clique aqui](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md));
