@@ -30,7 +30,9 @@ Passe o cursor sobre os gráficos para visualizar informações adicionais, como
 
 Visualize tendências ao longo do tempo, identifique picos de atividade e monitore o impacto das suas indicações em diferentes intervalos.
 
-**Personalização** Configure filtros para ajustar os períodos exibidos, tipos de indicação ou categorias específicas de produtos e serviços.
+**Personalização** 
+
+Configure filtros para ajustar os períodos exibidos, tipos de indicação ou categorias específicas de produtos e serviços.
 
 Observando mais abaixo ainda na tela inicial é mostrado a você uma listagem com todas as indicações já realizadas.
 
@@ -42,31 +44,31 @@ Observando mais abaixo ainda na tela inicial é mostrado a você uma listagem co
 
 ## Minhas Indicações
 
-Aqui você pode verificar uma lista completa com todos os seus indicados, inclusive adicionar ou removê-los. Para adicionar um cliente clique em **`Nova Indicação`** ou **`Importar Lista`**.
+Aqui você pode verificar uma lista completa com todos os seus indicados, inclusive adicionar ou removê-los. Para adicionar um cliente clique em **`Nova Indicação`** ou caso queira adicionar vários clientes de uma só vez, pode utilizar o botão **`Importar Lista`**.
 
 ![](../.gitbook/assets/6_indicador.png)
 
-Um formulário será aberto solicitando as informações do cliente caso seja somente 1.
+Clicando no botão **`Nova Indicação`**, um formulário será aberto para você solicitando as informações do novo cliente que será cadastrado.
 
 ![](../.gitbook/assets/7_indicador.png)
 
-Caso tenha escolhido importar uma lista de indicações, selecione a opção "**Importar lista**" no canto superior direito, um formulário será aberto.
+Agora clicando no botão  **`Importar uma lista`**, uma janela pop-up será mostrada a você, mostrnado os campos necessários para a importação e o botão para você importar a planilha com as informações.
 
 ![](../.gitbook/assets/8_indicador.png)
 
-Selecione o arquivo no formato de planilha que deseja importar. Assim que ele for adicionado suas colunas serão carregadas para que você determine a relação entre oque será importado e oque há no arquivo.
+Selecione o arquivo no formato de planilha que deseja importar. Assim que o arquivo for adicionado, suas colunas serão exibidas, permitindo que você defina a correspondência entre os dados a serem importados e as informações presentes no arquivo.
 
 ![](../.gitbook/assets/9_indicador.png)
 
-Após selecionar a correspondecia entre as colunas clique em "**Começar Importação**".
+Após selecionar a correspondecia entre as colunas clique em "**Começar Importação**" e o nosso sistema fará o processo de adicionar os indicadores um a um para você..
 
 ![](../.gitbook/assets/10_indicador.png)
 
-Durante a importação um log será gerado com os dados de cada cliente importado e o status de sucesso ou falha.
+Durante a importação um detalhamento será gerado com os dados de cada indicador que você está importando, podendo ser um status de sucesso ou falha. É importante verificar os que tiverem alguma falha e corrigir o possível erro, ou adicionar esse indicador de forma manual, conforme mostrado abaixo.
 
 ![](../.gitbook/assets/11_indicador.png)
 
-Após finalizar a importação os novos indicados estarão disponíveis na lista e cadastrados como clientes no sistema.
+Após finalizar a importação, os novos indicadores estarão disponíveis na lista e cadastrados como clientes no sistema.
 
 ## Informações do Parceiro Indicador
 
