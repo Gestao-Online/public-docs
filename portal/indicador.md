@@ -13,13 +13,26 @@ Neste modo você conseguirá:
 
 ## Dashboard do Indicador
 
-Aqui serão mostrados gráficos detalhados sobre as indicações feitas por você ou pelo seu parceiro indicador anteriormente.
+Este espaço oferece uma visão abrangente das indicações realizadas, seja por você ou pelo seu parceiro indicador. Os gráficos apresentados fornecem dados detalhados e organizados para facilitar o acompanhamento do desempenho e das tendências relacionadas às suas indicações.
 
 ![](../.gitbook/assets/3_indicador.png)
 
-Passando o mouse sobre cada gráfico é possível ver detalhes sobre as informações apresentadas, a quantidade de um determinado produto/serviço indicado em específico ou o número total de indicações em um certo período.
+### Funcionalidades do Dashboard
 
-Abaixo será carregada uma listagem com todas as indicações realizadas.
+**Detalhamento Interativo** 
+
+Passe o cursor sobre os gráficos para visualizar informações adicionais, como:
+- Quantidade específica de produtos ou serviços indicados.
+- Número total de indicações em diferentes períodos de tempo.
+- Comparativos entre indicações realizadas por você e pelo parceiro indicador, quando aplicável.
+
+**Análise Temporal** 
+
+Visualize tendências ao longo do tempo, identifique picos de atividade e monitore o impacto das suas indicações em diferentes intervalos.
+
+**Personalização** Configure filtros para ajustar os períodos exibidos, tipos de indicação ou categorias específicas de produtos e serviços.
+
+Observando mais abaixo ainda na tela inicial é mostrado a você uma listagem com todas as indicações já realizadas.
 
 {% hint style="info" %}
 **Dica**: Você pode selecionar o período que deseja visualizar no dashboard através do ícone de filtragem no canto superior direito.

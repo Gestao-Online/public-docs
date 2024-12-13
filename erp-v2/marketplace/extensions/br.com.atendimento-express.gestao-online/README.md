@@ -30,3 +30,5 @@ Agora com o link copiado, você pode abrir em um navegador de internet, e seguir
 Após clicar em `Continuar por aqui`, ou utilizar a opção de QRCODE para prosseguir pelo celular, você irá ver esta informação, mostrando as etapas que você ou o cliente devem seguir para finalizar a emissão do certificado digital.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/a3f10d02e4fb6a66948e4223418c985636b1a55c/erp-v2/assets/marketplace/atendimento_express_soluti/extensao_atendimento_express_06.png?raw=true)
+
+Assim que é finalizado todas as etapas, um aviso no estilo pop-up é exibido ao usuário dentro do Gestão Online. Informando que foi feito o certificado foi emitido e um agendamento do vencimento deste certificado que foi criado dentro da tela de Agendamentos.

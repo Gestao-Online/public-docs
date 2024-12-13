@@ -8,7 +8,12 @@ Com o modo cliente você conseguirá acompanhar o status de suas compras e verif
 
 ![](../.gitbook/assets/1_cliente.png)
 
-Para visualizar o resumo de uma compra, assim como os arquivos associados a ela \(nota, boletos\), selecione o ícone azul ao lado da compra.
+Para visualizar o resumo de uma compra, selecione o ícone azul ao lado da compra.
+
+![](../.gitbook/assets/1_cliente1.png)
+
+Feito isso, uma nova tela será mostrada a você com os detalhes desta compra, tais como data de pagamento, a forma de pagamento, o status do pedido, descriçlão do produto, quantidade e valor pago.
+
+Você também encontra logo abaixo as guias **NF-e** e **Boleto** e seus arquivos associados para visualizar, ou baixar em seu computador.
 
 ![](../.gitbook/assets/2_cliente.png)
-
