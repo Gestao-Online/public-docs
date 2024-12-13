@@ -1,7 +1,7 @@
 # 📤 Movimentação de estoque
 
 {% hint style="danger" %}
-<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> Esta tela é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+<img src="/erp-v2/assets/marketplace/coroa_premium.png" alt="" data-size="line"> Esta tela é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
 {% endhint %}
 
 Aqui você tem a visão das movimentações do estoque de produtos na plataforma. Esta tela funciona como um "extrato" ou "histórico" de toda movimentação (entrada e saída) de produtos em cada respectivo local de estoque.

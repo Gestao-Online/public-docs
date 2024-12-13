@@ -94,7 +94,7 @@ Como explicado, anteriormente temos 3 opções que definem o "tipo de entrega do
 Produtos digitais e/ou virtuais. Nāo necessariamente possuem uma entrega física que precisa controlar campos como altura,largura, peso etc. Por isso, utilize essa modalidade caso trabalhe com venda de InfoProdutos, Ebooks, Produtos Digitais etc
 
 {% hint style="danger" %}
-<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> Para ter acesso a estes campos, é necessário instalar o Módulo de Emissão de NFe a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+<img src="/erp-v2/assets/marketplace/coroa_premium.png" alt="" data-size="line"> Para ter acesso a estes campos, é necessário instalar o Módulo de Emissão de NFe a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_produto_entrega_unidade.png)
@@ -152,7 +152,7 @@ Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do nov
 A partir do momento que você concluir a criação de um novo produto, ficarão disponíveis três abas para você acessar, a primeira é de `Estoque`.
 
 {% hint style="danger" %}
-<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> Para ter acesso a Aba Estoque, é necessário instalar o Módulo de Local de Estoque a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+<img src="/erp-v2/assets/marketplace/coroa_premium.png" alt="" data-size="line"> Para ter acesso a Aba Estoque, é necessário instalar o Módulo de Local de Estoque a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -183,7 +183,7 @@ Agora, na aba de **`Categorias`**, você pode definir uma categoria para o produ
 Já na aba `Tabelas de preço` é possível verificar todas as tabelas de preço a que esse produto já está vinculado, permitindo também adicionar facilmente o produto a uma tabela de preço:
 
 {% hint style="danger" %}
-<img src="https://cdn-icons-png.flaticon.com/512/9967/9967681.png" alt="" data-size="line"> Para ter acesso a Aba tabelas de preço, é necessário instalar o Módulo de Tabela de Preços a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
+<img src="/erp-v2/assets/marketplace/coroa_premium.png" alt="" data-size="line"> Para ter acesso a Aba tabelas de preço, é necessário instalar o Módulo de Tabela de Preços a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
 {% endhint %}
 
 {% hint style="warning" %}
