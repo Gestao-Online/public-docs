@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|Dê vida à página de vendas da sua empresa e personalize-a com facilidade! Com a extensão *Personalização de Landing Page* do Gestão Online, você pode ajustar seu site com as informações essenciais da sua marca ou dos seus parceiros de forma prática e intuitiva. <br><br>Personalize sua página para refletir o que é importante para o seu público, sem complicações! |![](https://github.com/Gestao-Online/public-docs/blob/feedbdbf4290584e61625d33d0058fa36f7f16c9/erp-v2/assets/marketplace/go_personalizar_lp/imagem_editar_lp.png?raw=true) |
+|Dê vida à página de vendas da sua empresa e personalize-a com facilidade! Com a extensão *Personalização de Landing Page* do Gestão Online, você pode ajustar seu site com as informações essenciais da sua marca ou dos seus parceiros de forma prática e intuitiva. <br><br>Personalize sua página para refletir o que é importante para o seu público, sem complicações! |![](https://github.com/Gestao-Online/public-docs/blob/e301c50dc5fba66067bb896566cd34a73e34ae14/erp-v2/assets/marketplace/go_personalizar_lp/imagem_editar_lp.png) |
 
 ### Principais vantagens:
 
