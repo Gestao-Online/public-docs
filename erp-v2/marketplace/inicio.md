@@ -2,7 +2,7 @@
 
 Bem-vindo ao **Marketplace Gestão Online**, a solução que conecta você às melhores ferramentas para otimizar o uso do seu ERP e levar sua gestão ao próximo nível!
 
-{% embed url="https://drive.google.com/file/d/1vtCPdMzHGkEHUraijnM1wYV001sKrCRL/preview" %}
+<!-- {% embed url="https://youtube.googleapis.com/5461d0ad-1088-4256-9294-627db4c695f7" %} -->
 
 Nosso marketplace foi desenvolvido pensando em você, oferecendo uma ampla variedade de aplicativos e módulos complementares que atendem às mais diversas necessidades do seu negócio. Seja para impulsionar vendas, gerenciar operações, ou integrar novas funcionalidades, aqui você encontra tudo em um só lugar, com praticidade e eficiência.
 
@@ -10,11 +10,11 @@ Nosso marketplace foi desenvolvido pensando em você, oferecendo uma ampla varie
 
 Você pode explorar o Marketplace Gestão Online de duas maneiras:
 
-* B**arra de Pesquisa**: Localize diretamente o que precisa utilizando nossa busca inteligente.
+* **Barra de Pesquisa**: Localize diretamente o que precisa utilizando nossa busca inteligente.
 
 * ![](/erp-v2/assets/marketplace/marketplace_inicio_barra_pesquisa.gif)
 
-* M**enu Navegável**: Vá até Menu > Configurações e Customizações > Marketplace para explorar todo o nosso catálogo.
+* **Menu Navegável**: Vá até Menu > Configurações e Customizações > Marketplace para explorar todo o nosso catálogo.
 
 * ![](/erp-v2/assets/marketplace/marketplace_inicio_menu_navegavel.gif)
 
