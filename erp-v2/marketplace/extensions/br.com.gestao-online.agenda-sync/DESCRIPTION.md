@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|Dê um passo à frente na organização e no atendimento aos seus clientes com a extensão Sincronizar Agenda, exclusiva para o Gestão Online.<br><br>Com essa poderosa ferramenta, você nunca mais precisará se preocupar em rastrear manualmente vencimentos ou renovações de serviços. |<iframe src="https://drive.google.com/file/d/1UMWPYU5JYk9ruOYmVzFvliNnjnAva_P5/preview" width="480" height="280" allow="autoplay"></iframe>|
+|Dê um passo à frente na organização e no atendimento aos seus clientes com a extensão Sincronizar Agenda, exclusiva para o Gestão Online.<br><br>Com essa poderosa ferramenta, você nunca mais precisará se preocupar em rastrear manualmente vencimentos ou renovações de serviços. |<iframe src="https://drive.google.com/file/d/1UMWPYU5JYk9ruOYmVzFvliNnjnAva_P5/preview" width="480" height="260" allow="autoplay"></iframe>|
 
 
 <!-- VERSÃO ANTIGA PARA BACKUP -->
