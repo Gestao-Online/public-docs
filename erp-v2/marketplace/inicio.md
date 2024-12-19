@@ -2,6 +2,8 @@
 
 Bem-vindo ao **Marketplace Gestão Online**, a solução que conecta você às melhores ferramentas para otimizar o uso do seu ERP e levar sua gestão ao próximo nível!
 
+<iframe src="https://drive.google.com/file/d/1vtCPdMzHGkEHUraijnM1wYV001sKrCRL/preview" width="480" height="280" allow="autoplay"></iframe>
+
 Nosso marketplace foi desenvolvido pensando em você, oferecendo uma ampla variedade de aplicativos e módulos complementares que atendem às mais diversas necessidades do seu negócio. Seja para impulsionar vendas, gerenciar operações, ou integrar novas funcionalidades, aqui você encontra tudo em um só lugar, com praticidade e eficiência.
 
 ## Como acessar?
