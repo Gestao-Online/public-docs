@@ -1,3 +1,5 @@
+<div style="text-align: justify">
+
 ### Apresentamos a Sincronia de Agenda, a Gestão Inteligente de Seus Compromissos!
 
 <!-- | | |
@@ -29,3 +31,5 @@
 <br>
 
 **Não perca tempo! Experimente a Extensão Sincronizar Agenda e descubra como é simples automatizar processos e elevar a qualidade da sua gestão.**
+
+</div>
