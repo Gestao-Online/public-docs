@@ -2,25 +2,21 @@
 
 <!-- | | |
 |-|-|
-|Dê um passo à frente na organização e no atendimento aos seus clientes com a extensão Sincronizar Agenda, exclusiva para o Gestão Online.<br><br>Com essa poderosa ferramenta, você nunca mais precisará se preocupar em rastrear manualmente vencimentos ou renovações de serviços. |<iframe src="https://drive.google.com/file/d/1UMWPYU5JYk9ruOYmVzFvliNnjnAva_P5/preview" width="480" height="270" allow="autoplay"></iframe>| -->
+|Facilite o dia a dia da sua operação e otimize a gestão do seu negócio com a Extensão Sincronizar Agenda, disponível no nosso marketplace do Gestão Online.<br><br> Com essa poderosa ferramenta, você terá uma solução completa para sincronizar suas vendas e agendamentos automaticamente, economizando tempo e garantindo mais precisão na gestão dos seus atendimentos. |<iframe src="https://drive.google.com/file/d/1UMWPYU5JYk9ruOYmVzFvliNnjnAva_P5/preview" width="480" height="270" allow="autoplay"></iframe>| -->
 
 
 <!-- VERSÃO ANTIGA PARA BACKUP -->
 | | |
 |-|-|
-|Dê um passo à frente na organização e no atendimento aos seus clientes com a extensão Sincronizar Agenda, exclusiva para o Gestão Online.<br><br>Com essa poderosa ferramenta, você nunca mais precisará se preocupar em rastrear manualmente vencimentos ou renovações de serviços. |![](https://github.com/Gestao-Online/public-docs/blob/f4bcd564b0f2416f5fc36fb3afd82a1142df35a6/erp-v2/marketplace/extensions/br.com.gestao-online.agenda-sync/assets/extensao_agenda_sync_02.png?raw=true) |
+|Facilite o dia a dia da sua operação e otimize a gestão do seu negócio com a Extensão Sincronizar Agenda, disponível no nosso marketplace do Gestão Online.<br><br> Com essa poderosa ferramenta, você terá uma solução completa para sincronizar suas vendas e agendamentos automaticamente, economizando tempo e garantindo mais precisão na gestão dos seus atendimentos. |![](https://github.com/Gestao-Online/public-docs/blob/f4bcd564b0f2416f5fc36fb3afd82a1142df35a6/erp-v2/marketplace/extensions/br.com.gestao-online.agenda-sync/assets/extensao_agenda_sync_02.png?raw=true) |
 
 <br>
 
 ### Como funciona?
 
-A cada nova venda realizada no seu sistema Gestão Online, a Extensão Sincronizar Agenda automatiza o processo
+✅ **Sincronização Automática de Vendas:** Todas as novas vendas realizadas passam por uma verificação automática. O sistema busca, dentro do período configurado, agendamentos previamente criados para o cliente. Encontrando um agendamento, a venda será automaticamente vinculada a ele.
 
-✅ **Criação automática de agendamentos:** Os dados da venda e do cliente são adicionados diretamente na sua tela de agendamentos.
-
-✅ **Alertas inteligentes:** Receba notificações automáticas que lembram você da data de vencimento do serviço, garantindo um atendimento ágil e proativo.
-
-✅ **Gestão simplificada de renovações:** Acompanhe facilmente os prazos e mantenha o relacionamento com seus clientes sempre em dia.
+✅ **Gestão de Agendamentos Retroativos:** Também é possível sincronizar vendas com agendamentos passados, garantindo que nenhum dado fique de fora.
 
 <br>
 
@@ -28,8 +24,8 @@ A cada nova venda realizada no seu sistema Gestão Online, a Extensão Sincroniz
 
 | | |
 |-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/10419ac567616e0e8fb923f949077959bbf9aafd/erp-v2/marketplace/extensions/br.com.gestao-online.agenda-sync/assets/extensao_agenda_sync_01.gif?raw=true) |**Economia de tempo:** Automatize processos repetitivos e concentre-se no que realmente importa: crescer o seu negócio.<br><br>**Melhor experiência para o cliente:** Antecipe-se às necessidades dos seus clientes com lembretes de vencimentos e renovações.<br><br>**Mais organização e produtividade:** Mantenha suas operações alinhadas, sem esforço adicional. |
+|![](https://github.com/Gestao-Online/public-docs/blob/10419ac567616e0e8fb923f949077959bbf9aafd/erp-v2/marketplace/extensions/br.com.gestao-online.agenda-sync/assets/extensao_agenda_sync_01.gif?raw=true) |✔ **Economia de Tempo:** Menos tarefas manuais para sua equipe, mais tempo para focar no atendimento ao cliente.<br>✔ **Precisão nos Registros:** Diminua erros e mantenha o histórico do cliente sempre atualizado.<br>✔ **Integração Perfeita:** Aproveite ao máximo os recursos do Gestão Online, criando uma operação mais ágil e eficiente.<br>✔ **Melhor Experiência para o Cliente:** Com vendas e agendamentos sincronizados, você garante um atendimento mais organizado e profissional. |
 
 <br>
 
-**Não perca tempo nem vendas! Instale agora mesmo a Extensão Sincronizar Agenda no seu sistema Gestão Online e experimente o futuro da gestão de agendamentos e vencimentos.**
+**Não perca tempo! Experimente a Extensão Sincronizar Agenda e descubra como é simples automatizar processos e elevar a qualidade da sua gestão.**
