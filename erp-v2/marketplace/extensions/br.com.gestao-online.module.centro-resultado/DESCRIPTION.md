@@ -10,9 +10,9 @@ Potencialize o controle e a análise das áreas de sua empresa com o módulo Cen
 
 No Centro de Resultado, você pode criar centros personalizados que refletem a estrutura de sua empresa. Organize-os hierarquicamente,configure centros principais e, em seguida, crie subcategorias para especificar ainda mais as divisões, como por exemplo:
 
-| | |
-|-|-|
-|1. **Administrativo**<br>1.1 Financeiro<br>1.2 Departamento Pessoal<br><br>2. **Comercial**<br>2.1 Vendas<br>2.2 Parcerias<br>2.3 Marketing |![](https://github.com/Gestao-Online/public-docs/blob/2019d1457769391c984e9c90e3d514507b9ceab2/erp-v2/marketplace/extensions/br.com.gestao-online.module.centro-resultado/assets/modulo_centro_resultado_02.png?raw=true) |
+| | | |
+|-|-|- |
+|1. **Administrativo**<br>1.1 Financeiro<br>1.2 Departamento Pessoal<br><br>2. **Comercial**<br>2.1 Vendas<br>2.2 Parcerias<br>2.3 Marketing |![](https://github.com/Gestao-Online/public-docs/blob/d8b767688ce2d2c9ed2171ff50f4e3e9182bf9ea/erp-v2/marketplace/extensions/br.com.gestao-online.module.centro-resultado/assets/referencia-auxilio.png?raw=true)|![](https://github.com/Gestao-Online/public-docs/blob/7b2f077f9a957c76b38fe3924cb34e11cee64321/erp-v2/marketplace/extensions/br.com.gestao-online.module.centro-resultado/assets/modulo_centro_resultado_02.png?raw=true) |
 
 <br>
 
