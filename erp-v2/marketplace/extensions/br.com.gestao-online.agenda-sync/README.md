@@ -50,4 +50,6 @@ Por outro lado, ao escolher opções como **Dividir por mês, semana**, ou até 
 
 ![](https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_08.png?raw=true)
 
+Após clicar no botão **Sincronizar**, o sistema irá iniciar o processo e você pode aguardar até ele mostrar a mensagem de sincronização criada com sucesso
+
 </div>
