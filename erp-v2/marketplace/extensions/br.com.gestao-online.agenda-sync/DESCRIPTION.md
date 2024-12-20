@@ -1,14 +1,14 @@
 ### Apresentamos a Sincronia de Agenda, a Gestão Inteligente de Seus Compromissos!
 
-| | |
+<!-- | | |
 |-|-|
-|Dê um passo à frente na organização e no atendimento aos seus clientes com a extensão Sincronizar Agenda, exclusiva para o Gestão Online.<br><br>Com essa poderosa ferramenta, você nunca mais precisará se preocupar em rastrear manualmente vencimentos ou renovações de serviços. |<iframe src="https://drive.google.com/file/d/1UMWPYU5JYk9ruOYmVzFvliNnjnAva_P5/preview" width="480" height="270" allow="autoplay"></iframe>|
+|Dê um passo à frente na organização e no atendimento aos seus clientes com a extensão Sincronizar Agenda, exclusiva para o Gestão Online.<br><br>Com essa poderosa ferramenta, você nunca mais precisará se preocupar em rastrear manualmente vencimentos ou renovações de serviços. |<iframe src="https://drive.google.com/file/d/1UMWPYU5JYk9ruOYmVzFvliNnjnAva_P5/preview" width="480" height="270" allow="autoplay"></iframe>| -->
 
 
 <!-- VERSÃO ANTIGA PARA BACKUP -->
-<!-- | | |
+| | |
 |-|-|
-|Dê um passo à frente na organização e no atendimento aos seus clientes com a extensão Sincronizar Agenda, exclusiva para o Gestão Online.<br><br>Com essa poderosa ferramenta, você nunca mais precisará se preocupar em rastrear manualmente vencimentos ou renovações de serviços. |![](https://github.com/Gestao-Online/public-docs/blob/f4bcd564b0f2416f5fc36fb3afd82a1142df35a6/erp-v2/marketplace/extensions/br.com.gestao-online.agenda-sync/assets/extensao_agenda_sync_02.png?raw=true) | -->
+|Dê um passo à frente na organização e no atendimento aos seus clientes com a extensão Sincronizar Agenda, exclusiva para o Gestão Online.<br><br>Com essa poderosa ferramenta, você nunca mais precisará se preocupar em rastrear manualmente vencimentos ou renovações de serviços. |![](https://github.com/Gestao-Online/public-docs/blob/f4bcd564b0f2416f5fc36fb3afd82a1142df35a6/erp-v2/marketplace/extensions/br.com.gestao-online.agenda-sync/assets/extensao_agenda_sync_02.png?raw=true) |
 
 <br>
 
