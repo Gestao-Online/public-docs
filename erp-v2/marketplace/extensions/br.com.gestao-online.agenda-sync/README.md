@@ -34,11 +34,11 @@ Feito isso, você pode clicar no botão salvar, e assim as configurações serã
 
 Após instalada a extensão, se você acessar a tela de Agendamentos, verá um novo botão disponível para uso no menu superior da tela.
 
-![](https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_06.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_06.png?raw=true)
 
 Clicando nele uma janela pop-up será mostrada a você com as opções de **sincronizar de agendamento passados**. Onde você precisará definir a data de início e data de fim da busca.
 
-![](https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_07.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_07.png?raw=true)
 
 O campo de **Paginação** é onde você poderá dividir o processo de sincronização em etapas menores, otimizando o tempo e o desempenho do sistema.
 
@@ -48,7 +48,7 @@ Por outro lado, ao escolher opções como **Dividir por mês, semana**, ou até 
 
 *Essa flexibilidade é especialmente útil para empresas com grandes volumes de dados históricos.*
 
-![](https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_08.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_08.png?raw=true)
 
 Após clicar no botão **Sincronizar**, o sistema irá iniciar o processo e você pode aguardar até ele mostrar a mensagem de sincronização criada com sucesso
 
