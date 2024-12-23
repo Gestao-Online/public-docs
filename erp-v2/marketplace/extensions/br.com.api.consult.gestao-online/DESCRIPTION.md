@@ -1,6 +1,10 @@
+<div style="text-align: justify">
+
+# Apresentamos a extensão GO Consultas!
+
 | | |
 |-|-|
-|Apresentamos a extensão GO Consultas, uma poderosa ferramenta integrada ao seu ERP Gestão Online, ideal para empresas que buscam ampliar seus serviços de análise e consulta para seus clientes, com total praticidade e segurança. <br><br>É possível oferecer um leque completo de consultas especializadas em CPF, CNPJ e informações veiculares, todas emitidas em relatórios detalhados em PDF, perfeitos para a tomada de decisão e análise de crédito. |![](https://github.com/Gestao-Online/public-docs/blob/6819f826bf0dc6801ef8219562052ffc18bc8391/erp-v2/assets/marketplace/go_consulta/card_consulta_veiculos.png?raw=true) |
+|Uma poderosa ferramenta integrada ao seu ERP Gestão Online, ideal para empresas que buscam ampliar seus serviços de análise e consulta para seus clientes, com total praticidade e segurança. <br><br>É possível oferecer um leque completo de consultas especializadas em CPF, CNPJ e informações veiculares, todas emitidas em relatórios detalhados em PDF, perfeitos para a tomada de decisão e análise de crédito. |![](https://github.com/Gestao-Online/public-docs/blob/6819f826bf0dc6801ef8219562052ffc18bc8391/erp-v2/assets/marketplace/go_consulta/card_consulta_veiculos.png?raw=true) |
 
 <br>
 
@@ -40,8 +44,10 @@ O GO Consultas não só adiciona valor ao ERP Gestão Online, mas também permit
 
 | | |
 |-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/6819f826bf0dc6801ef8219562052ffc18bc8391/erp-v2/assets/marketplace/go_consulta/spc_serasa_score_modelo.png?raw=true)  | Imagine que um cliente precisa avaliar o perfil de um potencial comprador ou fornecedor. Com o **GO Consultas**, ele poderá realizar uma Consulta Completa CPF + SCORE para entender o perfil financeiro e a pontuação de crédito, além de uma Consulta de Ações e Processos Judiciais para garantir que não existem pendências jurídicas relevantes.<br><br>Em um único sistema, ele terá todas as informações necessárias para uma tomada de decisão rápida e assertiva. |
+|![](https://github.com/Gestao-Online/public-docs/blob/8593f786dd7a915aa9ef04ea677079242ecf0398/erp-v2/assets/marketplace/go_consulta/spc_serasa_score_modelo.png?raw=true)  | Imagine que um cliente precisa avaliar o perfil de um potencial comprador ou fornecedor. Com o **GO Consultas**, ele poderá realizar uma Consulta Completa CPF + SCORE para entender o perfil financeiro e a pontuação de crédito, além de uma Consulta de Ações e Processos Judiciais para garantir que não existem pendências jurídicas relevantes.<br><br>Em um único sistema, ele terá todas as informações necessárias para uma tomada de decisão rápida e assertiva. |
 
 <br>
 
 **Aproveite e ofereça mais possibilidades de sucesso para seus clientes com o GO Consultas!**
+
+</div>

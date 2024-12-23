@@ -4,8 +4,6 @@ Aplicação desenvolvida para integração com SisAR e V.Line, permitindo de for
 
 A solução permite essa integração com as ferramentas da Soluti, agilizando as vendas de certificados digitais.
 
-![](https://github.com/Gestao-Online/public-docs/blob/a3f10d02e4fb6a66948e4223418c985636b1a55c/erp-v2/assets/marketplace/atendimento_express_soluti/extensao_atendimento_express_01.png?raw=true)
-
 Diferente das demais extensões, essa em específico não tem necessidade de realizar configuração, pois é feito no ato da instalação. Não tem necessidade de clicar no botão de configurações.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/a3f10d02e4fb6a66948e4223418c985636b1a55c/erp-v2/assets/marketplace/atendimento_express_soluti/extensao_atendimento_express_02.png?raw=true)
