@@ -2,7 +2,7 @@
 
 Com a extensão **GO-Consulta**, você pode realizar consultas de CPF, CNPJ e até de veículos. Desde consultas completas até mais específicas.
 
-![](https://github.com/Gestao-Online/public-docs/blob/ecb2596a0525307fe6e30176134ccf1eb42e63f8/erp-v2/assets/marketplace/go_consulta/tela_marketplace_inicio.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/37efa5ccb30b00d1fdb8b510181b630d1bbcab74/erp-v2/assets/marketplace/go_consulta/tela_marketplace_inicio.png?raw=true)
 
 ## Vinculando tabela de preço
 
