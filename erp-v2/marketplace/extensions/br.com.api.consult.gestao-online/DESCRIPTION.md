@@ -1,6 +1,6 @@
 <div style="text-align: justify">
 
-# Apresentamos a extensão GO Consultas!
+### Apresentamos a extensão GO Consultas!
 
 | | |
 |-|-|
