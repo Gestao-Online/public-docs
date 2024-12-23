@@ -1,3 +1,5 @@
+<div style="text-align: justify">
+
 ### Atendimento Express: Agilidade e Eficiência no Atendimento ao Cliente
 
 | | |
@@ -57,3 +59,5 @@ O Atendimento Express é a escolha ideal para empresas que buscam otimizar o pro
 <br>
 
 **Transforme o atendimento ao cliente da sua empresa com o Atendimento Express do Gestão Online!**
+
+</div>
