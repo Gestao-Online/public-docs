@@ -1,8 +1,6 @@
-# 📦 App Atendare - Vendas não pagas
+<div style="text-align: justify">
 
-Com a extensão da Atendare para vendas não pagas, você terá um envio de leads e atualizações de vendas não pagas para melhor controle das vendas que não se concretizaram em seu site de vendas.
-
-![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_inicio.png?raw=true)
+## 📦 App Atendare - Vendas não pagas
 
 Com a extensão instalada, você precisa configurá-la clicando no botão de configuração que é exibido a partir do momento que você instala a extensão no sistema.
 
@@ -87,3 +85,5 @@ Dentro do CRM da Atendare as informações serão mostradas conforme exemplo aba
 Separado por número da compra, nome do produto, valor da compra, tipo de movimentação utilizada e mais abaixo o nome do cliente.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_atendare_exemplo.png?raw=true)
+
+</div>

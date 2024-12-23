@@ -1,3 +1,7 @@
+<div style="text-align: justify">
+
+## Apresentamos a extensão Atendare!
+
 | | |
 |-|-|
 |O Atendare é uma poderosa ferramenta de recuperação de vendas, especialmente projetada para ajudar sua empresa a acompanhar e converter leads que não finalizaram suas compras. Integrada ao Atendare - Sistema CRM com Automação de Marketing. <br><br>Essa extensão facilita o envio automático de leads e atualizações sobre vendas não pagas nas suas landing pages ou manuais do Gestão Online, permitindo que sua equipe de vendas e marketing reaja rapidamente para recuperar clientes e aumentar suas conversões. | ![](https://github.com/Gestao-Online/public-docs/blob/f8ea0d48483b84e8547b2a67f1e69c2c98f9e8e5/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/atendare_imagem_modelo.png?raw=true) |
@@ -33,3 +37,5 @@ A régua de cobrança é uma ferramenta que ajuda as empresas a organizar e estr
 Algumas ações que podem ser definidas na régua de cobrança são:
 
 ![](https://github.com/Gestao-Online/public-docs/blob/c32c333a718a722a44d3d6abfc513905ff37d3b6/erp-v2/assets/marketplace/go_consulta/exemplo-regua-cobranca.png?raw=true) 
+
+</div>

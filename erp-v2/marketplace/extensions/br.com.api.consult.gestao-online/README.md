@@ -1,3 +1,5 @@
+<div style="text-align: justify">
+
 # GO-Consulta
 
 Com a extensão **GO-Consulta**, você pode realizar consultas de CPF, CNPJ e até de veículos. Desde consultas completas até mais específicas.
@@ -73,3 +75,5 @@ Observe nosso exemplo abaixo. Quando o arquivo for mostrado, você tem a opção
 Caso queira acessar o arquivo PDF novamente, ele fica salvo na aba *Anexos* dentro desta venda que você criou. Observe abaixo nossa demonstração de como acessar a aba e acessar o arquivo.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/ecb2596a0525307fe6e30176134ccf1eb42e63f8/erp-v2/assets/marketplace/go_consulta/tela_marketplace_add_venda_consulta_aba_anexos.gif?raw=true)
+
+</div>

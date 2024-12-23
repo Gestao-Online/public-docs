@@ -1,8 +1,8 @@
-# 📦 App S.Deal Soluti
+<div style="text-align: justify">
+
+## 📦 App S.Deal Soluti
 
 Extensão de integração para utilização de vouchers do S.Deal da Soluti, com alguns cliques e você irá conseguir fazer uso dos vouchers da plataforam do S.Deal no momento de emitir uma venda no Gestão Online.
-
-![](https://github.com/Gestao-Online/public-docs/blob/41cad540b95bd1e839cc44b988b83f02836b9937/erp-v2/assets/marketplace/sdeal_soluti/extensao_sdeal_01.png?raw=true)
 
 Com a extensão instalada, você precisa configurá-la clicando no botão de configuração que é exibido a partir do momento que você instala a extensão no sistema.
 
@@ -25,3 +25,5 @@ Depois disso o campo S.Deal API você preenche com o link da API.
 Por último os acesso de Cliente ID e Client Secret para acessar a API
 
 ![](https://github.com/Gestao-Online/public-docs/blob/41cad540b95bd1e839cc44b988b83f02836b9937/erp-v2/assets/marketplace/sdeal_soluti/extensao_sdeal_06.png?raw=true)
+
+</div>
