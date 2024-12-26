@@ -1,14 +1,16 @@
-# Digisac - Chat
+<div style="text-align: justify">
+
+## Digisac - Chat
 
 O Digisac Chat é uma ferramenta de comunicação interna da plataforma Digisac que permite aos membros da equipe trocar mensagens, criar grupos e canais de avisos. 
 
-A Digisac é uma plataforma de atendimento multicanal que reúne os principais canais de comunicação em um único lugar. 
-
-![](https://github.com/Gestao-Online/public-docs/blob/84cd392aadfbbc60111c63f764f60b77f19a83c7/erp-v2/assets/marketplace/digisac_chat/extensao_digisac_chat_01.png?raw=true)
+A Digisac é uma plataforma de atendimento multicanal que reúne os principais canais de comunicação em um único lugar.
 
 # Configurar o script do Digisac
 
-Para você poder utilizar o Digisac dentro do Gestão Online, você precisa ter uma conta criada no site do [Digisac](https://www.digisac.com.br/). Você receberá um link de acesso único com login e senha do atendimento deles assim que adquirir a solução deles.
+Para você poder utilizar o Digisac dentro do Gestão Online, você precisa ter uma conta criada no site do <a href="https://www.digisac.com.br/" target="_blank">**Digisac**</a>
+
+Você receberá um link de acesso único com login e senha assim que adquirir a solução deles.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/84cd392aadfbbc60111c63f764f60b77f19a83c7/erp-v2/assets/marketplace/digisac_chat/extensao_digisac_chat_02.png?raw=true)
 
@@ -46,6 +48,16 @@ Com o código copiado, agora você pode colar no campo específico dentro das co
 
 ![](https://github.com/Gestao-Online/public-docs/blob/84cd392aadfbbc60111c63f764f60b77f19a83c7/erp-v2/assets/marketplace/digisac_chat/extensao_digisac_chat_09.png?raw=true)
 
-Agora é só colar o código do TomTicket e em seguida clicar no botão **`Salvar configurações`** e aguardar a conexão ser feita. Após instalação você pode atualizar a página do Gestão Online e o chat logo ficará disponível para uso no lado direito da tela de forma suspensa, e aparecendo para os demais usuários.
+Agora que você  precisará somente definir qual tipo de chat irá utilizar. Você pode configurá-lo para atender diferentes necessidades:
 
-![](https://github.com/Gestao-Online/public-docs/blob/98b0725276398cdddc6226354d56b427d2ce8fc1/erp-v2/assets/marketplace/clarity_loja/extensao_clarity_loja_06.png?raw=true)
+- **Chat Interno:** Para conversas internas dentro do ERP Gestão Online.
+- **Portal do Parceiro:** Para atender seus parceiros de negócios.
+- **Venda Online:** Para auxiliar seus clientes durante o processo de compra.
+
+⚠️**Importante:** Configure cada canal de conversação para direcionar os usuários para o atendente mais adequado.
+
+<br>
+
+![](https://github.com/Gestao-Online/public-docs/blob/b7f6dad2ce827de413364158bc63b900c8ea5c1b/erp-v2/assets/marketplace/digisac_chat/extensao_digisac_chat_10.png?raw=true)
+
+</div>
