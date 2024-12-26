@@ -1,3 +1,5 @@
+<div style="text-align: justify">
+
 # Clarity - Loja
 
 Faça uso dos recursos do Clarity da Microsioft em usa landing page, e acompanhe o que seu cliente faz durante o processo em que vai fazer compras em sua página, por quais produtos mais clicou, locais da página que mais posicionou o mouse, possíveis locais que mais clicou. E com essas informações, junte com sua equipe de marketing e projete melhores atualizações e mudanças para alavancar as suas vendas.
@@ -27,3 +29,5 @@ Com o código copiado, agora você pode colar no campo específico dentro das co
 Agora é só colar o código do Clarity e em seguida clicar no botão **`Salvar configurações`** e aguardar a conexão ser feita. Após instalação e partindo do princípio que terá visitação, os dados demorarão cerca de 2 horas a aparecer no dashboard da ferramenta.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/98b0725276398cdddc6226354d56b427d2ce8fc1/erp-v2/assets/marketplace/clarity_loja/extensao_clarity_loja_06.png?raw=true)
+
+</div>

@@ -1,4 +1,6 @@
-### Descubra o Poder do Microsoft Clarity Integrado à sua Loja Online!
+<div style="text-align: justify">
+
+## Descubra o Poder do Microsoft Clarity Integrado à sua Loja Online!
 
 | | |
 |-|-|
@@ -25,6 +27,8 @@ A integração é simples e intuitiva. Instale a extensão, configure o acesso a
 |-|-|-|
 |Em apenas alguns cliques, a integração está ativa. |Veja os dados em tempo real e tome decisões ágeis. |Todas as Landing Pages do Gestão Online tem total compatibilidade com uso da extensão. |
 
+<br>
+
 ### Garanta uma Experiência Superior para seus Clientes!
 
 | | |
@@ -34,3 +38,5 @@ A integração é simples e intuitiva. Instale a extensão, configure o acesso a
 <br>
 
 **Não perca tempo e instale a Extensão Microsoft Clarity. Potencialize sua loja com insights que fazem a diferença!**
+
+</div>
