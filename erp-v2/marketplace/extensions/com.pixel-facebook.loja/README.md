@@ -41,6 +41,6 @@ Com o código copiado, agora você pode colar no campo específico dentro das co
 
 Agora é só colar o código do Pixel do Facebook e em seguida clicar no botão **`Salvar configurações`** e aguardar a conexão ser feita. Após instalação e partindo do princípio que terá visitação, os dados demorarão algumas horas para aparecer no dashboard da ferramenta.
 
-![](https://github.com/Gestao-Online/public-docs/blob/98b0725276398cdddc6226354d56b427d2ce8fc1/erp-v2/assets/marketplace/clarity_loja/extensao_clarity_loja_06.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/9d1c1bc55f302dc108ee47f4c83487573483737b/erp-v2/assets/marketplace/facebook_pixel_loja/extensao_facebook_pixel_10.png?raw=true)
 
 </div>
