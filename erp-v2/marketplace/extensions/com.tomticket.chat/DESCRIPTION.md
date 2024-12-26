@@ -1,6 +1,10 @@
-| | |
-|-|-|
-|Com o GO - TomTicket, você transforma o atendimento ao cliente em uma experiência mais prática e eficiente diretamente no seu ERP Gestão Online.<br><br>Essa extensão permite que você integre um Atendimento Online via Pop-up ao seu sistema, garantindo que você se conecte com seus clientes de forma rápida e organizada, sem precisar sair da sua rotina de trabalho. |![](https://github.com/Gestao-Online/public-docs/blob/c6554b4fa865f162bdf5b0320192288091f69a22/erp-v2/marketplace/extensions/me.tomticket.gestao-online.chat/assets/extensao_go_tomticket_01.png?raw=true) |
+<div style="text-align: justify">
+
+### Apresentamos a extensão Tomticket e Gestão Online!
+
+| | | |
+|-|-|-|
+|Com o GO - TomTicket, você transforma o atendimento ao cliente em uma experiência mais prática e eficiente diretamente no seu ERP Gestão Online.<br><br>Essa extensão permite que você integre um Atendimento Online via Pop-up ao seu sistema, garantindo que você se conecte com seus clientes de forma rápida e organizada, sem precisar sair da sua rotina de trabalho. | |![](https://github.com/Gestao-Online/public-docs/blob/c6554b4fa865f162bdf5b0320192288091f69a22/erp-v2/marketplace/extensions/me.tomticket.gestao-online.chat/assets/extensao_go_tomticket_01.png?raw=true) |
 
 <br>
 
@@ -33,3 +37,5 @@ Adapte o chat às necessidades de cada público e fortaleça a comunicação em 
 <br>
 
 **Não perca tempo! Instale agora o GO - TomTicket no Gestão Online e eleve o nível do seu atendimento ao cliente com tecnologia, praticidade e eficiência. 🚀**
+
+</div>
