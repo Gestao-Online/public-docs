@@ -1,13 +1,15 @@
-# Pixel do Facebook - Loja
+<div style="text-align: justify">
+
+## Pixel do Facebook - Loja
 
 Uma vez instalado o Pixel do Facebook, sempre que um visitante acessar o seu site, informações sobre sua navegação serão registradas e cookies serão inseridos em seu navegador. Dessa forma, se você tem um e-commerce, por exemplo, pode tentar fisgar o seu cliente mais uma vez, caso ele tenha simplesmente visitado um anúncio ou abandonado o carrinho. 
+
 O monitoramento é realizado por meio de eventos. Sempre que um visitante executa uma ação no seu site (determinada nas configurações do seu pixel), um evento é registrado. 
 
-![](https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/facebook_pixel_loja/extensao_facebook_pixel_01.png?raw=true)
 
 ## Configurando o script do Pixel do Facebook
 
-Primeiro, vamos acessar a página de [Gerenciador de Eventos](https://business.facebook.com/events_manager2), pois é através dela que teremos acesso as informações e definições do Pixel.
+Primeiro, vamos acessar a página de <a href="https://business.facebook.com/events_manager2" target="_blank">**Gerenciador de Eventos**</a>, pois é através dela que teremos acesso as informações e definições do Pixel.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/facebook_pixel_loja/extensao_facebook_pixel_03.png?raw=true)
 
@@ -40,3 +42,5 @@ Com o código copiado, agora você pode colar no campo específico dentro das co
 Agora é só colar o código do Pixel do Facebook e em seguida clicar no botão **`Salvar configurações`** e aguardar a conexão ser feita. Após instalação e partindo do princípio que terá visitação, os dados demorarão algumas horas para aparecer no dashboard da ferramenta.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/98b0725276398cdddc6226354d56b427d2ce8fc1/erp-v2/assets/marketplace/clarity_loja/extensao_clarity_loja_06.png?raw=true)
+
+</div>
