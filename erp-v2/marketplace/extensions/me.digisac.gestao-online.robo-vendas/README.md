@@ -2,8 +2,6 @@
 
 Otimize o atendimento aos clientes com um sistema digital de mensagens para a sua empresa. Ao configurar o GO Digisac Robô Vendas, você poderá acompanhar por meio de um dashboard personalizado todos os atendimentos que estão sendo realizados em tempo real.
 
-![](https://github.com/Gestao-Online/public-docs/blob/5c72fb708c9a01ff49633b315c7bb70d996ac10e/erp-v2/assets/marketplace/go-digisac/tela_marketplace_go_digisac_inicio.png?raw=true)
-
 Com a extensão instalada, você precisa configurá-la clicando no botão de configuração que é exibido a partir do momento que você instala a extensão no sistema.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/5c72fb708c9a01ff49633b315c7bb70d996ac10e/erp-v2/assets/marketplace/go-digisac/tela_marketplace_go_digisac_btn_config.png?raw=true)
