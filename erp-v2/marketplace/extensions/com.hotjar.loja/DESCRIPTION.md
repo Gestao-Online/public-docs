@@ -1,3 +1,5 @@
+<div style="text-align: justify">
+
 ### Descubra a Extensão HotJar no Gestão Online: Transforme Dados em Estratégias!
 
 | | |
@@ -29,3 +31,5 @@ Todas as informações da sua landing page de forma rápida e prática com apena
 <br>
 
 **Não perca tempo! Instale agora a Extensão HotJar no Marketplace do Gestão Online e transforme dados em estratégias que impulsionam resultados.**
+
+</div>

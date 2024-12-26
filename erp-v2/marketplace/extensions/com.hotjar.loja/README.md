@@ -1,12 +1,12 @@
-# Hotjar - Loja
+<div style="text-align: justify">
+
+## Hotjar - Loja
 
 O Hotjar é uma ferramenta que permite entender melhor o comportamento dos visitantes no seu site. Ele gera mapas de calor, gravações das seções e envia formulários para coletar o feedback do público.
 
-![](https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/hotjar_loja/extensao_hotjar_loja_01.png?raw=true)
-
 ## Configurando o script do Hotjar
 
-Para que o Hotjar consiga trabalhar de maneira correta e coletar todos os dados da sua Landing Page, você precisará ter criado uma conta no site, e após confirmada sua conta, você pode acessar a [página de sites](https://insights.hotjar.com/site/list) do Hotjar, e clicar em **New Site**.
+Para que o Hotjar consiga trabalhar de maneira correta e coletar todos os dados da sua Landing Page, você precisará ter criado uma conta no site, e após confirmada sua conta, você pode acessar a <a href="https://insights.hotjar.com/site/list" target="_blank">**página de sites**</a> do Hotjar, e clicar em **New Site**.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/hotjar_loja/extensao_hotjar_loja_02.png?raw=true)
 
@@ -30,4 +30,6 @@ Com o código copiado, agora você pode colar no campo específico dentro das co
 
 Agora é só colar o código do Hotjar e em seguida clicar no botão **`Salvar configurações`** e aguardar a conexão ser feita. Após instalação e partindo do princípio que terá visitação, os dados demorarão algumas horas para aparecer no dashboard da ferramenta.
 
-![](https://github.com/Gestao-Online/public-docs/blob/98b0725276398cdddc6226354d56b427d2ce8fc1/erp-v2/assets/marketplace/clarity_loja/extensao_clarity_loja_06.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/a401a711a6bfe21125984dcb685abcd2979072b9/erp-v2/assets/marketplace/hotjar_loja/extensao_hotjar_loja_07.png?raw=true)
+
+</div>
