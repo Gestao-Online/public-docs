@@ -1,8 +1,10 @@
+<div style="text-align: justify">
+
 ### Descubra o GO - Jivochat, a Solução Perfeita para Atendimento ao Cliente
 
 | | |
 |-|-|
-|Maximize a experiência do seu cliente com o GO - Jivochat, o aplicativo indispensável do marketplace do Gestão Online. Com esta integração poderosa, você transforma a comunicação com seus clientes em um atendimento ágil, eficiente e centralizado diretamente no seu ERP. |![](https://github.com/Gestao-Online/public-docs/blob/5e11acc9ffd5104d0b5f0eeef5391dec49e1fcab/erp-v2/marketplace/extensions/me.jivochat.gestao-online.chat/assets/extensao_jivochat_chat_01.png?raw=true) |
+|Maximize a experiência do seu cliente com o GO - Jivochat, o aplicativo indispensável do marketplace do Gestão Online. <br><br>Com esta integração poderosa, você transforma a comunicação com seus clientes em um atendimento ágil, eficiente e centralizado diretamente no seu ERP. |![](https://github.com/Gestao-Online/public-docs/blob/5e11acc9ffd5104d0b5f0eeef5391dec49e1fcab/erp-v2/marketplace/extensions/me.jivochat.gestao-online.chat/assets/extensao_jivochat_chat_01.png?raw=true) |
 
 <br>
 
@@ -42,3 +44,5 @@ Adapte o chat às necessidades de cada público e fortaleça a comunicação em 
 <br>
 
 **Entre em contato com nossa equipe ou instale aqui pelo nosso marketplace do Gestão Online, para você experimentar essa solução inovadora!**
+
+</div>
