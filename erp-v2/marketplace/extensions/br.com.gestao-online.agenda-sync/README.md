@@ -1,6 +1,6 @@
 <div style="text-align: justify">
 
-# 📦 App Sincronia da Agenda
+## 📦 App Sincronia da Agenda
 
 A extensão foi desenvolvida para garantir que os agendamentos criados no sistema sejam sincronizados às vendas realizadas fora dos prazos estabelecidos (seja antecipadamente ou após o período agendado) ou aquelas que não foram feitas diretamente pela tela de agendamento, a qual já preenche automaticamente a maioria dos dados necessários para a venda.
 
@@ -51,5 +51,17 @@ Por outro lado, ao escolher opções como **Dividir por mês, semana**, ou até 
 ![](https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_08.png?raw=true)
 
 Após clicar no botão **Sincronizar**, o sistema irá iniciar o processo e você pode aguardar até ele mostrar a mensagem de sincronização criada com sucesso
+
+![](https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_09.gif?raw=true)
+
+### Botão direito do mouse
+
+Uma outra forma de atalho de uso da função de sincronização retroativa de vendas, ou sincronização instantânea, é o uso do botão direito do mouse ao clicar em um agendamento criado, observe que um novo botão ficarpá disponível para você utilizar e fazer a sincronia no momento que clicar sobre ele.
+
+![](https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_10.gif?raw=true)
+
+O mesmo vale também para a seleção de múltiplus agendamentos, usando o modo de seleção com a tecla 'shift' teclado, e assim os itens selecionados serão sincronizados quando você clicar em sincronizar, conforme mostrado abaixo:
+
+![](https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_11.gif?raw=true)
 
 </div>
