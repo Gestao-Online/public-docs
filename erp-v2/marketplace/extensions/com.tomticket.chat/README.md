@@ -1,6 +1,5 @@
 <div style="text-align: justify">
 
-
 ### Tomticket - Chat
 
 O TomTicket é uma solução de chamados de suporte e atendimento online, com a qual é possível utilizar formulários de contato personalizáveis, automatizar o envio de notificações de novas respostas por e-mail para atendentes e clientes, e ainda aplicar um mecanismo de avaliação dos atendimentos. 
