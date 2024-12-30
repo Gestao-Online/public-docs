@@ -2,9 +2,9 @@
 
 ### Simplifique o cálculo de frete e otimize seus envios com a maior praticidade!
 
-| | |
-|-|-|
-|A Extensão Melhor Envio para o Gestão Online é a solução que você precisa para integrar seu sistema com as principais transportadoras do Brasil, garantindo um processo logístico mais rápido, eficiente e sem erros.  |![](https://github.com/Gestao-Online/public-docs/blob/edbc6466072dfe99372697f37c960ba841f5d849/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_01.png?raw=true) |
+| | ||
+|-|-|-|
+|A Extensão Melhor Envio para o Gestão Online é a solução que você precisa para integrar seu sistema com as principais transportadoras do Brasil, garantindo um processo logístico mais rápido, eficiente e sem erros.|<p style="text-color: white;"> ______ </p>|![](https://github.com/Gestao-Online/public-docs/blob/edbc6466072dfe99372697f37c960ba841f5d849/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_01.png?raw=true) |
 
 | | |
 |-|-|
