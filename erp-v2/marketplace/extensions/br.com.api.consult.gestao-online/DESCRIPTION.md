@@ -4,7 +4,7 @@
 
 | | |
 |-|-|
-|Uma poderosa ferramenta integrada ao seu ERP Gestão Online, ideal para empresas que buscam ampliar seus serviços de análise e consulta para seus clientes, com total praticidade e segurança. <br><br>É possível oferecer um leque completo de consultas especializadas em CPF, CNPJ e informações veiculares, todas emitidas em relatórios detalhados em PDF, perfeitos para a tomada de decisão e análise de crédito. |![](https://github.com/Gestao-Online/public-docs/blob/6819f826bf0dc6801ef8219562052ffc18bc8391/erp-v2/assets/marketplace/go_consulta/card_consulta_veiculos.png?raw=true) |
+|Uma poderosa ferramenta integrada ao seu ERP Gestão Online, ideal para empresas que buscam ampliar seus serviços de análise e consulta para seus clientes, com total praticidade e segurança. <br><br>É possível oferecer um leque completo de consultas especializadas em CPF, CNPJ e informações veiculares, todas emitidas em relatórios detalhados em PDF, perfeitos para a tomada de decisão e análise de crédito. | |
 
 <br>
 
@@ -12,15 +12,19 @@
 
 Com diversas opções de consultas, você pode atender às necessidades de diferentes setores, como financeiro, jurídico, comercial e até o segmento automotivo. Algumas das opções abaixo.
 
-|**Consulta Completa Plus (CPF e CNPJ)** |<p style="color: white;"> ___ </p> |**Consulta com SCORE** |<p style="color: white;"> ___ </p> |**Consulta de Ações e Processos Judiciais** |
+| |<p style="color: white;"> ___ </p> | |<p style="color: white;"> ___ </p> | |
 |----------------------------------------|-|----------------------|-|-------------------------------------------|
-|Análises detalhadas de crédito, histórico financeiro e situação cadastral. ||Visualize o potencial de crédito e o perfil de risco dos clientes. ||Acompanhe pendências jurídicas, essencial para avaliações criteriosas. |
+| || || |
+
+| | |
+|-|-|
+|1️⃣ **Consulta Completa Plus (CPF e CNPJ)**<br>Análises detalhadas de crédito, histórico financeiro e situação cadastral.<br><br>2️⃣ **Consulta com SCORE**<br>Visualize o potencial de crédito e o perfil de risco dos clientes.<br><br>3️⃣ **Consulta de Ações e Processos Judiciais**<br>Acompanhe pendências jurídicas, essencial para avaliações criteriosas.|![](https://github.com/Gestao-Online/public-docs/blob/c182c1d3686207f6ceb78182327c2ed6fd4c0bb7/erp-v2/assets/marketplace/go_consulta/card_consulta_veiculos.png?raw=true) |
 
 <br>
 
-**Consulta Localiza e Busca por CPF, CNPJ, Nome ou Telefone:** Para encontrar informações cadastrais completas.
+🔎 **Consulta Localiza e Busca por CPF, CNPJ, Nome ou Telefone:** Para encontrar informações cadastrais completas.
 
-**Consultas Veiculares:** Tenha acesso a informações completas do veículo, incluindo débitos, proprietário atual e status geral.
+🚗 **Consultas Veiculares:** Tenha acesso a informações completas do veículo, incluindo débitos, proprietário atual e status geral.
 
 <br>
 
