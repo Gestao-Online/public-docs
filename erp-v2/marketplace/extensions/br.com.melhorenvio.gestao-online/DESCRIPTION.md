@@ -18,11 +18,9 @@
 |-|-|-|-|-|
 |Conecte-se automaticamente com as maiores transportadoras do Brasil, como Correios, Jadlog, Azul Cargo e muito mais. ||Determine de forma rápida e precisa o valor do frete e o tempo estimado para entrega, levando em consideração diferentes transportadoras e modalidades. ||A integração direta elimina o risco de cálculos incorretos e falhas humanas no processo de cálculo de frete. |
 
-
-
-**Economia de tempo e custos** Com a Extensão Melhor Envio, você poderá oferecer aos seus clientes as melhores opções de frete de forma ágil, sem necessidade de acessar múltiplas plataformas.
-
-**Interface simples e intuitiva** A extensão foi projetada para ser fácil de usar, mesmo para quem não tem experiência com logística ou transportadoras.
+| | |
+|-|-|
+|![](https://github.com/Gestao-Online/public-docs/blob/9f075236a9ddf8abb800d31f1e17da7d671d84ff/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_03.png?raw=true) |**Economia de tempo e custos**<br>Com a Extensão Melhor Envio, você poderá oferecer aos seus clientes as melhores opções de frete de forma ágil, sem necessidade de acessar múltiplas plataformas.<br><br>**Interface simples e intuitiva**<br>A extensão foi projetada para ser fácil de usar, mesmo para quem não tem experiência com logística ou transportadoras. |
 
 **Transforme a gestão dos seus envios com a Extensão Melhor Envio e proporcione aos seus clientes uma experiência de compra mais rápida, confiável e eficiente! 🚀**
 
