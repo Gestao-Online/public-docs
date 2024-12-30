@@ -12,9 +12,9 @@
 
 Com diversas opções de consultas, você pode atender às necessidades de diferentes setores, como financeiro, jurídico, comercial e até o segmento automotivo. Algumas das opções abaixo.
 
-|**Consulta Completa Plus (CPF e CNPJ)** |**Consulta com SCORE** |**Consulta de Ações e Processos Judiciais** |
-|----------------------------------------|-----------------------|--------------------------------------------|
-|Análises detalhadas de crédito, histórico financeiro e situação cadastral. |Visualize o potencial de crédito e o perfil de risco dos clientes. |Acompanhe pendências jurídicas, essencial para avaliações criteriosas. |
+|**Consulta Completa Plus (CPF e CNPJ)** |<p style="color: white;"> ___ </p> |**Consulta com SCORE** |<p style="color: white;"> ___ </p> |**Consulta de Ações e Processos Judiciais** |
+|----------------------------------------|-|----------------------|-|-------------------------------------------|
+|Análises detalhadas de crédito, histórico financeiro e situação cadastral. ||Visualize o potencial de crédito e o perfil de risco dos clientes. ||Acompanhe pendências jurídicas, essencial para avaliações criteriosas. |
 
 <br>
 
