@@ -122,7 +122,7 @@ Um exemplo de texto que você pode preencher este campo: **"Vi aqui no nosso sis
 
 ![](https://github.com/Gestao-Online/public-docs/blob/5c72fb708c9a01ff49633b315c7bb70d996ac10e/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_desconto_antigo.png?raw=true)
 
-No mesmo seguimento, ao lado, temos a configuração da mensagem do campo **Texto desconto/acréscimo cliente novo (pré)**, este será o texto que o robô vai enviar antes da listagem de produtos, mas somente caso o cliente seja novo e você tenha configurado um desconto ou acréscimo no campo, [**Desconto/Acréscimo(Cliente antigo)**](https://docs.gestao.plus/inicio/go-digisac#desconto-ou-acrescimo-para-cliente-novo-ou-antigo), que foi explicado em configuração de venda.
+No mesmo seguimento, ao lado, temos a configuração da mensagem do campo **Texto desconto/acréscimo cliente novo (pré)**, este será o texto que o robô vai enviar antes da listagem de produtos, mas somente caso o cliente seja novo e você tenha configurado um desconto ou acréscimo no campo, <a href="https://docs.gestao.plus/inicio/go-digisac#desconto-ou-acrescimo-para-cliente-novo-ou-antigo" target="_blank">**Desconto/Acréscimo(Cliente antigo)**</a>, que foi explicado em configuração de venda.
 
 Você pode utilizar um texto de exemplo: **"Vi aqui no nosso sistema que é a sua primeira compra conosco, temos um descontão exclusivo para você!"**
 
