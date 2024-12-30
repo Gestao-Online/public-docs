@@ -1,4 +1,6 @@
-# GO Digisac
+<div style="text-align: justify">
+
+## GO Digisac
 
 Otimize o atendimento aos clientes com um sistema digital de mensagens para a sua empresa. Ao configurar o GO Digisac Robô Vendas, você poderá acompanhar por meio de um dashboard personalizado todos os atendimentos que estão sendo realizados em tempo real.
 
@@ -38,9 +40,9 @@ Agora é preciso obter o token da API da Gestão Online, esse token você só ir
 
 Agora, partindo para a configuração da venda que o robô irá fazer, primeiramente precisamos configurar a **Unidade de Venda**, porque essa unidade será a que o robô irá utilizar para fazer o lançamento das vendas.
 
-{% hint style="info" %}
-**Unidade de venda:** Para mais informações sobre como utilizar ou configurar uma unidade de venda, [**`Clique aqui`**](/erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos.md).
-{% endhint %}
+   >[!INFO]
+   >
+   >**Unidade de venda:** Para mais informações sobre como utilizar ou configurar uma unidade de venda, <a href="https://docs.gestao.plus/erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos" target="_blank">clique aqui</a>.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/5c72fb708c9a01ff49633b315c7bb70d996ac10e/erp-v2/assets/marketplace/go-digisac/tela_marketplace_go_digisac_token_unidade_venda.png?raw=true)
 
@@ -203,3 +205,5 @@ Além de você ver todos os dados das vendas, você pode clicar sobre uma venda 
 {% endhint %}
 
 ![](https://github.com/Gestao-Online/public-docs/blob/5c72fb708c9a01ff49633b315c7bb70d996ac10e/erp-v2/assets/marketplace/go-digisac/tela_marketplace_tela_dash_robo_campos_janela_movimentacao.gif?raw=true)
+
+</div>
