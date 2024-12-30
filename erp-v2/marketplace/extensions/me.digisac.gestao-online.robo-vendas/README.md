@@ -38,9 +38,10 @@ Agora é preciso obter o token da API da Gestão Online, esse token você só ir
 
 Agora, partindo para a configuração da venda que o robô irá fazer, primeiramente precisamos configurar a **Unidade de Venda**, porque essa unidade será a que o robô irá utilizar para fazer o lançamento das vendas.
 
-   >[!INFO]
-   >
-   >**Unidade de venda:** Para mais informações sobre como utilizar ou configurar uma unidade de venda, <a href="https://docs.gestao.plus/erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos" target="_blank">clique aqui</a>.
+<div style="background-color:rgb(210, 233, 255); border-left: 6px solid rgb(142, 181, 255); padding: 15px; margin: 20px 0; border-radius: 5px; font-family: Arial, sans-serif; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">⚠️ Aviso Importante</h4>
+    <p style="margin: 0; line-height: 1.5;">**Unidade de venda:** Para mais informações sobre como utilizar ou configurar uma unidade de venda, <a href="https://docs.gestao.plus/erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos" target="_blank">clique aqui</a>.</p>
+</div>
 
 ![](https://github.com/Gestao-Online/public-docs/blob/5c72fb708c9a01ff49633b315c7bb70d996ac10e/erp-v2/assets/marketplace/go-digisac/tela_marketplace_go_digisac_token_unidade_venda.png?raw=true)
 
