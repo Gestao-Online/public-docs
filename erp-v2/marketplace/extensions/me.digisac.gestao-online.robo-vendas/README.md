@@ -39,8 +39,8 @@ Agora é preciso obter o token da API da Gestão Online, esse token você só ir
 Agora, partindo para a configuração da venda que o robô irá fazer, primeiramente precisamos configurar a **Unidade de Venda**, porque essa unidade será a que o robô irá utilizar para fazer o lançamento das vendas.
 
 <div style="background-color:rgb(210, 233, 255); border-left: 6px solid rgb(142, 181, 255); padding: 15px; margin: 20px 0; border-radius: 5px; font-family: Arial, sans-serif; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">ℹ️ INFO</h4>
-    <p style="margin: 0; line-height: 1.5;"><strong>Unidade de venda:</strong> Para mais informações sobre como utilizar ou configurar uma unidade de venda, <a href="https://docs.gestao.plus/erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos" target="_blank">clique aqui</a>.</p>
+    <h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">ℹ️ Unidade de venda:</h4>
+    <p style="margin: 0; line-height: 1.5;">Para mais informações sobre como utilizar ou configurar uma unidade de venda, <a href="https://docs.gestao.plus/erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos" target="_blank">clique aqui</a>.</p>
 </div>
 
 ![](https://github.com/Gestao-Online/public-docs/blob/5c72fb708c9a01ff49633b315c7bb70d996ac10e/erp-v2/assets/marketplace/go-digisac/tela_marketplace_go_digisac_token_unidade_venda.png?raw=true)
@@ -56,8 +56,8 @@ Definido a unidade, você agora precisa escolher qual produto ou produtos seu ro
 A escolha das formas de pagamento disponíveis seguem a mesma regra de escolha do produto, ao clicar no campo de preenchimento você pode digitar as formas de pagamento que deseja utilizar. Pode adicionar o pix, cartão de crédito em 1x, 2x ou até 12x. Veja abaixo nosso exemplo.
 
 <div style="background-color:rgb(210, 233, 255); border-left: 6px solid rgb(142, 181, 255); padding: 15px; margin: 20px 0; border-radius: 5px; font-family: Arial, sans-serif; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">ℹ️ INFO</h4>
-    <p style="margin: 0; line-height: 1.5;"><strong>Atenção:</strong> Fique atento para definir somente formas de pagamento digitais, pois qualquer outro meio não será possível a finalização da venda.</p>
+    <h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">ℹ️ Atenção:</h4>
+    <p style="margin: 0; line-height: 1.5;">Fique atento para definir somente formas de pagamento digitais, pois qualquer outro meio não será possível a finalização da venda.</p>
 </div>
 
 ![](https://github.com/Gestao-Online/public-docs/blob/5c72fb708c9a01ff49633b315c7bb70d996ac10e/erp-v2/assets/marketplace/go-digisac/tela_marketplace_go_digisac_forma_pagamento.gif?raw=true)
@@ -151,8 +151,8 @@ Pode ser esta mensagem, por exemplo: **"Para prosseguir, insira a razão social 
 Agora com o CPF/CNPJ, nome da pessoa/empresa preenchidos, o próximo passo é solicitar o e-mail do cliente. Configurando o campo **Texto preenchimento E-mail (pré)**, fará com que o robô envie o texto perguntando o e-mail ao cliente. Você pode colocar um texto de exemplo assim: **"Agora, nos informe um e-mail válido:"**
 
 <div style="background-color:rgb(210, 233, 255); border-left: 6px solid rgb(142, 181, 255); padding: 15px; margin: 20px 0; border-radius: 5px; font-family: Arial, sans-serif; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">ℹ️ INFO</h4>
-    <p style="margin: 0; line-height: 1.5;"><strong>Informativo:</strong> O painel do Digisac fará a conferência do e-mail do cliente para, caso ele digite algo fora do padrão, solicitar que ele digite o e-mail novamente.</p>
+    <h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">ℹ️ Informativo:</h4>
+    <p style="margin: 0; line-height: 1.5;">O painel do Digisac fará a conferência do e-mail do cliente para, caso ele digite algo fora do padrão, solicitar que ele digite o e-mail novamente.</p>
 </div>
 
 ![](https://github.com/Gestao-Online/public-docs/blob/5c72fb708c9a01ff49633b315c7bb70d996ac10e/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_email.png?raw=true)
@@ -165,7 +165,7 @@ Essa é uma das últimas mensagens, pode ser, por exemplo: **"Para finalizar, no
 
 ### Configurando texto para pagamento
 
-Feito isso, agora você tem o campo de **Texto escolhe Forma de pagamento (pré)**, neste campo você definirá o texto que o robô irá enviar perguntando qual a forma de pagamento. Lembrando que as opções que aparecem para o cliente são configuradas na parte de [**configuração de venda**](https://docs.gestao.plus/inicio/go-digisac#forma-de-pagamento), mostrada mais ao início do nosso manual.
+Feito isso, agora você tem o campo de **Texto escolhe Forma de pagamento (pré)**, neste campo você definirá o texto que o robô irá enviar perguntando qual a forma de pagamento. Lembrando que as opções que aparecem para o cliente são configuradas na parte de <a href="https://docs.gestao.plus/inicio/go-digisac#forma-de-pagamento" target="_blank">configuração de venda</a>, mostrada mais ao início do nosso manual.
 
 Um exemplo de mensagem que você pode utilizar: **"Para finalizar, escolha a forma de pagamento:"**
 
@@ -202,8 +202,8 @@ Nesta tela, você terá o relatório das vendas, com número do pedido, situaç�
 Além de você ver todos os dados das vendas, você pode clicar sobre uma venda e uma janela será aberta para você mostrando a movimentação desta venda.
 
 <div style="background-color:rgb(210, 233, 255); border-left: 6px solid rgb(142, 181, 255); padding: 15px; margin: 20px 0; border-radius: 5px; font-family: Arial, sans-serif; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">ℹ️ INFO</h4>
-    <p style="margin: 0; line-height: 1.5;"><strong>Tela de vendas:</strong> Caso queira mais informações sobre como configurar uma venda, <a href="https://docs.gestao.plus/erp-v2/funcionalidades/comercial/vendas" target="_blank">clique aqui</a>.</p>
+    <h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">ℹ️ Tela de vendas:</h4>
+    <p style="margin: 0; line-height: 1.5;">Caso queira mais informações sobre como configurar uma venda, <a href="https://docs.gestao.plus/erp-v2/funcionalidades/comercial/vendas" target="_blank">clique aqui</a>.</p>
 </div>
 
 ![](https://github.com/Gestao-Online/public-docs/blob/5c72fb708c9a01ff49633b315c7bb70d996ac10e/erp-v2/assets/marketplace/go-digisac/tela_marketplace_tela_dash_robo_campos_janela_movimentacao.gif?raw=true)
