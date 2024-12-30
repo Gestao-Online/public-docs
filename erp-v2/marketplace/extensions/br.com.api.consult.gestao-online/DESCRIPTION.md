@@ -4,17 +4,11 @@
 
 | | |
 |-|-|
-|Uma poderosa ferramenta integrada ao seu ERP Gestão Online, ideal para empresas que buscam ampliar seus serviços de análise e consulta para seus clientes, com total praticidade e segurança. <br><br>É possível oferecer um leque completo de consultas especializadas em CPF, CNPJ e informações veiculares, todas emitidas em relatórios detalhados em PDF, perfeitos para a tomada de decisão e análise de crédito. | |
-
-<br>
+|Uma poderosa ferramenta integrada ao seu ERP Gestão Online, ideal para empresas que buscam ampliar seus serviços de análise e consulta para seus clientes, com total praticidade e segurança. <br><br>É possível oferecer um leque completo de consultas especializadas em CPF, CNPJ e informações veiculares, todas emitidas em relatórios detalhados em PDF, perfeitos para a tomada de decisão e análise de crédito. |![](https://github.com/Gestao-Online/public-docs/blob/51e64c7416c0260a30bd18d94c4f0df6d0d901f3/erp-v2/assets/marketplace/go_consulta/extensao_go_consultas_01.png?raw=true) |
 
 ### Variedade de Consultas Especializadas
 
 Com diversas opções de consultas, você pode atender às necessidades de diferentes setores, como financeiro, jurídico, comercial e até o segmento automotivo. Algumas das opções abaixo.
-
-| |<p style="color: white;"> ___ </p> | |<p style="color: white;"> ___ </p> | |
-|----------------------------------------|-|----------------------|-|-------------------------------------------|
-| || || |
 
 | | |
 |-|-|
