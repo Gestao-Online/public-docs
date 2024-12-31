@@ -23,17 +23,17 @@ A integração é simples e intuitiva. Instale a extensão, configure o acesso a
 
 <br>
 
-|**Configuração Fácil** |**Monitoramento em Tempo Real** |**Compatibilidade** |
-|-|-|-|
-|Em apenas alguns cliques, a integração está ativa. |Veja os dados em tempo real e tome decisões ágeis. |Todas as Landing Pages do Gestão Online tem total compatibilidade com uso da extensão. |
+|**Configuração Fácil** |<p style="color: white;"> _ </p>|**Monitoramento em Tempo Real** |<p style="color: white;"> _ </p>|**Compatibilidade** |
+|-|-|-|-|-|
+|Em apenas alguns cliques, a integração está ativa. ||Veja os dados em tempo real e tome decisões ágeis. ||Todas as Landing Pages do Gestão Online tem total compatibilidade com uso da extensão. |
 
 <br>
 
 ### Garanta uma Experiência Superior para seus Clientes!
 
-| | |
-|-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/ce65331fd4339e03f913c14e4a2e540a2e1bb3c7/erp-v2/marketplace/extensions/me.clarity.gestao-online.loja/assets/extensao_clarity_loja_03.png?raw=true)|Com a Extensão Microsoft Clarity, você terá todas as ferramentas para entender o comportamento dos seus visitantes e transformar cada clique em oportunidade de venda.|
+| | | |
+|-|-|-|
+|![](https://github.com/Gestao-Online/public-docs/blob/ce65331fd4339e03f913c14e4a2e540a2e1bb3c7/erp-v2/marketplace/extensions/me.clarity.gestao-online.loja/assets/extensao_clarity_loja_03.png?raw=true)|<p style="color: white;">_</p>|Com a Extensão Microsoft Clarity, você terá todas as ferramentas para entender o comportamento dos seus visitantes e transformar cada clique em oportunidade de venda.|
 
 <br>
 

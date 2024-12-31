@@ -2,9 +2,9 @@
 
 ### Descubra a Extensão HotJar no Gestão Online: Transforme Dados em Estratégias!
 
-| | |
-|-|-|
-|Leve a experiência do seu e-commerce a um novo nível com a Extensão HotJar, disponível no Marketplace do Gestão Online.<br><br>Agora, você pode integrar o poder das análises comportamentais diretamente à sua Landing Page (Loja), maximizando seu potencial de conversão. |![](https://github.com/Gestao-Online/public-docs/blob/6bc539e82cf819b09f1288d81cd4decc18e38a52/erp-v2/marketplace/extensions/com.hotjar.loja/assets/extensao_hotjar_loja_01.png?raw=true) |
+| | | |
+|-|-|-|
+|Leve a experiência do seu e-commerce a um novo nível com a Extensão HotJar, disponível no Marketplace do Gestão Online.<br><br>Agora, você pode integrar o poder das análises comportamentais diretamente à sua Landing Page (Loja), maximizando seu potencial de conversão. |<p style="color: white;"> _ </p>|![](https://github.com/Gestao-Online/public-docs/blob/6bc539e82cf819b09f1288d81cd4decc18e38a52/erp-v2/marketplace/extensions/com.hotjar.loja/assets/extensao_hotjar_loja_01.png?raw=true) |
 
 <br>
 
@@ -18,9 +18,9 @@
 
 ### Por que utilizar a Extensão HotJar no Gestão Online?
 
-| | | |
-|-|-|-|
-|**Decisões baseadas em dados:**<br>Conheça o comportamento real dos seus clientes.|**Melhore suas conversões:**<br>Identifique pontos de melhoria e implemente mudanças que aumentem suas vendas.|**Sem complicações:**<br>Toda a funcionalidade do HotJar disponível diretamente em sua loja integrada ao ERP.|
+| |<p style="color: white;"> _ </p> | |<p style="color: white;"> _ </p> | |
+|-|-|-|-|-|
+|**Decisões baseadas em dados:**<br>Conheça o comportamento real dos seus clientes.||**Melhore suas conversões:**<br>Identifique pontos de melhoria e implemente mudanças que aumentem suas vendas.||**Sem complicações:**<br>Toda a funcionalidade do HotJar disponível diretamente em sua loja integrada ao ERP.|
 
 <br>
 
