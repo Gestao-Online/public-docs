@@ -8,9 +8,9 @@
 
 <br>
 
-|**1️⃣ Integração Agenda do SisAR** |**2️⃣ Integração com o V-Line** |**3️⃣ Modo Híbrido** |
-|-|-|-|
-|Nesse modo, o cliente pode visualizar os horários disponíveis e agendar o atendimento no momento que for mais conveniente. Ideal para quem prefere planejar o atendimento com antecedência. |Permite que o cliente entre diretamente em uma fila de atendimento e seja atendido em poucos minutos, respeitando a ordem de chegada. Uma solução perfeita para quem busca rapidez e praticidade. |Oferece ao cliente a liberdade de escolha entre os dois modelos acima: agendar um horário ou entrar na fila de atendimento imediato. Uma opção versátil para atender diferentes perfis de clientes. |
+|**1️⃣ Integração Agenda do SisAR** |<p style="color: white;"> _ </p>|**2️⃣ Integração com o V-Line** |<p style="color: white;"> _ </p>|**3️⃣ Modo Híbrido** |
+|-|-|-|-|-|
+|Nesse modo, o cliente pode visualizar os horários disponíveis e agendar o atendimento no momento que for mais conveniente. Ideal para quem prefere planejar o atendimento com antecedência. ||Permite que o cliente entre diretamente em uma fila de atendimento e seja atendido em poucos minutos, respeitando a ordem de chegada. Uma solução perfeita para quem busca rapidez e praticidade. ||Oferece ao cliente a liberdade de escolha entre os dois modelos acima: agendar um horário ou entrar na fila de atendimento imediato. Uma opção versátil para atender diferentes perfis de clientes. |
 
 <br>
 
@@ -22,9 +22,9 @@
 
 ### Principais Benefícios
 
-| | |
-|-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/b4bbaa138331bf4289c15b5684aa2d7ec5f860a3/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/fluxo-certificado-soluti.gif?raw=true) |**Integração Direta e Automática:** Ao realizar uma venda, o código da Soluti é gerado automaticamente, agilizando o processo de validação e permitindo a chamada instantânea.<br><br>**Agendamento Simplificado:** Seus clientes podem visualizar os horários disponíveis diretamente no sistema, facilitando o agendamento da videochamada no momento mais conveniente.<br><br>**Atendimento Rápido e Eficiente:** Com a automação e a integração do sistema, o atendimento ao cliente se torna mais rápido e sem burocracia, garantindo uma experiência positiva.<br><br>**Segurança e Confiabilidade:** A integração com a Soluti oferece a confiança de um processo de validação seguro, essencial para transações online. |
+| | | |
+|-|-|-|
+|![](https://github.com/Gestao-Online/public-docs/blob/b4bbaa138331bf4289c15b5684aa2d7ec5f860a3/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/fluxo-certificado-soluti.gif?raw=true) |<p style="color: white;"> _ </p>|**Integração Direta e Automática:** Ao realizar uma venda, o código da Soluti é gerado automaticamente, agilizando o processo de validação e permitindo a chamada instantânea.<br><br>**Agendamento Simplificado:** Seus clientes podem visualizar os horários disponíveis diretamente no sistema, facilitando o agendamento da videochamada no momento mais conveniente.<br><br>**Atendimento Rápido e Eficiente:** Com a automação e a integração do sistema, o atendimento ao cliente se torna mais rápido e sem burocracia, garantindo uma experiência positiva.<br><br>**Segurança e Confiabilidade:** A integração com a Soluti oferece a confiança de um processo de validação seguro, essencial para transações online. |
 
 <br>
 
