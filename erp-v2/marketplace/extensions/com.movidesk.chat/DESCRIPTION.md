@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/b5072b2d3118dfe1be419421b59b57f0f1d78fc0/erp-v2/marketplace/extensions/me.movidesk.gestao-online.chat/assets/extensao_movidesk_chat_01.png?raw=true) |Maximize a eficiência da sua operação com o GO - Movidesk, a extensão perfeita para o seu ERP Gestão Online.<br><br>Transforme a gestão do seu atendimento ao cliente em uma experiência integrada e otimizada. |
+|![](https://github.com/Gestao-Online/public-docs/blob/ee7629da3e2b4adc4880fecf9781a398db834e3f/erp-v2/marketplace/extensions/com.movidesk.chat/assets/extensao_movidesk_chat_01.png?raw=true) |Maximize a eficiência da sua operação com o GO - Movidesk, a extensão perfeita para o seu ERP Gestão Online.<br><br>Transforme a gestão do seu atendimento ao cliente em uma experiência integrada e otimizada. |
 
 <br>
 
@@ -10,7 +10,7 @@
 
 | | |
 |-|-|
-|✔ **Integração Total:** Conecte sua plataforma Gestão Online ao Movidesk de forma simples e rápida, unificando dados de clientes, chamados e suporte.<br><br>✔ **Gestão Centralizada:** Acesse todas as informações de atendimento diretamente no ERP, reduzindo retrabalho e melhorando a comunicação entre os times.<br><br>✔ **Automatização de Processos:** Sincronize chamados, históricos e atualizações em tempo real, garantindo agilidade e precisão nas respostas.<br><br>✔ **Insights Estratégicos:** Com relatórios integrados, visualize o desempenho do atendimento e tome decisões baseadas em dados concretos.<br><br> |![](https://github.com/Gestao-Online/public-docs/blob/f3016f26c3751c1cf822ef9e57da41c58fc58ee5/erp-v2/marketplace/extensions/me.movidesk.gestao-online.chat/assets/extensao_movidesk_chat_02.png?raw=true) |
+|✔ **Integração Total:** Conecte sua plataforma Gestão Online ao Movidesk de forma simples e rápida, unificando dados de clientes, chamados e suporte.<br><br>✔ **Gestão Centralizada:** Acesse todas as informações de atendimento diretamente no ERP, reduzindo retrabalho e melhorando a comunicação entre os times.<br><br>✔ **Automatização de Processos:** Sincronize chamados, históricos e atualizações em tempo real, garantindo agilidade e precisão nas respostas.<br><br>✔ **Insights Estratégicos:** Com relatórios integrados, visualize o desempenho do atendimento e tome decisões baseadas em dados concretos.<br><br> |![](https://github.com/Gestao-Online/public-docs/blob/ee7629da3e2b4adc4880fecf9781a398db834e3f/erp-v2/marketplace/extensions/com.movidesk.chat/assets/extensao_movidesk_chat_02.png?raw=true) |
 
 <br>
 
