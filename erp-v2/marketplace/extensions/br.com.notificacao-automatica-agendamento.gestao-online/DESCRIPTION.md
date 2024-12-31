@@ -1,10 +1,10 @@
+<div style="text-align: justify">
+
 ### Mantenha-se sempre no prazo com a Notificação Automática de Vencimento!
 
-| | |
-|-|-|
-|Nós sabemos o quanto a gestão de produtos e serviços com prazo para expirar é essencial para o sucesso do seu negócio. Pensando nisso, apresentamos a extensão **Notificação Automática de Vencimento**, desenvolvida para que você nunca perca uma oportunidade de renovação! | ![](https://github.com/Gestao-Online/public-docs/blob/9d1512d96ba28c7fbbc3128249e84e61fdeea5a7/erp-v2/marketplace/extensions/br.com.notificacao-automatica-agendamento.gestao-online/assets/extensao_notificacao_auto_01.png?raw=true)|
-
-
+| | | |
+|-|-|-|
+|Nós sabemos o quanto a gestão de produtos e serviços com prazo para expirar é essencial para o sucesso do seu negócio. Pensando nisso, apresentamos a extensão **Notificação Automática de Vencimento**, desenvolvida para que você nunca perca uma oportunidade de renovação! | <p style="color: white;"> ___ </p>| ![](https://github.com/Gestao-Online/public-docs/blob/9d1512d96ba28c7fbbc3128249e84e61fdeea5a7/erp-v2/marketplace/extensions/br.com.notificacao-automatica-agendamento.gestao-online/assets/extensao_notificacao_auto_01.png?raw=true)|
 
 Com a Notificação Automática de Vencimento, o cliente é avisado de forma simples e prática quando o serviço estiver próximo do vencimento, garantindo tempo suficiente para renovação.
 
@@ -27,3 +27,5 @@ Dessa forma, você cuida do cliente e otimiza o ciclo de vida dos seus serviços
 <br>
 
 **Garanta um controle eficiente e uma experiência de compra ainda mais completa para seus clientes! Experimente agora a Notificação Automática de Vencimento e potencialize o desempenho do seu negócio.**
+
+</div>

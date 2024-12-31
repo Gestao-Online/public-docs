@@ -2,9 +2,13 @@
 
 ### Apresentamos a Sincronia de Agenda, a Gestão Inteligente de Seus Compromissos!
 
-| |<p style="color: white;"> ___ </p> | |
+| | | |
 |-|-|-|
-|Facilite o dia a dia da sua operação e otimize a gestão do seu negócio com a Extensão Sincronizar Agenda, disponível no nosso marketplace do Gestão Online.<br><br> Com essa poderosa ferramenta, você terá uma solução completa para sincronizar suas vendas e agendamentos automaticamente, economizando tempo e garantindo mais precisão na gestão dos seus atendimentos. | |![](https://github.com/Gestao-Online/public-docs/blob/f4bcd564b0f2416f5fc36fb3afd82a1142df35a6/erp-v2/marketplace/extensions/br.com.gestao-online.agenda-sync/assets/extensao_agenda_sync_02.png?raw=true) |
+|Facilite o dia a dia da sua operação e otimize a gestão do seu negócio com a Extensão Sincronizar Agenda, disponível no nosso marketplace do Gestão Online.<br><br>  |<p style="color: white;"> ___ </p> |![](https://github.com/Gestao-Online/public-docs/blob/f4bcd564b0f2416f5fc36fb3afd82a1142df35a6/erp-v2/marketplace/extensions/br.com.gestao-online.agenda-sync/assets/extensao_agenda_sync_02.png?raw=true) |
+
+<br>
+
+Com essa poderosa ferramenta, você terá uma solução completa para sincronizar suas vendas e agendamentos automaticamente, economizando tempo e garantindo mais precisão na gestão dos seus atendimentos.
 
 <br>
 
