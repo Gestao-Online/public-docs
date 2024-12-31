@@ -19,6 +19,8 @@ Com a nossa ferramenta de recuperação, você pode configurar notificações au
 
 📈 **Análise de Resultados:** Acompanhe a taxa de recuperação e veja, em tempo real, como a ferramenta está impactando o seu faturamento.
 
+<br>
+
 ### Benefícios para sua empresa
 
 <br>
@@ -26,6 +28,8 @@ Com a nossa ferramenta de recuperação, você pode configurar notificações au
 |**Aumento nas Vendas:** |<p style="color: white;"> ___ </p> |**Automação e Praticidade:** |<p style="color: white;"> ___ </p> |**Engajamento e Satisfação do Cliente:**|
 |------------------------|-|-----------------------------|-|----------------------------------------|
 |Recupere uma porcentagem significativa de compras abandonadas. ||Economize tempo com uma extensão que trabalha para você, 24 horas por dia. ||Proporciona uma experiência completa ao lembrar o cliente de finalizar a compra de maneira prática e oportuna.|
+
+<br>
 
 ![](https://github.com/Gestao-Online/public-docs/blob/59a71bd5e9c8bae24824f706a89db0d0ef528cf6/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/modelo-email.png?raw=true)
 
