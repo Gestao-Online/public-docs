@@ -1,10 +1,10 @@
-# 📦 App Recuperação de compras não pagas
+<div style="text-align: justify">
+
+### 📦 App Recuperação de compras não pagas
 
 A extensão para disparos de notificações foi desenvolvida para facilitar a recuperação de compras não pagas, automatizando o envio de alerta para os clientes. 
 
 A solução permite configurar lembretes via diferentes canais, como e-mail ou SMS, incentivando assim o cliente a concluir o pagamento de compras pendentes.
-
-![](https://github.com/Gestao-Online/public-docs/blob/9022130ef306961434ccd857180022b4eb45c7be/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/marketplace_go_recupera_venda_nao_paga_inicio.png?raw=true)
 
 Com a extensão instalada, você precisa configurá-la clicando no botão de configuração que é exibido a partir do momento que você instala a extensão no sistema.
 
@@ -12,13 +12,13 @@ Com a extensão instalada, você precisa configurá-la clicando no botão de con
 
 ## Configurando extensão
 
-No primeiro momento, você vai definir os [**`Tipos de movimentação`**](https://docs.gestao.plus/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao) que serão permitidos. As opções que aparecerão neste campo estão cadastradas na tela **Tipo de movimentação**. Você pode digitar o nome do tipo e logo ele será buscado, e para selecionar o que deseja, você pode clicar sobre a opção de que precisa.
+No primeiro momento, você vai definir os <a href="https://docs.gestao.plus/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao" target="_blank">**Tipos de movimentação**</a> que serão permitidos. As opções que aparecerão neste campo estão cadastradas na tela **Tipo de movimentação**. Você pode digitar o nome do tipo e logo ele será buscado, e para selecionar o que deseja, você pode clicar sobre a opção de que precisa.
 
 Observe nossa demonstração abaixo.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/9022130ef306961434ccd857180022b4eb45c7be/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/marketplace_go_recupera_venda_nao_paga_tipo_movimentacao.gif?raw=true)
 
-O mesmo vale para a seleção dos [**`Tipos de negociação`**](https://docs.gestao.plus/erp-v2/funcionalidades/financeiro/tipos_negociacao) permitidos, você também pode clicar no campo e digitar o nome do tipo de negociação que deseja vincular à extensão.
+O mesmo vale para a seleção dos <a href="https://docs.gestao.plus/erp-v2/funcionalidades/financeiro/tipos_negociacao" target="_blank">**Tipos de negociação**</a> permitidos, você também pode clicar no campo e digitar o nome do tipo de negociação que deseja vincular à extensão.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/9022130ef306961434ccd857180022b4eb45c7be/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/marketplace_go_recupera_venda_nao_paga_tipo_negociacao.gif?raw=true)
 
@@ -65,3 +65,5 @@ Observe nossa demonstração abaixo.
 Após preencher todas as informações, você pode clicar no botão **`Salvar configurações`** e assim a extensão está devidamente configurada e funcionando, já começando a separar as vendas não pagas e encaminhando as mensagens para recuperação da venda.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/9022130ef306961434ccd857180022b4eb45c7be/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/marketplace_go_recupera_venda_nao_paga_salvar.gif?raw=true)
+
+</div>
