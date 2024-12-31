@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-|Nós sabemos o quanto a gestão de produtos e serviços com prazo para expirar é essencial para o sucesso do seu negócio. Pensando nisso, apresentamos a extensão **Notificação Automática de Vencimento**, desenvolvida para que você nunca perca uma oportunidade de renovação! | ![]()|
+|Nós sabemos o quanto a gestão de produtos e serviços com prazo para expirar é essencial para o sucesso do seu negócio. Pensando nisso, apresentamos a extensão **Notificação Automática de Vencimento**, desenvolvida para que você nunca perca uma oportunidade de renovação! | ![](https://github.com/Gestao-Online/public-docs/blob/9d1512d96ba28c7fbbc3128249e84e61fdeea5a7/erp-v2/marketplace/extensions/br.com.notificacao-automatica-agendamento.gestao-online/assets/extensao_notificacao_auto_01.png?raw=true)|
 
 
 
