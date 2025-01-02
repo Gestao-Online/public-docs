@@ -18,4 +18,6 @@ Com a extensão instalada, você precisa configurá-la clicando no botão de con
 
 No momento que você clicar no botão de **Configuração**, dois campos vão precisar da sua atenção, sendo eles, Cliente ID e Client Secret. Ambas informações que você só irá conseguir no momento em que já tiver o cadastro feito na plataforma do  <a href="https://melhorenvio.com.br/cadastre-se#" target="_blank">Melhor Envio</a>.
 
+![]()
+
 </div>
