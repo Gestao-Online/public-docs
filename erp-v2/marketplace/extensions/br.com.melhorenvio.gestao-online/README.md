@@ -26,7 +26,11 @@ No momento que você clicar no botão de **Configuração**, dois campos vão pr
 
 Com a sua conta do **Melhor Envio** criada e aberta, você precisará acessar o menu lateral esquerdo e clicar no menu *Integrações* e escolher a opção **Área Dev**. Conforme mostrado no exemplo abaixo:
 
-![](https://github.com/Gestao-Online/public-docs/blob/77bef59dfb149c4707a456487f4a5d178894b3a8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_07.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/a5aef554d99b419eb4898c3e64bc50ed5274d1e8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_07.png?raw=true)
+
+Agora, uma nova tela será mostrada a você, e será necessário **Cadastrar aplicativo**, pois será através dela que você terá acesso ao Cliente ID e Secret ID.
+
+![](https://github.com/Gestao-Online/public-docs/blob/a5aef554d99b419eb4898c3e64bc50ed5274d1e8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_08.png?raw=true)
 
 
 </div>
