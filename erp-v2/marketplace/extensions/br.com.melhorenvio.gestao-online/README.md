@@ -54,7 +54,7 @@ Ao clicar em Cadastrar aplicativo, uma janela pop-up será mostrada para você p
 
 * **URL do seu ambiente para testes:** URL de staging da loja (Ex.: https://www.suaempresa.gestao.plus/)
 
-* **URL onde vamos direcionar o cliente após instalação (callback):** Neste campo, você irá preencher com este link padronizado para o Gestão Online, a única parte que irá modificar é a que está selecionada de laranja, para você inserir o nome utilizado no seu link de acesso (Por padrão o nome da sua empresa).<br><strong style="color: red;">*Atenção para o uso do HTTP. Caso coloque HTTPS a conexão irá falhar.*</strong><br>http://<strong style="color: orange;">suaempresa</strong>.gestao.plus/action?controller-route=8d0d3fc82f56dcbfac551bf86a8b1ba4&action=oAuth2&step=callback
+* **URL onde vamos direcionar o cliente após instalação (callback):** Neste campo, você irá preencher com este link padronizado para o Gestão Online, a única parte que irá modificar é a que está selecionada de laranja, para você inserir o nome utilizado no seu link de acesso (Por padrão o nome da sua empresa).<br><div style="background-color:rgb(252, 227, 227); border-left: 6px solid rgb(255, 62, 62); padding: 15px; margin: 20px 0; border-radius: 5px; font-family: Arial, sans-serif; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">⚠️ Atenção:</h4><p style="margin: 0; line-height: 1.5;">Neste link, é necessário fazer uso somente do HTTP. Caso coloque HTTPS a conexão irá falhar, observe:.<br>http://<strong>suaempresa</strong>.gestao.plus/action?controller-route=8d0d3fc82f56dcbfac551bf86a8b1ba4&action=oAuth2&step=callback</p></div>
 
 * **Descrição:** Neste campo você pode inserir as anotações que desejar (Ex.: Integração com Gestão Online) 
 
@@ -64,8 +64,6 @@ Ao clicar em Cadastrar aplicativo, uma janela pop-up será mostrada para você p
     <img src="https://github.com/Gestao-Online/public-docs/blob/8e45ef8dd7a5926122e4303aed6da1b0b93eab18/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_09.gif?raw=true" alt="0" width="600"> 
 </div>
 
-![]()
-
 <br>
 
 Com estar informações preenchidas corretamente, agora você pode clicar no botão **Cadastrar** e o registro das informações será feito, disponibilizando o acesso ao Client ID e Secret ID, observe abaixo:
@@ -74,14 +72,30 @@ Com estar informações preenchidas corretamente, agora você pode clicar no bot
     <img src="https://github.com/Gestao-Online/public-docs/blob/bb1a3430cb69461407ecbbdfc1d8613480822c7d/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_10.gif?raw=true" alt="0" width="600"> 
 </div>
 
-![]()
+<br>
 
 Agora, você precisa copiar os dois ID's, colar nos campos da tela de configuração e salvar as informações da extensão no Gestão Online. O procedimento é bem simples e rápido, observe nossa demonstração abaixo:
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/77bef59dfb149c4707a456487f4a5d178894b3a8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_06.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/77bef59dfb149c4707a456487f4a5d178894b3a8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_11.GIF?raw=true" alt="0" width="600"> 
 </div>
 
+<br>
+
+### Autorização do Aplicativo
+
 Depois de salvar os dados, você precisa acessar novamente as configurações e clicar no botão **Fazer login**. Uma nova janela será mostrada a você para preencher os dados de envio da sua empresa e escolher as empresas de envio disponíveis.
+
+![VIDEO MOSTRANDO COMO CHEGAR A NOVA JANELA]()
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/77bef59dfb149c4707a456487f4a5d178894b3a8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_12.GIF?raw=true" alt="0" width="600"> 
+</div>
+
+Nesta nova janela você precisará fornecer mais informações. Na primeira parte será solicitado CNPJ, Inscrição Estadual padrão e CNAE. Pois estas informações serão necessárias para a emissão de etiquetas do Melhor Envio.
+
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/77bef59dfb149c4707a456487f4a5d178894b3a8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_13.png?raw=true" alt="0" width="600"> 
+</div>
+
 
 </div>
