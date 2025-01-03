@@ -7,7 +7,7 @@ O Melhor Envio é uma plataforma que integra lojas online aos Correios e transpo
 Com a extensão instalada, você precisa configurá-la clicando no botão de configuração que é exibido a partir do momento que você instala a extensão no sistema.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/2021042c6174305b0b2bbb567360d0afeed67359/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_05.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/2021042c6174305b0b2bbb567360d0afeed67359/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_05.png?raw=true" alt="0" width="800"> 
 </div>
 
 ### Como funciona a integração com a Melhor Envio? 
@@ -23,7 +23,7 @@ Com a extensão instalada, você precisa configurá-la clicando no botão de con
 No momento que você clicar no botão de **Configuração**, dois campos vão precisar da sua atenção, sendo eles, Cliente ID e Client Secret. Ambas informações que você só irá conseguir no momento em que já tiver o cadastro feito na plataforma do  <a href="https://melhorenvio.com.br/cadastre-se#" target="_blank">Melhor Envio</a>.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/77bef59dfb149c4707a456487f4a5d178894b3a8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_06.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/77bef59dfb149c4707a456487f4a5d178894b3a8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_06.png?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -31,13 +31,13 @@ No momento que você clicar no botão de **Configuração**, dois campos vão pr
 Com a sua conta do **Melhor Envio** criada e aberta, você precisará acessar o menu lateral esquerdo e clicar no menu *Integrações* e escolher a opção **Área Dev**. Conforme mostrado no exemplo abaixo:
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/a5aef554d99b419eb4898c3e64bc50ed5274d1e8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_07.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a5aef554d99b419eb4898c3e64bc50ed5274d1e8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_07.png?raw=true" alt="0" width="800"> 
 </div>
 
 Agora, uma nova tela será mostrada a você, e será necessário **Cadastrar aplicativo**, pois será através dela que você terá acesso ao Cliente ID e Secret ID.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/8193318169e86c305e8a6ee44cad4160dee8b833/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_08.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/8193318169e86c305e8a6ee44cad4160dee8b833/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_08.png?raw=true" alt="0" width="800"> 
 </div>
 
 ### Cadastrar Aplicativo
@@ -61,7 +61,7 @@ Ao clicar em Cadastrar aplicativo, uma janela pop-up será mostrada para você p
 <br>
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/8e45ef8dd7a5926122e4303aed6da1b0b93eab18/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_09.gif?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/8e45ef8dd7a5926122e4303aed6da1b0b93eab18/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_09.gif?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -69,7 +69,7 @@ Ao clicar em Cadastrar aplicativo, uma janela pop-up será mostrada para você p
 Com estar informações preenchidas corretamente, agora você pode clicar no botão **Cadastrar** e o registro das informações será feito, disponibilizando o acesso ao Client ID e Secret ID, observe abaixo:
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/bb1a3430cb69461407ecbbdfc1d8613480822c7d/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_10.gif?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/bb1a3430cb69461407ecbbdfc1d8613480822c7d/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_10.gif?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -77,7 +77,7 @@ Com estar informações preenchidas corretamente, agora você pode clicar no bot
 Agora, você precisa copiar os dois ID's, colar nos campos da tela de configuração e salvar as informações da extensão no Gestão Online. O procedimento é bem simples e rápido, observe nossa demonstração abaixo:
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/77bef59dfb149c4707a456487f4a5d178894b3a8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_11.GIF?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/77bef59dfb149c4707a456487f4a5d178894b3a8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_11.GIF?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -87,14 +87,19 @@ Agora, você precisa copiar os dois ID's, colar nos campos da tela de configura�
 Depois de salvar os dados, você precisa acessar novamente as configurações e clicar no botão **Fazer login**. Uma nova janela será mostrada a você para preencher os dados de envio da sua empresa e escolher as empresas de envio disponíveis.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/77bef59dfb149c4707a456487f4a5d178894b3a8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_12.GIF?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a1bf8699127beddb25cf80038ea1e219216389a2/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_12.gif?raw=true" alt="0" width="800"> 
 </div>
 
-Nesta nova janela você precisará fornecer mais informações. Na primeira parte será solicitado CNPJ, Inscrição Estadual padrão e CNAE. Pois estas informações serão necessárias para a emissão de etiquetas do Melhor Envio.
+Nesta nova janela você precisará fornecer mais informações. Na primeira parte será solicitado CNPJ, Inscrição Estadual padrão e CNAE, pois essas informações serão necessárias para a emissão de etiquetas do Melhor Envio.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/465df6a8f61af31e9136b839d6c2d8b4739a0905/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_13.png?raw=true" alt="0" width="600"> 
 </div>
 
+Em sequência, você pode definir um prazo maior para a entrega, caso o produto que esteja enviando possua algum tipo de customização e você precisa de um tempo 
+
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/465df6a8f61af31e9136b839d6c2d8b4739a0905/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_14.png?raw=true" alt="0" width="600"> 
+</div>
 
 </div>
