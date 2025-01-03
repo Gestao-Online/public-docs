@@ -90,18 +90,23 @@ Depois de salvar os dados, você precisa acessar novamente as configurações e 
     <img src="https://github.com/Gestao-Online/public-docs/blob/a1bf8699127beddb25cf80038ea1e219216389a2/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_12.gif?raw=true" alt="0" width="800"> 
 </div>
 
+<br>
+
 Nesta nova janela você precisará fornecer mais informações. Na primeira parte será solicitado CNPJ, Inscrição Estadual padrão e CNAE, pois essas informações serão necessárias para a emissão de etiquetas do Melhor Envio.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/465df6a8f61af31e9136b839d6c2d8b4739a0905/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_13.png?raw=true" alt="0" width="600"> 
 </div>
 
+<br>
+
 Em sequência, você pode definir um prazo maior para a entrega, caso o produto que esteja enviando possua algum tipo de customização e você precise de um tempo a mais.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/465df6a8f61af31e9136b839d6c2d8b4739a0905/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_14.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/601506c345782daec4b2f70c56ee2eaf0472cff6/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_14.png?raw=true" alt="0" width="600"> 
 </div>
 
+<br>
 
 
 </div>
