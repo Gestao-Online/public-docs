@@ -30,7 +30,34 @@ Com a sua conta do **Melhor Envio** criada e aberta, você precisará acessar o 
 
 Agora, uma nova tela será mostrada a você, e será necessário **Cadastrar aplicativo**, pois será através dela que você terá acesso ao Cliente ID e Secret ID.
 
-![](https://github.com/Gestao-Online/public-docs/blob/a5aef554d99b419eb4898c3e64bc50ed5274d1e8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_08.png?raw=true)
+![](https://github.com/Gestao-Online/public-docs/blob/8193318169e86c305e8a6ee44cad4160dee8b833/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_08.png?raw=true)
 
+Ao clicar em Cadastrar aplicativo, uma janela pop-up será mostrada para você preencher com os dados necessários. Mas atenção, alguns campos precisam de um certo padrão para que tudo funcione corretamente junto ao Gestão Online. Observa abaixo o metódo a ser seguido:
+
+* Nome do aplicativo: Integração Vnda - Nome da loja
+
+* Site da plataforma: URL da loja contendo https:// e / no final (exemplo: https://www.sualoja.com.br/)
+
+* Email de contato: contato@exemplo.com.br
+
+* Email de suporte: suporte@exemplo.com.br
+
+* URL de seu ambiente de testes: URL de staging da loja https:// e / no final exemplo: https://sualoja.vnda.dev/)
+
+* URL onde vamos direcionar o cliente após instalação (callback): inserir URL da loja + /api/v2/melhor_envio (exemplo: https://www.sualoja.com.br/api/v2/melhor_envio)
+
+
+
+Descrição: Integração Vnda
+
+Selecione as transportadoras desejadas;
+
+
+
+
+
+Clique em CADASTRAR;
+
+Copie o Client ID e o Secret e salve-os em algum lugar, como um bloco de notas, por exemplo.
 
 </div>
