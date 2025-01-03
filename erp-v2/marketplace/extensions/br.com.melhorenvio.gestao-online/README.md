@@ -100,7 +100,7 @@ Nesta nova janela você precisará fornecer mais informações. Na primeira part
 
 <br>
 
-Em sequência, você pode definir um prazo maior para a entrega, caso o produto que esteja enviando possua algum tipo de customização e você precise de um tempo a mais.
+Em sequência, você pode definir um prazo maior para a entrega, caso o produto que esteja enviando possua algum tipo de customização e você precise de um tempo a mais. Pode também ser incluído um valor além do padrão do frete que a transportadora 
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/601506c345782daec4b2f70c56ee2eaf0472cff6/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_14.png?raw=true" alt="0" width="600"> 
@@ -108,5 +108,10 @@ Em sequência, você pode definir um prazo maior para a entrega, caso o produto 
 
 <br>
 
+Selecione qual a transportadora você irá disponibilizar para os clientes poderem escolher a forma de envio.
+
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/89e608f702f302df1155fbfcbe27430d104350fb/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_15.png?raw=true" alt="0" width="600"> 
+</div>
 
 </div>
