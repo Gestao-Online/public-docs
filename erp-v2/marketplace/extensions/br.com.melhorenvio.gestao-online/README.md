@@ -77,7 +77,7 @@ Com estar informações preenchidas corretamente, agora você pode clicar no bot
 Agora, você precisa copiar os dois ID's, colar nos campos da tela de configuração e salvar as informações da extensão no Gestão Online. O procedimento é bem simples e rápido, observe nossa demonstração abaixo:
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/77bef59dfb149c4707a456487f4a5d178894b3a8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_11.GIF?raw=true" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/ad63b587018c7640b3fda75352962614b39d2232/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_11.gif?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -96,10 +96,12 @@ Nesta nova janela você precisará fornecer mais informações. Na primeira part
     <img src="https://github.com/Gestao-Online/public-docs/blob/465df6a8f61af31e9136b839d6c2d8b4739a0905/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_13.png?raw=true" alt="0" width="600"> 
 </div>
 
-Em sequência, você pode definir um prazo maior para a entrega, caso o produto que esteja enviando possua algum tipo de customização e você precisa de um tempo 
+Em sequência, você pode definir um prazo maior para a entrega, caso o produto que esteja enviando possua algum tipo de customização e você precise de um tempo a mais.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/465df6a8f61af31e9136b839d6c2d8b4739a0905/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_14.png?raw=true" alt="0" width="600"> 
 </div>
+
+
 
 </div>
