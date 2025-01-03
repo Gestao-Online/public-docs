@@ -32,31 +32,38 @@ Agora, uma nova tela será mostrada a você, e será necessário **Cadastrar apl
 
 ![](https://github.com/Gestao-Online/public-docs/blob/8193318169e86c305e8a6ee44cad4160dee8b833/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_08.png?raw=true)
 
+### Cadastrar Aplicativo
+
 Ao clicar em Cadastrar aplicativo, uma janela pop-up será mostrada para você preencher com os dados necessários. Mas atenção, alguns campos precisam de um certo padrão para que tudo funcione corretamente junto ao Gestão Online. Observa abaixo o metódo a ser seguido:
 
-* Nome do aplicativo: Integração Vnda - Nome da loja
+* **Nome da plataforma:** Integração Gestão Online - *"Nome da sua empresa"*
 
-* Site da plataforma: URL da loja contendo https:// e / no final (exemplo: https://www.sualoja.com.br/)
+* **Site da plataforma:** URL do seu Gestão Online (Ex.: https://www.suaempresa.gestao.plus/loja)
 
-* Email de contato: contato@exemplo.com.br
+* **Email de contato:** Email de contato da sua empresa (Ex.: contato@exemplo.com.br)
 
-* Email de suporte: suporte@exemplo.com.br
+* **Email do seu suporte técnico:** Email de suporte da sua empresa (Ex.: suporte@exemplo.com.br)
 
-* URL de seu ambiente de testes: URL de staging da loja https:// e / no final exemplo: https://sualoja.vnda.dev/)
+* **URL do seu ambiente para testes:** URL de staging da loja (Ex.: https://www.suaempresa.gestao.plus/)
 
-* URL onde vamos direcionar o cliente após instalação (callback): inserir URL da loja + /api/v2/melhor_envio (exemplo: https://www.sualoja.com.br/api/v2/melhor_envio)
+* **URL onde vamos direcionar o cliente após instalação (callback):** Neste campo, você irá preencher com este link padronizado para o Gestão Online, a única parte que irá modificar é a que está selecionada de laranja, para você inserir o nome utilizado no seu link de acesso (Por padrão o nome da sua empresa).
 
+<strong style="color: red;">*Atenção para o uso do HTTP. Caso coloque HTTPS a conexão irá falhar.*</strong>
 
-
-Descrição: Integração Vnda
-
-Selecione as transportadoras desejadas;
+http://<strong style="color: orange;">suaempresa</strong>.gestao.plus/action?controller-route=8d0d3fc82f56dcbfac551bf86a8b1ba4&action=oAuth2&step=callback
 
 
+* **Descrição:** Neste campo você pode inserir as anotações que desejar (Ex.: Integração com Gestão Online) 
+
+COm estar informações preenchidas corretamente, agora você pode clicar no botão **Cadastrar** e você terá acesso ao Client e Secret ID, observe nossa demonstração abaixo:
+
+![]()
 
 
 
-Clique em CADASTRAR;
+
+
+
 
 Copie o Client ID e o Secret e salve-os em algum lugar, como um bloco de notas, por exemplo.
 
