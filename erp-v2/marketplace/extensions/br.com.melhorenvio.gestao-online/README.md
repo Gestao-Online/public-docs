@@ -76,10 +76,12 @@ Com estar informações preenchidas corretamente, agora você pode clicar no bot
 
 ![]()
 
-Agora, você precisa copiar os dois ID's para continuar a configuração da extensão no Gestão Online. O procedimento é bem simples e rápido, observe nossa demonstração abaixo:
+Agora, você precisa copiar os dois ID's, colar nos campos da tela de configuração e salvar as informações da extensão no Gestão Online. O procedimento é bem simples e rápido, observe nossa demonstração abaixo:
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/77bef59dfb149c4707a456487f4a5d178894b3a8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_06.png?raw=true" alt="0" width="600"> 
 </div>
+
+Depois de salvar os dados, você precisa acessar novamente as configurações e clicar no botão **Fazer login**. Uma nova janela será mostrada a você para preencher os dados de envio da sua empresa e escolher as empresas de envio disponíveis.
 
 </div>
