@@ -145,7 +145,7 @@ Por último você pode clicar no botão **Autorizar** e em seguida a janela de c
 Caso você enha o módul ode vnedas online instalado em seu Gestão Online. Pode ativar esta função e quando seus clientes efetuarem compras atravás da sua Landing page, o sistema de entrega ficará disponível para os produtos que você configurar, e assim o cliente poderá escolher o método de entrega e pagar tudo junto.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/a7c66773fa049baefb922eeeb9e90ac85b1acc37/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_20.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/d8c763d82a299b46e83a6ece5d7958af1f7dcec8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_20.png?raw=true" alt="0" width="600"> 
 </div>
 
 ### O que muda no meu sistema?
@@ -157,5 +157,11 @@ Para que tudo funcione perfeitamente no momento das suas vendas, você precisa c
 </div>
 
 <br>
+
+No momento que estiver realizando a venda e estiver com o rascunho salvo, você agora pode clicar no botão **Adicionar frete** do menu superior. Ao clicar nele, uma janela será mostrada a vocÊ com o produto definido para o envio com o frete, e no campo abaixo, a escolha de qual transportadora será utilizada juntamente com o valor do frete a ser pago em cada uma das opções.
+
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/204d68877ddf40575c7965453e9aa706f66b45bc/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_21.gif?raw=true" alt="0" width="800"> 
+</div>
 
 </div>
