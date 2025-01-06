@@ -1,6 +1,6 @@
 <div style="text-align: justify">
 
-## 📦 App S.Deal Soluti
+## Configurando o S.Deal Soluti
 
 Extensão de integração para utilização de vouchers do S.Deal da Soluti, com alguns cliques e você irá conseguir fazer uso dos vouchers da plataforam do S.Deal no momento de emitir uma venda no Gestão Online.
 
