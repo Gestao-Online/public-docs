@@ -8,7 +8,9 @@ Ao configurar essa extensão em seu Gestão Online, todas as novas vendas realiz
 
 Após instalar a extensão, será necessário configurá-la. Para isso, clique no botão de configuração exibido na interface, conforme o exemplo abaixo.
 
-![](https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_02.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_02.gif?raw=true" alt="0" width="800"> 
+</div>
 
 ### Configurando a extensão
 
@@ -16,29 +18,39 @@ A configuração de uso desta extensão é bem simples e intuitiva. O primeiro c
 
 Ao clicar no campo, ele trará a lista com todos os tipos de agendamento disponíveis para uso, você então seleciona os que serão usados como base para fazer a sincronia dos agendamentos com a vendas:
 
-![](https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_03.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_03.gif?raw=true" alt="0" width="800"> 
+</div>
 
 No segundo campo, você deverá definir o intervalo de dias para a busca de agendamentos. Por exemplo, ao configurar 15 dias, sempre que uma venda for realizada, o sistema buscará na tela de agendamentos por registros do cliente correspondentes a até 15 dias antes ou depois da data da venda.
 
 Se um agendamento for encontrado dentro desse intervalo, a sincronização entre a venda e o agendamento será realizada automaticamente. Caso contrário, o processo seguirá o fluxo padrão do sistema.
 
-![](https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_04.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_04.png?raw=true" alt="0" width="800"> 
+</div>
 
 ### Salvando as configurações
 
 Feito isso, você pode clicar no botão salvar, e assim as configurações serão aplicadas no sistema, e a partir deste momento a extensão passa a funcionar para as novas vendas realizadas.
 
-![](https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_05.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_05.gif?raw=true" alt="0" width="800"> 
+</div>
 
 ### Utilização em vendas retroativas
 
 Após instalada a extensão, se você acessar a tela de Agendamentos, verá um novo botão disponível para uso no menu superior da tela.
 
-![](https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_06.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_06.png?raw=true" alt="0" width="800"> 
+</div>
 
 Clicando nele uma janela pop-up será mostrada a você com as opções de **sincronizar de agendamento passados**. Onde você precisará definir a data de início e data de fim da busca.
 
-![](https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_07.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_07.png?raw=true" alt="0" width="800"> 
+</div>
 
 O campo de **Paginação** é onde você poderá dividir o processo de sincronização em etapas menores, otimizando o tempo e o desempenho do sistema.
 
@@ -48,20 +60,28 @@ Por outro lado, ao escolher opções como **Dividir por mês, semana**, ou até 
 
 *Essa flexibilidade é especialmente útil para empresas com grandes volumes de dados históricos.*
 
-![](https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_08.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_08.png?raw=true" alt="0" width="800"> 
+</div>
 
 Após clicar no botão **Sincronizar**, o sistema irá iniciar o processo e você pode aguardar até ele mostrar a mensagem de sincronização criada com sucesso
 
-![](https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_09.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/813ce113f4cad197ff7e1ef35e42705a5d2da65e/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_09.gif?raw=true" alt="0" width="800"> 
+</div>
 
 ### Botão direito do mouse
 
 Uma outra forma de atalho de uso da função de sincronização retroativa de vendas, ou sincronização instantânea, é o uso do botão direito do mouse ao clicar em um agendamento criado, observe que um novo botão ficarpá disponível para você utilizar e fazer a sincronia no momento que clicar sobre ele.
 
-![](https://github.com/Gestao-Online/public-docs/blob/f2074c91188dcbedf8091d12cff0c0bca88fb05c/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_10.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/f2074c91188dcbedf8091d12cff0c0bca88fb05c/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_10.gif?raw=true" alt="0" width="800"> 
+</div>
 
 O mesmo vale também para a seleção de múltiplus agendamentos, usando o modo de seleção com a tecla 'shift' teclado, e assim os itens selecionados serão sincronizados quando você clicar em sincronizar, conforme mostrado abaixo:
 
-![](https://github.com/Gestao-Online/public-docs/blob/f2074c91188dcbedf8091d12cff0c0bca88fb05c/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_11.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/f2074c91188dcbedf8091d12cff0c0bca88fb05c/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_11.gif?raw=true" alt="0" width="800"> 
+</div>
 
 </div>
