@@ -29,7 +29,7 @@ Com a aplicação instalada e configurada, agora você precisa acessar a tela de
 
 <br>
 
-Agora você pode clicar no botão <img src="https://github.com/Gestao-Online/public-docs/blob/d3e39bd6cc8d15de6d9c4cadaf91df444b95f621/erp-v2/assets/btn_gerar_relatorio.png?raw=true" alt="" data-size="line" width="20"> gerar relatório, que será mostrado um menu novo ao lado direito da tela. Neste menu você tem alguns campos para preencher e filtrar o resultado do relatório.
+Agora você pode clicar no botão <img src="https://github.com/Gestao-Online/public-docs/blob/d3e39bd6cc8d15de6d9c4cadaf91df444b95f621/erp-v2/assets/btn_gerar_relatorio.png?raw=true" alt="" data-size="line" width="60"> gerar relatório, que será mostrado um menu novo ao lado direito da tela. Neste menu você tem alguns campos para preencher e filtrar o resultado do relatório.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/d3e39bd6cc8d15de6d9c4cadaf91df444b95f621/erp-v2/assets/marketplace/go_relatorio_custo/tela_marketplace_tela_vendas_menu_relatorio.png?raw=true" alt="0" width="800"> 
