@@ -158,10 +158,16 @@ Para que tudo funcione perfeitamente no momento das suas vendas, você precisa c
 
 <br>
 
-No momento que estiver realizando a venda e estiver com o rascunho salvo, você agora pode clicar no botão **Adicionar frete** do menu superior. Ao clicar nele, uma janela será mostrada a vocÊ com o produto definido para o envio com o frete, e no campo abaixo, a escolha de qual transportadora será utilizada juntamente com o valor do frete a ser pago em cada uma das opções.
+No momento que estiver realizando a venda e estiver com o rascunho salvo, você agora pode clicar no botão **Adicionar frete** do menu superior. Ao clicar nele, uma janela será mostrada a você com o produto definido para o envio com o frete, e no campo abaixo, a escolha de qual transportadora será utilizada juntamente com o valor do frete a ser pago em cada uma das opções.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/204d68877ddf40575c7965453e9aa706f66b45bc/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_21.gif?raw=true" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/5931aafe207606f8ce27bd62f4a085e6eaea610e/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_21.gif?raw=true" alt="0" width="800"> 
 </div>
+
+<br>
+
+Ao clicar em confirmar, a venda é sincronizada com o Melhor Envio, e você tem dois novos botões para uso, sendo **Imprimir Etiqueta** para você já preparar o envio do produto ao cliente, e o botão **Cancelar etiqueta** caso aconteça algo com a venda.
+
+
 
 </div>
