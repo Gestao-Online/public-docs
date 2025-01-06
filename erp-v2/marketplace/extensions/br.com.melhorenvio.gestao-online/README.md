@@ -137,7 +137,7 @@ Por último, caso tenha escolhido a Jadlog como uma das formas de envio, você p
 Por último você pode clicar no botão **Autorizar** e em seguida a janela de configuração será fechada, e a extensão passará a mostrar o nome 'Você está autenticado", confirmando que a configuração foi realizada com sucesso e agora você pode começar a utilizar no seu Gestão Online.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/502fcfc4637a6e6e57a8117b36cc0860e9e9c17e/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_19.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/502fcfc4637a6e6e57a8117b36cc0860e9e9c17e/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_19.png?raw=true" alt="0" width="800"> 
 </div>
 
 ### Configuração para vendas online
@@ -153,7 +153,7 @@ Caso você enha o módul ode vnedas online instalado em seu Gestão Online. Pode
 Para que tudo funcione perfeitamente no momento das suas vendas, você precisa configurar os produtos que terão este formato de envio. Na tela de produtos, e com o produto selecinado aberto para edição, você irá procurar o campo **Tipo de entrega** e definir ele com a opção **TRANSPORTE**, dessa forma, novos campos irão aparecer para você, com as informações de dimensão e peso do produto. Após preencher tudo não esqueça de clicar no botão de salvar.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/204d68877ddf40575c7965453e9aa706f66b45bc/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_18.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/204d68877ddf40575c7965453e9aa706f66b45bc/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_18.png?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
