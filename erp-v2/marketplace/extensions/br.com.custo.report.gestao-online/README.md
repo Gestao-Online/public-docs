@@ -1,4 +1,6 @@
-# Relatorio Custo
+<div style="text-align: justify">
+
+### Configurando o Relatório de Custo
 
 Esta extensão irá ativar um botão exclusivo na tela de vendas, para você emitir um relatório de custo personalizado.
 
@@ -45,3 +47,5 @@ Por último, dos campos disponíveis, você tem a situação de entrega e o de s
 Feito isso, agora você pode clicar no botão **`Gerar Relatório`**, e uma nova janela será carregada com os dados selecionados. Este arquivo será gerado no formato CSV de planilhas, e você pode utilizar o programa de planilhas da sua preferência para acessar o arquivo.
 
 ![](/erp-v2/assets/marketplace/go_relatorio_custo/tela_marketplace_tela_vendas_menu_campo_btn_gerar.gif)
+
+</div>
