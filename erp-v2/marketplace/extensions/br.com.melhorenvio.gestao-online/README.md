@@ -123,7 +123,7 @@ Após escolher o modelo de produto, será definido o tamanho padrão da caixa pa
 Para garantir a segurança de suas encomendas, escolha entre as opções de seguro: **Assegurar Sempre** para cobertura total ou **Só quando necessário** para escolher quais itens serão protegidos. Informe o valor padrão que será utilizado para calcular o custo do seguro e adicionar ao valor total da etiqueta.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/89e608f702f302df1155fbfcbe27430d104350fb/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_16.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/3162ee78c4da191921a3f96041b5f8e902642756/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_16.png?raw=true" alt="0" width="600"> 
 </div>
 
 <br>
@@ -131,7 +131,7 @@ Para garantir a segurança de suas encomendas, escolha entre as opções de segu
 Por último, caso tenha escolhido a Jadlog como uma das formas de envio, você precisará definir qual agência fará a postangem dos seus envios. Clicando no campo selecionado abaixo, uma lista com todas as unidades próximas disponíveis será mostrada a você. (Em caso de dúvidas, pode clicar no botão Mapa de agências e verificar melhor onde cada uma está localizada)
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/89e608f702f302df1155fbfcbe27430d104350fb/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_16.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a7c66773fa049baefb922eeeb9e90ac85b1acc37/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_17.png?raw=true" alt="0" width="600"> 
 </div>
 
 Por último você pode clicar no botão **Autorizar** e em seguida a janela de configuração será fechada, e a extensão passará a mostrar o nome 'Você está autenticado", confirmando que a configuração foi realizada com sucesso e agora você pode começar a utilizar no seu Gestão Online.
