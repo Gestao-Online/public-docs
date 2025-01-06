@@ -10,6 +10,8 @@ Com a extensão instalada, você precisa configurá-la clicando no botão de con
     <img src="https://github.com/Gestao-Online/public-docs/blob/2021042c6174305b0b2bbb567360d0afeed67359/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_05.png?raw=true" alt="0" width="800"> 
 </div>
 
+<br>
+
 ### Como funciona a integração com a Melhor Envio? 
 
 <div style="text-align: center">
@@ -113,5 +115,16 @@ Selecione qual a transportadora você irá disponibilizar para os clientes poder
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/89e608f702f302df1155fbfcbe27430d104350fb/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_15.png?raw=true" alt="0" width="600"> 
 </div>
+
+<br>
+
+Após escolher o modelo de produto, será definido o tamanho padrão da caixa para embalagem. Essa medida é necessária para calcular o frete e garantir que o produto chegue até o cliente em perfeitas condições.
+
+Para garantir a segurança de suas encomendas, escolha entre as opções de seguro: **Assegurar Sempre** para cobertura total ou **Só quando necessário** para escolher quais itens serão protegidos. Informe o valor padrão que será utilizado para calcular o custo do seguro e adicionar ao valor total da etiqueta.
+
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/89e608f702f302df1155fbfcbe27430d104350fb/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_16.png?raw=true" alt="0" width="600"> 
+</div>
+
 
 </div>
