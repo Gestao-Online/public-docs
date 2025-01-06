@@ -134,4 +134,8 @@ Por último, caso tenha escolhido a Jadlog como uma das formas de envio, você p
     <img src="https://github.com/Gestao-Online/public-docs/blob/89e608f702f302df1155fbfcbe27430d104350fb/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_16.png?raw=true" alt="0" width="600"> 
 </div>
 
+Por último você pode clicar no botão **Autorizar** e em seguida a janela de configuração será fechada, e a extensão passará a mostrar o nome 'Você está autenticado", confirmando que a configuração foi realizada com sucesso e agora você pode começar a utilizar no seu Gestão Online.
+
+
+
 </div>
