@@ -126,5 +126,12 @@ Para garantir a segurança de suas encomendas, escolha entre as opções de segu
     <img src="https://github.com/Gestao-Online/public-docs/blob/89e608f702f302df1155fbfcbe27430d104350fb/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_16.png?raw=true" alt="0" width="600"> 
 </div>
 
+<br>
+
+Por último, caso tenha escolhido a Jadlog como uma das formas de envio, você precisará definir qual agência fará a postangem dos seus envios. Clicando no campo selecionado abaixo, uma lista com todas as unidades próximas disponíveis será mostrada a você. (Em caso de dúvidas, pode clicar no botão Mapa de agências e verificar melhor onde cada uma está localizada)
+
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/89e608f702f302df1155fbfcbe27430d104350fb/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_16.png?raw=true" alt="0" width="600"> 
+</div>
 
 </div>
