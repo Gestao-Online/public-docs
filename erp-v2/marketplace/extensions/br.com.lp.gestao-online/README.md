@@ -1,26 +1,34 @@
-# Personalização de Landing Page
+<div style="text-align: justify">
 
-Personalize as Landing Pages geradas para vendas online em sua empresa, utilizando nossa extensão, com ela você poderá alterar imagens, cores e textos da apresentação da página de vendas online da sua empresa, ou das páginas de unidades e parceiros indicadores.
-
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_inicio.png?raw=true)
+### Configurando a Personalização de Landing Page
 
 Com a extensão instalada, você precisa configurá-la clicando no botão de configuração que é exibido a partir do momento que você instala a extensão no sistema.
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_btn_config.png?raw=true)
-
 Nesta aplicação ao clicar no botão de configurações uma notificação pop-up irá te notificar que a aplicação foi configurada com sucesso, e assim deixará disponível na sua tela de vendas um novo botão disponível.
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_btn_config_clicando.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_btn_config_clicando.gif?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 Com a extensão aplicada você precisa acessar a tela **Configurações do App**. Nesta tela no menu superior, um novo botão ficará disponível, com o nome <mark style="color:white;background-color:#818EA3;">Atualizar Landing Page</mark>. 
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_menu_superior.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_menu_superior.png?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 ## Configurações de Landing Pages
 
 Ao clicar nele, uma janela pop-up será aberta com os campos para você configurar.
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_janela.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_janela.png?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 ### Configurações da Loja Principal
 
@@ -32,11 +40,19 @@ Observe nossa demonstração de preenchimento abaixo.
 **Imagem:** Para este primeiro banner, a imagem possui um tamanho padrão para ficar bem distribuído, use imagens com dimensões entre 1850x850 píxeis.
 {% endhint %}
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_loja_banner_principal.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_loja_banner_principal.gif?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 Logo abaixo você encontra os campos do **Texto 1** e **Texto 2**, esses campos de texto ficam logo abaixo do banner de exemplo acima. Ao lado você também tem a opção de ativar a **imagem do Texto 2**, mas essa imagem é fixa e sem opção de alteração. Caso não queira pode desativá-la.
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_loja_textos.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_loja_textos.png?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 Pronto, estas são as configurações para o padrão da loja online sua empresa. Os produtos serão carregados automaticamente conforme você for cadastrando cada um deles no sistema. 
 
@@ -44,11 +60,19 @@ Pronto, estas são as configurações para o padrão da loja online sua empresa.
 
 Você pode personalizar também as Lojas de unidades ou Pontos de atendimentos. Esse espaço possui os mesmos campos da configuração inicial, com o banner, o texto que ficará dentro deste banner e o botão para ativar a sombra neste banner e dar destaque ao texto dentro dele.
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_loja_banner_principal.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_loja_banner_principal.gif?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 Logo abaixo você encontra os campos do **Texto 1** e **Texto 2**, esses campos de texto ficam logo abaixo do banner de exemplo acima. Ao lado você também tem a opção de ativar a **imagem do Texto 2**, mas essa imagem é fixa e sem opção de alteração. Caso não queira pode desativá-la.
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_unidade_textos.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_unidade_textos.png?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 Pronto, estas são as configurações que você pode colocar na landing page das unidades de atendimento. Os produtos serão carregados automaticamente conforme as unidades forem cadastrando no sistema.
 
@@ -56,11 +80,19 @@ Pronto, estas são as configurações que você pode colocar na landing page das
 
 Você pode personalizar também as Lojas de Parceiros Indicadores. Esse espaço possui os mesmos campos da configuração inicial, com o banner, o texto que ficará dentro deste banner e o botão para ativar a sombra neste banner e dar destaque ao texto dentro dele.
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_loja_banner_principal.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_loja_banner_principal.gif?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 Abaixo destes campos você encontra os de **Texto 1** e **Texto 2**, esses campos de texto ficam logo abaixo do banner de exemplo acima. Ao lado você também tem a opção de ativar a **imagem do Texto 2**, mas essa imagem é fixa e sem opção de alteração. Caso não queira pode desativá-la.
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_parceiro_textos.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_parceiro_textos.png?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 Pronto, estas são as configurações que pode colocar na landing page das Lojas de Parceiros Indicadores. Os produtos serão carregados automaticamente conforme os parceiros forem vinculados aos produtos.
 
@@ -68,11 +100,19 @@ Pronto, estas são as configurações que pode colocar na landing page das Lojas
 
 Nas configurações gerais da Landing Page, você pode configurar a cor dos botões (Cor do texto dos botões) e cor de fundo dos botões que aparecem abaixo do nome e foto de cada produto cadastrado. Essa configuração é bem intuitiva, você precisa somente clicar na cor que é mostrada a você na tela. Acompanhe nossa demonstração de uso abaixo.
  
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_cor_btns.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_cor_btns.gif?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 Ainda em configurações, você tem o campo de **Script Integrado**. Este campo pode ser utilizado para você habilitar um serviço de coleta de dados do seu site e para criar relatórios com insights sobre sua empresa. Como exemplo, você tem o serviço do Google Analytics 4 ou Adobe Analytics e outros disponíveis no mercado, fica sua escolha para utilização.
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_script.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_script.png?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 No campo de **Créditos de Rodapé**, você pode adicionar dados institucionais, seu endereço, CNPJ ou algum link para suas redes sociais. Fica a sua escolha  as informações que deseja mostrar em sua Landing Page. 
 
@@ -80,7 +120,11 @@ No campo de **Créditos de Rodapé**, você pode adicionar dados institucionais,
 **Informação:** Lembrando que essa informação será mostrada em todas as páginas, tanto das páginas de Unidade quanto das páginas de Parceiros.
 {% endhint %}
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_rodape.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_rodape.png?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 ### Configurações do Checkout
 
@@ -88,22 +132,30 @@ Por último, você tem nas configurações de checkout, a opção de ativar ou d
 
 E junto a ele o botão para **Permitir Cupom de Desconto**, com esta função ativa, o cliente pode inserir um cupom de desconto que você cadastrar no sistema e habilitar para o produto, e com isso no ato do pagamento, um campo ficará disponível para inserir o cupom.
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_checkout.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_checkout.png?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 ## Salvando informações da Landing page
 
-Finalizado o preenchimento das informações da sua landing page, você precisa clicar no botão **`Salvar`**, e assim as informações serão salvas e você pode conferir sua landing page pronta.
+Finalizado o preenchimento das informações da sua landing page, você precisa clicar no botão **Salvar**, e assim as informações serão salvas e você pode conferir sua landing page pronta.
 
-{% hint style="Warning" %}
-**Importante:** As informações, após serem salvas, demoram alguns minutos para serem carregadas a sua página. Apenas aguarde e atualize a página da loja que suas alterações serão mostradas.  😁 
-{% endhint %}
+<div style="background-color:rgb(248, 248, 230); border-left: 6px solid rgb(253, 249, 27); padding: 15px; margin: 20px 0; border-radius: 5px; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">⚠️ Importante:</h4><p style="margin: 0; line-height: 1.5;">As informações, após serem salvas, demoram alguns minutos para serem carregadas a sua página. Apenas aguarde e atualize a página da loja que suas alterações serão mostradas.😁</p></div>
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_salvar.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_salvar.gif?raw=true" alt="0" width="800"> 
+</div>
 
-Veja abaixo a demonstração de como ficará a Landing Page após as modificações que fizemos seguindo este manual. O link de acesso para a loja segue um padrão:
+<br>
 
-Onde o espaço de **`nomesuaempresa`**, tem o nome registrado da sua empresa no momento que adquire nosso sistema. Este link de acesso ficará da seguinte forma:
+Veja abaixo a demonstração de como ficará a Landing Page após as modificações que fizemos seguindo este manual. O link de acesso para a loja segue um padrão. Onde o espaço de **nomesuaempresa**, tem o nome registrado da sua empresa no momento que adquire nosso sistema. Este link de acesso ficará da seguinte forma:
 
-https://**`nomesuaempresa`**.gestao.plus/loja/
+https://**nomesuaempresa**.gestao.plus/loja/
 
-![](https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_link_site.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_link_site.gif?raw=true" alt="0" width="800"> 
+</div>
+
+</div>

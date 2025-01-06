@@ -1,6 +1,6 @@
 <div style="text-align: justify">
 
-## 📦 App Sincronia da Agenda
+## Configurando Sincronia da Agenda
 
 A extensão foi desenvolvida para garantir que os agendamentos criados no sistema sejam sincronizados às vendas realizadas fora dos prazos estabelecidos (seja antecipadamente ou após o período agendado) ou aquelas que não foram feitas diretamente pela tela de agendamento, a qual já preenche automaticamente a maioria dos dados necessários para a venda.
 
