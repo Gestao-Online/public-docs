@@ -4,17 +4,23 @@
 
 Esta extensão irá ativar um botão exclusivo na tela de vendas, para você emitir um relatório de custo personalizado.
 
-![](/erp-v2/assets/marketplace/go_relatorio_custo/tela_marketplace_inicio.png)
-
 Com a extensão instalada, você precisa configurá-la clicando no botão de configurações que é exibido a partir do momento que você instala a extensão no sistema.
 
-![](/erp-v2/assets/marketplace/go_relatorio_custo/tela_marketplace_btn_config.png)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/9d6546e6b34ada45ad1c495f1ead06b9b4604f28/erp-v2/assets/marketplace/go_relatorio_custo/tela_marketplace_btn_config.png?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 Nesta aplicação, ao clicar no botão de configurações, uma notificação pop-up irá te notificar que a aplicação foi configurada com sucesso, e assim deixará disponível na sua tela de vendas um novo botão disponível.
 
-![](/erp-v2/assets/marketplace/go_relatorio_custo/tela_marketplace_btn_config_clicando.gif)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/9d6546e6b34ada45ad1c495f1ead06b9b4604f28/erp-v2/assets/marketplace/go_relatorio_custo/tela_marketplace_btn_config_clicando.gif?raw=true" alt="0" width="800"> 
+</div>
 
-Com a aplicação instalada e configurada, agora você precisa acessar a tela de vendas. Caso o novo botão <img src="/erp-v2/assets/icon_folha_x.png" alt="" data-size="line"> de gerar relatório de custos não apareça, você pode clicar no botão <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> atualizar que ele será carregado, observe nossa demonstração abaixo.
+<br>
+
+Com a aplicação instalada e configurada, agora você precisa acessar a tela de vendas. Caso o novo botão <img src="https://github.com/Gestao-Online/public-docs/blob/9d6546e6b34ada45ad1c495f1ead06b9b4604f28/erp-v2/assets/icon_folha_x.png?raw=true" alt="" data-size="line"> de gerar relatório de custos não apareça, você pode clicar no botão <img src="https://github.com/Gestao-Online/public-docs/blob/9d6546e6b34ada45ad1c495f1ead06b9b4604f28/erp-v2/assets/icon_atualizar.png?raw=true" alt="" data-size="line"> atualizar que ele será carregado, observe nossa demonstração abaixo.
 
 ![](/erp-v2/assets/marketplace/go_relatorio_custo/tela_marketplace_tela_vendas_btn_atualizar.gif)
 
