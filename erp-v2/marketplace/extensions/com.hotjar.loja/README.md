@@ -28,7 +28,7 @@ Com o código copiado, agora você pode colar no campo específico dentro das co
 
 ![](https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/hotjar_loja/extensao_hotjar_loja_06.png?raw=true)
 
-Agora é só colar o código do Hotjar e em seguida clicar no botão **`Salvar configurações`** e aguardar a conexão ser feita. Após instalação e partindo do princípio que terá visitação, os dados demorarão algumas horas para aparecer no dashboard da ferramenta.
+Agora é só colar o código do Hotjar e em seguida clicar no botão **Salvar configurações** e aguardar a conexão ser feita. Após instalação e partindo do princípio que terá visitação, os dados demorarão algumas horas para aparecer no dashboard da ferramenta.
 
 ![](https://github.com/Gestao-Online/public-docs/blob/a401a711a6bfe21125984dcb685abcd2979072b9/erp-v2/assets/marketplace/hotjar_loja/extensao_hotjar_loja_07.png?raw=true)
 

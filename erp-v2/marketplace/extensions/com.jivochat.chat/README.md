@@ -32,7 +32,7 @@ Com o código copiado, agora você pode colar no campo específico dentro das co
 
 ![](https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/jivochat_chat/extensao_jivochat_chat_06.png?raw=true)
 
-Agora é só colar o código do Jivochat e em seguida clicar no botão **`Salvar configurações`** e aguardar a conexão ser feita. Após instalação você pode atualizar a página do Gestão Online e o chat logo ficará disponível para uso.
+Agora é só colar o código do Jivochat e em seguida clicar no botão **Salvar configurações** e aguardar a conexão ser feita. Após instalação você pode atualizar a página do Gestão Online e o chat logo ficará disponível para uso.
 
 O chat aparecerá no lado direito da tela, pronto para uso. Você pode configurá-lo para atender diferentes necessidades:
 
