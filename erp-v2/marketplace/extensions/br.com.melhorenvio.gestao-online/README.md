@@ -172,15 +172,16 @@ Ao clicar em **confirmar** e a venda for paga (Valor do frete já é incluído n
     <img src="https://github.com/Gestao-Online/public-docs/blob/4a38db78f8ee91daef0dd46b6f783a87fd22d543/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melhor_envio_22.gif?raw=true" alt="0" width="800"> 
 </div>
 
-Agora, você tem dois novos botões para uso, sendo **Imprimir Etiqueta** para você já preparar o envio do produto ao cliente, e o botão **Cancelar etiqueta** caso aconteça algo com a venda.
+Agora, você tem dois novos botões para uso, sendo **Imprimir Etiqueta** para você já preparar o envio do produto ao cliente, e o botão **Cancelar etiqueta** caso aconteça algo com a venda. Veja 
 
-<div style="background-color:rgb(206, 223, 255); border-left: 6px solid rgb(62, 139, 255); padding: 15px; margin: 20px 0; border-radius: 5px; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">ℹ️ Informativo:</h4><p style="margin: 0; line-height: 1.5;">As informações da etiqueta também estarão disponíveis na central do <a href="https://www.melhorenvio.com.br/painel/meus-envios#liberados">Melhor Envio.</a></p></div>
+<div style="background-color:rgb(206, 223, 255); border-left: 6px solid rgb(62, 139, 255); padding: 15px; margin: 20px 0; border-radius: 5px; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">ℹ️ Informativo:</h4><p style="margin: 0; line-height: 1.5;">As informações da etiqueta também estarão disponíveis na central de Envios Liberado do <a href="https://www.melhorenvio.com.br/painel/meus-envios#liberados">Melhor Envio.</a></p></div>
+
+Quando clicar em **Imprimir Etiqueta** uma nova aba será aberta no seu navegador com a etiqueta pronta com todos os dados seus e do cliente, faltando somente você imprimir e levar o produto ao ponto de entrega.
+
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/5931aafe207606f8ce27bd62f4a085e6eaea610e/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melhor_envio_23.png?raw=true" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/5931aafe207606f8ce27bd62f4a085e6eaea610e/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melhor_envio_23.gif?raw=true" alt="0" width="800"> 
 </div>
-
-Quando clicar em 
 
 
 </div>
