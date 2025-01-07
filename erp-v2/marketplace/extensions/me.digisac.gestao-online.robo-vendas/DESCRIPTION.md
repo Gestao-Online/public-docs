@@ -7,6 +7,7 @@
 |O Chatbot Digisac é a solução ideal para quem deseja um atendimento ágil e eficiente. <br><br> Com ele, você garante disponibilidade 24/7, automatiza respostas para perguntas frequentes e personaliza a comunicação com seu público.<br><br>Além disso, integre o chatbot a canais como WhatsApp (WABA), Telegram, Facebook Messenger, Instagram Direct, WebChat, SMS, permitindo que seus clientes escolham onde preferem ser atendidos. | |<div><img src="https://github.com/Gestao-Online/public-docs/blob/e44d501d932c01b4eae9c016ea871b858b5d178e/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/video_digisac3.gif?raw=true" alt="0" width="800"></div>|
 
 Transforme a experiência de atendimento e otimize os recursos da sua equipe com o Chatbot Digisac. Invista em uma comunicação inteligente e veja seu negócio crescer!
+
 <br>
 
 ### Gerencie o atendimento ao seu cliente com eficiência
