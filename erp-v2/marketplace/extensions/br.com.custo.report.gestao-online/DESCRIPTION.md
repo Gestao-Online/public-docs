@@ -18,8 +18,8 @@
 
 <br>
 
-|**Análise detalhada de custos** |**Relatórios customizados** |**Controle de margem de lucro** |
-|--------------------------------|----------------------------|--------------------------------|
+|**Análise detalhada de custos** |<p style="color: white;"> _ </p> |**Relatórios customizados**|<p style="color: white;"> _ </p> |**Controle de margem de lucro** |
+|--------------------------------|-|---------------------------|-|-------------------------------|
 |Visualize os custos associados a cada transação, obtendo uma visão precisa do impacto financeiro de cada venda. |Gere relatórios sob medida que ajudam você a tomar decisões estratégicas, seja para planejar novos investimentos ou ajustar preços. |Entenda as margens de cada transação para melhorar a competitividade e a sustentabilidade do negócio. |
 
 <br>
