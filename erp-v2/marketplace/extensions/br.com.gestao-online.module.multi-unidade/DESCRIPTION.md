@@ -8,9 +8,9 @@
 
 ### Benefícios que Transformam a Gestão
 
-| | | |
-|:-:|:-:|:-:|
-|**Flexibilidade Total**<br>Adicione quantas unidades desejar, e administre cada uma como unidade pai ou unidade filha, criando uma hierarquia clara e bem definida. |**Controle Integrado de Estoques**<br>Vincule suas unidades a diferentes locais de estoque, facilitando o controle de mercadorias em trânsito e a alocação de recursos entre diferentes unidades. |**Relatórios Personalizados**<br>Gere relatórios detalhados sobre as unidades cadastradas, permitindo uma visão completa de cada operação e facilitando a tomada de decisões estratégicas. |
+|✅**Flexibilidade Total** |<p style="color: white;">__</p>|✅**Controle Integrado de Estoques** |<p style="color: white;">__</p>|✅**Relatórios Personalizados** |
+|-|-|-|
+|Adicione quantas unidades desejar, e administre cada uma como unidade pai ou unidade filha, criando uma hierarquia clara e bem definida. |Vincule suas unidades a diferentes locais de estoque, facilitando o controle de mercadorias em trânsito e a alocação de recursos entre diferentes unidades. |Gere relatórios detalhados sobre as unidades cadastradas, permitindo uma visão completa de cada operação e facilitando a tomada de decisões estratégicas. |
 
 <br>
 
