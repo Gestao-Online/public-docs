@@ -2,9 +2,9 @@
 
 ### Gestão Descentralizada e Conectada para sua Empresa
 
-| | |
-|-|-|
-|Expanda sua capacidade de gestão com o Módulo de Multi Unidades do Gestão Online, pensado especialmente para empresas que operam em múltiplas localizações ou possuem filiais, unidades e centros de distribuição diversos.<br><br>Este módulo permite cadastrar e organizar todas as unidades da sua empresa, vinculando-as de forma prática e eficiente às empresas e locais de estoque já cadastrados no sistema.|![](https://github.com/Gestao-Online/public-docs/blob/660fec5a1e23d39a2875f76d1306b47cdab4bc9c/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade/assets/modulo_multi_unidade_03.png?raw=true) |
+| | | |
+|-|-|-|
+|Expanda sua capacidade de gestão com o Módulo de Multi Unidades do Gestão Online, pensado especialmente para empresas que operam em múltiplas localizações ou possuem filiais, unidades e centros de distribuição diversos.<br><br>Este módulo permite cadastrar e organizar todas as unidades da sua empresa, vinculando-as de forma prática e eficiente às empresas e locais de estoque já cadastrados no sistema.|<p style="color: white;"> ___ </p>|<div><img src="https://github.com/Gestao-Online/public-docs/blob/660fec5a1e23d39a2875f76d1306b47cdab4bc9c/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade/assets/modulo_multi_unidade_03.png?raw=true" alt="0" width="600"></div>|
 
 <br>
 
