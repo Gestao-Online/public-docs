@@ -10,9 +10,9 @@
 
 ### Benefícios Exclusivos
 
-| | | |
-|-|-|-|
-|✅ **Monitoramento Avançado**<br><br>Acompanhe o comportamento dos visitantes da sua loja em tempo real e tenha insights precisos sobre cada ação.|✅ **Campanhas Mais Eficientes**<br><br>Otimize seus anúncios no Facebook e Instagram com base nos dados coletados, alcançando o público certo no momento certo.|✅ **Instalação Simplificada**<br><br>Integração rápida e intuitiva, sem complicações técnicas.|
+| | | | | |
+|-|-|-|-|-|
+|✅ **Monitoramento Avançado**<br><br>Acompanhe o comportamento dos visitantes da sua loja em tempo real e tenha insights precisos sobre cada ação.|<p style="color: white;">__</p>|✅ **Campanhas Mais Eficientes**<br><br>Otimize seus anúncios no Facebook e Instagram com base nos dados coletados, alcançando o público certo no momento certo.|<p style="color: white;">__</p>|✅ **Instalação Simplificada**<br><br>Integração rápida e intuitiva, sem complicações técnicas.|
 
 <br>
 
