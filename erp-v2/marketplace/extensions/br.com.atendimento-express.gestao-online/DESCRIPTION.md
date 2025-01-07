@@ -2,9 +2,9 @@
 
 ### Atendimento Express: Agilidade e Eficiência no Atendimento ao Cliente
 
-| | |
-|-|-|
-|No Gestão Online, entendemos a importância de um atendimento rápido e eficaz para o sucesso do seu negócio. Pensando nisso, criamos o Atendimento Express, uma solução inovadora que integra diretamente seu sistema ERP ao processo de videochamada, garantindo um atendimento ágil e sem complicações.<br><br>O Atendimento Express oferece três modos distintos de operação, permitindo maior flexibilidade e adaptação às suas necessidades: |![](https://github.com/Gestao-Online/public-docs/blob/b4bbaa138331bf4289c15b5684aa2d7ec5f860a3/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atedimento-express_soluti_02.png?raw=true)  |
+| | ||
+|-|-|-|
+|No Gestão Online, entendemos a importância de um atendimento rápido e eficaz para o sucesso do seu negócio. Pensando nisso, criamos o Atendimento Express, uma solução inovadora que integra diretamente seu sistema ERP ao processo de videochamada, garantindo um atendimento ágil e sem complicações.<br><br>O Atendimento Express oferece três modos distintos de operação, permitindo maior flexibilidade e adaptação às suas necessidades: |<p style="color: white;"> ___ </p>|![](https://github.com/Gestao-Online/public-docs/blob/b4bbaa138331bf4289c15b5684aa2d7ec5f860a3/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atedimento-express_soluti_02.png?raw=true)  |
 
 <br>
 
@@ -14,9 +14,9 @@
 
 <br>
 
-| | |
-|-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/03dfc778ae28d578c43d22dd87003b276aefee98/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atedimento-express_soluti_03.png?raw=true) |É importante destacar que a agenda (incluindo horários disponíveis, duração dos slots, entre outros) será sincronizada diretamente com o SisAR Soluti, garantindo precisão e atualizações em tempo real.<br><br>Já o funcionamento do botão de fila (V-Line) segue a gestão dinâmica do sistema, sendo ajustado em tempo real conforme as condições e a disponibilidade no V-Line, assegurando um fluxo de atendimento eficiente e organizado. |
+| | ||
+|-|-|-|
+|![](https://github.com/Gestao-Online/public-docs/blob/03dfc778ae28d578c43d22dd87003b276aefee98/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atedimento-express_soluti_03.png?raw=true) |<p style="color: white;"> ___ </p>|É importante destacar que a agenda (incluindo horários disponíveis, duração dos slots, entre outros) será sincronizada diretamente com o SisAR Soluti, garantindo precisão e atualizações em tempo real.<br><br>Já o funcionamento do botão de fila (V-Line) segue a gestão dinâmica do sistema, sendo ajustado em tempo real conforme as condições e a disponibilidade no V-Line, assegurando um fluxo de atendimento eficiente e organizado. |
 
 <br>
 
@@ -24,13 +24,13 @@
 
 | | | |
 |-|-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/b4bbaa138331bf4289c15b5684aa2d7ec5f860a3/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/fluxo-certificado-soluti.gif?raw=true) |<p style="color: white;"> _ </p>|**Integração Direta e Automática:** Ao realizar uma venda, o código da Soluti é gerado automaticamente, agilizando o processo de validação e permitindo a chamada instantânea.<br><br>**Agendamento Simplificado:** Seus clientes podem visualizar os horários disponíveis diretamente no sistema, facilitando o agendamento da videochamada no momento mais conveniente.<br><br>**Atendimento Rápido e Eficiente:** Com a automação e a integração do sistema, o atendimento ao cliente se torna mais rápido e sem burocracia, garantindo uma experiência positiva.<br><br>**Segurança e Confiabilidade:** A integração com a Soluti oferece a confiança de um processo de validação seguro, essencial para transações online. |
+|![](https://github.com/Gestao-Online/public-docs/blob/b4bbaa138331bf4289c15b5684aa2d7ec5f860a3/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/fluxo-certificado-soluti.gif?raw=true) |<p style="color: white;"> ___ </p>|**Integração Direta e Automática:** Ao realizar uma venda, o código da Soluti é gerado automaticamente, agilizando o processo de validação e permitindo a chamada instantânea.<br><br>**Agendamento Simplificado:** Seus clientes podem visualizar os horários disponíveis diretamente no sistema, facilitando o agendamento da videochamada no momento mais conveniente.<br><br>**Atendimento Rápido e Eficiente:** Com a automação e a integração do sistema, o atendimento ao cliente se torna mais rápido e sem burocracia, garantindo uma experiência positiva.<br><br>**Segurança e Confiabilidade:** A integração com a Soluti oferece a confiança de um processo de validação seguro, essencial para transações online. |
 
 <br>
 
-| | |
-|-|-|
-|As vantagens do OCR(Reconhecimento Óptico de Caracteres) no sistema são evidentes, ele proporciona uma grande economia de tempo para os clientes ao realizar diversas pré-validações automaticamente. <br>Isso não apenas agiliza o processo, mas também melhora significativamente a experiência do usuário, tornando mais simples e eficiente a emissão do certificado digital: |![](https://github.com/Gestao-Online/public-docs/blob/ac7981692998e53e6cde4614d26404a51c43cb65/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atedimento-express_soluti_04.png?raw=true) |
+| | | |
+|-|-|-|
+|As vantagens do OCR(Reconhecimento Óptico de Caracteres) no sistema são evidentes, ele proporciona uma grande economia de tempo para os clientes ao realizar diversas pré-validações automaticamente. <br><br>Isso não apenas agiliza o processo, mas também melhora significativamente a experiência do usuário, tornando mais simples e eficiente a emissão do certificado digital: |<p style="color: white;"> ___ </p>|![](https://github.com/Gestao-Online/public-docs/blob/ac7981692998e53e6cde4614d26404a51c43cb65/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atedimento-express_soluti_04.png?raw=true) |
 
 
 
