@@ -23,6 +23,8 @@
 |-|-|-|
 |**Aumente as Vendas**<br>Atendimento rápido e eficaz impacta diretamente nos resultados do seu negócio.<br><br>**Fidelize Clientes**<br>Comunique-se de forma personalizada e mostre que sua empresa está sempre disponível para ajudar.<br><br>**Facilidade de Uso**<br>O GO - Jivochat é fácil de instalar e integrado ao ecossistema do Gestão Online, otimizando seu fluxo de trabalho.<br><br> Não perca mais tempo! Instale agora o GO - Jivochat no seu Gestão Online e comece a revolucionar a forma como você se comunica com seus clientes. 💬✨| |![](https://github.com/Gestao-Online/public-docs/blob/5e11acc9ffd5104d0b5f0eeef5391dec49e1fcab/erp-v2/marketplace/extensions/me.jivochat.gestao-online.chat/assets/extensao_jivochat_chat_02.png?raw=true) |
 
+<br>
+
 ### O que muda no meu sistema?
 
 Ao instalar ele no seu sistema e realizar as configurações necessárias, você verá que um balão flutuante ficará disponível na sua tela de uso, e aparecerá em todas as telas, podendo assim você conversar com seus clientes e continuar fazendo uso do sistema, seja em uma venda ou atendimento.
@@ -35,7 +37,9 @@ Você poderá configurar um atendimento personalizado através de chat para dife
 
 Adapte o chat às necessidades de cada público e fortaleça a comunicação em todos os pontos de contato!
 
-![](https://github.com/Gestao-Online/public-docs/blob/31b681796fdebb230cb11d7a6d75e4f461e32b1f/erp-v2/marketplace/extensions/me.jivochat.gestao-online.chat/assets/extensao_jivochat_chat_03.png?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/31b681796fdebb230cb11d7a6d75e4f461e32b1f/erp-v2/marketplace/extensions/me.jivochat.gestao-online.chat/assets/extensao_jivochat_chat_03.png?raw=true" alt="0" width="800"> 
+</div>
 
 <br>
 
