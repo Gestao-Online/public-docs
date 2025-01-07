@@ -1,14 +1,8 @@
-# Movidesk - Chat
+# Configurando o Movidesk Chat
 
 O Movidesk é uma plataforma de gerenciamento de atendimento ao cliente, ideal para centralizar e organizar demandas de suporte e relacionamento. Ele oferece funcionalidades como abertura de chamados, gestão de tickets, automação de processos, integração com outros sistemas e relatórios personalizados. 
 
-Muito utilizado por equipes de TI, SAC e suporte técnico, o Movidesk melhora a eficiência, a comunicação e a experiência do cliente ao permitir um acompanhamento estruturado e ágil das interações.
-
-<div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/movidesk_chat/extensao_movidesk_chat_01.png?raw=true" alt="0" width="800"> 
-</div>
-
-<br>
+Com a extensão instalada, você precisará acessar a sua conta do Movidesk para ter acesso as informações do ID da API de ligação entre eles. Siga o procedimento abaixo.
 
 # Configurar o script do Movidesk
 

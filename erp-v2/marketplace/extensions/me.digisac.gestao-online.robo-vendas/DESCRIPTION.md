@@ -2,7 +2,7 @@
 
 ### Aprimore o atendimento da sua empresa com o Chatbot Digisac!
 
-| |<p style="color: white;"> ___ </p> | |
+| |<p style="color: white;">__</p> | |
 |-|-|-|
 |O Chatbot Digisac é a solução ideal para quem deseja um atendimento ágil e eficiente. <br><br> Com ele, você garante disponibilidade 24/7, automatiza respostas para perguntas frequentes e personaliza a comunicação com seu público.| |![](https://github.com/Gestao-Online/public-docs/blob/e44d501d932c01b4eae9c016ea871b858b5d178e/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/video_digisac3.gif?raw=true)|
 
@@ -16,7 +16,11 @@ Ainda possibilita o gerenciamento das conversas, em tempo real, fornece estatís
 
 Podendo acompanhar dentro do próprio Gestão Online as vendas que estão ocorrendo no momento!
 
-![](https://github.com/Gestao-Online/public-docs/blob/13da8bd1b573365b31cfd67c451dcbcc953d65b7/erp-v2/assets/marketplace/go-digisac/robo_digisac_tela.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/13da8bd1b573365b31cfd67c451dcbcc953d65b7/erp-v2/assets/marketplace/go-digisac/robo_digisac_tela.gif?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
 
 ### Atenda através de vários canais em um único lugar
 

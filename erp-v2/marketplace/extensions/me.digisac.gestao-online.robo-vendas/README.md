@@ -172,9 +172,9 @@ Em seguida, os produtos são listados para o cliente selecionar.
 
 <br>
 
-Descendo um pouco mais, temos o campo **Texto desconto/acréscimo cliente antigo (pré)** que o robô irá enviar antes da listagem de produtos, mas isso, caso seja um cliente antigo e você tenha configurado um desconto ou acréscimo no campo <a href="https://docs.gestao.plus/inicio/go-digisac#desconto-ou-acrescimo-para-cliente-novo-ou-antigo" target="_blank">**Desconto/Acréscimo(Cliente antigo)**</a>, que foi explicado em configuração de venda.
+Descendo um pouco mais, temos o campo **Texto desconto/acréscimo cliente antigo (pré)** que o robô irá enviar antes da listagem de produtos, mas isso, caso seja um cliente antigo e você tenha configurado um desconto ou acréscimo no campo **Desconto/Acréscimo(Cliente antigo)**, que foi explicado em configuração de venda.
 
-Um exemplo de texto que você pode preencher este campo: **"Vi aqui no nosso sistema que você é um cliente antigo, temos um descontão exclusivo para você!"**
+Um exemplo de texto que você pode preencher este campo: *"Vi aqui no nosso sistema que você é um cliente antigo, temos um descontão exclusivo para você!"*
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/5c72fb708c9a01ff49633b315c7bb70d996ac10e/erp-v2/assets/marketplace/go-digisac/tela_marketplace_config_robo_criar_menu_opc_texto_desconto_antigo.png?raw=true" alt="0" width="800"> 
@@ -182,7 +182,7 @@ Um exemplo de texto que você pode preencher este campo: **"Vi aqui no nosso sis
 
 <br>
 
-No mesmo seguimento, ao lado, temos a configuração da mensagem do campo **Texto desconto/acréscimo cliente novo (pré)**, este será o texto que o robô vai enviar antes da listagem de produtos, mas somente caso o cliente seja novo e você tenha configurado um desconto ou acréscimo no campo, <a href="https://docs.gestao.plus/inicio/go-digisac#desconto-ou-acrescimo-para-cliente-novo-ou-antigo" target="_blank">**Desconto/Acréscimo(Cliente antigo)**</a>, que foi explicado em configuração de venda.
+No mesmo seguimento, ao lado, temos a configuração da mensagem do campo **Texto desconto/acréscimo cliente novo (pré)**, este será o texto que o robô vai enviar antes da listagem de produtos, mas somente caso o cliente seja novo e você tenha configurado um desconto ou acréscimo no campo, **Desconto/Acréscimo(Cliente antigo)**, que foi explicado em configuração de venda.
 
 Você pode utilizar um texto de exemplo: **"Vi aqui no nosso sistema que é a sua primeira compra conosco, temos um descontão exclusivo para você!"**
 
@@ -249,7 +249,7 @@ Essa é uma das últimas mensagens, pode ser, por exemplo: **"Para finalizar, no
 
 ### Configurando texto para pagamento
 
-Feito isso, agora você tem o campo de **Texto escolhe Forma de pagamento (pré)**, neste campo você definirá o texto que o robô irá enviar perguntando qual a forma de pagamento. Lembrando que as opções que aparecem para o cliente são configuradas na parte de <a href="https://docs.gestao.plus/inicio/go-digisac#forma-de-pagamento" target="_blank">configuração de venda</a>, mostrada mais ao início do nosso manual.
+Feito isso, agora você tem o campo de **Texto escolhe Forma de pagamento (pré)**, neste campo você definirá o texto que o robô irá enviar perguntando qual a forma de pagamento. Lembrando que as opções que aparecem para o cliente são configuradas na parte de configuração de venda, mostrada mais ao início do nosso manual.
 
 Um exemplo de mensagem que você pode utilizar: **"Para finalizar, escolha a forma de pagamento:"**
 
