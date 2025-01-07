@@ -10,19 +10,15 @@ Com a Notificação Automática de Vencimento, o cliente é avisado de forma sim
 
 ### Vantagens da Notificação Automática de Vencimento
 
-| |<p style="color: white;">__</p> | |
+| | | |
 |-|-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/5f37f08ba6ac0040a756f48e9f9e42ae0a55814c/erp-v2/assets/marketplace/go_notificacoes_auto/vantagens_notifica_auto.png?raw=true) ||**Proatividade na Gestão de Produtos:** Acompanhe de perto os prazos de cada serviço e nunca seja pego de surpresa.<br><br>**Retenção e Fidelização:** Através de notificações automáticas, mantenha o cliente informado e seguro para novas compras ou renovações.<br><br>**Automação que Gera Valor:** Diminua a necessidade de acompanhamento manual e aumente a eficiência da sua equipe.  |
+|<div><img src="https://github.com/Gestao-Online/public-docs/blob/5f37f08ba6ac0040a756f48e9f9e42ae0a55814c/erp-v2/assets/marketplace/go_notificacoes_auto/vantagens_notifica_auto.png?raw=true" alt="0" width="400"></div> |<p style="color: white;">__</p>|**Proatividade na Gestão de Produtos:** Acompanhe de perto os prazos de cada serviço e nunca seja pego de surpresa.<br><br>**Retenção e Fidelização:** Através de notificações automáticas, mantenha o cliente informado e seguro para novas compras ou renovações.<br><br>**Automação que Gera Valor:** Diminua a necessidade de acompanhamento manual e aumente a eficiência da sua equipe.  |
 
 ### Como funciona?
 
 | | | |
 |-|-|-|
-|Cada vez que um serviço com validade é vendido, o sistema registra automaticamente um agendamento com a data de vencimento. Assim, o cliente recebe um lembrete automático com a quantidade de dias antes que este prazo termine já determinada por você. |<p style="color: white;"> ___ </p>|![](https://github.com/Gestao-Online/public-docs/blob/5f37f08ba6ac0040a756f48e9f9e42ae0a55814c/erp-v2/assets/marketplace/go_notificacoes_auto/modelo_email.png?raw=true)|
-
-<br>
-
-Dessa forma, você cuida do cliente e otimiza o ciclo de vida dos seus serviços.
+|Cada vez que um serviço com validade é vendido, o sistema registra automaticamente um agendamento com a data de vencimento. <br><br>Assim, o cliente recebe um lembrete automático com a quantidade de dias antes que este prazo termine já determinada por você.<br><br>Dessa forma, você cuida do cliente e otimiza o ciclo de vida dos seus serviços.|<p style="color: white;"> ___ </p>|<div><img src="https://github.com/Gestao-Online/public-docs/blob/5f37f08ba6ac0040a756f48e9f9e42ae0a55814c/erp-v2/assets/marketplace/go_notificacoes_auto/modelo_email.png?raw=true" alt="0" width="900"></div>|
 
 <br>
 
