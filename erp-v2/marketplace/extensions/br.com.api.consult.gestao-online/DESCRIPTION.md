@@ -4,7 +4,7 @@
 
 | | |
 |-|-|
-|Uma poderosa ferramenta integrada ao seu ERP Gestão Online, ideal para empresas que buscam ampliar seus serviços de análise e consulta para seus clientes, com total praticidade e segurança. <br><br>É possível oferecer um leque completo de consultas especializadas em CPF, CNPJ e informações veiculares, todas emitidas em relatórios detalhados em PDF, perfeitos para a tomada de decisão e análise de crédito. |![](https://github.com/Gestao-Online/public-docs/blob/51e64c7416c0260a30bd18d94c4f0df6d0d901f3/erp-v2/assets/marketplace/go_consulta/extensao_go_consultas_01.png?raw=true) |
+|Uma poderosa ferramenta integrada ao seu ERP Gestão Online, ideal para empresas que buscam ampliar seus serviços de análise e consulta para seus clientes, com total praticidade e segurança. <br><br>É possível oferecer um leque completo de consultas especializadas em CPF, CNPJ e informações veiculares, todas emitidas em relatórios detalhados em PDF, perfeitos para a tomada de decisão e análise de crédito. |<div><img src="https://github.com/Gestao-Online/public-docs/blob/51e64c7416c0260a30bd18d94c4f0df6d0d901f3/erp-v2/assets/marketplace/go_consulta/extensao_go_consultas_01.png?raw=true" alt="0" width="400"></div> |
 
 ### Variedade de Consultas Especializadas
 
@@ -12,7 +12,7 @@ Com diversas opções de consultas, você pode atender às necessidades de difer
 
 | | |
 |-|-|
-|1️⃣ **Consulta Completa Plus (CPF e CNPJ)**<br>Análises detalhadas de crédito, histórico financeiro e situação cadastral.<br><br>2️⃣ **Consulta com SCORE**<br>Visualize o potencial de crédito e o perfil de risco dos clientes.<br><br>3️⃣ **Consulta de Ações e Processos Judiciais**<br>Acompanhe pendências jurídicas, essencial para avaliações criteriosas.|![](https://github.com/Gestao-Online/public-docs/blob/c182c1d3686207f6ceb78182327c2ed6fd4c0bb7/erp-v2/assets/marketplace/go_consulta/card_consulta_veiculos.png?raw=true) |
+|1️⃣ **Consulta Completa Plus (CPF e CNPJ)** Análises detalhadas de crédito, histórico financeiro e situação cadastral.<br><br>2️⃣ **Consulta com SCORE** Visualize o potencial de crédito e o perfil de risco dos clientes.<br><br>3️⃣ **Consulta de Ações e Processos Judiciais** Acompanhe pendências jurídicas, essencial para avaliações criteriosas.|<div><img src="https://github.com/Gestao-Online/public-docs/blob/c182c1d3686207f6ceb78182327c2ed6fd4c0bb7/erp-v2/assets/marketplace/go_consulta/card_consulta_veiculos.png?raw=true" alt="0" width="200"></div>|
 
 <br>
 
@@ -24,7 +24,9 @@ Com diversas opções de consultas, você pode atender às necessidades de difer
 
 Logo após uma venda realizada e paga, você verá que o botão **Realizar consultas** estará disponível para uso. Clicando nele, uma nova janela é mostrada para você inserir os dados necessários para realizar a consulta, e clicando em Consultar o resultado é mostrado a você em uma tela dentro do Gestão Online:
 
-![](https://github.com/Gestao-Online/public-docs/blob/5ea51f9fde366c084e00937f01cf772cbaae1e27/erp-v2/marketplace/extensions/br.com.api.consult.gestao-online/assets/app_goconsulta_01.gif?raw=true) 
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/5ea51f9fde366c084e00937f01cf772cbaae1e27/erp-v2/marketplace/extensions/br.com.api.consult.gestao-online/assets/app_goconsulta_01.gif?raw=true" alt="0" width="800"> 
+</div>
 
 <br>
 
