@@ -36,9 +36,7 @@ Nos primeiros campos você tem a imagem do banner principal da loja, e o texto q
 
 Observe nossa demonstração de preenchimento abaixo.
 
-{% hint style="warning" %}
-**Imagem:** Para este primeiro banner, a imagem possui um tamanho padrão para ficar bem distribuído, use imagens com dimensões entre 1850x850 píxeis.
-{% endhint %}
+<div style="background-color:rgb(248, 248, 230); border-left: 6px solid rgb(253, 249, 27); padding: 15px; margin: 20px 0; border-radius: 5px; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">⚠️ Importante:</h4><p style="margin: 0; line-height: 1.5;">Para este primeiro banner, a imagem possui um tamanho padrão para ficar bem distribuído, use imagens com dimensões entre 1850x850 píxeis.</div>
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_loja_banner_principal.gif?raw=true" alt="0" width="800"> 
@@ -116,9 +114,10 @@ Ainda em configurações, você tem o campo de **Script Integrado**. Este campo
 
 No campo de **Créditos de Rodapé**, você pode adicionar dados institucionais, seu endereço, CNPJ ou algum link para suas redes sociais. Fica a sua escolha  as informações que deseja mostrar em sua Landing Page. 
 
-{% hint style="info" %}
-**Informação:** Lembrando que essa informação será mostrada em todas as páginas, tanto das páginas de Unidade quanto das páginas de Parceiros.
-{% endhint %}
+<div style="background-color:rgb(210, 233, 255); border-left: 6px solid rgb(142, 181, 255); padding: 15px; margin: 20px 0; border-radius: 5px; font-family: Arial, sans-serif; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">ℹ️ Informativo</h4>
+    <p style="margin: 0; line-height: 1.5;">Lembrando que essa informação será mostrada em todas as páginas, tanto das páginas de Unidade quanto das páginas de Parceiros.</p>
+</div>
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/52ccfd3de0ccedd50158b3a4530bcf8b12facce5/erp-v2/assets/marketplace/go_personalizar_lp/tela_marketplace_go_personalizar_lp_tela_config_app_config_geral_rodape.png?raw=true" alt="0" width="800"> 
