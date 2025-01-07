@@ -1,3 +1,5 @@
+<div style="text-align: justify">
+
 ### Gestão Descentralizada e Conectada para sua Empresa
 
 | | |
@@ -9,8 +11,8 @@
 ### Benefícios que Transformam a Gestão
 
 |✅**Flexibilidade Total** |<p style="color: white;">__</p>|✅**Controle Integrado de Estoques** |<p style="color: white;">__</p>|✅**Relatórios Personalizados** |
-|-|-|-|
-|Adicione quantas unidades desejar, e administre cada uma como unidade pai ou unidade filha, criando uma hierarquia clara e bem definida. |Vincule suas unidades a diferentes locais de estoque, facilitando o controle de mercadorias em trânsito e a alocação de recursos entre diferentes unidades. |Gere relatórios detalhados sobre as unidades cadastradas, permitindo uma visão completa de cada operação e facilitando a tomada de decisões estratégicas. |
+|-|-|-|-|-|
+|Adicione quantas unidades desejar, e administre cada uma como unidade pai ou unidade filha, criando uma hierarquia clara e bem definida. | |Vincule suas unidades a diferentes locais de estoque, facilitando o controle de mercadorias em trânsito e a alocação de recursos entre diferentes unidades. | |Gere relatórios detalhados sobre as unidades cadastradas, permitindo uma visão completa de cada operação e facilitando a tomada de decisões estratégicas. |
 
 <br>
 
@@ -26,4 +28,8 @@
 
 Você terá acesso à tela **Unidades/Lojas**, onde poderá cadastrar novas unidades e vinculá-las às empresas já registradas no módulo de multi empresas. Também é possível criar unidades dependentes, formando uma hierarquia entre elas. Integrado ao módulo de loja virtual, você pode ainda configurar uma loja específica para cada unidade cadastrada, garantindo maior controle e flexibilidade na gestão de múltiplos pontos de venda.
 
-![](https://github.com/Gestao-Online/public-docs/blob/2bf9822b0606393bda72e265815aab7e4d6238a3/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade/assets/modulo_multi-unidade_05.gif?raw=true)
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/2bf9822b0606393bda72e265815aab7e4d6238a3/erp-v2/marketplace/extensions/br.com.gestao-online.module.multi-unidade/assets/modulo_multi-unidade_05.gif?raw=true" alt="0" width="800"> 
+</div>
+
+</div>
