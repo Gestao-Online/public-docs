@@ -6,8 +6,6 @@
 |-|-|-|
 |O GO - Digisac é a extensão perfeita para otimizar o atendimento ao cliente diretamente dentro do seu ERP Gestão Online. Com ele, você integra um canal de Atendimento Online via PopUp, permitindo gerenciar interações com seus clientes de forma ágil e prática, sem precisar sair do sistema.<br><br>Imagine responder mensagens, solucionar dúvidas e fechar negócios enquanto acessa dados importantes do seu ERP em tempo real. O GO - Digisac torna tudo isso possível, promovendo eficiência e produtividade no seu dia a dia. | |![](https://github.com/Gestao-Online/public-docs/blob/ecb073ad8f8f12942363899434d7e3fad3034bf0/erp-v2/marketplace/extensions/me.digisac.gestao-online.chat/assets/extensao_digisaca_chat_01.png?raw=true) |
 
-<br>
-
 ### Principais benefícios
 
 | |<p style="color: white;">__</p> | |
