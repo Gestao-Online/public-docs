@@ -2,9 +2,9 @@
 
 ### Apresentamos o Centro de Resultado, a Gestão Inteligente de seu fluxo de caixa!
 
-| | |
-|-|-|
-|Potencialize o controle e a análise das áreas de sua empresa com o módulo Centro de Resultado do Gestão Online! Com ele, você pode estruturar seu fluxo de caixa de forma organizada e estratégica, associando as movimentações financeiras a diferentes setores, departamentos ou até mesmo a áreas específicas da sua empresa.<br><br>Assim, fica fácil acompanhar os resultados e a performance de cada área separadamente, permitindo tomadas de decisão mais assertivas e uma gestão financeira de excelência.| <iframe src="https://drive.google.com/file/d/188ztWE_EsO5XMLGhtTLTwIKhyie8ZL3O/preview" width="480" height="270" allow="autoplay"></iframe>|
+| | | |
+|-|-|-|
+|Potencialize o controle e a análise das áreas de sua empresa com o módulo Centro de Resultado do Gestão Online! Com ele, você pode estruturar seu fluxo de caixa de forma organizada e estratégica, associando as movimentações financeiras a diferentes setores, departamentos ou até mesmo a áreas específicas da sua empresa.<br><br>Assim, fica fácil acompanhar os resultados e a performance de cada área separadamente, permitindo tomadas de decisão mais assertivas e uma gestão financeira de excelência.|<p style="color: white;">__</p>| <iframe src="https://drive.google.com/file/d/188ztWE_EsO5XMLGhtTLTwIKhyie8ZL3O/preview" width="480" height="270" allow="autoplay"></iframe>|
 
 ### Departamentalizar o fluxo de caixa da empresa
 
