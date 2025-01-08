@@ -23,7 +23,7 @@ No Centro de Resultado, você pode criar centros personalizados que refletem a e
 
 | | |
 |-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/20516384dd5db2f5e83617a43f3889f7ce2bcac5/erp-v2/marketplace/extensions/br.com.gestao-online.module.centro-resultado/assets/modulo_centro_resultado_04.png?raw=true) |Com essa flexibilidade, é possível atribuir um centro de resultado a cada vendedor, comprador ou setor envolvido, garantindo que o fluxo de caixa reflita fielmente as atividades de cada área. <br><br>Além disso, ao organizar os centros por categorias e subcategorias, sua equipe financeira terá uma visão mais precisa de onde estão os maiores custos e receitas, além de poder identificar oportunidades de otimização.|
+|![](https://github.com/Gestao-Online/public-docs/blob/8213390d2433dabd16a0f5415157f90e8fe12fc0/erp-v2/marketplace/extensions/br.com.gestao-online.module.centro-resultado/assets/modulo_centro_resultado_04.png?raw=true) |Com essa flexibilidade, é possível atribuir um centro de resultado a cada vendedor, comprador ou setor envolvido, garantindo que o fluxo de caixa reflita fielmente as atividades de cada área. <br><br>Além disso, ao organizar os centros por categorias e subcategorias, sua equipe financeira terá uma visão mais precisa de onde estão os maiores custos e receitas, além de poder identificar oportunidades de otimização.|
 
 <br>
 
