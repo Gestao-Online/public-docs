@@ -1,9 +1,9 @@
 
-### Facilite sua Gestão de Compromissos e Atividades de Clientes!.
+### Facilite sua Gestão de Compromissos e Atividades de Clientes!
 
 | | | |
 |-|-|-|
-|<div style="text-align: justify">O módulo **Agendamento & Atividades** do Gestão Online transforma o acompanhamento dos compromissos com seus clientes em uma experiência simples e eficaz. Com ele, você automatiza lembretes e gerencia as atividades de forma organizada, sem deixar passar nenhum prazo ou vencimento importante.<br><br>Imagine nunca mais perder uma oportunidade de entrar em contato no momento certo para renovar contratos ou lembrar o cliente de serviços pendentes. Nosso módulo permite que você crie lembretes personalizados de vencimentos, garantindo que você esteja sempre no controle dos serviços e atividades em andamento.</div>||<iframe src="https://drive.google.com/file/d/1jKvEzigQSqwlZvk5soq4nXsUtXmjGxuq/preview" width="480" height="270" allow="autoplay"></iframe> |
+|<div style="text-align: justify">O módulo **Agendamento & Atividades** do Gestão Online transforma o acompanhamento dos compromissos com seus clientes em uma experiência simples e eficaz. Com ele, você automatiza lembretes e gerencia as atividades de forma organizada, sem deixar passar nenhum prazo ou vencimento importante.<br><br>Imagine nunca mais perder uma oportunidade de entrar em contato no momento certo para renovar contratos ou lembrar o cliente de serviços pendentes. Nosso módulo permite que você crie lembretes personalizados de vencimentos, garantindo que você esteja sempre no controle dos serviços e atividades em andamento.</div>|<p style="color: white;">__</p>|<iframe src="https://drive.google.com/file/d/1jKvEzigQSqwlZvk5soq4nXsUtXmjGxuq/preview" width="480" height="270" allow="autoplay"></iframe> |
 
 <div style="text-align: justify">
 
@@ -23,10 +23,10 @@ Com o módulo **Agendamento & Atividades** do Gestão Online, você proporciona 
 
 ### O que muda no meu sistema?
 
-| | |
-|-|-|
-|Você terá acesso a três novas telas: **Agendamento**, **Etiqueta de agendamentos** e **Tipo de agendamentos**.<br><br>Todas as novas telas estarão organizadas no novo item do menu que aparecerá para você no momento que fizer a instalação. |![](https://github.com/Gestao-Online/public-docs/blob/bc7691bd63c89093a0029cb0aba3f3fe6f72aa6c/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_02.gif?raw=true) |
-|![](https://github.com/Gestao-Online/public-docs/blob/bc7691bd63c89093a0029cb0aba3f3fe6f72aa6c/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_03.gif?raw=true)|Agora o dashboard tem um acesso um pouco diferente, você pode clicar no ícone de pesquisa da parte superior do sistema e digitar agendamento que logo trará ele como resultado para você utilizar.<br><br>Lembrando que todas as telas e até os dashboards podem ser salvos como favoritos caso utilize muito no dia a dia.|
+| | | |
+|-|-|-|
+|Você terá acesso a três novas telas: **Agendamento**, **Etiqueta de agendamentos** e **Tipo de agendamentos**.<br><br>Todas as novas telas estarão organizadas no novo item do menu que aparecerá para você no momento que fizer a instalação. |<p style="color: white;">____</p>|![](https://github.com/Gestao-Online/public-docs/blob/bc7691bd63c89093a0029cb0aba3f3fe6f72aa6c/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_02.gif?raw=true) |
+|![](https://github.com/Gestao-Online/public-docs/blob/bc7691bd63c89093a0029cb0aba3f3fe6f72aa6c/erp-v2/marketplace/extensions/br.com.gestao-online.module.agendamento/assets/modulo_agendamento_03.gif?raw=true)|<p style="color: white;">____</p>|Agora o dashboard tem um acesso um pouco diferente, você pode clicar no ícone de pesquisa da parte superior do sistema e digitar agendamento que logo trará ele como resultado para você utilizar.<br><br>Lembrando que todas as telas e até os dashboards podem ser salvos como favoritos caso utilize muito no dia a dia.|
 
 <br>
 
