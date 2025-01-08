@@ -22,13 +22,13 @@ Dentro da opção Parametrizações no seu menu, ao clicar, você encontrará um
 
 <br>
 
-| | |
-|-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/574597a75cc212a72e31692be307322dd35d52c7/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_04.png?raw=true) |Com os cupons já cadastrados e configurados, você agora pode efetuar vendas e o botão **cupom de desconto** ficará disponível no menu superior para você utilizar.|
+| | | |
+|-|-|-|
+|![](https://github.com/Gestao-Online/public-docs/blob/574597a75cc212a72e31692be307322dd35d52c7/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_04.png?raw=true) |<p style="color: white;">__</p>|Com os cupons já cadastrados e configurados, você agora pode efetuar vendas e o botão **cupom de desconto** ficará disponível no menu superior para você utilizar.|
 
-| | |
-|-|-|
-|O mesmo campo é válido, caso você tenha adiquirido o módulo de Loja Virtual. <br><br>Com o cupom de desconto ativo e configurado, no momento em que seus clientes acessarem sua landing page, escolherem o produto desejado e avançarem para efeturar o pagamento, um novo campos ficará disponível para eles. |![](https://github.com/Gestao-Online/public-docs/blob/c357565e3079aff1add9eafe366cd27a22f6a6c5/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_03.png?raw=true) |
+| | | |
+|-|-|-|
+|O mesmo campo é válido, caso você tenha adiquirido o módulo de Loja Virtual. <br><br>Com o cupom de desconto ativo e configurado, no momento em que seus clientes acessarem sua landing page, escolherem o produto desejado e avançarem para efeturar o pagamento, um novo campos ficará disponível para eles. |<p style="color: white;">__</p>|![](https://github.com/Gestao-Online/public-docs/blob/c357565e3079aff1add9eafe366cd27a22f6a6c5/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_03.png?raw=true) |
 
 
 <br>
