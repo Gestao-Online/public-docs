@@ -10,9 +10,9 @@
 
 ### Principais funcionalidades:
 
-| | |
-|-|-|
-|<div style="text-align: center"><img src="https://github.com/Gestao-Online/public-docs/blob/879ab25e7489b97b98834a6c778b14ec344cdb7f/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_02.png?raw=true" alt="0" width="600"></div> |✅ **Descontos Flexíveis**<br>Crie cupons com desconto em valor fixo ou percentual, conforme a necessidade da sua campanha.<br><br>✅ **Limite de Uso Personalizável**<br>Defina se o cupom será de uso ilimitado ou restrinja-o com uma quantidade específica de usos, ideal para controlar promoções relâmpago e estimular o senso de urgência nos clientes.<br><br>✅ **Códigos Personalizados e Aleatórios**<br>Cadastre os códigos de uso do seu cupom de maneira prática, podendo optar por códigos personalizados ou aleatórios, que podem ser definidos automaticamente pelo sistema. |
+| | | |
+|-|-|-|
+|<div style="text-align: center"><img src="https://github.com/Gestao-Online/public-docs/blob/879ab25e7489b97b98834a6c778b14ec344cdb7f/erp-v2/marketplace/extensions/br.com.gestao-online.module.cupom-desconto/assets/modulo_cupom_desconto_02.png?raw=true" alt="0" width="600"></div> |<p style="color: white;">__</p>|✅ **Descontos Flexíveis**<br>Crie cupons com desconto em valor fixo ou percentual, conforme a necessidade da sua campanha.<br><br>✅ **Limite de Uso Personalizável**<br>Defina se o cupom será de uso ilimitado ou restrinja-o com uma quantidade específica de usos, ideal para controlar promoções relâmpago e estimular o senso de urgência nos clientes.<br><br>✅ **Códigos Personalizados e Aleatórios**<br>Cadastre os códigos de uso do seu cupom de maneira prática, podendo optar por códigos personalizados ou aleatórios, que podem ser definidos automaticamente pelo sistema. |
 
 ### O que muda no meu sistema?
 
