@@ -1,6 +1,6 @@
 # 📦 App Atendimento Express - Soluti
 
-Aplicação desenvolvida para integração com SisAR e V.Line, permitindo de forma prática durante a venda, fazer o agendamento da videoconferencia do cliente, ou entrar na filade atendimento e em poucos minutos ser atendido.
+Aplicação desenvolvida para integração com SisAR e V.Line, permitindo de forma prática durante a venda, fazer o agendamento da videoconferencia do cliente, ou entrar na fila de atendimento e em poucos minutos ser atendido.
 
 A solução permite essa integração com as ferramentas da Soluti, agilizando as vendas de certificados digitais.
 
@@ -24,7 +24,7 @@ Observe abaixo o procedimento de exibição dele. Para nosso teste, iremos forç
 
 <br>
 
-Observe que após o valor ser baixado, e a página atualizada, o botão passa a ficar disponível para utilização. Ao clicar neste botão uma janela será mostrada para você com um link para te levar a tela de agendamento da Soluti. Você pode copiar esta URL e abrir no prórpio navegador, ou enviar esta mesma URL via email ou whatsapp para o cliente.
+Observe que após o valor ser baixado, e a página atualizada, o botão passa a ficar disponível para utilização. Ao clicar neste botão uma janela será mostrada para você com um link para te levar a tela de agendamento da Soluti. Você pode copiar esta URL e abrir no próprio navegador, ou enviar esta mesma URL via email ou whatsapp para o cliente.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/a3f10d02e4fb6a66948e4223418c985636b1a55c/erp-v2/assets/marketplace/atendimento_express_soluti/extensao_atendimento_express_04.png?raw=true" alt="0" width="800"> 

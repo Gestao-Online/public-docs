@@ -2,7 +2,7 @@
 
 ## Clarity - Loja
 
-Faça uso dos recursos do Clarity da Microsoft em usa landing page, e acompanhe o que seu cliente faz durante o processo em que vai fazer compras em sua página, por quais produtos mais clicou, locais da página que mais posicionou o mouse, possíveis locais que mais clicou. E com essas informações, junte com sua equipe de marketing e projete melhores atualizações e mudanças para alavancar as suas vendas.
+Faça uso dos recursos do Clarity da Microsoft em sua landing page, e acompanhe o que seu cliente faz durante o processo em que vai fazer compras em sua página, por quais produtos mais clicou, locais da página que mais posicionou o mouse, possíveis locais que mais clicou. E com essas informações, junte com sua equipe de marketing e projete melhores atualizações e mudanças para alavancar as suas vendas.
 
 ## Configurando o script do Clarity
 
