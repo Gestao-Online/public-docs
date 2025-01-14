@@ -202,6 +202,14 @@ Abaixo está uma venda de exemplo com históricos registrados:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_historico.png)
 
+## Guia Movimentações
+
+Nesta seção, você encontra de forma organizada todas as vendas realizadas dos itens que foram selecionados ao gerar um pedido de venda. A tela "Pedido de Venda" foi criada para facilitar vendas em lote, permitindo que vários itens sejam vendidos de uma só vez.
+
+Para itens que requerem certificados digitais, o sistema gera automaticamente um código único para cada venda. Esses códigos podem ser visualizados nesta guia, permitindo que você acompanhe facilmente as vendas feitas de forma individual.
+
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_movimentacoes.png)
+
 ## Confirmando pedido de venda
 
 Se você observou, o menu superior do pedido de venda que estamos editando está diferente, agora ele conta com dois botões diferentes, o de confirmar a venda e o de cancelar a venda. As informações mostradas neste menu vão depender diretamente das configurações do tipo de movimentação que você configurou.
