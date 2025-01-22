@@ -3,7 +3,7 @@
 
 | | | |
 |-|-|-|
-|<div style="text-align: justify">O módulo **Agendamento & Atividades** do Gestão Online transforma o acompanhamento dos compromissos com seus clientes em uma experiência simples e eficaz. Com ele, você automatiza lembretes e gerencia as atividades de forma organizada, sem deixar passar nenhum prazo ou vencimento importante.<br><br>Imagine nunca mais perder uma oportunidade de entrar em contato no momento certo para renovar contratos ou lembrar o cliente de serviços pendentes. Nosso módulo permite que você crie lembretes personalizados de vencimentos, garantindo que você esteja sempre no controle dos serviços e atividades em andamento.</div>|<p style="color: white;">__</p>|<iframe src="https://drive.google.com/file/d/1jKvEzigQSqwlZvk5soq4nXsUtXmjGxuq/preview" width="480" height="270" allow="autoplay"></iframe> |
+|<div style="text-align: justify">O módulo **Agendamento & Atividades** do Gestão Online transforma o acompanhamento dos compromissos com seus clientes em uma experiência simples e eficaz. Com ele, você automatiza lembretes e gerencia as atividades de forma organizada, sem deixar passar nenhum prazo ou vencimento importante.<br><br>Imagine nunca mais perder uma oportunidade de entrar em contato no momento certo para renovar contratos ou lembrar o cliente de serviços pendentes. Nosso módulo permite que você crie lembretes personalizados de vencimentos, garantindo que você esteja sempre no controle dos serviços e atividades em andamento.</div>|<p style="color: white;">__</p>|<iframe src="https://drive.google.com/file/d/1f4H9D4pRP8eUBPnMORJ_f7v5DICvrd5m/preview" width="480" height="270" allow="autoplay"></iframe> |
 
 <div style="text-align: justify">
 
