@@ -4,7 +4,7 @@
 
 | | | |
 |-|-|-|
-|Aumente o poder das suas campanhas e fidelize seus clientes com o módulo **Cupom de Desconto** do nosso ERP Gestão Online!<br><br>Este módulo oferece tudo o que você precisa para criar cupons de descontos personalizados de forma prática e estratégica, permitindo que você impulsione suas vendas e conquiste novos públicos. |<p style="color: white;">__</p> |<iframe src="https://drive.google.com/file/d/1Rae8dgtr6xA84rMwvi0Zv8dWpBgJUrNT/preview" width="480" height="270" allow="autoplay"></iframe>|
+|Aumente o poder das suas campanhas e fidelize seus clientes com o módulo **Cupom de Desconto** do nosso ERP Gestão Online!<br><br>Este módulo oferece tudo o que você precisa para criar cupons de descontos personalizados de forma prática e estratégica, permitindo que você impulsione suas vendas e conquiste novos públicos. |<p style="color: white;">__</p> |<iframe src="https://drive.google.com/file/d/1FlOMIaXsys40wLIGQBr5b6iJLwciih61/preview" width="480" height="270" allow="autoplay"></iframe>|
 
 ### Principais funcionalidades:
 
