@@ -2,10 +2,10 @@
 
 ### Tenha Organização e eficiência com o módulo de Controle de Estoque
 
-| | |
-|-|-|
-|O Módulo de Controle de Estoque do Gestão Online é a solução ideal para quem busca eficiência e organização no gerenciamento de inventário. Com ele, você pode cadastrar produtos, associá-los a locais específicos de armazenamento e acompanhar a quantidade disponível de cada item em tempo real.<br><br>O sistema emite alertas automáticos quando o estoque está baixo, ajudando a evitar rupturas e planejar reposições com antecedência. | |
 
+| | | |
+|-|-|-|
+|O Módulo de Controle de Estoque do Gestão Online é a solução ideal para quem busca eficiência e organização no gerenciamento de inventário. Com ele, você pode cadastrar produtos, associá-los a locais específicos de armazenamento e acompanhar a quantidade disponível de cada item em tempo real.<br><br>O sistema emite alertas automáticos quando o estoque está baixo, ajudando a evitar rupturas e planejar reposições com antecedência.  |<p style="color: white;">__</p> |<iframe src="https://drive.google.com/file/d/1r7on2TWm_KljTBlM5YhyGTXeyFGFdtHM/preview" width="480" height="270" allow="autoplay"></iframe>|
 
 Além disso, o módulo permite registrar todas as entradas e saídas de produtos na tela de *Movimentação de Estoque*, garantindo total transparência e controle sobre seu inventário. Isso evita vendas de itens indisponíveis e melhora a experiência do cliente.
 
