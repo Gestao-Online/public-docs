@@ -20,7 +20,7 @@ Seja vendas, cobranças ou lembretes, suas mensagens agora terão a cara da sua 
 
 <br>
 
-Instale agora no marketplace do Gestão Online e comece a personalizar seus envios! 📩
+**Instale agora no marketplace do Gestão Online e comece a personalizar seus envios! 📩**
 
 
 </div>

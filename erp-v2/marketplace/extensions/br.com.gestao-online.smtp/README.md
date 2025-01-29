@@ -16,7 +16,7 @@ Nesta aplicação ao clicar no botão de configurações uma notificação pop-u
 
 Preencha os campos obrigatórios marcados com * conforme as informações fornecidas pelo seu provedor de e-mail.
 
-<div style="background-color:rgb(248, 248, 230); border-left: 6px solid rgb(253, 249, 27); padding: 15px; margin: 20px 0; border-radius: 5px; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0 0 10px; font-size: 1em; color: #555;">⚠️ Importante:</h4><p style="margin: 0; line-height: 1.5;">Verifique com o seu provedor de e-mail quais são as configurações corretas de domínio, porta e SSL.</div>
+<div style="background-color:rgb(248, 248, 230); border-left: 6px solid rgb(253, 249, 27); padding: 15px; margin: 20px 0; border-radius: 5px; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0 0 10px; font-size: 1em;">⚠️ Importante:</h4><p style="margin: 0; line-height: 1.5;">Verifique com o seu provedor de e-mail quais são as configurações corretas de domínio, porta e SSL.</div>
 
 No primeiro campo temos o **Nome de Domínio**, nele você pode preencher por exemplo: smtp.suaempresa.com. Caso não saiba o domínio, consulte o suporte técnico do provedor.
 
@@ -58,14 +58,34 @@ No campo de **Email Remetente** informe o e-mail que será exibido nas mensagens
 
 <br>
 
-SSL (Segurança da Conexão) Este campo é um seletor com três opções. Verifique com o provedor de e-mail qual tipo de segurança é necessário e selecione a opção adequada.
+O campo SSL (Segurança da Conexão) é um seletor com três opções. Verifique com o provedor de e-mail qual tipo de segurança é necessário e selecione a opção adequada. Das três opções disponíveis, você pode escolher entre:
 
-- Vazio: Escolha esta opção caso o servidor SMTP não exija criptografia.
-- SSL: Escolha esta opção se o servidor requer uma conexão segura via SSL.
-- TLS: Escolha esta opção se o servidor requer uma conexão segura via TLS.
+- **Vazio**: Escolha esta opção caso o servidor SMTP não exija criptografia.
+- **SSL**: Escolha esta opção se o servidor requer uma conexão segura via SSL.
+- **TLS**: Escolha esta opção se o servidor requer uma conexão segura via TLS.
+
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/f227b3ee3de5b5ecf7b1ffc03d9291fc371b539e/erp-v2/marketplace/extensions/br.com.gestao-online.smtp/assets/extensao_smtp_08.png?raw=true" alt="0" width="800"> 
+</div>
+
+Por último, após preencher os campos necessários, você pode clicar no botão **Testar credenciais** e enviaremos um teste para o seu servidor de SMTP. Se tudo estiver correto, você receberá uma mensagem de que foi configurado com sucesso.
+
+<div style="background-color:rgb(255, 227, 227); border-left: 6px solid rgb(253, 27, 27); padding: 15px; margin: 20px 0; border-radius: 5px; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0 0 10px; font-size: 1em;">🚨 Atenção:</h4><p style="margin: 0; line-height: 1.5;">Caso apareça alguma mensagem de erro neste momento, você precisa revisar as informações inseridas, e se o erro persistir, você pode entrar em contato com nosso suporte para verificarmos o que pode ter acontecido.</div>
+
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/d4829a588dee359e4b6947b7b2c2962fd8a85a93/erp-v2/marketplace/extensions/br.com.gestao-online.smtp/assets/extensao_smtp_09.gif?raw=true" alt="0" width="800"> 
+</div>
 
 <br>
 
-Agora o seu SMTP está configurado e pronto para uso! 🎉
+Com os dados preenchidos corretamente, e o teste realziado com sucesso, agora você pode clicar no botão Salvar configurações para finalziar o processo. Uma mensagem será msotrada a você na janela de configuração da extensão, informando que as alterações levarão um tempo de até 6 horas para estarem em pleno funcionamento.
+
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/e55fa94eca0258e234b90f5083c93966a3d022cf/erp-v2/marketplace/extensions/br.com.gestao-online.smtp/assets/extensao_smtp_10.png?raw=true" alt="0" width="800"> 
+</div>
+
+<br>
+
+**Agora o seu SMTP está configurado e pronto para uso! 🎉**
 
 </div>
