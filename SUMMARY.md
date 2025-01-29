@@ -193,6 +193,10 @@
     * [O que é a liberação de desconto e como funciona?](erp-v2/guia_utilizacao/como_liberar_desconto.md)
     * [Como alterar a minha conta de recebimento?](/erp-v2/guia_utilizacao/como_alterar_conta_receber.md)
     * [Como alterar valor de desconto depois da venda confirmada?](/erp-v2/guia_utilizacao/como_alterar_valor_desconto_venda_confirmada.md)
+    * [Como eu consigo ver todas as pemissõs dentro do sistema?](erp-v2/guia_utilizacao/como_ver_permissoes.md)
+    * [Já confirmei a venda/pedido e agora preciso mudar o tipo de negociação (forma de pagamento), como fazer?](erp-v2/guia_utilizacao/venda_confirmada_alterar_tipo_negociacao.md)
+    * [Como configurar/utilizar máquininha POS para vendas?](erp-v2/guia_utilizacao/como_configurar_maq_pos.md)
+
 
  * [🏬 Marketplace](erp-v2/marketplace/inicio.md)
     <!-- * [Como funciona o marketplace?](erp-v2/marketplace/como-funciona.md) -->
