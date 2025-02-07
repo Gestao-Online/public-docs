@@ -22,10 +22,10 @@ Para obter seu token, entre em contato com o suporte da Atendare abrindo um cham
 
 <br>
 
-Depois de receber o token, insira-o no campo indicado e clique no botão **Conectar**. Será realizado um teste para garantir que a conexão entre seu ERP Gestão Online e o CRM Atendare está funcionando corretamente.
+Depois de receber o token através do contato com o suporte do CRM Atendare, insira-o no campo indicado e clique no botão **Conectar**. Será realizado um teste para garantir que a conexão entre seu ERP Gestão Online e o CRM Atendare está funcionando corretamente. Logo em seguida, clique no botão Salvar alterações para avançar para o próximo passo.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/3962a28c675a9741be5d7947a1299f527ceb5501/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_03.png?raw=true" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/4ed1fd4c40e28b90441c073b9af3931125c025fd/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_03.gif?raw=true" alt="0" width="800"> 
 </div>
 
 ### Sincronizando seus pipelines
@@ -33,13 +33,19 @@ Depois de receber o token, insira-o no campo indicado e clique no botão **Conec
 Após configurar a conexão da API, você pode clicar no botão "Sincronizar pipelines". Dessa forma iremos trazer todos os seus pipelines do CRM Atendare, e no campo abaixo você pode escolher qual será o pipeline que fará a sincronia com o Gestão Online.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/a8f30b9983185c23a6afea7ffef13d4d69aa0405/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_04.png?raw=true" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a75ccac44384359f1697984e12bc460d58e9e8e6/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_04.png?raw=true" alt="0" width="800"> 
 </div>
 
 
+### Etapas do seu pipeline
 
+Com o pipeline escolhido, agora você pode definir quais serão as etapas que terão impacto nele no processo da venda, sendo esta em três etapas, com criação de uma venda, pagamento da venda e entrega do produto/serviço.
 
+<p style="margin: 0 0 10px; font-size: 0.9em; color:#995151; font-style: italic;">As opções mostradas abaixo, são apenas exemplos, e podem ser diferentes do que você utiliza no dia a dia em seus pipelines.</p>
 
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a75ccac44384359f1697984e12bc460d58e9e8e6/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_05.gif?raw=true" alt="0" width="800"> 
+</div>
 
 
 
