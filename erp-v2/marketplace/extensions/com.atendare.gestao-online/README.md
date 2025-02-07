@@ -41,10 +41,11 @@ Após configurar a conexão da API, você pode clicar no botão "Sincronizar pip
 
 Com o pipeline escolhido, agora você pode definir quais serão as etapas que terão impacto nele no processo da venda, sendo esta em três etapas, com criação de uma venda, pagamento da venda e entrega do produto/serviço.
 
+
 <p style="margin: 0 0 10px; font-size: 0.9em; color:#995151; font-style: italic;">As opções mostradas abaixo, são apenas exemplos, e podem ser diferentes do que você utiliza no dia a dia em seus pipelines.</p>
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/a75ccac44384359f1697984e12bc460d58e9e8e6/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_05.gif?raw=true" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/e5f4dbcfa8db324f7387ecaad0b57bdc881837a1/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_05.gif?raw=true" alt="0" width="800"> 
 </div>
 
 
