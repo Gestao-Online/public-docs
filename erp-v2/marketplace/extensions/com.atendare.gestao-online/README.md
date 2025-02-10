@@ -48,18 +48,28 @@ Com o pipeline escolhido, agora você pode definir quais serão as etapas que te
     <img src="https://github.com/Gestao-Online/public-docs/blob/e5f4dbcfa8db324f7387ecaad0b57bdc881837a1/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_05.gif?raw=true" alt="0" width="800"> 
 </div>
 
+### Definindo a fonte das vendas
 
+Caso as fontes do campo não sejam carregadas automaticamente, você pode utilizar o botão sincronizar fontes e assim escolher a fonte referente para controlar melhor as informações enviadas ao CRM Atendare.
 
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/dd749bf85e991e6f7aad2b3cdc410fe498d5ccf3/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_06.gif?raw=true" alt="0" width="800"> 
+</div>
 
+### Escolhendo tipo de movimentação e negociação
 
+Nas últimas etapas, você pode definir os tipos de movimentação que serão permiitidos de enviar para o CRM Atendare, da mesma forma você pode escolher os tipos de negociação permitidas, podendo escolher todas as opções disponíveis, ou somente algumas.
 
+<div style="text-align: center">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/dd749bf85e991e6f7aad2b3cdc410fe498d5ccf3/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_07.gif?raw=true" alt="0" width="800"> 
+</div>
 
 ### Salvando configurações 
 
 Após preencher todas as informações, você pode clicar no botão **Salvar configurações** e assim a extensão está devidamente configurada e funcionando, já começando a separar as vendas não pagas com a periodicidade que você configurou.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_salvar.gif?raw=true" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/dd749bf85e991e6f7aad2b3cdc410fe498d5ccf3/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_08.gif?raw=true" alt="0" width="800"> 
 </div>
 
 ### Resultado no Atendare
@@ -69,7 +79,7 @@ Dentro do CRM da Atendare as informações serão mostradas conforme exemplo aba
 Separado por número da compra, nome do produto, valor da compra, tipo de movimentação utilizada e mais abaixo o nome do cliente.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/7d9826a40d1ccf33d7df0043bb43f2fb9883e19b/erp-v2/assets/marketplace/go_atendare_vendas_nao_pagas/tela_marketplace_go_atendare_vendas_nao_pagas_atendare_exemplo.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/dd749bf85e991e6f7aad2b3cdc410fe498d5ccf3/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_09.png?raw=true" alt="0" width="600"> 
 </div>
 
 </div>
