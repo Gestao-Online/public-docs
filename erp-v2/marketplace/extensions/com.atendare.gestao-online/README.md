@@ -61,15 +61,15 @@ Caso as fontes do campo não sejam carregadas automaticamente, você pode utiliz
 Nas últimas etapas, você pode definir os tipos de movimentação que serão permiitidos de enviar para o CRM Atendare, da mesma forma você pode escolher os tipos de negociação permitidas, podendo escolher todas as opções disponíveis, ou somente algumas.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/dd749bf85e991e6f7aad2b3cdc410fe498d5ccf3/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_07.gif?raw=true" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/20290933fb828511463b44001f10e4c59d1e6833/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_07.gif?raw=true" alt="0" width="800"> 
 </div>
 
 ### Salvando configurações 
 
-Após preencher todas as informações, você pode clicar no botão **Salvar configurações** e assim a extensão está devidamente configurada e funcionando, já começando a separar as vendas não pagas com a periodicidade que você configurou.
+Após preencher todas as informações, você pode clicar no botão **Salvar configurações** e assim a extensão está devidamente configurada e funcionando, já começando a separar as vendas e enviando ao CRM Atendare da forma que você configurou.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/dd749bf85e991e6f7aad2b3cdc410fe498d5ccf3/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_08.gif?raw=true" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/5366c7719908fd8362e8a64155fa277d438ecba1/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_08.gif?raw=true" alt="0" width="800"> 
 </div>
 
 ### Resultado no Atendare
@@ -79,7 +79,7 @@ Dentro do CRM da Atendare as informações serão mostradas conforme exemplo aba
 Separado por número da compra, nome do produto, valor da compra, tipo de movimentação utilizada e mais abaixo o nome do cliente.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/dd749bf85e991e6f7aad2b3cdc410fe498d5ccf3/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_09.png?raw=true" alt="0" width="600"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/9d81d8d73459a76152838851d75bb5f203606355/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_09.png?raw=true" alt="0" width="600"> 
 </div>
 
 </div>
