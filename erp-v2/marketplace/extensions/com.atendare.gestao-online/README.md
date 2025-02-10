@@ -58,7 +58,7 @@ Caso as fontes do campo não sejam carregadas automaticamente, você pode utiliz
 
 ### Escolhendo tipo de movimentação e negociação
 
-Nas últimas etapas, você pode definir os tipos de movimentação que serão permiitidos de enviar para o CRM Atendare, da mesma forma você pode escolher os tipos de negociação permitidas, podendo escolher todas as opções disponíveis, ou somente algumas.
+Nas últimas etapas, você pode definir os tipos de movimentação cadastradas em seu ERP Gestão Online que serão permitidos de enviar para o CRM Atendare, da mesma forma você pode escolher os tipos de negociação (Formas de pagamento) permitidas, podendo escolher todas as opções disponíveis, ou somente algumas.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/20290933fb828511463b44001f10e4c59d1e6833/erp-v2/marketplace/extensions/com.atendare.gestao-online/assets/extensao_atendare_07.gif?raw=true" alt="0" width="800"> 
