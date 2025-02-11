@@ -36,8 +36,14 @@ Em nosso exemplo, iremos recusar o pagamento da comissão para vermos a mensagem
 
 Ainda nesta tela, você pode ter observado que no lado esquerdo tem um ícone de uma seta se movendo. Ali fica o dashboard de informações da tela. Nela você consegue de forme visual, te acesso a faturamento de vendas indicadas (Pendentes ou Recebidas), consegue também acompanhar valores das comissões aprovadas e recusadas.
 
-E na parte mais abaixo, você tem uma pequena tabela de fechamento comissão indicação parceiro, caso deseje imprimir o relatório de maneira mais formal e guardar os registro em algum arquivo, ou para outra finalidade.
+{% hint style="info" %}
+**Informação:** A configuração dos filtros pode variar as informações que são exibidas no dashboard e na tabela que você pode imprimir. Podendo separar por indicador, data, e afins.
+{% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_comissoes_dashboard_lateral.gif)
+
+E na parte mais abaixo, você tem uma pequena tabela de fechamento comissão indicação parceiro, caso deseje imprimir o relatório para guardar os registro em algum arquivo, ou para outra finalidade, você pode utilizar o botão de download da tabela.
+
+![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_comissoes_dashboard_lateral.png)
 
 Para as informações completas sobre os dashboards no Gestão Online, você pode acessar nosso manual de explicação sobre ele [`clicando aqui`](/erp-v2/primeiro_acesso/relatorios_dashboard_grid.md).
