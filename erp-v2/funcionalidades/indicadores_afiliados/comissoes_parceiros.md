@@ -4,7 +4,7 @@
 <img src="/erp-v2/assets/marketplace/coroa_premium.png" alt="" data-size="line"> Esta tela é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
 {% endhint %}
 
-Nesta tela você encontra todas as movimentações que estão cadastradas na plataforma da **Gestão Online**. E caso queira editar ou excluir um tipo existente, precisa somente seguir este manual.
+Nesta tela você encontra todas as movimentações que possuem parceiro indicador e possuem [Tabela de Indicação](/erp-v2/funcionalidades/indicadores_afiliados/tabelas_indicacao.md) configurada no **Gestão Online**. Serão exibidas informações como código da venda, cliente, parceiro indicador, valor de referência da venda e o valor a ser pago de comissão ao indicador. Desta forma você tem um controle direto no sistema dos pagamentos de indicadores.
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_comissoes.gif)
 
@@ -19,17 +19,13 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 **Filtros:** Caso queira mais informações sobre como utilizar os filtros de busca [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md).
 {% endhint %}
 
-{% hint style="warning" %}
-**Mouse:** Caso queira informações sobre como utilizar as funções do botão direito do mouse, [**`clique aqui`**](https://docs.gestao.plus/erp-v2/primeiro_acesso/atalhos_internos#menu-botao-direito-do-mouse).
-{% endhint %}
-
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_comissoes_menu.png)
+
+Nesta tela não temos a opção de adicionar um novo item, pois todas as comissões são geradas automaticamente mediante uma venda/compra criada na tela de vendas com um indicador vinculado a ela e com uma tabela de comissão configurada.
 
 ## Botão direito do mouse
 
-Nesta tela não temos a opção de adicionar um novo item, pois todas as comissões são geradas automaticamente mediante uma venda/compra.
-
-Então, quando você tem uma movimentação sendo exibida, você pode clicar com o botão direito do mouse sobre este item e terá duas opções, sendo elas para **recusar** a comissão gerada ou **marcar como pago**.
+Nas movimentações exibidas na tela, você pode clicar com o botão direito do mouse sobre uma e terá duas opções específicas para uso. Sendo a primeira para **recusar** o pagamento da comissão deste indicador, e a segunda para **marcar como pago** a comissão do indicador. Trazendo assim mais comodidade no seu controle de pagamentos e reduzindo o uso de várias planilhas de controle.
 
 Em nosso exemplo, iremos recusar o pagamento da comissão para vermos a mensagem que será exibida. Observe abaixo, o status da comissão será modificado assim que definirmos.
 
@@ -38,8 +34,10 @@ Em nosso exemplo, iremos recusar o pagamento da comissão para vermos a mensagem
 
 ## Dashboard lateral
 
-Ainda nesta tela, você pode ter observado que no lado esquerdo tem um ícone de uma seta se movendo. Ali fica o dashboard de informações da tela.
+Ainda nesta tela, você pode ter observado que no lado esquerdo tem um ícone de uma seta se movendo. Ali fica o dashboard de informações da tela. Nela você consegue de forme visual, te acesso a faturamento de vendas indicadas (Pendentes ou Recebidas), consegue também acompanhar valores das comissões aprovadas e recusadas.
 
-![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_comissoes_dashboard_lateral.png)
+E na parte mais abaixo, você tem uma pequena tabela de fechamento comissão indicação parceiro, caso deseje imprimir o relatório de maneira mais formal e guardar os registro em algum arquivo, ou para outra finalidade.
 
-Para as informações completas sobre uso desse dashboard, você pode acessar nosso manual de explicação sobre ele [`clicando aqui`](/erp-v2/primeiro_acesso/relatorios_dashboard_grid.md).
+![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_comissoes_dashboard_lateral.gif)
+
+Para as informações completas sobre os dashboards no Gestão Online, você pode acessar nosso manual de explicação sobre ele [`clicando aqui`](/erp-v2/primeiro_acesso/relatorios_dashboard_grid.md).
