@@ -6,29 +6,25 @@
 
 A tela pedido de venda tem a função de consolidar vários certificados digitais em um único código. 
 
-Essa organização é realizada por meio da guia de movimentações. Por exemplo, ao adquirir 5 certificados digitais, em uma situação comum, o cliente teria que fazer cinco compras distintas para obter cinco códigos de acesso para os certificados. 
+Essa organização é feita por meio da guia de movimentações dentro da venda qie você criou. Por exemplo, ao adquirir 5 certificados digitais, em uma situação comum, o cliente teria que fazer cinco compras distintas para obter cinco códigos de acesso para os certificados. 
 
 Com o pedido de venda, o comprador pode adquirir os cinco certificados digitais em uma única transação. Além disso, é criado um sub código de movimentação para cada certificado, simplificando a compra, já que o cliente poderá usar esse único código por cinco vezes nas videoconferências de validação de identidade.
 
 Estas vendas exibidas aqui têm um vínculo direto com o estoque, tabela de preço, tabela de custo, tabela de comissão, unidade, empresa e parceiro indicador. São muitos vínculos, mas isso faz o sistema da Gestão.Online ser preciso nos resultados.
 
-{% hint style="warning" %}
-**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
-{% endhint %}
-
-{% hint style="info" %}
-**Favoritos:** Este menu de vendas estará disponível para você tanto no menu principal quanto nos favoritos (Para mais informações sobre favoritos, [**`clique aqui`**](/erp-v2/primeiro_acesso/favoritos.md)).
-{% endhint %}
-
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda.gif)
 
-Nesta tela tem um menu ao lado direito da tela com as seguintes funções:
+## Tela inicial Pedido de venda
 
-- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;
-- <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;
-- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
-- <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;
-- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar pedido de venda.
+Sempre ao lado direito da tela você terá o menu de opções da página, com algumas funções que se repetem em outras páginas, além das funções exclusivas desta tela:
+
+| | |
+|-|-|
+|- <img src="/erp-v2/assets/icon_exibir.png" alt="" data-size="line"> Mostrar/Esconder informações;<br>- <img src="/erp-v2/assets/icon_imprimir.png" alt="" data-size="line"> Imprimir página;<br>- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página; |- <img src="/erp-v2/assets/icon_filtro.png" alt="" data-size="line"> Filtro;<br>- <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar pedido de venda. |
+
+{% hint style="warning" %}
+**Filtros:** Caso queira mais informações sobre como utilizar os filtros desta tela, [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+{% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_menu.png)
 

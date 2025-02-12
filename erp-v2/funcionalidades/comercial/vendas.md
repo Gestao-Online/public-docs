@@ -29,7 +29,7 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_menu.png)
 
 {% hint style="warning" %}
-**Exportar:** Caso queira mais informações sobre como utilizar o botão <img src="/erp-v2/assets/icon_exportar.png" alt="" data-size="line"> exportar movimentações [**`clique aqui`**](/erp-v2/primeiro_acesso/exportar.md) para acessar a explicação sobre cada parte desta função.
+**Exportar Movimentações:** Caso queira saber mais informações sobre criar relatórios e exportar planilhas com o botão <img src="/erp-v2/assets/icon_exportar.png" alt="" data-size="line"> exportar movimentações [**`clique aqui`**](/erp-v2/primeiro_acesso/exportar.md) e veja como utilizar.
 {% endhint %}
 
 {% hint style="info" %}
