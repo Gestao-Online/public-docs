@@ -148,7 +148,7 @@ Clicando nele, será feito o download da nota fiscal e ela ficará disponível n
 
 Abaixo um exemplo de menu com o botão **gerar NF** e a nota fiscal presente na guia **anexos**
 
-![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_gerar_nf.png)tela_pedido_venda_25 -->
+![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_gerar_nf.png) -->
 
 ### Botão cancelar um pedido de venda
 
