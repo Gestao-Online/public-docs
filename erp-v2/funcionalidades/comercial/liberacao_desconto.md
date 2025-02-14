@@ -67,7 +67,7 @@ Para salvar alguma alteração nesta solicitação de liberação de desconto, �
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar_campos.png)
 
-### Tipo liberação de desconto
+### Tipo liberação de desconto.
 
 Neste campo você pode selecionar entre valor ou percentual, logo em seguida ao lado irá surgir um novo campo para você inserir o valor/percentual de desconto que realmente será aplicado aquela venda.
 
