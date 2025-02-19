@@ -142,7 +142,7 @@ Por último você pode clicar no botão **Autorizar** e em seguida a janela de c
 
 ### Configuração para vendas online
 
-Caso você tenha o módulo ode vendas online instalado em seu Gestão Online. Pode ativar esta função e quando seus clientes efetuarem compras atravás da sua Landing page, o sistema de entrega ficará disponível para os produtos que você configurar, e assim o cliente poderá escolher o método de entrega e pagar tudo junto.
+Caso você tenha o módulo ode vendas online instalado em seu Gestão Online. Pode ativar esta função e quando seus clientes efetuarem compras através da sua Landing page, o sistema de entrega ficará disponível para os produtos que você configurar, e assim o cliente poderá escolher o método de entrega e pagar tudo junto.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/d8c763d82a299b46e83a6ece5d7958af1f7dcec8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_20.png?raw=true" alt="0" width="600"> 

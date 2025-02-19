@@ -1,10 +1,10 @@
 <div style="text-align: justify">
 
-### Descubra a Extensão Pixel do Facebook para sua Loja no Gestão Online
+### Descubra a Extensão Pixel da Meta para sua Loja no Gestão Online
 
 | | |
 |-|-|
-|Maximize os resultados da sua estratégia de marketing com a Extensão Pixel do Facebook! <br> <br>Com essa poderosa ferramenta, você pode integrar facilmente o Facebook Pixel à sua Landing Page (Loja) criada no Gestão Online.|![](https://github.com/Gestao-Online/public-docs/blob/ab73d19ce448af6e144357308c5c0ae243050eb7/erp-v2/marketplace/extensions/com.pixel-facebook.loja/assets/extensao_pixel-facebook_loja_01.png?raw=true) |
+|Maximize os resultados da sua estratégia de marketing com a Extensão Pixel da Meta! <br> <br>Com essa poderosa ferramenta, você pode integrar facilmente o Facebook Pixel à sua Landing Page (Loja) criada no Gestão Online.|![](https://github.com/Gestao-Online/public-docs/blob/ab73d19ce448af6e144357308c5c0ae243050eb7/erp-v2/marketplace/extensions/com.pixel-facebook.loja/assets/extensao_pixel-facebook_loja_01.png?raw=true) |
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-### Por que usar o Pixel do Facebook?
+### Por que usar o Pixel da Meta?
 
 | | |
 |-|-|
@@ -26,6 +26,6 @@
 
 <br>
 
-**Não perca tempo! Instale agora a Extensão Pixel do Facebook e eleve o desempenho da sua loja no Gestão Online para outro nível.🚀**
+**Não perca tempo! Instale agora a Extensão Pixel da Meta e eleve o desempenho da sua loja no Gestão Online para outro nível.🚀**
 
 </div>
