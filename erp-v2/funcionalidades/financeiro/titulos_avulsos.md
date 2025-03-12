@@ -1,11 +1,11 @@
 # 🪙 Títulos avulsos
 
-<!-- PEDIR AJUDA AO PAULO SOBRE ESTA ABA, POIS AS OPÇÕES DE PAGAMENTO TIPO E PAGAMENTO STATUS FICAM NÃO UTILIZÁVEIS -->
+Nesta tela você encontra todos os títulos avulsos cadastrados na plataforma da **Gestão Online**. Esta tela foi criada para que você responsável pelo adminsitrativo no sistema, consiga ter acesso a todos os boletos emitidos e que não foram pagos dentro da plataforma. 
 
-Nesta tela você encontra todos os títulos avulsos cadastrados na plataforma da **Gestão Online**. E caso tenha algum faltando, você pode efetuar o cadastro ou editar um existente, precisando somente seguir este manual.
+Uma situação interessante para o uso desta tela ocorre quando, durante uma venda, você gera um novo boleto ou altera a data de vencimento de um boleto existente. Nesse caso, o boleto antigo é movido para esta tela e fica armazenado, permitindo que você o consulte e o vincule novamente à venda correspondente caso o cliente realize o pagamento.
 
 {% hint style="danger" %}
-**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
+**Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso alguns itens podem não aparecer para você.
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_titulos.gif)
