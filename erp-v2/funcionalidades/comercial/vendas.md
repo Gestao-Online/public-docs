@@ -163,18 +163,6 @@ Após gerar o boleto ou o link de pagamento, uma nova guia surgirá. Esta é a d
 
 Observe que ela traz informações como a forma de pagamento escolhida, o tipo, se é receita ou despesa, o valor de desdobramento, valor da baixa e outros.
 
-### Vencimento de boleto
-
-No caso de vencimento de um boleto, você pode emitir um novo editando o boleto que aparece na guia de **financeiro**, precisando apenas clicar no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar, conforme mostrado abaixo:
-
-![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit.png)
-
-Lembrando que essa opção só está disponível caso não tenha ocorrido uma baixa no financeiro. 😉👍
-
-Após aberto para edição, você precisa somente alterar a data de vencimento do boleto, para uma data válida mais adiante, e depois clicar no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line">salvar, e depois clicar no botão gerar boleto no menu superior:
-
-![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_boleto.gif)
-
 ### Baixar financeiro
 
 Se precisar efetuar uma baixa de financeiro manualmente, após clicar no no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar, conforme mostrado abaixo, a janela de edição será mostrada e veremos um menu especial dela:
