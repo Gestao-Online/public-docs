@@ -2,9 +2,9 @@
 
 ## Renovações Soluti – Sincronização ágil e eficiente para sua gestão!
 
-| | |
-|-|-|
-|O Renovações Soluti é o app ideal para quem precisa de mais controle e agilidade na gestão de renovações de certificados. Agora, dentro do seu Gestão Online, você pode sincronizar automaticamente os agendamentos do seu SisAr, garantindo mais organização, produtividade e eficiência no seu dia a dia.<br><br>Com filtros personalizados e uma interface intuitiva, você gerencia todas as suas renovações diretamente na tela de Agendamentos, evitando esquecimentos e otimizando seu tempo. | <img src="https://github.com/Gestao-Online/public-docs/blob/e6e1a3790b798879354d9175e908da471bd1355e/erp-v2/marketplace/extensions/br.com.gestao-online.renovacoes-soluti/assets/extensao_renovacoes_soluti_01.png?raw=true" alt="0" width="800">|
+| | | |
+|-|-|-|
+|O Renovações Soluti é o app ideal para quem precisa de mais controle e agilidade na gestão de renovações de certificados. Agora, dentro do seu Gestão Online, você pode sincronizar automaticamente os agendamentos do seu SisAr, garantindo mais organização, produtividade e eficiência no seu dia a dia.<br><br>Com filtros personalizados e uma interface intuitiva, você gerencia todas as suas renovações diretamente na tela de Agendamentos, evitando esquecimentos e otimizando seu tempo. | <p style="color: white;"> ___ </p> |<img src="https://github.com/Gestao-Online/public-docs/blob/e6e1a3790b798879354d9175e908da471bd1355e/erp-v2/marketplace/extensions/br.com.gestao-online.renovacoes-soluti/assets/extensao_renovacoes_soluti_01.png?raw=true" alt="0" width="800">|
 
 ### Benefícios da Extensão Renovações Soluti:
 
