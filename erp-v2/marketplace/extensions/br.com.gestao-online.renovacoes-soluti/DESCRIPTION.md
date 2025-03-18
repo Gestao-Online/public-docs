@@ -8,17 +8,13 @@
 
 ### Benefícios da Extensão Renovações Soluti:
 
-**✅ Gestão centralizada e otimizada**
-Visualize todas as renovações em um só lugar, facilitando o acompanhamento e planejamento de cada cliente.
+**✅ Gestão centralizada e otimizada**<br>Visualize todas as renovações em um só lugar, facilitando o acompanhamento e planejamento de cada cliente.
 
-**✅ Filtros inteligentes**
-Refine sua busca com filtros por período inicial e final e tipo de agendamento, encontrando exatamente o que precisa de forma rápida e prática.
+**✅ Filtros inteligentes**<br>Refine sua busca com filtros por período inicial e final e tipo de agendamento, encontrando exatamente o que precisa de forma rápida e prática.
 
-**✅ Redução de falhas e retrabalho**
-Automatize o processo e evite esquecimentos, garantindo um fluxo de trabalho mais organizado e eficiente.
+**✅ Redução de falhas e retrabalho**<br>Automatize o processo e evite esquecimentos, garantindo um fluxo de trabalho mais organizado e eficiente.
 
-**✅ Mais produtividade para sua equipe**
-Com menos tempo gasto em tarefas manuais, sua equipe pode focar no que realmente importa, oferecer um atendimento ágil e de qualidade.
+**✅ Mais produtividade para sua equipe**<br>Com menos tempo gasto em tarefas manuais, sua equipe pode focar no que realmente importa, oferecer um atendimento ágil e de qualidade.
 
 Ative o Renovações Soluti e transforme a maneira como você gerencia as renovações de certificados. Mais praticidade, mais organização e mais eficiência para você e sua equipe!
 
