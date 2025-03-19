@@ -8,13 +8,11 @@
 
 ### Benefícios da Extensão Renovações Soluti
 
-**✅ Gestão centralizada e otimizada**<br>Visualize todas as renovações em um só lugar, facilitando o acompanhamento e planejamento de cada cliente.
+| | | |
+|-|-|-|
+|<img src="https://github.com/Gestao-Online/public-docs/blob/3cb4194a1019cdc31d3c39780a9e32aecd12e1a6/erp-v2/marketplace/extensions/br.com.gestao-online.renovacoes-soluti/assets/extensao_renovacoes_soluti_02.png?raw=true" alt="0" width="800"> | |**✅ Gestão centralizada e otimizada**<br>Visualize todas as renovações em um só lugar, facilitando o acompanhamento e planejamento de cada cliente.<br><br>**✅ Filtros inteligentes**<br>Refine sua busca com filtros por período inicial e final e tipo de agendamento, encontrando exatamente o que precisa de forma rápida e prática.<br><br>**✅ Redução de falhas e retrabalho**<br>Automatize o processo e evite esquecimentos, garantindo um fluxo de trabalho mais organizado e eficiente.<br><br>**✅ Mais produtividade para sua equipe**<br>Com menos tempo gasto em tarefas manuais, sua equipe pode focar no que realmente importa, oferecer um atendimento ágil e de qualidade. |
 
-**✅ Filtros inteligentes**<br>Refine sua busca com filtros por período inicial e final e tipo de agendamento, encontrando exatamente o que precisa de forma rápida e prática.
 
-**✅ Redução de falhas e retrabalho**<br>Automatize o processo e evite esquecimentos, garantindo um fluxo de trabalho mais organizado e eficiente.
-
-**✅ Mais produtividade para sua equipe**<br>Com menos tempo gasto em tarefas manuais, sua equipe pode focar no que realmente importa, oferecer um atendimento ágil e de qualidade.
 
 Ative o Renovações Soluti e transforme a maneira como você gerencia as renovações de certificados. Mais praticidade, mais organização e mais eficiência para você e sua equipe!
 
