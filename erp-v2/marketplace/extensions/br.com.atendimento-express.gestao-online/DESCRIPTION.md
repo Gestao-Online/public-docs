@@ -4,7 +4,7 @@
 
 | | ||
 |-|-|-|
-|No Gestão Online, entendemos a importância de um atendimento rápido e eficaz para o sucesso do seu negócio. Pensando nisso, criamos o Atendimento Express, uma solução inovadora que integra diretamente seu sistema ERP ao processo de videochamada, garantindo um atendimento ágil e sem complicações.<br><br>O Atendimento Express oferece três modos distintos de operação, permitindo maior flexibilidade e adaptação às suas necessidades: |<p style="color: white;"> ___ </p>|![](https://github.com/Gestao-Online/public-docs/blob/b4bbaa138331bf4289c15b5684aa2d7ec5f860a3/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atedimento-express_soluti_02.png?raw=true)  |
+|No Gestão Online, entendemos a importância de um atendimento rápido e eficaz para o sucesso do seu negócio. Pensando nisso, criamos o Atendimento Express, uma solução inovadora que integra diretamente seu sistema ERP ao processo de videochamada, garantindo um atendimento ágil e sem complicações.<br><br>O Atendimento Express oferece três modos distintos de operação, permitindo maior flexibilidade e adaptação às suas necessidades: |<p style="color: white;">__</p>|<iframe width="480" height="270" src="https://www.youtube.com/embed/Zw13faJ4O1c?si=az2JdH-uN-v72i14" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
 
 <br>
 
