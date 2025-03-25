@@ -52,7 +52,7 @@ Agora, partindo para a configuração da venda que o robô irá fazer, primeiram
 
 <div style="background-color:rgb(210, 233, 255); border-left: 6px solid rgb(142, 181, 255); padding: 15px; margin: 20px 0; border-radius: 5px; font-family: Arial, sans-serif; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <h4 style="margin: 0 0 10px; font-size: 1.2em; color: #555;">ℹ️ Unidade de venda:</h4>
-    <p style="margin: 0; line-height: 1.5;">Para mais informações sobre como utilizar ou configurar uma unidade de venda, <a href="https://docs.gestao.plus/erp-v2/funcionalidades/agendamentos_atividades/tipo_agendamentos" target="_blank">clique aqui</a>.</p>
+    <p style="margin: 0; line-height: 1.5;">Para mais informações sobre como utilizar ou configurar uma unidade de venda, <a href="https://docs.gestao.plus/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas" target="_blank">clique aqui</a>.</p>
 </div>
 
 <div style="text-align: center">
