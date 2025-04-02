@@ -74,6 +74,8 @@ A partir do momento que você concluir a criação, uma nova guia ficará dispon
 
 Observe também que esta aba é similar a tela de **Movimentação Estoque**, porém, trazendo somente as informações deste estoque que você criou.
 
+Vale lembrar que para utilizar as funções de movimentação do estoque nesta tela, é necessário que seja vinculado o produto e um local de estoque antes, na  tela de [**Estoque Produtos**](/erp-v2/funcionalidades/produtos_servicos/estoque_produtos.md). Senão você verá uma tela de erro informando que não existe itens neste local de estoque.
+
 {% hint style="warning" %}
 **Tela Movimentações estoque:** Se você deseja saber mais informações sobre Movimentações de estoque, [clique aqui](/erp-v2/funcionalidades/produtos_servicos/movimentacao_estoque.md)
 {% endhint %}
