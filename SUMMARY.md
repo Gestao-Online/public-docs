@@ -198,7 +198,7 @@
     * [Como configurar/utilizar máquininha POS para vendas?](erp-v2/guia_utilizacao/como_configurar_maq_pos.md)
     * [Como alterar a data de vencimento de um boleto?](erp-v2/guia_utilizacao/como_alterar_data_venc_boleto.md)
     * [Como cancelar um boleto Emitido/Vencido no seu Gestão Online?](/erp-v2/guia_utilizacao/como_cancelar_boleto_emitido.md)
-    <!-- * [Como Adicionar/Atualizar meu certificado digital para emitir NFSe?](/erp-v2/guia_utilizacao/como_atualizar_meu_certificado_digital_para_para_emissao_de_nfse.md) -->
+    * [Como Adicionar/Atualizar meu certificado digital para emitir NFSe?](/erp-v2/guia_utilizacao/como_atualizar_meu_certificado_digital_para_para_emissao_de_nfse.md)
 
 
  * [🏬 Marketplace](erp-v2/marketplace/inicio.md)

@@ -8,6 +8,16 @@ Dentro do Gestão Online caso você tenha adquirido o módulo de emissão de NFS
 
 ![](/erp-v2/assets/guia_utilizacao/como_atualizar_certificado_01.gif)
 
-Com a tela Empresas aberta, logo abaixo no espaço reservado para **Dados Fiscais**, você encontrará o campo Titular do Certificado, clicando no botão <img src="/erp-v2/assets/icon_dropdow.png" alt="" data-size="line"> você terá acesso a opção <img src="/erp-v2/assets/btn_anexar_certificado.png" alt="Anexar certificado" data-size="line">, clicando nesta opçaõ uma nova janela será mostrada a você.
+Com a tela Empresas aberta, logo abaixo no espaço reservado para **Dados Fiscais**, você encontrará o campo Titular do Certificado, clicando no botão <img src="/erp-v2/assets/icon_dropdow.png" alt="" data-size="line"> você terá acesso a opção <img src="/erp-v2/assets/btn_anexar_certificado.png" alt="Anexar certificado" data-size="line">, clicando nesta opção uma nova janela será mostrada a você.
 
-![](/erp-v2/assets/guia_utilizacao/como_atualizar_certificado_02.gif)
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_campo_certificado.png)
+
+{% hint style="warning" %}
+**Importante:** Os certificados digitais são aceitos em **`.pfx`** ou **`.p12`**.
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_certificado.png)
+
+Após anexar seu certificado, digite sua senha, e clique no botão `Validar e Salvar`. Agora, você só precisa salvar as alterações feitas na tela Empresas, e estará pronto para emitir notas fiscais novamente em seu Gestão Online.
+
+![](/erp-v2/assets/guia_utilizacao/como_atualizar_certificado_02.png)
