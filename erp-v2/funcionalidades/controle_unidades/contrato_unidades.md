@@ -62,7 +62,7 @@ No momento do cadastro de um novo contrato de controle de unidade, você precisa
 
 No primeiro campo **Unidade**, que é um campo de preenchimento obrigatório. Você escolhe a qual unidade esse contrato terá vínculo. Lembrando que para escolher a unidade, é necessário já ter o cadastro feito na tela **Unidades**.
 
- Observe que nesse mesmo campo, temos um ícone <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar a unidade selecionada abrindo ela em uma nova tela.
+Observe que nesse mesmo campo, temos um ícone <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar a unidade selecionada abrindo ela em uma nova tela.
 
 Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo vamos escolher a opção sede/matriz.
 
@@ -88,13 +88,13 @@ Depois você define se o **status** desse contrato estará ativado ou desativado
 
 No campo **Tipo Contrato**, você tem quatro opções disponíveis, vejamos um pouco mais sobre cada uma. Observe que, ao clicar em algumas opções, um novo campo será mostrado ao lado para preencher o valor:
 
-- **Sem limite:** A unidade não tem um limite para trabalhar com saldo negativo, isso pode implicar no impedimento de uso de algumas funcionalidades (Por exemplo: em uma venda na modalidade pré-pago)
+<!-- Pré-pago --> - **Sem limite:** A unidade não tem um limite para trabalhar com saldo negativo, isso pode implicar no impedimento de uso de algumas funcionalidades (Por exemplo: em uma venda na modalidade pré-pago)
 
-- **Limite Aprovado:** É a quantia limite final disponível para uso.
+<!-- Mais utilizado --> - **Limite Aprovado:** É a quantia limite final disponível para uso.
 
-- **Limite Pré-Aprovado:** É uma oferta condicional que ainda pode passar por uma verificação adicional antes de se tornar um **Limite aprovado**,
+<!-- Pouco utilizado por nosso clientes --> - **Limite Pré-Aprovado:** É uma oferta condicional que ainda pode passar por uma verificação adicional antes de se tornar um **Limite aprovado**,
 
-- **Ilimitado:** A unidade poderá utilizar o tanto que precisar, sem um limite definido.
+<!-- Pós-pago --> - **Ilimitado:** A unidade poderá utilizar o tanto que precisar, sem um limite definido.
 
 Em nosso exemplo iremos selecionar o tipo **Limite Aprovado** e colocaremos o valor de R$ 1.000,00. Observe abaixo:
 
