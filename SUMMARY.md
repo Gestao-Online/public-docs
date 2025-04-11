@@ -123,6 +123,7 @@
       * [⬆️ Contas a pagar (Despesas)](/erp-v2/funcionalidades/financeiro/contas_pagar.md)
       * [⬇️ Contas a receber (Receitas)](/erp-v2/funcionalidades/financeiro/contas_receber.md)
       * [💳 Listar contas](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md)
+        * [⚙️ Exportar OFX do seu banco](/erp-v2/funcionalidades/financeiro/exportar_ofx.md)
       * [🧾 Extratos de conta bancária](/erp-v2/funcionalidades/financeiro/extratos_conta_bancaria.md)
       * [🔁 Movimentação conta bancária](/erp-v2/funcionalidades/financeiro/movimentacao_conta_bancaria.md)
       * [🏦 Bancos](/erp-v2/funcionalidades/financeiro/bancos.md)

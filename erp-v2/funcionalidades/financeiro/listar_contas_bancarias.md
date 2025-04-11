@@ -213,7 +213,7 @@ O primeiro botão <img src="/erp-v2/assets/icon_mao_dinheiro.png" alt="" data-si
 
 Desta forma, a conciliação automática estará ativa em sua conta, lembrando que esta função é ativa **somente** para a conta GOPag, caso você utilize outro tipo de banco, você pode utilizar a função **Importar arquivo OFX**. 
 
-Caso queira mais informações pode acessar nosso manual de [Exportar arquivo OFX](/erp-v2/marketplace/exportar_ofx.md) e conferir a maneira de exportar do seu banco.
+Caso queira mais informações pode acessar nosso manual de [Exportar arquivo OFX](/erp-v2/funcionalidades/financeiro/exportar_ofx.md) e conferir a maneira de exportar do seu banco.
 
 Não só os botões do menu, como também novas abas são mostradas a você, entre elas a de **Extrato**.
 

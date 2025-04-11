@@ -133,7 +133,7 @@ Clique no botão salvar na parte superior da tela, e escolha a opção **Salvar 
 
 ![](/erp-v2/assets/marketplace/OFX_bancos/04_itau_pagina_gif.gif)
 
-## Como exportar o extrato bancário em arquivo OFX no Santander
+<!-- ## Como exportar o extrato bancário em arquivo OFX no Santander
 
 O Banco Santander oferece o serviço para exportar seu extrato no formato OFX, que ajuda na conciliação bancária do financeiro. Neste artigo o objetivo será mostrar o passo a passo para obter o arquivo OFX.
 
@@ -163,4 +163,4 @@ Clique no botão salvar na parte superior da tela, e escolha a opção **Money 2
 
 ### Passo a passo animação Banco Santander
 
-![](/erp-v2/assets/marketplace/OFX_bancos/05_santander_pagina_gif.gif)
+![](/erp-v2/assets/marketplace/OFX_bancos/05_santander_pagina_gif.gif) -->
