@@ -22,12 +22,12 @@ Ao clicar no campo, ele trará a lista com todos os tipos de agendamento dispon�
     <img src="https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_03.gif?raw=true" alt="0" width="800"> 
 </div>
 
-No segundo campo, você deverá definir o intervalo de dias para a busca de agendamentos. Por exemplo, ao configurar 15 dias, sempre que uma venda for realizada, o sistema buscará na tela de agendamentos por registros do cliente correspondentes a até 15 dias antes ou depois da data da venda.
+No segundo campo, você deverá definir o intervalo de dias para a busca de agendamentos. Por exemplo, ao configurar 30 dias, sempre que uma venda for realizada, o sistema buscará na tela de agendamentos por registros do cliente correspondentes a até 30 dias antes ou depois da data da venda.
 
 Se um agendamento for encontrado dentro desse intervalo, a sincronização entre a venda e o agendamento será realizada automaticamente. Caso contrário, o processo seguirá o fluxo padrão do sistema.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_04.png?raw=true" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/e8ee06bc24312a6101147148c6238989d0a7638f/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_04.png?raw=true" alt="0" width="800"> 
 </div>
 
 ### Salvando as configurações
@@ -35,7 +35,7 @@ Se um agendamento for encontrado dentro desse intervalo, a sincronização entre
 Feito isso, você pode clicar no botão salvar, e assim as configurações serão aplicadas no sistema, e a partir deste momento a extensão passa a funcionar para as novas vendas realizadas.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/e8752bd0abf7d2143f80ea0934c4850cc35ef8d5/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_05.gif?raw=true" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/7387cc785ca10f322c256d4c770cc49a5a2c3c59/erp-v2/assets/marketplace/go_sync_agenda/extensao_agenda_sync_05.gif?raw=true" alt="0" width="800"> 
 </div>
 
 ### Utilização em vendas retroativas
