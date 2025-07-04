@@ -40,7 +40,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 Após clicarmos no botão adicionar novo contrato de controle, uma nova página será aberta e, Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
-- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;   
+- <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
@@ -90,7 +90,7 @@ No campo **Tipo Contrato**, você tem quatro opções disponíveis, vejamos um p
 
 <!-- Pré-pago --> - **Sem limite:** A unidade não tem um limite para trabalhar com saldo negativo, isso pode implicar no impedimento de uso de algumas funcionalidades (Por exemplo: em uma venda na modalidade pré-pago)
 
-<!-- Mais utilizado --> - **Limite Aprovado:** É a quantia limite final disponível para uso.
+<!-- Mais seguro a ser utilizado --> - **Limite Aprovado:** É a quantia limite final disponível para uso.
 
 <!-- Pouco utilizado por nosso clientes --> - **Limite Pré-Aprovado:** É uma oferta condicional que ainda pode passar por uma verificação adicional antes de se tornar um **Limite aprovado**,
 
@@ -106,13 +106,13 @@ Agora uma atenção maior a este campo de **Fechamento automático**, pois nele 
 
 ### Fechamento todo dia do mês
 
-Destas opções disponíveis, você tem para deixar ele desativado, onde não aparecerá nenhum campo extra para preenchimento. A opção de fechamento *Todo dia do mês* selecionado, você precisa depois definir os dias do mês, esses valores você precisa digitar e logo após pressionar a tecla enter para que seja confirmado. Observe nossa demonstração abaixo.
+Destas opções disponíveis, você tem para deixar ele desativado, onde não aparecerá nenhum campo extra para preenchimento. A opção de fechamento _Todo dia do mês_ selecionado, você precisa depois definir os dias do mês, esses valores você precisa digitar e logo após pressionar a tecla enter para que seja confirmado. Observe nossa demonstração abaixo.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_mes.gif)
 
 ### Fechamento todo dia da semana
 
- Agora marcando a opção de fechamento *Todo dia da semana*, aparecerão novos campos, o primeiro para você escolher o **dia da semana de fechamento automático**.
+Agora marcando a opção de fechamento _Todo dia da semana_, aparecerão novos campos, o primeiro para você escolher o **dia da semana de fechamento automático**.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_dia_semana.png)
 
@@ -166,14 +166,28 @@ Nessa tela, o sistema funciona de forma semelhante a um "extrato de um banco" de
 
 Caso seja necessário algum ajuste no saldo, ou o lançamento de alguma despesa ou receita diretamente no controle da unidade, é possível adicionar um novo lançamento manualmente, entre crédito ou débito, e o valor deste lançamento. Após salvar, ele aparecerá no "extrato" imediatamente já recomputando o saldo. 😁
 
-Mas lembre-se, normalmente essas movimentações de crédito ou débito, são programadas para serem geradas automaticamente por nossa plataforma, atráves de fluxos de comissão ou custo que são disparados atráves de rotinas financeiras, ou de movimentações das vendas por exemplo. 
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_saldo_add_movimentacao.png)
+
+Mas lembre-se, normalmente essas movimentações de crédito ou débito, são programadas para serem geradas automaticamente por nossa plataforma, atráves de fluxos de comissão ou custo que são disparados atráves de rotinas financeiras, ou o tipo de movimentação definido.
+
+#### Relatório fechamento (PDF ou Planilha)
+
+Quando um fechamento é realizado dentro do sistema, uma nova linha é criada na guia **Movimentações de saldo**. Essa linha representa o resultado de todas as movimentações agrupadas naquele período. Você pode exportar o relatório do fechamento em PDF ou Planilha
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo_fechamento_gerar_relatorio.gif)
+
+Este documento gerado trás algumas informações importantes, como por exemplo, o parceiro/cliente (final) que efetuou a venda/compra, qual foi o produto, o histórico dessa venda, valor de referência, o tipo (caso seja crédito ou débito), valor final, e na opção de planilha, ainda trás as datas de criação entrega dos pedidos.
+
+Já no relatório em PDF, nós colocamos as somas e cálculos de fechamento, saldo anterior e atual, conforme marcado na imagem abaixo.
+
+![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo_fechamento_gerar_relatorio_campos.png)
 
 {% hint style="warning" %}
 **Controle de movimentação de unidades:** Caso queira mais informações sobre essa tela, [**`clique aqui`**](/erp-v2/funcionalidades/controle_unidades/controle_movimentacao.md).
 {% endhint %}
 
 {% hint style="danger" %}
-Em caso de dúvidas sobre esse fluxo, entre em contato com o nosso suporte. 
+Em caso de dúvidas sobre esse fluxo, entre em contato com o nosso suporte.
 {% endhint %}
 
 ### Aba Movimentações pendentes de fechamento
@@ -184,7 +198,7 @@ Aqui estão todas as movimentações pendentes, que estão na fila para entrarem
 
 As movimentações que aparecem aqui, dentro das regras criadas no "Fechamento automático", serão apuradas resultando em **uma linha na movimentação de saldo**, sendo ela de débito (caso o fechamento seja negativo, ou seja a unidade tem algo a pagar para a empresa). Ou sendo ela de crédito (caso o fechamento seja positivo, ou seja a unidade tem algo para receber da empresa)
 
-Observe o exemplo abaixo, foi criado o contrato com fechamento automático todo mês no dia 01 e 16. É importar lembrar que a funcionalidade desse fechamento tem um vínculo com a tela **Tipo de movimentação**, pois nela, precisa estar ativado a opção *Atualiza controle de unidade*.
+Observe o exemplo abaixo, foi criado o contrato com fechamento automático todo mês no dia 01 e 16. É importar lembrar que a funcionalidade desse fechamento tem um vínculo com a tela **Tipo de movimentação**, pois nela, precisa estar ativado a opção _Atualiza controle de unidade_.
 
 {% hint style="warning" %}
 **Tipo de movimentação:** Caso queira mais informações sobre essa tela, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
@@ -194,19 +208,9 @@ Observe o exemplo abaixo, foi criado o contrato com fechamento automático todo 
 
 Observe que existe uma movimentação pendente de fechamento. Ela só será processada na data que está definido neste contrato criado.
 
-Mas caso ocorra algum imprevisto e você precise fazer o fechamento destas movimentação antes do perído que você determinou, pode clicar no botão <img src="/erp-v2/assets/icon_processar.png" alt="" data-size="line">**processar fechamento automático**, e ele irá virar uma linha na tela **Movimentações de saldo**.
+Mas caso ocorra algum imprevisto e você precise fazer o fechamento destas movimentação antes do perído que você determinou, pode clicar no botão <img src="/erp-v2/assets/icon_processar.png" alt="" data-size="line">**Processar fechamento automático**, e ele irá virar uma linha na tela **Movimentações de saldo**, onde poderá gerar um relatório com todas as vendas processadas, tanto em PDF quando em Excel, conforme explicado mais acima na aba de **Movimentações de saldo**.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo_btn_processar.png)
-
-Após clicar para fazer o fechamento, observe que um nova linha foi adicionada a tela **Movimentação de saldo**, e uma informação importante, essa única linha trará várias movimentações, e você pode gerar um relatório e acompanhar cada uma clicando com o botão direito do mouse, observe nosso exemplo abaixo.
-
-![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo_fechamento_gerar_relatorio.gif)
-
-Este documento gerado trás algumas informações importantes, como por exemplo, o parceiro/cliente (final) que efetuou a venda/compra, qual foi o produto, o histórico dessa venda, valor de referência, o tipo (caso seja crédito ou débito) e o valor final.
-
-Já parte final do relatório em PDF colocamos as somas e cálculos de fechamento, saldo anterior e atual, conforme marcado na imagem abaixo.
-
-![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo_fechamento_gerar_relatorio_campos.png)
 
 ### Aba Fechamentos de contrato
 
@@ -218,7 +222,7 @@ Quando utilizado na modalidade automática normalmente, um novo lançamento é f
 
 Mesmo em outras situações e/ou outras modalidades, como por exemplo, gestão direta de saldo (Indepentende de ter ou não "Movimentações pedentes de fechamento"), se o sistema computar um saldo negativo ele realizará o mesmo comportamento (Irá gerar uma "Venda" com a cobrança do saldo que está negativo)
 
-O tipo de movimentação recomendado que seja utilizado para os "Fechamentos do contrato" faz com que o "Saldo" seja incrementado automáticamente (Seja criado uma nova linha no "Extrato" do controle da unidade com uma movimentação de crédito) no valor correspondente do saldo negativo de quando foi apurado, zerando o saldo que anteriormente estava negativado. 
+O tipo de movimentação recomendado que seja utilizado para os "Fechamentos do contrato" faz com que o "Saldo" seja incrementado automáticamente (Seja criado uma nova linha no "Extrato" do controle da unidade com uma movimentação de crédito) no valor correspondente do saldo negativo de quando foi apurado, zerando o saldo que anteriormente estava negativado.
 
 {% hint style="warning" %}
 **Atenção:** Caso exista lançamentos no extrato que fiquem entre o período da apuração e a liquidação do pagamento, o saldo sempre será computado da maneira adequada. (O saldo será acumulado para um acerto posterior)
@@ -252,7 +256,7 @@ Clicando neste ícone, uma nova janela será aberta para você, solicitando que 
 
 Nessa caso o botão acionará uma ação que irá realizar a apuração das vendas que estão na tela `Movimentações pendentes de fechamento` o sistema irá computar cada venda uma que está pendente de fechamento computando uma "Comissão" ou um "Custo" a cada venda, respeitando a `tabela de preço de custo ou comissão` e o `tipo de movimentação` realizado na venda, no final terá o resultado se a operação será de `débito` (ou seja, a unidade está "devendo" a empresa) ou de `crédito` (ou seja, a unidade tem um valor "a receber" da empresa).
 
-Observe nosso teste abaixo, a mensagem que será mostrada é informando que não temos nenhum caso de fechamento pendente. 
+Observe nosso teste abaixo, a mensagem que será mostrada é informando que não temos nenhum caso de fechamento pendente.
 
 Porém, se houvesse algum caso, ele teria realizado o fechamento automaticamente e mostrado a mensagem de fechamentos realizados com sucesso.
 
@@ -280,7 +284,7 @@ Por exemplo, um pagamento que já foi realizado e ainda não foi atualizado no c
 
 ### Botão Gerar previsão de fechamento
 
-Por último, o botão de **gerar previsão do fechamento**, ao clicar nele, uma janela pop-up será aberta para você poder preencher alguns campos. O primeiro é o de *data final*, pois ele irá processar uma previsão do fechamento de movimentações entregues com base na data que for colocada. 
+Por último, o botão de **gerar previsão do fechamento**, ao clicar nele, uma janela pop-up será aberta para você poder preencher alguns campos. O primeiro é o de _data final_, pois ele irá processar uma previsão do fechamento de movimentações entregues com base na data que for colocada.
 
 Você também tem a opção de enviar este relatório por e-mail, pois ele criará um arquivo em PDF e enviará em anexo.
 
@@ -290,7 +294,7 @@ Observe nosso exemplo abaixo, criando o arquivo e abrindo-o.
 
 ## Liberação de confiança da unidade
 
-A liberação de confiança, também conhecida como desbloqueio em confiança, é uma funcionalidade que permite que contratos suspensos por atraso no pagamento voltem a funcionar temporariamente. 
+A liberação de confiança, também conhecida como desbloqueio em confiança, é uma funcionalidade que permite que contratos suspensos por atraso no pagamento voltem a funcionar temporariamente.
 
 Quando um contrato criado tem atraso de pagamento, o sistema automaticamente bloqueia e deixa o status de inadimplente ativo.
 
