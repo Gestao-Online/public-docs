@@ -1,6 +1,6 @@
 <div style="text-align: justify">
 
-### GO DocBuilder \- Documentação Completa
+### GO DocBuilder 
 
 | | ||
 |-|-|-|

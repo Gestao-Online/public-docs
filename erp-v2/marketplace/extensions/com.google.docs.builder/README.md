@@ -1,4 +1,4 @@
-# 📦 **GO DocBuilder**
+# **GO DocBuilder**
 
 
 **Descrição:**  
@@ -89,7 +89,7 @@ Quando a tela for "Movimentação", permite especificar em qual tipo de moviment
 Caso nenhum tipo seja selecionado, o botão não será exibido em nenhuma movimentação.
 
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder7.png" alt="GO DocBuilder GIF">
+  <img src="assets/extensao-GO-DocBuilder15.png" alt="GO DocBuilder GIF">
 </p>
 
 <br>
@@ -106,7 +106,7 @@ Este campo define quais perfis de usuário do sistema têm permissão para visua
 Caso nenhum perfil seja selecionado, o botão não será exibido para ninguém.
 
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder9.png" alt="GO DocBuilder GIF">
+  <img src="assets/extensao-GO-DocBuilder8.png" alt="GO DocBuilder GIF">
 </p>
 
 <br>
