@@ -311,7 +311,26 @@ IMPORTANTE: As variáveis listadas abaixo são POSSÍVEIS para cada tela, mas s�
 * $P{vendedor.id} \- ID do vendedor  
 * $P{vendedor.nome} \- Nome do vendedor  
 *  $P{vendedor.email} \- E-mail do vendedor
-
+#### Dados do Parceiro da Unidade (Terceiro Nível):
+* $P{unidade.parceiro.id} - ID do parceiro da unidade
+* $P{unidade.parceiro.nome} - Nome do parceiro da unidade
+* $P{unidade.parceiro.razao_social} - Razão social
+* $P{unidade.parceiro.cpf_cnpj} - CPF/CNPJ (formatado)
+* $P{unidade.parceiro.tipo_pessoa} - F (Física) ou J (Jurídica)
+* $P{unidade.parceiro.data_de_nascimento} - Data nascimento (dd/mm/aaaa)
+* $P{unidade.parceiro.codigo} - Código do parceiro
+* $P{unidade.parceiro.email} - E-mail
+* $P{unidade.parceiro.telefone} - Telefone
+* $P{unidade.parceiro.celular} - Celular
+* $P{unidade.parceiro.telefone_comercial} - Telefone comercial
+* $P{unidade.parceiro.cep} - CEP
+* $P{unidade.parceiro.endereco} - Endereço
+* $P{unidade.parceiro.numero} - Número
+* $P{unidade.parceiro.complemento} - Complemento
+* $P{unidade.parceiro.bairro} - Bairro
+* $P{unidade.parceiro.cidade} - Cidade
+* $P{unidade.parceiro.estado} - Estado
+* $P{unidade.parceiro.completo} - Endereço completo
   ### **PARCEIRO (parceiroCliente, parceiroIndicador, parceiroFornecedor)**
 
   #### **Dados Básicos**:
@@ -568,7 +587,26 @@ IMPORTANTE: As variáveis listadas abaixo são POSSÍVEIS para cada tela, mas s�
 * $P{unidade.endereco} \- Endereço  
 * $P{unidade.cidade} \- Cidade  
 * $P{unidade.estado} \- Estado
-
+#### Dados do Parceiro Associado:
+* P{unidade.parceiro.id} - ID do parceiro
+* $P{unidade.parceiro.nome} - Nome do parceiro
+* $P{unidade.parceiro.razao_social} - Razão social
+* $P{unidade.parceiro.cpf_cnpj} - CPF/CNPJ (formatado)
+* $P{unidade.parceiro.tipo_pessoa} - F (Física) ou J (Jurídica)
+* $P{unidade.parceiro.data_de_nascimento} - Data nascimento (dd/mm/aaaa)
+* $P{unidade.parceiro.codigo} - Código do parceiro
+* $P{unidade.parceiro.email} - E-mail
+* $P{unidade.parceiro.telefone} - Telefone
+* $P{unidade.parceiro.celular} - Celular
+* $P{unidade.parceiro.telefone_comercial} - Telefone comercial
+* $P{unidade.parceiro.cep} - CEP
+* $P{unidade.parceiro.endereco} - Endereço
+* $P{unidade.parceiro.numero} - Número
+* $P{unidade.parceiro.complemento} - Complemento
+* $P{unidade.parceiro.bairro} - Bairro
+* $P{unidade.parceiro.cidade} - Cidade
+* $P{unidade.parceiro.estado} - Estado
+* $P{unidade.parceiro.completo} - Endereço completo
   ### **CONTRATO DE CONTROLE DE UNIDADE (contrato\_controle\_unidade)**
 
   #### **Dados Básicos do Contrato:**
@@ -648,7 +686,26 @@ IMPORTANTE: As variáveis listadas abaixo são POSSÍVEIS para cada tela, mas s�
 * $P{fa\_ultima\_movimentacao.codigo} \- Código da movimentação  
 * $P{fa\_ultima\_movimentacao.status} \- Status da movimentação  
  * $P{fa\_ultima\_movimentacao.valor\_total} \- Valor total da movimentação
-
+#### Dados do Parceiro da Unidade 
+* $P{unidade.parceiro.id} - ID do parceiro da unidade
+* $P{unidade.parceiro.nome} - Nome do parceiro da unidade
+* $P{unidade.parceiro.razao_social} - Razão social
+* $P{unidade.parceiro.cpf_cnpj} - CPF/CNPJ (formatado)
+* $P{unidade.parceiro.tipo_pessoa} - F (Física) ou J (Jurídica)
+* $P{unidade.parceiro.data_de_nascimento} - Data nascimento (dd/mm/aaaa)
+* $P{unidade.parceiro.codigo} - Código do parceiro
+* $P{unidade.parceiro.email} - E-mail
+* $P{unidade.parceiro.telefone} - Telefone
+* $P{unidade.parceiro.celular} - Celular
+* $P{unidade.parceiro.telefone_comercial} - Telefone comercial
+* $P{unidade.parceiro.cep} - CEP
+* $P{unidade.parceiro.endereco} - Endereço
+* $P{unidade.parceiro.numero} - Número
+* $P{unidade.parceiro.complemento} - Complemento
+* $P{unidade.parceiro.bairro} - Bairro
+* $P{unidade.parceiro.cidade} - Cidade
+* $P{unidade.parceiro.estado} - Estado
+* $P{unidade.parceiro.completo} - Endereço completo
 ## **Tabelas Dinâmicas com Itens de Movimentação**
 
 Para movimentações com múltiplos itens, você pode criar tabelas que se repetem automaticamente:
