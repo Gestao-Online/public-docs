@@ -9,7 +9,7 @@ Esta extensão busca um documento modelo no Google Docs, substitui tags por dado
 **Como criar o Template no Google Docs**
 
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder2.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder2.png" alt="GO DocBuilder GIF">
 </p>
 
 Crie um documento no Google Docs com as variáveis a serem substituídas. As variáveis devem ser colocadas no formato:
@@ -27,7 +27,7 @@ Essas variáveis serão substituídas automaticamente com os dados da entidade e
 
 Para configurar a extensão GO DocBuilder:
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder3.gif" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder3.gif" alt="GO DocBuilder GIF">
 </p>
 
 
@@ -46,7 +46,7 @@ Para configurar a extensão GO DocBuilder:
 * Se for a primeira vez, a tabela estará vazia  
 
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder4.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder4.png" alt="GO DocBuilder GIF">
 </p>
 
 
@@ -57,7 +57,7 @@ Para configurar a extensão GO DocBuilder:
 1. Clique no botão "+" no canto superior direito da tabela  
 2. Um formulário será aberto com os campos de configuração!
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder5.gif" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder5.gif" alt="GO DocBuilder GIF">
 </p>
 
 
@@ -74,7 +74,7 @@ Para configurar a extensão GO DocBuilder:
 * Link: URL do documento do Google Docs
   
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder6.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder6.png" alt="GO DocBuilder GIF">
 </p>
 
 
@@ -89,7 +89,7 @@ Quando a tela for "Movimentação", permite especificar em qual tipo de moviment
 Caso nenhum tipo seja selecionado, o botão não será exibido em nenhuma movimentação.
 
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder15.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder15.png" alt="GO DocBuilder GIF">
 </p>
 
 <br>
@@ -106,7 +106,7 @@ Este campo define quais perfis de usuário do sistema têm permissão para visua
 Caso nenhum perfil seja selecionado, o botão não será exibido para ninguém.
 
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder8.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder8.png" alt="GO DocBuilder GIF">
 </p>
 
 <br>
@@ -134,7 +134,7 @@ Quando "Possui Perguntas?" está ativado, você pode configurar:
 * Colunas: Layout da pergunta (1-12 colunas)
  
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder10.gif" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder10.gif" alt="GO DocBuilder GIF">
 </p>
 <br>
 
@@ -146,7 +146,7 @@ Quando ativado, o PDF gerado é:
 * Registrado no histórico  
 * Associado automaticamente ao registro
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder11.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder11.png" alt="GO DocBuilder GIF">
 </p>
 
 **Variáveis Disponíveis por Tela**
@@ -154,7 +154,7 @@ Quando ativado, o PDF gerado é:
 IMPORTANTE: As variáveis listadas abaixo são POSSÍVEIS para cada tela, mas só existem se o campo correspondente existir na entidade. 
 
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder12.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder12.png" alt="GO DocBuilder GIF">
 </p>
 
 
@@ -805,10 +805,10 @@ Exemplo 1 \- Pergunta Simples:
 * $P{questao\_nome\_do\_responsavel}   
 * $P{resposta\_nome\_do\_responsavel} 
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder13.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder13.png" alt="GO DocBuilder GIF">
 </p>
 <p align="center">
-  <img src="assets/extensao-GO-DocBuilder14.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder14.png" alt="GO DocBuilder GIF">
 </p>
 
 
