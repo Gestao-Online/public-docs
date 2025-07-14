@@ -11,7 +11,7 @@
 
 | | |
 |-|-|
-|1️⃣  **Feriados Nacionais:** Válidos em todo território brasileiro  <br><br>2️⃣**Feriados Estaduais:** Específicos do seu estado <br><br>3️⃣**Feriados Municipais:**  Personalizados para sua cidade <br><br>4️⃣ **Apenas feriados obrigatórios:** Evita confusões com datas facultativas |<div><img src="https://github.com/Gestao-Online/public-docs/blob/c182c1d3686207f6ceb78182327c2ed6fd4c0bb7/erp-v2/assets/marketplace/go_consulta/card_consulta_veiculos.png?raw=true" alt="0" width="200"></div>
+|1️⃣  **Feriados Nacionais:** Válidos em todo território brasileiro  <br><br>2️⃣**Feriados Estaduais:** Específicos do seu estado <br><br>3️⃣**Feriados Municipais:**  Personalizados para sua cidade <br><br>4️⃣ **Apenas feriados obrigatórios:** Evita confusões com datas facultativas |<div><img ![aa](assets/extensao-sincronizacao-feriados1.png)
 <br>
 
 
@@ -23,19 +23,20 @@ Cada feriado cadastrado apresenta informações completas:
 
 <br>
 
-<div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/5ea51f9fde366c084e00937f01cf772cbaae1e27/erp-v2/marketplace/extensions/br.com.api.consult.gestao-online/assets/app_goconsulta_01.gif?raw=true" alt="0" width="800"> 
-</div>
+<p align="center">
+  <img src="assets/extensao-sincronizacao-feriados3.gif" alt="GO DocBuilder GIF">
+</p>
 
 <br>
 
-### Praticidade e Flexibilidade para Seus Clientes
+**Impacto Direto no Seu Negócio**
 
-Com o **GO Consultas**, seus clientes têm acesso direto a essas funcionalidades através do seu marketplace, podendo visualizar e gerar os relatórios instantaneamente. Eles têm a liberdade de comercializar essas consultas e definir os valores, potencializando seu faturamento e expandindo os serviços oferecidos.
+*Planejamento Estratégico Aprimorado* Com os feriados corretamente integrados, seus agendamentos respeitam automaticamente os dias não úteis, evitando reuniões marcadas incorretamente e garantindo que prazos sejam calculados com precisão. Sua equipe ganha produtividade ao não precisar consultar calendários externos constantemente.
 
-### Ganhos para o Negócio
+*Gestão Financeira Inteligente* O sistema previne automaticamente a geração de boletos e cobranças em feriados, mantendo sua empresa em conformidade com as regulamentações bancárias e evitando problemas com processamento de pagamentos.
 
-O GO Consultas não só adiciona valor ao ERP Gestão Online, mas também permite que seus clientes ampliem suas oportunidades de receita e agreguem valor aos seus próprios serviços.
+*Conformidade Legal Garantida* Mantenha-se sempre atualizado com a legislação, incluindo automaticamente novos feriados criados por decretos municipais, estaduais ou federais.
+
 
 <br>
 
@@ -43,10 +44,11 @@ O GO Consultas não só adiciona valor ao ERP Gestão Online, mas também permit
 
 | | |
 |-|-|
-|![](https://github.com/Gestao-Online/public-docs/blob/8593f786dd7a915aa9ef04ea677079242ecf0398/erp-v2/assets/marketplace/go_consulta/spc_serasa_score_modelo.png?raw=true)  | Imagine que um cliente precisa avaliar o perfil de um potencial comprador ou fornecedor. Com o **GO Consultas**, ele poderá realizar uma Consulta Completa CPF + SCORE para entender o perfil financeiro e a pontuação de crédito, além de uma Consulta de Ações e Processos Judiciais para garantir que não existem pendências jurídicas relevantes.<br><br>Em um único sistema, ele terá todas as informações necessárias para uma tomada de decisão rápida e assertiva. |
+|![](assets/extensao-sincronizacao-feriados4.png)  | Imagine que sua empresa precisa definir o cronograma de entregas para o primeiro trimestre. Com a Extensão de Sincronização de Feriados, o sistema automaticamente exclui o Carnaval (municipal), a Sexta-feira Santa (nacional) e qualquer feriado estadual específico da sua região ao calcular os prazos. 
+ |
 
 <br>
 
-**Aproveite e ofereça mais possibilidades de sucesso para seus clientes com o GO Consultas!**
+**Aproveite e ofereça mais possibilidades de sucesso para seus clientes com o Sincronização de Feriados!**
 
 </div>
