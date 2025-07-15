@@ -11,7 +11,7 @@
 
 | | |
 |-|-|
-|1️⃣  **Feriados Nacionais:** Válidos em todo território brasileiro  <br><br>2️⃣**Feriados Estaduais:** Específicos do seu estado <br><br>3️⃣**Feriados Municipais:**  Personalizados para sua cidade <br><br>4️⃣ **Apenas feriados obrigatórios:** Evita confusões com datas facultativas |<div><img ![aa](https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.feriados/assets/extensao-sincronizacao-feriados1.png)
+|1️⃣  **Feriados Nacionais:** Válidos em todo território brasileiro  <br><br>2️⃣**Feriados Estaduais:** Específicos do seu estado <br><br>3️⃣**Feriados Municipais:**  Personalizados para sua cidade <br><br>4️⃣ **Apenas feriados obrigatórios:** Evita confusões com datas facultativas |<div>![aa](https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.feriados/assets/extensao-sincronizacao-feriados1.png)
 <br>
 
 
