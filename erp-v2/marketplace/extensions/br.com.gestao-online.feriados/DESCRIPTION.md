@@ -4,14 +4,14 @@
 
 | | |
 |-|-|
-|Uma solução inteligente e automatizada integrada ao seu ERP Gestão Online, desenvolvida para empresas que valorizam o planejamento preciso e a conformidade legal. Com esta extensão, seu sistema mantém-se sempre atualizado com todos os feriados nacionais, estaduais e municipais do Brasil, garantindo que sua equipe nunca mais erre nas programações de atividades ou na geração de documentos em dias não úteis.|![aa](assets/extensao-sincronizacao-feriados.png)|
+|Uma solução inteligente e automatizada integrada ao seu ERP Gestão Online, desenvolvida para empresas que valorizam o planejamento preciso e a conformidade legal. Com esta extensão, seu sistema mantém-se sempre atualizado com todos os feriados nacionais, estaduais e municipais do Brasil, garantindo que sua equipe nunca mais erre nas programações de atividades ou na geração de documentos em dias não úteis.|![aa](https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.feriados/assets/extensao-sincronizacao-feriados.png)|
 
 **Funcionalidades Inteligentes e Automatizadas**
 **Atualização Automática Anual** No primeiro dia de cada janeiro, o sistema se atualiza automaticamente com todos os feriados oficiais do novo ano, sem necessidade de intervenção manual.
 
 | | |
 |-|-|
-|1️⃣  **Feriados Nacionais:** Válidos em todo território brasileiro  <br><br>2️⃣**Feriados Estaduais:** Específicos do seu estado <br><br>3️⃣**Feriados Municipais:**  Personalizados para sua cidade <br><br>4️⃣ **Apenas feriados obrigatórios:** Evita confusões com datas facultativas |<div><img ![aa](assets/extensao-sincronizacao-feriados1.png)
+|1️⃣  **Feriados Nacionais:** Válidos em todo território brasileiro  <br><br>2️⃣**Feriados Estaduais:** Específicos do seu estado <br><br>3️⃣**Feriados Municipais:**  Personalizados para sua cidade <br><br>4️⃣ **Apenas feriados obrigatórios:** Evita confusões com datas facultativas |<div><img ![aa](https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.feriados/assets/extensao-sincronizacao-feriados1.png)
 <br>
 
 
@@ -24,7 +24,7 @@ Cada feriado cadastrado apresenta informações completas:
 <br>
 
 <p align="center">
-  <img src="assets/extensao-sincronizacao-feriados3.gif" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.feriados/assets/extensao-sincronizacao-feriados3.gif" alt="GO DocBuilder GIF">
 </p>
 
 <br>
@@ -44,7 +44,7 @@ Cada feriado cadastrado apresenta informações completas:
 
 | | |
 |-|-|
-|![](assets/extensao-sincronizacao-feriados4.png)  | Imagine que sua empresa precisa definir o cronograma de entregas para o primeiro trimestre. Com a Extensão de Sincronização de Feriados, o sistema automaticamente exclui o Carnaval (municipal), a Sexta-feira Santa (nacional) e qualquer feriado estadual específico da sua região ao calcular os prazos. 
+|![](https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.feriados/assets/extensao-sincronizacao-feriados4.png)  | Imagine que sua empresa precisa definir o cronograma de entregas para o primeiro trimestre. Com a Extensão de Sincronização de Feriados, o sistema automaticamente exclui o Carnaval (municipal), a Sexta-feira Santa (nacional) e qualquer feriado estadual específico da sua região ao calcular os prazos. 
  |
 
 <br>
