@@ -6,7 +6,7 @@
 **Como criar o Template no Google Docs**
 
 <p align="center">
-  <img src="assets/extensao-sincronizacao-feriados5.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.feriados/assets/extensao-sincronizacao-feriados5.png" alt="GO DocBuilder GIF">
 </p>
 ## **Como funciona?**
 
@@ -32,7 +32,7 @@ Cada feriado no seu sistema terá:
 * **Data** (dia e mês)  
 * **Tipo** (Nacional, Estadual ou Municipal)
 <p align="center">
-  <img src="assets/extensao-sincronizacao-feriados6.gif" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.feriados/assets/extensao-sincronizacao-feriados6.gif" alt="GO DocBuilder GIF">
 </p>
 
 
