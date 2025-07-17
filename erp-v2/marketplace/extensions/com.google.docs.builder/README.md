@@ -158,165 +158,273 @@ IMPORTANTE: As variáveis listadas abaixo são POSSÍVEIS para cada tela, mas s�
 </p>
 
 
-### **MOVIMENTAÇÃO (movVenda, movPedido, movRecorrencia)**
+# Tags de Variáveis
 
-#### **Dados Básicos da Movimentação:**
+## **MOVIMENTAÇÃO (movVenda, movPedido, movRecorrencia)**
 
-* $P{id} \- ID da movimentação  
-* $P{tipo} \- Tipo (V, PV, R)  
-* $P{codigo} \- Código interno  
-* $P{codigo\_externo} \- Código externo  
-* $P{status} \- Status da movimentação  
-*  $P{observacao} \- Observações
+### **Dados Básicos da Movimentação:**
 
-  #### **Valores e Financeiro:**
+* $P{movimentacao.id} - ID da movimentação
+* $P{movimentacao.tipo} - Tipo (V, PV, R)
+* $P{movimentacao.codigo} - Código interno
+* $P{movimentacao.codigo_externo} - Código externo
+* $P{movimentacao.status} - Status da movimentação
+* $P{movimentacao.observacao} - Observações
 
-* $P{valor\_total} \- Valor total (formatado: 1.234,56)  
-* $P{valor\_desconto} \- Valor do desconto (formatado)  
-* $P{valor\_frete} \- Valor do frete (formatado)  
-* $P{valor\_retido} \- Valor retido (formatado)  
-*  $P{percentual\_desconto} \- Percentual de desconto
+### **Valores e Financeiro:**
 
-  #### Datas:
+* $P{movimentacao.valor_total} - Valor total (formatado: 1.234,56)
+* $P{movimentacao.valor_desconto} - Valor do desconto (formatado)
+* $P{movimentacao.valor_frete} - Valor do frete (formatado)
+* $P{movimentacao.valor_retido} - Valor retido (formatado)
+* $P{movimentacao.percentual_desconto} - Percentual de desconto
 
-* $P{data\_negociacao} \- Data da negociação (dd/mm/aaaa)  
-* $P{data\_faturamento} \- Data do faturamento (dd/mm/aaaa)
+### **Datas:**
 
-  #### **Itens da Movimentação:**
+* $P{movimentacao.data_negociacao} - Data da negociação (dd/mm/aaaa)
+* $P{movimentacao.data_faturamento} - Data do faturamento (dd/mm/aaaa)
 
-* $P{movimentacao\_itens\_descricao} \- Descrição dos itens  
-*  $P{movimentacao\_itens\_quantidade} \- Quantidade dos itens
+### **Itens da Movimentação:**
 
-  #### **Dados de Recorrência:**
+* $P{movimentacao.movimentacao_itens_descricao} - Descrição dos itens
+* $P{movimentacao.movimentacao_itens_quantidade} - Quantidade dos itens
 
-* $P{recorrencia\_numero\_contrato} \- Número do contrato  
-* $P{recorrencia\_inicio\_contrato} \- Data início (dd/mm/aaaa)  
-* $P{recorrencia\_validade\_contrato} \- Data validade (dd/mm/aaaa)  
-* $P{recorrencia\_periodicidade} \- Periodicidade  
-* $P{recorrencia\_dias\_para\_faturar} \- Dias para faturar  
-* $P{recorrencia\_status} \- Status da recorrência  
-* $P{recorrencia\_tentativa} \- Número de tentativas  
-* $P{recorrencia\_dia\_proxima\_tentativa} \- Próxima tentativa (dd/mm/aaaa)  
-*  $P{recorrencia\_dia\_proxima\_fatura} \- Próxima fatura (dd/mm/aaaa)
+### **Dados de Recorrência:**
 
-  #### **Campos Especiais para Propostas:**
+* $P{movimentacao.recorrencia_numero_contrato} - Número do contrato
+* $P{movimentacao.recorrencia_inicio_contrato} - Data início (dd/mm/aaaa)
+* $P{movimentacao.recorrencia_validade_contrato} - Data validade (dd/mm/aaaa)
+* $P{movimentacao.recorrencia_periodicidade} - Periodicidade
+* $P{movimentacao.recorrencia_dias_para_faturar} - Dias para faturar
+* $P{movimentacao.recorrencia_status} - Status da recorrência
+* $P{movimentacao.recorrencia_tentativa} - Número de tentativas
+* $P{movimentacao.recorrencia_dia_proxima_tentativa} - Próxima tentativa (dd/mm/aaaa)
+* $P{movimentacao.recorrencia_dia_proxima_fatura} - Próxima fatura (dd/mm/aaaa)
 
-* $P{num.proposta} \- Número da proposta  
-* $P{validade.proposta} \- Data de validade da proposta (dd/mm/aaaa)  
-* $P{observacao.proposta} \- Observações da proposta  
-*  $P{contato.nome} \- Nome do contato do parceiro
+### **Campos Especiais para Propostas:**
 
-  #### **Tipo de Movimentação:**
+* $P{num.proposta} - Número da proposta
+* $P{validade.proposta} - Data de validade da proposta (dd/mm/aaaa)
+* $P{observacao.proposta} - Observações da proposta
 
-* $P{tipo\_movimentacao.id} \- ID do tipo  
-* $P{tipo\_movimentacao.descricao} \- Descrição do tipo  
-* $P{tipo\_movimentacao.status} \- Status do tipo  
-*  $P{tipo\_movimentacao.tipo} \- Tipo
+### **Tipo de Movimentação:**
 
-  #### **Tipo de Movimentação Destino:**
+* $P{tipo_movimentacao.id} - ID do tipo
+* $P{tipo_movimentacao.descricao} - Descrição do tipo
+* $P{tipo_movimentacao.status} - Status do tipo
+* $P{tipo_movimentacao.tipo} - Tipo
 
-* $P{tipo\_movimentacao\_destino.id} \- ID do tipo destino  
-* $P{tipo\_movimentacao\_destino.descricao} \- Descrição do tipo destino  
-* $P{tipo\_movimentacao\_destino.status} \- Status do tipo destino  
-*  $P{tipo\_movimentacao\_destino.tipo} \- Tipo destino
+### **Tipo de Movimentação Destino:**
 
-  #### **Tipo de Negociação:**
+* $P{movimentacao.tipo_movimentacao_destino} - Tipo de movimentação destino
 
-* $P{tipo\_negociacao.id} \- ID do tipo de negociação  
-* $P{tipo\_negociacao.descricao} \- Descrição  
-* $P{tipo\_negociacao.status} \- Status  
-*  $P{tipo\_negociacao.codigo} \- Código
+### **Tipo de Negociação:**
 
-  #### **Dados do Parceiro (Cliente):**
+* $P{tipo_de_negociacao.id} - ID do tipo de negociação
+* $P{tipo_de_negociacao.descricao} - Descrição
+* $P{tipo_de_negociacao.status} - Status
+* $P{tipo_de_negociacao.codigo} - Código
 
-* $P{parceiro.id} \- ID do parceiro  
-* $P{parceiro.nome} \- Nome/Razão social  
-* $P{parceiro.razao\_social} \- Razão social  
-* $P{parceiro.cpf\_cnpj} \- CPF/CNPJ (formatado)  
-* $P{parceiro.tipo\_pessoa} \- F (Física) ou J (Jurídica)  
-* $P{parceiro.data\_de\_nascimento} \- Data nascimento (dd/mm/aaaa)  
-* $P{parceiro.codigo} \- Código do parceiro  
-* $P{parceiro.email} \- E-mail  
-* $P{parceiro.telefone} \- Telefone  
-* $P{parceiro.celular} \- Celular  
-* $P{parceiro.telefone\_comercial} \- Telefone comercial  
-* $P{parceiro.cep} \- CEP  
-* $P{parceiro.endereco} \- Endereço  
-* $P{parceiro.numero} \- Número  
-* $P{parceiro.complemento} \- Complemento  
-* $P{parceiro.bairro} \- Bairro  
-* $P{parceiro.cidade} \- Cidade  
-* $P{parceiro.estado} \- Estado  
-*  $P{parceiro.completo} \- Endereço completo
+### **Dados do Parceiro (Cliente):**
 
-  #### **Dados do Parceiro Indicador:**
+* $P{parceiro.id} - ID do parceiro
+* $P{parceiro.nome} - Nome/Razão social
+* $P{parceiro.razao_social} - Razão social
+* $P{parceiro.cpf_cnpj} - CPF/CNPJ (formatado)
+* $P{parceiro.tipo_pessoa} - PF (Pessoa Física) ou PJ (Pessoa Jurídica)
+* $P{parceiro.data_de_nascimento} - Data nascimento (dd/mm/aaaa)
+* $P{parceiro.codigo} - Código do parceiro
+* $P{parceiro.email} - E-mail
+* $P{parceiro.telefone} - Telefone
+* $P{parceiro.celular} - Celular
+* $P{parceiro.telefone_comercial} - Telefone comercial
+* $P{parceiro.cep} - CEP
+* $P{parceiro.endereco} - Endereço
+* $P{parceiro.numero} - Número
+* $P{parceiro.complemento} - Complemento
+* $P{parceiro.bairro} - Bairro
+* $P{parceiro.cidade} - Cidade
+* $P{parceiro.estado} - Estado
 
-* $P{parceiro\_indicador.id} \- ID do indicador  
-* $P{parceiro\_indicador.nome} \- Nome do indicador  
-* $P{parceiro\_indicador.cpf\_cnpj} \- CPF/CNPJ do indicador  
-* $P{parceiro\_indicador.tipo\_pessoa} \- Tipo de pessoa  
-* $P{parceiro\_indicador.data\_de\_nascimento} \- Data nascimento  
-* $P{parceiro\_indicador.codigo} \- Código  
-* $P{parceiro\_indicador.razao\_social} \- Razão social  
-* $P{parceiro\_indicador.email} \- E-mail do indicador  
-* $P{parceiro\_indicador.telefone} \- Telefone do indicador  
-* $P{parceiro\_indicador.celular} \- Celular do indicador  
-* $P{parceiro\_indicador.telefone\_comercial} \- Telefone comercial  
-* $P{parceiro\_indicador.cep} \- CEP  
-* $P{parceiro\_indicador.endereco} \- Endereço do indicador  
-* $P{parceiro\_indicador.numero} \- Número  
-* $P{parceiro\_indicador.complemento} \- Complemento  
-* $P{parceiro\_indicador.bairro} \- Bairro  
-* $P{parceiro\_indicador.cidade} \- Cidade do indicador  
-* $P{parceiro\_indicador.estado} \- Estado do indicador  
-*  $P{parceiro\_indicador.completo} \- Endereço completo
+### **Dados do Parceiro Indicador:**
 
-  #### **Dados da Unidade:**
+* $P{parceiro_indicador.id} - ID do indicador
+* $P{parceiro_indicador.nome} - Nome do indicador
+* $P{parceiro_indicador.cpf_cnpj} - CPF/CNPJ do indicador
+* $P{parceiro_indicador.tipo_pessoa} - Tipo de pessoa
+* $P{parceiro_indicador.data_de_nascimento} - Data nascimento
+* $P{parceiro_indicador.codigo} - Código
+* $P{parceiro_indicador.razao_social} - Razão social
+* $P{parceiro_indicador.email} - E-mail do indicador
+* $P{parceiro_indicador.telefone} - Telefone do indicador
+* $P{parceiro_indicador.celular} - Celular do indicador
+* $P{parceiro_indicador.telefone_comercial} - Telefone comercial
+* $P{parceiro_indicador.cep} - CEP
+* $P{parceiro_indicador.endereco} - Endereço do indicador
+* $P{parceiro_indicador.numero} - Número
+* $P{parceiro_indicador.complemento} - Complemento
+* $P{parceiro_indicador.bairro} - Bairro
+* $P{parceiro_indicador.cidade} - Cidade do indicador
+* $P{parceiro_indicador.estado} - Estado do indicador
 
-* $P{unidade.id} \- ID da unidade  
-* $P{unidade.descricao} \- Descrição da unidade  
-* $P{unidade.identificador} \- Identificador  
-* $P{unidade.descricao\_completa} \- Descrição completa  
-* $P{unidade.status} \- Status da unidade  
-* $P{unidade.codigo} \- Código da unidade  
-* $P{unidade.telefone} \- Telefone da unidade  
-* $P{unidade.celular} \- Celular da unidade  
-* $P{unidade.email} \- E-mail da unidade  
-* $P{unidade.endereco} \- Endereço da unidade  
-* $P{unidade.numero} \- Número da unidade  
-* $P{unidade.complemento} \- Complemento da unidade  
-* $P{unidade.bairro} \- Bairro da unidade  
-* $P{unidade.cidade} \- Cidade da unidade  
-* $P{unidade.estado} \- Estado da unidade
+### **Dados da Unidade:**
 
-  #### **Dados da Empresa:**
+* $P{unidade.id} - ID da unidade
+* $P{unidade.descricao} - Descrição da unidade
+* $P{unidade.identificador} - Identificador
+* $P{unidade.descricao_completa} - Descrição completa
+* $P{unidade.status} - Status da unidade
+* $P{unidade.codigo} - Código da unidade
+* $P{unidade.telefone} - Telefone da unidade
+* $P{unidade.celular} - Celular da unidade
+* $P{unidade.email} - E-mail da unidade
+* $P{unidade.endereco} - Endereço da unidade
+* $P{unidade.numero} - Número da unidade
+* $P{unidade.complemento} - Complemento da unidade
+* $P{unidade.bairro} - Bairro da unidade
+* $P{unidade.cidade} - Cidade da unidade
+* $P{unidade.estado} - Estado da unidade
+* $P{unidade.parceiro} - Parceiro da unidade
 
-* $P{empresa.id} \- ID da empresa  
-* $P{empresa.cnpj} \- CNPJ (formatado)  
-* $P{empresa.inscricao\_estadual} \- Inscrição estadual  
-* $P{empresa.nome\_fantasia} \- Nome fantasia  
-* $P{empresa.telefone} \- Telefone da empresa  
-* $P{empresa.celular} \- Celular da empresa  
-* $P{empresa.email} \- E-mail da empresa  
-* $P{empresa.cep} \- CEP da empresa  
-* $P{empresa.endereco} \- Endereço da empresa  
-* $P{empresa.numero} \- Número da empresa  
-* $P{empresa.complemento} \- Complemento da empresa  
-* $P{empresa.bairro} \- Bairro da empresa  
-* $P{empresa.cidade} \- Cidade da empresa  
-* $P{empresa.estado} \- Estado da empresa
+### **Dados da Empresa:**
 
-  #### **Dados do Vendedor:**
+* $P{empresa.id} - ID da empresa
+* $P{empresa.cnpj} - CNPJ (formatado)
+* $P{empresa.inscricao_estadual} - Inscrição estadual
+* $P{empresa.nome_fantasia} - Nome fantasia
+* $P{empresa.telefone} - Telefone da empresa
+* $P{empresa.celular} - Celular da empresa
+* $P{empresa.email} - E-mail da empresa
+* $P{empresa.cep} - CEP da empresa
+* $P{empresa.endereco} - Endereço da empresa
+* $P{empresa.numero} - Número da empresa
+* $P{empresa.complemento} - Complemento da empresa
+* $P{empresa.bairro} - Bairro da empresa
+* $P{empresa.cidade} - Cidade da empresa
+* $P{empresa.estado} - Estado da empresa
 
-* $P{vendedor.id} \- ID do vendedor  
-* $P{vendedor.nome} \- Nome do vendedor  
-*  $P{vendedor.email} \- E-mail do vendedor
-#### Dados do Parceiro da Unidade (Terceiro Nível):
+### **Dados do Vendedor:**
+
+* $P{vendedor.id} - ID do vendedor
+* $P{vendedor.nome} - Nome do vendedor
+* $P{vendedor.email} - E-mail do vendedor
+
+### **Tags Especiais:**
+
+* $P{total_produtos_geral} - Total geral de todos os grupos
+* $P{total_desconto_geral} - Desconto geral de todos os grupos
+* $P{total_produtos_com_desconto_geral} - Total geral com desconto
+
+## **PARCEIRO (parceiroCliente, parceiroIndicador, parceiroFornecedor)**
+
+### **Dados Completos do Parceiro:**
+
+* $P{parceiro.id} - ID do parceiro
+* $P{parceiro.nome} - Nome
+* $P{parceiro.razao_social} - Razão social
+* $P{parceiro.cpf_cnpj} - CPF/CNPJ (formatado)
+* $P{parceiro.tipo_pessoa} - PF (Pessoa Física) ou PJ (Pessoa Jurídica)
+* $P{parceiro.data_de_nascimento} - Data nascimento (dd/mm/aaaa)
+* $P{parceiro.codigo} - Código do parceiro
+* $P{parceiro.email} - E-mail
+* $P{parceiro.telefone} - Telefone
+* $P{parceiro.celular} - Celular
+* $P{parceiro.telefone_comercial} - Telefone comercial
+* $P{parceiro.cep} - CEP
+* $P{parceiro.endereco} - Endereço
+* $P{parceiro.numero} - Número
+* $P{parceiro.complemento} - Complemento
+* $P{parceiro.bairro} - Bairro
+* $P{parceiro.cidade} - Cidade
+* $P{parceiro.estado} - Estado
+
+
+## **USUÁRIO (usuario)**
+
+### **Dados do Usuário:**
+
+* $P{usuario.id} - ID do usuário
+* $P{usuario.name} - Nome do usuário
+* $P{usuario.email} - E-mail
+* $P{usuario.username} - Nome de usuário
+* $P{usuario.cellphone} - Celular
+* $P{usuario.document} - CPF/CNPJ (formatado)
+* $P{usuario.country} - País
+* $P{usuario.state} - Estado
+* $P{usuario.city} - Cidade
+* $P{usuario.address} - Endereço
+* $P{usuario.zip_code} - CEP
+
+## **UNIDADE (unidade)**
+
+### **Dados da Unidade:**
+
+* $P{unidade.id} - ID da unidade
+* $P{unidade.descricao} - Descrição
+* $P{unidade.identificador} - Identificador
+* $P{unidade.descricao_completa} - Descrição completa
+* $P{unidade.status} - Status da unidade
+* $P{unidade.telefone} - Telefone
+* $P{unidade.celular} - Celular
+* $P{unidade.email} - E-mail
+* $P{unidade.codigo} - Código
+* $P{unidade.endereco} - Endereço
+* $P{unidade.numero} - Número
+* $P{unidade.complemento} - Complemento
+* $P{unidade.bairro} - Bairro
+* $P{unidade.cidade} - Cidade
+* $P{unidade.estado} - Estado
+* $P{unidade.parceiro} - Parceiro associado
+
+## **CONTRATO DE CONTROLE DE UNIDADE (contrato_controle_unidade)**
+
+### **Dados Básicos do Contrato:**
+
+* $P{contratocontroleunidade.id} - ID do contrato
+* $P{contratocontroleunidade.data_validade} - Data de validade (dd/mm/aaaa)
+* $P{contratocontroleunidade.valor_limite} - Valor limite (formatado)
+* $P{contratocontroleunidade.observacao} - Observações
+* $P{contratocontroleunidade.status} - Status do contrato
+* $P{contratocontroleunidade.data_de_alteracao} - Data da última alteração (dd/mm/aaaa)
+* $P{contratocontroleunidade.tipo_contrato} - Tipo do contrato
+* $P{contratocontroleunidade.fechamento_automatico} - Fechamento automático
+* $P{contratocontroleunidade.fa_dia_semana} - Dia da semana para faturamento
+* $P{contratocontroleunidade.fa_dia_mes} - Dia do mês para faturamento
+* $P{contratocontroleunidade.fa_status} - Status do faturamento automático
+* $P{contratocontroleunidade.fa_ultima_data_liberacao_confianca} - Última liberação de confiança
+* $P{contratocontroleunidade.fa_ultima_data_verificacao} - Última verificação
+* $P{contratocontroleunidade.fa_ultima_data_de_tentativa} - Última data de tentativa
+
+### **Dados do Usuário Associado:**
+
+* $P{usuario.id} - ID do usuário
+* $P{usuario.email} - E-mail do usuário
+
+### **Dados da Unidade Associada:**
+
+* $P{unidade.id} - ID da unidade
+* $P{unidade.descricao} - Descrição da unidade
+* $P{unidade.identificador} - Identificador
+* $P{unidade.descricao_completa} - Descrição completa
+* $P{unidade.status} - Status da unidade
+* $P{unidade.telefone} - Telefone da unidade
+* $P{unidade.celular} - Celular da unidade
+* $P{unidade.email} - E-mail da unidade
+* $P{unidade.codigo} - Código da unidade
+* $P{unidade.endereco} - Endereço da unidade
+* $P{unidade.numero} - Número da unidade
+* $P{unidade.complemento} - Complemento da unidade
+* $P{unidade.bairro} - Bairro da unidade
+* $P{unidade.cidade} - Cidade da unidade
+* $P{unidade.estado} - Estado da unidade
+
+### **Dados do Parceiro da Unidade:**
+
 * $P{unidade.parceiro.id} - ID do parceiro da unidade
 * $P{unidade.parceiro.nome} - Nome do parceiro da unidade
 * $P{unidade.parceiro.razao_social} - Razão social
 * $P{unidade.parceiro.cpf_cnpj} - CPF/CNPJ (formatado)
-* $P{unidade.parceiro.tipo_pessoa} - F (Física) ou J (Jurídica)
+* $P{unidade.parceiro.tipo_pessoa} - PF (Pessoa Física) ou PJ (Pessoa Jurídica)
 * $P{unidade.parceiro.data_de_nascimento} - Data nascimento (dd/mm/aaaa)
 * $P{unidade.parceiro.codigo} - Código do parceiro
 * $P{unidade.parceiro.email} - E-mail
@@ -330,415 +438,78 @@ IMPORTANTE: As variáveis listadas abaixo são POSSÍVEIS para cada tela, mas s�
 * $P{unidade.parceiro.bairro} - Bairro
 * $P{unidade.parceiro.cidade} - Cidade
 * $P{unidade.parceiro.estado} - Estado
-* $P{unidade.parceiro.completo} - Endereço completo
-  ### **PARCEIRO (parceiroCliente, parceiroIndicador, parceiroFornecedor)**
 
-  #### **Dados Básicos**:
+### **Dados da Empresa Associada:**
 
-* $P{id} \- ID do parceiro  
-* $P{nome} \- Nome  
-* $P{email} \- E-mail  
-* $P{telefone} \- Telefone  
-* $P{celular} \- Celular  
-*  $P{cpf\_cnpj} \- CPF/CNPJ (formatado)
+* $P{empresa.id} - ID da empresa
+* $P{empresa.cnpj} - CNPJ (formatado)
+* $P{empresa.inscricao_estadual} - Inscrição estadual
+* $P{empresa.nome_fantasia} - Nome fantasia
+* $P{empresa.telefone} - Telefone da empresa
+* $P{empresa.celular} - Celular da empresa
+* $P{empresa.email} - E-mail da empresa
+* $P{empresa.cep} - CEP da empresa
+* $P{empresa.endereco} - Endereço da empresa
+* $P{empresa.numero} - Número da empresa
+* $P{empresa.complemento} - Complemento da empresa
+* $P{empresa.bairro} - Bairro da empresa
+* $P{empresa.cidade} - Cidade da empresa
+* $P{empresa.estado} - Estado da empresa
 
-  #### **Dados Completos do Parceiro:**
+### **Tipo de Negociação do Faturamento Automático:**
 
-* $P{parceiro.nome} \- Nome   
-* $P{parceiro.razao\_social} \- Razão social  
-* $P{parceiro.cpf\_cnpj} \- CPF/CNPJ (formatado)  
-* $P{parceiro.tipo\_pessoa} \- F (Física) ou J (Jurídica)  
-* $P{parceiro.data\_de\_nascimento} \- Data nascimento (dd/mm/aaaa)  
-* $P{parceiro.codigo} \- Código do parceiro  
-* $P{parceiro.email} \- E-mail  
-* $P{parceiro.telefone} \- Telefone  
-* $P{parceiro.celular} \- Celular  
-* $P{parceiro.telefone\_comercial} \- Telefone comercial  
-* $P{parceiro.cep} \- CEP  
-* $P{parceiro.endereco} \- Endereço  
-* $P{parceiro.numero} \- Número  
-* $P{parceiro.complemento} \- Complemento  
-* $P{parceiro.bairro} \- Bairro  
-* $P{parceiro.cidade} \- Cidade  
-* $P{parceiro.estado} \- Estado  
-*  $P{parceiro.completo} \- Endereço completo
+* $P{fa_tipo_de_negociacao.id} - ID do tipo de negociação
+* $P{fa_tipo_de_negociacao.descricao} - Descrição
+* $P{fa_tipo_de_negociacao.status} - Status
+* $P{fa_tipo_de_negociacao.codigo} - Código
 
-  ### **USUÁRIO (usuario)**
+### **Tipo de Movimentação do Faturamento Automático:**
 
-  #### Dados do Usuário:
+* $P{fa_tipo_movimentacao.id} - ID do tipo de movimentação
+* $P{fa_tipo_movimentacao.descricao} - Descrição
+* $P{fa_tipo_movimentacao.status} - Status
+* $P{fa_tipo_movimentacao.tipo} - Tipo
 
-* $P{id} \- ID do usuário  
-* $P{nome} \- Nome do usuário  
-* $P{email} \- E-mail  
-* $P{username} \- Nome de usuário  
-* $P{celular} \- Celular  
-* $P{documento} \- CPF/CNPJ (formatado)  
-* $P{pais} \- País  
-* $P{estado} \- Estado  
-* $P{cidade} \- Cidade  
-* $P{endereco} \- Endereço  
-* $P{cep} \- CEP### **MOVIMENTAÇÃO (movVenda, movPedido, movRecorrencia)**
+### **Última Movimentação do Faturamento Automático:**
 
-#### **Dados Básicos da Movimentação:**
+* $P{fa_ultima_movimentacao.id} - ID da movimentação
+* $P{fa_ultima_movimentacao.codigo} - Código da movimentação
+* $P{fa_ultima_movimentacao.status} - Status da movimentação
+* $P{fa_ultima_movimentacao.valor_total} - Valor total da movimentação (formatado)
 
-* $P{id} \- ID da movimentação  
-* $P{tipo} \- Tipo (V, PV, R)  
-* $P{codigo} \- Código interno  
-* $P{codigo\_externo} \- Código externo  
-* $P{status} \- Status da movimentação  
-* $P{observacao} \- Observações
-
-  #### **Valores e Financeiro:**
-
-* $P{valor\_total} \- Valor total (formatado: 1.234,56)  
-* $P{valor\_desconto} \- Valor do desconto (formatado)  
-* $P{valor\_frete} \- Valor do frete (formatado)  
-* $P{valor\_retido} \- Valor retido (formatado)  
-* $P{percentual\_desconto} \- Percentual de desconto
-
-  #### Datas:
-
-* $P{data\_negociacao} \- Data da negociação (dd/mm/aaaa)  
-* $P{data\_faturamento} \- Data do faturamento (dd/mm/aaaa)
-
-  #### **Itens da Movimentação:**
-
-* $P{movimentacao\_itens\_descricao} \- Descrição dos itens  
-* $P{movimentacao\_itens\_quantidade} \- Quantidade dos itens
-
-  #### **Dados de Recorrência:**
-
-* $P{recorrencia\_numero\_contrato} \- Número do contrato  
-* $P{recorrencia\_inicio\_contrato} \- Data início (dd/mm/aaaa)  
-* $P{recorrencia\_validade\_contrato} \- Data validade (dd/mm/aaaa)  
-* $P{recorrencia\_periodicidade} \- Periodicidade  
-* $P{recorrencia\_dias\_para\_faturar} \- Dias para faturar  
-* $P{recorrencia\_status} \- Status da recorrência  
-* $P{recorrencia\_tentativa} \- Número de tentativas  
-* $P{recorrencia\_dia\_proxima\_tentativa} \- Próxima tentativa (dd/mm/aaaa)  
-* $P{recorrencia\_dia\_proxima\_fatura} \- Próxima fatura (dd/mm/aaaa)
-
-  #### **Campos Especiais para Propostas:**
-
-* $P{num.proposta} \- Número da proposta  
-* $P{validade.proposta} \- Data de validade da proposta (dd/mm/aaaa)  
-* $P{observacao.proposta} \- Observações da proposta  
-*  $P{contato.nome} \- Nome do contato do parceiro
-
-  #### **Tipo de Movimentação:**
-
-* $P{tipo\_movimentacao.id} \- ID do tipo  
-* $P{tipo\_movimentacao.descricao} \- Descrição do tipo  
-* $P{tipo\_movimentacao.status} \- Status do tipo  
-*  $P{tipo\_movimentacao.tipo} \- Tipo
-
-  #### **Tipo de Movimentação Destino:**
-
-* $P{tipo\_movimentacao\_destino.id} \- ID do tipo destino  
-* $P{tipo\_movimentacao\_destino.descricao} \- Descrição do tipo destino  
-* $P{tipo\_movimentacao\_destino.status} \- Status do tipo destino  
-*  $P{tipo\_movimentacao\_destino.tipo} \- Tipo destino
-
-  #### **Tipo de Negociação:**
-
-* $P{tipo\_negociacao.id} \- ID do tipo de negociação  
-* $P{tipo\_negociacao.descricao} \- Descrição  
-* $P{tipo\_negociacao.status} \- Status  
-*  $P{tipo\_negociacao.codigo} \- Código
-
-  #### **Dados do Parceiro (Cliente):**
-
-* $P{parceiro.id} \- ID do parceiro  
-* $P{parceiro.nome} \- Nome/Razão social  
-* $P{parceiro.razao\_social} \- Razão social  
-* $P{parceiro.cpf\_cnpj} \- CPF/CNPJ (formatado)  
-* $P{parceiro.tipo\_pessoa} \- F (Física) ou J (Jurídica)  
-* $P{parceiro.data\_de\_nascimento} \- Data nascimento (dd/mm/aaaa)  
-* $P{parceiro.codigo} \- Código do parceiro  
-* $P{parceiro.email} \- E-mail  
-* $P{parceiro.telefone} \- Telefone  
-* $P{parceiro.celular} \- Celular  
-* $P{parceiro.telefone\_comercial} \- Telefone comercial  
-* $P{parceiro.cep} \- CEP  
-* $P{parceiro.endereco} \- Endereço  
-* $P{parceiro.numero} \- Número  
-* $P{parceiro.complemento} \- Complemento  
-* $P{parceiro.bairro} \- Bairro  
-* $P{parceiro.cidade} \- Cidade  
-* $P{parceiro.estado} \- Estado  
-* $P{parceiro.completo} \- Endereço completo
-
-  #### **Dados do Parceiro Indicador:**
-
-* $P{parceiro\_indicador.id} \- ID do indicador  
-* $P{parceiro\_indicador.nome} \- Nome do indicador  
-* $P{parceiro\_indicador.cpf\_cnpj} \- CPF/CNPJ do indicador  
-* $P{parceiro\_indicador.tipo\_pessoa} \- Tipo de pessoa  
-* $P{parceiro\_indicador.data\_de\_nascimento} \- Data nascimento  
-* $P{parceiro\_indicador.codigo} \- Código  
-* $P{parceiro\_indicador.razao\_social} \- Razão social  
-* $P{parceiro\_indicador.email} \- E-mail do indicador  
-* $P{parceiro\_indicador.telefone} \- Telefone do indicador  
-* $P{parceiro\_indicador.celular} \- Celular do indicador  
-* $P{parceiro\_indicador.telefone\_comercial} \- Telefone comercial  
-* $P{parceiro\_indicador.cep} \- CEP  
-* $P{parceiro\_indicador.endereco} \- Endereço do indicador  
-* $P{parceiro\_indicador.numero} \- Número  
-* $P{parceiro\_indicador.complemento} \- Complemento  
-* $P{parceiro\_indicador.bairro} \- Bairro  
-* $P{parceiro\_indicador.cidade} \- Cidade do indicador  
-* $P{parceiro\_indicador.estado} \- Estado do indicador  
-* $P{parceiro\_indicador.completo} \- Endereço completo
-
-  #### **Dados da Unidade:**
-
-* $P{unidade.id} \- ID da unidade  
-* $P{unidade.descricao} \- Descrição da unidade  
-* $P{unidade.identificador} \- Identificador  
-* $P{unidade.descricao\_completa} \- Descrição completa  
-* $P{unidade.status} \- Status da unidade  
-* $P{unidade.codigo} \- Código da unidade  
-* $P{unidade.telefone} \- Telefone da unidade  
-* $P{unidade.celular} \- Celular da unidade  
-* $P{unidade.email} \- E-mail da unidade  
-* $P{unidade.endereco} \- Endereço da unidade  
-* $P{unidade.numero} \- Número da unidade  
-* $P{unidade.complemento} \- Complemento da unidade  
-* $P{unidade.bairro} \- Bairro da unidade  
-* $P{unidade.cidade} \- Cidade da unidade  
-*  $P{unidade.estado} \- Estado da unidade
-
-  #### **Dados da Empresa:**
-
-* $P{empresa.id} \- ID da empresa  
-* $P{empresa.cnpj} \- CNPJ (formatado)  
-* $P{empresa.inscricao\_estadual} \- Inscrição estadual  
-* $P{empresa.nome\_fantasia} \- Nome fantasia  
-* $P{empresa.telefone} \- Telefone da empresa  
-* $P{empresa.celular} \- Celular da empresa  
-* $P{empresa.email} \- E-mail da empresa  
-* $P{empresa.cep} \- CEP da empresa  
-* $P{empresa.endereco} \- Endereço da empresa  
-* $P{empresa.numero} \- Número da empresa  
-* $P{empresa.complemento} \- Complemento da empresa  
-* $P{empresa.bairro} \- Bairro da empresa  
-* $P{empresa.cidade} \- Cidade da empresa  
-* $P{empresa.estado} \- Estado da empresa
-
-  #### **Dados do Vendedor:**
-
-* $P{vendedor.id} \- ID do vendedor  
-* $P{vendedor.nome} \- Nome do vendedor  
-* $P{vendedor.email} \- E-mail do vendedor
-
-  ### **PARCEIRO (parceiroCliente, parceiroIndicador, parceiroFornecedor)**
-
-  #### **Dados Básicos**:
-
-* $P{id} \- ID do parceiro  
-* $P{nome} \- Nome  
-* $P{email} \- E-mail  
-* $P{telefone} \- Telefone  
-* $P{celular} \- Celular  
-* $P{cpf\_cnpj} \- CPF/CNPJ (formatado)
-
-  #### **Dados Completos do Parceiro:**
-
-* $P{parceiro.nome} \- Nome   
-* $P{parceiro.razao\_social} \- Razão social  
-* $P{parceiro.cpf\_cnpj} \- CPF/CNPJ (formatado)  
-* $P{parceiro.tipo\_pessoa} \- F (Física) ou J (Jurídica)  
-* $P{parceiro.data\_de\_nascimento} \- Data nascimento (dd/mm/aaaa)  
-* $P{parceiro.codigo} \- Código do parceiro  
-* $P{parceiro.email} \- E-mail  
-* $P{parceiro.telefone} \- Telefone  
-* $P{parceiro.celular} \- Celular  
-* $P{parceiro.telefone\_comercial} \- Telefone comercial  
-* $P{parceiro.cep} \- CEP  
-* $P{parceiro.endereco} \- Endereço  
-* $P{parceiro.numero} \- Número  
-* $P{parceiro.complemento} \- Complemento  
-* $P{parceiro.bairro} \- Bairro  
-* $P{parceiro.cidade} \- Cidade  
-* $P{parceiro.estado} \- Estado  
-* $P{parceiro.completo} \- Endereço completo
-
-  ### **USUÁRIO (usuario)**
-
-  #### Dados do Usuário:
-
-* $P{id} \- ID do usuário  
-* $P{nome} \- Nome do usuário  
-* $P{email} \- E-mail  
-
-  ### UNIDADE (unidade)
-
-  #### **Dados da Unidade:**
-
-* $P{id} \- ID da unidade  
-* $P{descricao} \- Descrição  
-* $P{telefone} \- Telefone  
-* $P{email} \- E-mail  
-* $P{unidade.descricao} \- Descrição (com prefixo)  
-* $P{unidade.identificador} \- Identificador  
-* $P{unidade.codigo} \- Código  
-* $P{unidade.telefone} \- Telefone  
-* $P{unidade.email} \- E-mail  
-* $P{unidade.endereco} \- Endereço  
-* $P{unidade.cidade} \- Cidade  
-* $P{unidade.estado} \- Estado
-#### Dados do Parceiro Associado:
-* P{unidade.parceiro.id} - ID do parceiro
-* $P{unidade.parceiro.nome} - Nome do parceiro
-* $P{unidade.parceiro.razao_social} - Razão social
-* $P{unidade.parceiro.cpf_cnpj} - CPF/CNPJ (formatado)
-* $P{unidade.parceiro.tipo_pessoa} - F (Física) ou J (Jurídica)
-* $P{unidade.parceiro.data_de_nascimento} - Data nascimento (dd/mm/aaaa)
-* $P{unidade.parceiro.codigo} - Código do parceiro
-* $P{unidade.parceiro.email} - E-mail
-* $P{unidade.parceiro.telefone} - Telefone
-* $P{unidade.parceiro.celular} - Celular
-* $P{unidade.parceiro.telefone_comercial} - Telefone comercial
-* $P{unidade.parceiro.cep} - CEP
-* $P{unidade.parceiro.endereco} - Endereço
-* $P{unidade.parceiro.numero} - Número
-* $P{unidade.parceiro.complemento} - Complemento
-* $P{unidade.parceiro.bairro} - Bairro
-* $P{unidade.parceiro.cidade} - Cidade
-* $P{unidade.parceiro.estado} - Estado
-* $P{unidade.parceiro.completo} - Endereço completo
-  ### **CONTRATO DE CONTROLE DE UNIDADE (contrato\_controle\_unidade)**
-
-  #### **Dados Básicos do Contrato:**
-
-* $P{id} \- ID do contrato  
-* $P{data\_validade} \- Data de validade  
-* $P{valor\_limite} \- Valor limite  
-* $P{observacao} \- Observações  
-* $P{status} \- Status do contrato  
-* $P{data\_de\_alteracao} \- Data da última alteração  
-* $P{tipo\_contrato} \- Tipo do contrato  
-* $P{fechamento\_automatico} \- Fechamento automático  
-* $P{fa\_dia\_semana} \- Dia da semana para faturamento  
-* $P{fa\_dia\_mes} \- Dia do mês para faturamento  
-* $P{fa\_status} \- Status do faturamento automático  
-* $P{fa\_ultima\_data\_liberacao\_confianca} \- Última liberação de confiança  
-* $P{fa\_ultima\_data\_verificacao} \- Última verificação
-
-  #### **Dados da Empresa Associada:**
-
-* $P{empresa.id} \- ID da empresa  
-* $P{empresa.cnpj} \- CNPJ (formatado)  
-* $P{empresa.inscricao\_estadual} \- Inscrição estadual  
-* $P{empresa.nome\_fantasia} \- Nome fantasia  
-* $P{empresa.telefone} \- Telefone da empresa  
-* $P{empresa.celular} \- Celular da empresa  
-* $P{empresa.email} \- E-mail da empresa  
-* $P{empresa.cep} \- CEP da empresa  
-* $P{empresa.endereco} \- Endereço da empresa  
-* $P{empresa.numero} \- Número da empresa  
-* $P{empresa.complemento} \- Complemento da empresa  
-* $P{empresa.bairro} \- Bairro da empresa  
-* $P{empresa.cidade} \- Cidade da empresa  
-*  $P{empresa.estado} \- Estado da empresa
-
-  #### **Dados do Usuário Associado:**
-
-* $P{usuario.id} \- ID do usuário  
-* $P{usuario.nome} \- Nome do usuário  
-* $P{usuario.email} \- E-mail do usuário
-
-  #### Dados da Unidade Associada:
-
-* $P{unidade.id} \- ID da unidade  
-* $P{unidade.descricao} \- Descrição da unidade  
-* $P{unidade.identificador} \- Identificador  
-* $P{unidade.descricao\_completa} \- Descrição completa  
-* $P{unidade.status} \- Status da unidade  
-* $P{unidade.telefone} \- Telefone da unidade  
-* $P{unidade.celular} \- Celular da unidade  
-* $P{unidade.email} \- E-mail da unidade  
-* $P{unidade.codigo} \- Código da unidade  
-* $P{unidade.endereco} \- Endereço da unidade  
-* $P{unidade.numero} \- Número da unidade  
-* $P{unidade.complemento} \- Complemento da unidade  
-* $P{unidade.bairro} \- Bairro da unidade  
-* $P{unidade.cidade} \- Cidade da unidade  
-* $P{unidade.estado} \- Estado da unidade
-
-  #### Tipo de Negociação do Faturamento Automático:
-
-* $P{fa\_tipo\_de\_negociacao.id} \- ID do tipo de negociação  
-* $P{fa\_tipo\_de\_negociacao.descricao} \- Descrição  
-* $P{fa\_tipo\_de\_negociacao.status} \- Status  
-* $P{fa\_tipo\_de\_negociacao.codigo} \- Código
-
-  #### Tipo de Movimentação do Faturamento Automático:
-
-* $P{fa\_tipo\_movimentacao.id} \- ID do tipo de movimentação  
-* $P{fa\_tipo\_movimentacao.descricao} \- Descrição  
-* $P{fa\_tipo\_movimentacao.status} \- Status  
- * $P{fa\_tipo\_movimentacao.tipo} \- Tipo
-
-  #### Última Movimentação do Faturamento Automático:
-
-* $P{fa\_ultima\_movimentacao.id} \- ID da movimentação  
-* $P{fa\_ultima\_movimentacao.codigo} \- Código da movimentação  
-* $P{fa\_ultima\_movimentacao.status} \- Status da movimentação  
- * $P{fa\_ultima\_movimentacao.valor\_total} \- Valor total da movimentação
-#### Dados do Parceiro da Unidade 
-* $P{unidade.parceiro.id} - ID do parceiro da unidade
-* $P{unidade.parceiro.nome} - Nome do parceiro da unidade
-* $P{unidade.parceiro.razao_social} - Razão social
-* $P{unidade.parceiro.cpf_cnpj} - CPF/CNPJ (formatado)
-* $P{unidade.parceiro.tipo_pessoa} - F (Física) ou J (Jurídica)
-* $P{unidade.parceiro.data_de_nascimento} - Data nascimento (dd/mm/aaaa)
-* $P{unidade.parceiro.codigo} - Código do parceiro
-* $P{unidade.parceiro.email} - E-mail
-* $P{unidade.parceiro.telefone} - Telefone
-* $P{unidade.parceiro.celular} - Celular
-* $P{unidade.parceiro.telefone_comercial} - Telefone comercial
-* $P{unidade.parceiro.cep} - CEP
-* $P{unidade.parceiro.endereco} - Endereço
-* $P{unidade.parceiro.numero} - Número
-* $P{unidade.parceiro.complemento} - Complemento
-* $P{unidade.parceiro.bairro} - Bairro
-* $P{unidade.parceiro.cidade} - Cidade
-* $P{unidade.parceiro.estado} - Estado
-* $P{unidade.parceiro.completo} - Endereço completo
 ## **Tabelas Dinâmicas com Itens de Movimentação**
 
 Para movimentações com múltiplos itens, você pode criar tabelas que se repetem automaticamente:
 
-1. Crie uma tabela no Google Docs com os cabeçalhos desejados  
-2. Na linha de dados, use o formato especial com `[...]`:  
-* $P{NomeDoGrupo\[...\].quantidade}  
-* $P{NomeDoGrupo\[...\].valor\_unitario}  
-* $P{NomeDoGrupo\[...\].produto.descricao}  
-* $P{NomeDoGrupo\[...\].produto.descricao\_complementar}  
-* $P{NomeDoGrupo\[...\].valor\_total}
+1. Crie uma tabela no Google Docs com os cabeçalhos desejados
+2. Na linha de dados, use o formato especial com `[...]`:
+   * $P{NomeDoGrupo[...].quantidade}
+   * $P{NomeDoGrupo[...].valor_unitario}
+   * $P{NomeDoGrupo[...].produto.descricao}
+   * $P{NomeDoGrupo[...].produto.descricao_complementar}
+   * $P{NomeDoGrupo[...].valor_total}
 
 O sistema automaticamente:
-
-* Agrupa itens por categoria de produto  
-* Replica a linha para cada item do grupo  
+* Agrupa itens por categoria de produto
+* Replica a linha para cada item do grupo
 * Substitui `[...]` por `[0]`, `[1]`, `[2]`, etc.
 
-  ### Exemplo de tabela:
+### Exemplo de tabela:
 
 | Produto | Quantidade | Valor Unit. | Total |
-| ----- | ----- | ----- | ----- |
-| $P{Licencas\[...\].produto.descricao} | $P{Licencas\[...\].quantidade} | $P{Licencas\[...\].valor\_unitario} | $P{Licencas\[...\].valor\_total} |
+|---------|------------|-------------|-------|
+| $P{Licencas[...].produto.descricao} | $P{Licencas[...].quantidade} | $P{Licencas[...].valor_unitario} | $P{Licencas[...].valor_total} |
 
-  ### Tags de Totalizadores Disponíveis:
+### Tags de Totalizadores Disponíveis:
 
-* $P{NomeDoGrupo.total\_produtos} \- Total do grupo sem desconto  
-* $P{NomeDoGrupo.total\_desconto} \- Total de desconto do grupo  
-* $P{NomeDoGrupo.total\_produtos\_com\_desconto} \- Total com desconto aplicado  
-* $P{total\_produtos\_geral} \- Total geral de todos os grupos  
-* $P{total\_desconto\_geral} \- Desconto geral de todos os grupos  
-* $P{total\_produtos\_com\_desconto\_geral} \- Total geral com desconto
+* $P{NomeDoGrupo.total_produtos} - Total do grupo sem desconto
+* $P{NomeDoGrupo.total_desconto} - Total de desconto do grupo
+* $P{NomeDoGrupo.total_produtos_com_desconto} - Total com desconto aplicado
+* $P{total_produtos_geral} - Total geral de todos os grupos
+* $P{total_desconto_geral} - Desconto geral de todos os grupos
+* $P{total_produtos_com_desconto_geral} - Total geral com desconto
 
+---
 # **`$P{tags}` — Listagem de todas as variáveis disponíveis na tela** 
 
 A extensão GO DocBuilder suporta a utilização da variável especial `$P{tags}` dentro do modelo do Google Docs. Essa variável serve para exibir todas as variáveis (tags) disponíveis no momento da geração do documento, juntamente com seus respectivos valores.
