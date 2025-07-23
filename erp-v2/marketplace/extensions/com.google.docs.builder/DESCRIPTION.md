@@ -9,7 +9,7 @@
 
 | | | |
 |-|-|-|
-|O GO DocBuilder oferece uma integração perfeita entre seus dados empresariais e a criação de documentos profissionais, eliminando a necessidade de digitação manual e garantindo consistência em todos os seus documentos corporativos.|<p style="color: white;">__</p>|![GO DocBuilder GIF](assets/extensao-GO-DocBuilder.gif)|
+|O GO DocBuilder oferece uma integração perfeita entre seus dados empresariais e a criação de documentos profissionais, eliminando a necessidade de digitação manual e garantindo consistência em todos os seus documentos corporativos.|<p style="color: white;">__</p>|![GO DocBuilder GIF](https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder.gif)|
 
 
 <br>
@@ -25,13 +25,13 @@
 
 | | | | |
 |-|-|-|-| 
-|![](assets/extensao-GO-DocBuilder1.png)  |<p style="color: white;"> ___ </p>|**Integração Direta e Automática** Conecte templates do Google Docs diretamente ao Gestão Online, permitindo geração instantânea de documentos com dados atualizados em tempo real.<br><br>**Personalização Avançada** Configure botões específicos para diferentes telas e tipos de usuário, garantindo que cada equipe tenha acesso aos documentos adequados ao seu perfil.<br><br>**Tabelas Dinâmicas** Gere automaticamente tabelas com itens de movimentação, agrupando produtos por categoria e calculando totais, descontos e valores finais.<br><br>**Anexação Automática** Configure para que os documentos gerados sejam automaticamente anexados aos registros correspondentes, criando um histórico.<br><br> **Automatização Inteligente** O sistema identifica automaticamente que tipo de documento gerar baseado no contexto (venda, contrato, proposta), aplicando as variáveis corretas automaticamente
+|![](https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder1.png)  |<p style="color: white;"> ___ </p>|**Integração Direta e Automática** Conecte templates do Google Docs diretamente ao Gestão Online, permitindo geração instantânea de documentos com dados atualizados em tempo real.<br><br>**Personalização Avançada** Configure botões específicos para diferentes telas e tipos de usuário, garantindo que cada equipe tenha acesso aos documentos adequados ao seu perfil.<br><br>**Tabelas Dinâmicas** Gere automaticamente tabelas com itens de movimentação, agrupando produtos por categoria e calculando totais, descontos e valores finais.<br><br>**Anexação Automática** Configure para que os documentos gerados sejam automaticamente anexados aos registros correspondentes, criando um histórico.<br><br> **Automatização Inteligente** O sistema identifica automaticamente que tipo de documento gerar baseado no contexto (venda, contrato, proposta), aplicando as variáveis corretas automaticamente
 
 <br>
 
 | | | |
 |-|-|-|
-|**Como Funciona na Prática**<br><br>O GO DocBuilder utiliza um sistema inteligente de variáveis que se conecta diretamente aos dados do Gestão Online:<br><br>1. **Template Inteligente**: Crie seu modelo no Google Docs usando variáveis como `$P{parceiro.nome}`, `$P{valor_total}`, etc.<br><br>2. **Configuração Simples**: Configure quais documentos aparecerão em cada tela do sistema, definindo permissões por perfil de usuário.<br><br>3. **Geração Instantânea**: Com um clique, o sistema busca o template, substitui todas as variáveis pelos dados reais e gera um PDF profissional.<br><br>4. **Formulários Dinâmicos**: Se configurado, apresenta um formulário personalizado para coletar informações específicas antes da geração.<br><br>5. **Entrega Automática**: O documento é gerado instantaneamente e pode ser baixado, visualizado ou anexado automaticamente ao registro.|<p style="color: white;">__</p>|![](assets/extensao-GO-DocBuilder2.png)|
+|**Como Funciona na Prática**<br><br>O GO DocBuilder utiliza um sistema inteligente de variáveis que se conecta diretamente aos dados do Gestão Online:<br><br>1. **Template Inteligente**: Crie seu modelo no Google Docs usando variáveis como `$P{parceiro.nome}`, `$P{valor_total}`, etc.<br><br>2. **Configuração Simples**: Configure quais documentos aparecerão em cada tela do sistema, definindo permissões por perfil de usuário.<br><br>3. **Geração Instantânea**: Com um clique, o sistema busca o template, substitui todas as variáveis pelos dados reais e gera um PDF profissional.<br><br>4. **Formulários Dinâmicos**: Se configurado, apresenta um formulário personalizado para coletar informações específicas antes da geração.<br><br>5. **Entrega Automática**: O documento é gerado instantaneamente e pode ser baixado, visualizado ou anexado automaticamente ao registro.|<p style="color: white;">__</p>|![](https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/com.google.docs.builder/assets/extensao-GO-DocBuilder2.png)|
 
 
 <br>

@@ -52,7 +52,7 @@ Faça login no Portal de Serviços do SERPRO utilizando o certificado digital e�
 
 1.  Após a aprovação, acesse a área do cliente no portal.
 <p align="center">
-  <img src="assets/extensao-consulta5.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.consulta-documento/assets/extensao-consulta5.png" alt="GO DocBuilder GIF">
 </p>
 
 2.  Localize a aplicação criada e clique em Visualizar chaves.
@@ -63,7 +63,7 @@ Faça login no Portal de Serviços do SERPRO utilizando o certificado digital e�
 
 Importante: mantenha a Consumer Secret em sigilo. Ela concede acesso total às APIs contratadas.
 <p align="center">
-  <img src="assets/extensao-consulta4.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.consulta-documento/assets/extensao-consulta4.png" alt="GO DocBuilder GIF">
 </p>
 
 ### Configurando na extensão
@@ -92,7 +92,7 @@ Payload:
 *   O sistema preenche automaticamente
   
 <p align="center">
-  <img src="assets/extensao-consulta6.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.consulta-documento/assets/extensao-consulta6.png" alt="GO DocBuilder GIF">
 </p>
 
 #### Salvar configuração
@@ -106,7 +106,7 @@ Como usar
 
 Para acessar os dados do cliente, entre no cadastro da venda e clique no botão “+” localizado na seção Cliente/Parceiro.
 <p align="center">
-  <img src="assets/extensao-consulta.gif" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.consulta-documento/assets/extensao-consulta.gif" alt="GO DocBuilder GIF">
 </p>
 
 
@@ -121,14 +121,14 @@ Para acessar os dados do cliente, entre no cadastro da venda e clique no botão 
 *   Só números: 12345678900
 *   Ambos funcionam
 <p align="center">
-  <img src="assets/extensao-consulta2.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.consulta-documento/assets/extensao-consulta2.png" alt="GO DocBuilder GIF">
 </p>
 ####  Executar consulta
 
 Após digitar o CPF, localize o botão "Consultar CPF", que aparece próximo ao campo. Clique no botão e aguarde o processamento por alguns segundos.
 
 <p align="center">
-  <img src="assets/extensao-consulta3.png" alt="GO DocBuilder GIF">
+  <img src="https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/marketplace/extensions/br.com.gestao-online.consulta-documento/assets/extensao-consulta3.png" alt="GO DocBuilder GIF">
 </p>
 
 
