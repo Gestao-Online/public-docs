@@ -18,7 +18,7 @@ O primeiro campo a ser alterado é o de Tipo de Movimentação. Essa regra permi
     <img src="./assets/config_agenda_movimentacao_02.png" alt="Campo tipo de movimentação" width="800"> 
 </div>
 
-Na mesma sequência, defina agora o intervalo mínimo entre os agendamentos que serão criados. Vale lembrar que em cada horário que for configurar, você poderá colocar um intervalo maior do que este, caso seja necessário, porém, nunca poderá ser menor que o definido neste campo.
+Este campo define o intervalo, em minutos, entre os agendamentos disponíveis, no momento em que você for clicar no botão consulta de horários, que estará disponível na tela da venda, e demonstramos mais abaixo nas explicações.
 
 <div style="text-align: center">
     <img src="./assets/config_agenda_movimentacao_03.png" alt="Campo intervalo mínimo" width="800"> 
@@ -67,7 +67,7 @@ O próximo campo a ser preenchido é o de intervalo entre horários. Valendo a r
 
 <br>
 
-O último item a ser configurado, são os slots disponíveis para preencher os horários. Um exemplo interssante de uso para este campo, seria com a definição da quantidade de pessoas disponíveis para atender os clientes nos horários agendados. Então conforme preenchido o exemplo, se definirmos o número 3, nós teremos três horários repetidos para utilizar, e assim sucessivamente.
+O último item a ser configurado, são os slots disponíveis para preencher os horários. Um exemplo interessante de uso para este campo, seria com a definição da quantidade de pessoas disponíveis para atender os clientes nos horários agendados. Então conforme preenchido o exemplo, se definirmos o número 3, nós teremos três horários repetidos para utilizar, e assim sucessivamente.
 
 <div style="text-align: center">
     <img src="./assets/config_agenda_movimentacao_10.png" alt="Slots disponíveis" width="800"> 
@@ -92,7 +92,7 @@ Agora com todos os campos devidamente configurados, vamos clicar no botão **Sal
 
 ## Criando um agendamento
 
-Após configurado, você pode acessar uma das vendas no seu sistema Gestão Online e verificar que agora existe um novo botão disponível no menu superior (Vale frisar que o botão só está aparecendo devido o Tipo de Movimentação ter sido validado no momento da configuração explicada anteriormente).
+Após configurado, você pode acessar uma das vendas no seu sistema Gestão Online e verificar que agora existe um novo botão disponível no menu superior.
 
 <div style="text-align: center">
     <img src="./assets/config_agenda_movimentacao_14.png" alt="Botão agendamento" width="800"> 
@@ -128,7 +128,7 @@ Observe que ao clicar em um item, ele será mostrado a você em detalhes com os 
 
 <br>
 
-O mesmo vale para os agendamento Avulsos, ou vindos do Atendimento Express, ambos possuem uma coloração diferente para cada situação, sendo os itens de cor cinza, agendamentos avulso que você consegue criar através da tela de Vendas, ou os itens vemelhos que são criados a partir do atendimento express (Caso possua esta extensão instalada).
+O mesmo vale para os agendamentos Avulsos, ambos possuem uma coloração diferente para cada situação, sendo os itens de cor cinza, agendamentos avulso que você consegue criar através da tela de Vendas, ou os itens verdes que são criados a partir do atendimento express (Caso possua esta extensão instalada) ou agendamento direto na venda.
 
 <div style="text-align: center">
     <img src="./assets/config_agenda_movimentacao_19.png" alt="Dashboard - Agendamento de movimentações" width="800"> 
