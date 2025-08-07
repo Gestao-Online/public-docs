@@ -4,7 +4,7 @@
 
 | |<p style="color: white;">__</p> | | 
 |-|-|-|
-|Agora ficou ainda mais fácil gerenciar seus atendimentos no Gestão Online. Com a nova extensão **Agendamento de Movimentações**, você pode programar o dia e o horário exatos em que irá realizar a entrega de seu produto/serviço com seu cliente. | |![](./assets/extensao_agenda_movimentacao_01.jpg) |
+|Agora ficou ainda mais fácil gerenciar seus atendimentos no Gestão Online. Com a nova extensão **Agendamento de Movimentações**, você pode programar o dia e o horário exatos em que irá realizar a entrega de seu produto/serviço com seu cliente. | |![](https://github.com/Gestao-Online/public-docs/blob/f8938c48a1c07d0bdc605116c0ba7b1c3e631463/erp-v2/marketplace/extensions/br.com.gestao-online.agenda-movimentacao/assets/extensao_agenda_movimentacao_01.jpg?raw=true) |
 
 ### Principais benefícios
 
@@ -23,13 +23,13 @@ Além da criação desses agendamentos de movimentações e avulsos, você vai c
 
 Ao instalar no seu sistema e realizar as configurações necessárias, você verá que ao abrir uma venda, um novo botão ficará disponível no menu superior, permitindo, assim, criar o agendamento baseado na configuração que realizou na extensão (data e horários disponíveis). 
 
-![](./assets/config_agenda_movimentacao_16.gif)
+![](https://github.com/Gestao-Online/public-docs/blob/f8938c48a1c07d0bdc605116c0ba7b1c3e631463/erp-v2/marketplace/extensions/br.com.gestao-online.agenda-movimentacao/assets/config_agenda_movimentacao_16.gif?raw=true)
 
 <br>
 
 Você ainda terá acesso a um dashboard personalizado que permitirá acompanhar todos os agendamentos criados, tendo uma visão mais ampla de tudo o que foi criado no mês ou na semana, podendo também abrir os agendamentos e verificar suas descrições.
 
-![](./assets/config_agenda_movimentacao_19.png)
+![](https://github.com/Gestao-Online/public-docs/blob/f8938c48a1c07d0bdc605116c0ba7b1c3e631463/erp-v2/marketplace/extensions/br.com.gestao-online.agenda-movimentacao/assets/config_agenda_movimentacao_19.png?raw=true)
 
 <br>
 
