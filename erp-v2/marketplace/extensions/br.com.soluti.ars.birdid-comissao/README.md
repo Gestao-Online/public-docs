@@ -92,5 +92,5 @@ Agora com o painel configurado, você pode em seu Gestão Online, acessar a Lupa
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/d0d9ae5ff96bc2deefa9157bbef8377b9377740e/erp-v2/marketplace/extensions/br.com.soluti.ars.birdid-comissao/assets/extensao_birdid_comissao_02.gif?raw=true" alt="" width="800"> 
 </div>
-
+ 
 </div>
