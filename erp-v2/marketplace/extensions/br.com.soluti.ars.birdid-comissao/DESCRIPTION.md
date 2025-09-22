@@ -4,7 +4,7 @@
 
 | | |
 |-|-|
-|O Painel de Comissão do BirdID foi desenvolvido para oferecer aos revendedores e franqueados uma solução completa e prática para a gestão de suas comissões diretamente no seu Gestão Online.<br><br>Com ele, você tem acesso a informações exclusivas e gráficos específicos que agilizam o acompanhamento das recargas, tudo em um único lugar.|![](https://github.com/Gestao-Online/public-docs/blob/d0d9ae5ff96bc2deefa9157bbef8377b9377740e/erp-v2/marketplace/extensions/br.com.soluti.ars.birdid-comissao/assets/extensao_birdid_comissao_01.png?raw=true) |
+|O Painel de Comissão do BirdID foi desenvolvido para oferecer aos revendedores e franqueados, uma solução completa e prática para a gestão de suas comissões diretamente no seu Gestão Online.<br><br>Com ele, você tem acesso a informações exclusivas e gráficos específicos que agilizam o acompanhamento das recargas, tudo em um único lugar.|![](https://github.com/Gestao-Online/public-docs/blob/d0d9ae5ff96bc2deefa9157bbef8377b9377740e/erp-v2/marketplace/extensions/br.com.soluti.ars.birdid-comissao/assets/extensao_birdid_comissao_01.png?raw=true) |
 
 <br>
 
