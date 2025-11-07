@@ -130,7 +130,7 @@ Em nosso exemplo, vamos escolher a opção **Boleto - GOPag**. Observe abaixo:
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_tipo_negociacao.png)
 
-Logo ao lado, temos o campo **Fechamento automático tipo de movimentação**, lembre-se que ele tem vinculado com a tela **Tipo de movimentação** e as opções que ele trará, são as cadastradas nesta tela. 😁
+Logo ao lado, temos o campo **Fechamento automático tipo de movimentação**, lembre-se que ele está vinculado com a tela **Tipo de movimentação** e as opções que ele trará, são as cadastradas nesta tela. 😁
 
 {% hint style="warning" %}
 **Tipo de movimentação:** Caso queira mais informações sobre como utilizar a tela tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
@@ -198,7 +198,7 @@ Aqui estão todas as movimentações pendentes, que estão na fila para entrarem
 
 As movimentações que aparecem aqui, dentro das regras criadas no "Fechamento automático", serão apuradas resultando em **uma linha na movimentação de saldo**, sendo ela de débito (caso o fechamento seja negativo, ou seja a unidade tem algo a pagar para a empresa). Ou sendo ela de crédito (caso o fechamento seja positivo, ou seja a unidade tem algo para receber da empresa)
 
-Observe o exemplo abaixo, foi criado o contrato com fechamento automático todo mês no dia 01 e 16. É importar lembrar que a funcionalidade desse fechamento tem um vínculo com a tela **Tipo de movimentação**, pois nela, precisa estar ativado a opção _Atualiza controle de unidade_.
+Observe o exemplo abaixo, foi criado o contrato com fechamento automático todo mês no dia 01 e 16. É importante lembrar que a funcionalidade desse fechamento tem um vínculo com a tela **Tipo de movimentação**, pois nela, precisa estar ativado a opção _Atualiza controle de unidade_.
 
 {% hint style="warning" %}
 **Tipo de movimentação:** Caso queira mais informações sobre essa tela, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).

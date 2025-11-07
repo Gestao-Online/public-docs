@@ -100,9 +100,7 @@ Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo marcar
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_tipo_parceiro.gif)
 
-No campo **parceiro indicador**, você coloca o nome de um cliente/parceiro que fez a indicação para o cadastro. Este campo está vinculado ao sistema de pagamento de comissões, que está presente no momento da realização de uma venda. Caso queira mais informações sobre **parceiros indicadores** [**`clique aqui`**](/erp-v2/funcionalidades/indicadores_afiliados/parceiros_indicadores.md).
-
-Em nossa demonstração, não utilizaremos o parceiro indicador, pois este cadastro se trata justamente desta função.
+No campo **parceiro indicador**, você coloca o nome de um cliente/parceiro que fez a indicação para o cadastro. Este campo está vinculado ao sistema de pagamento de comissões. Neste caso como estamos configurando um parceiro indicador, não é necessário o preenchimento deste campo. Agora, caso este novo parceiro tenha sido indicado por um outro indicador que irá receber comissão, então deve ser preenchido, para que em caso futuro haja alguma venda deste parceiro como cliente, as comissões sejam computadas corretamente.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_tipo_parceiro_indicador.png)
 
@@ -120,7 +118,7 @@ Nesta parte, você precisa preencher os dados conforme as orientações do conta
 
 Na parte de detalhes sobre este indicador que você está cadastrando, pode colocar uma **etiqueta** para facilitar na busca/organização, deixar alguma descrição importante para caso precise. 
 
-E ainda pode definir um vendedor para atender este indicador. Este vínculo faz com que somente este vendedor atenda a ele. Se deixar o espaço em branco, qualquer vendedor poderá atendê-lo em uma venda.
+E ainda pode definir um vendedor específico este indicador podendo te auxiliar na emissão de futuros relatórios dentro do sistema. E este mesmo vínculo faz com que somente este vendedor atenda a ele (em caso de vendas como cliente). Se deixar o espaço em branco, outro vendedor de mesmo perfil de permissão poderá atendê-lo em uma venda.
 
 {% hint style="warning" %}
 **Vendedores:** Caso queira mais informações sobre cadastro de vendedores, [**`clique aqui`**](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md).
@@ -138,7 +136,7 @@ Os demais campos serão preenchidos por nosso sistema, para controle interno. Ob
 
 ### Dados da parceria de indicação
 
-Por último, em dados de parceria, você pode colocar uma descrição da parceria que ficará em páginas públicas, LandingPages/Venda Online, Link de pagamento, etc. Pode também inserir uma imagem com a logo desse indicador para aparecer em links de vendas online.
+Por último, em dados de parceria, você pode colocar uma descrição da parceria que ficará em páginas públicas, LandingPages/Venda Online, Link de pagamento, etc. Pode também inserir uma imagem com a logo desse indicador para aparecer em seu link de vendas online (Caso tenha instalado o módulo de Loja Virtual).
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campos_dados_parceria.gif)
 
@@ -146,29 +144,66 @@ No campo **Categoria parceiro**, você pode organizar em casos de parceria de in
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campos_categoria_parceiro.png)
 
-Ao lado, no campo tabela de preço indicação, você coloca a tabela de preço que contenha os ganhos/comissões por indicação de vendas, e ao lado deste campo você coloca a data de início da parceria de indicação.  Para mais informações sobre as tabelas de indicações, [**`clique aqui`**](/erp-v2/funcionalidades/indicadores_afiliados/tabelas_indicacao.md)
+Logo ao lado, você tem o campo **Data início** onde pode incluir a data de início desta parceria para consultas futuras, ou ter a informação em relatórios.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campos_data_inicio_parceria.png)
+
+### Tabela de preço de indicação
+
+Como estamos configurando os dados de um parceiro, precisamos então incluir sua tabela de indicação que contenha os ganhos/comissões por indicação de vendas.
+
+{% hint style="warning" %}
+**Tabelas de Indicação:** Para mais informações sobre as tabelas de indicações, [**`clique aqui`**](/erp-v2/funcionalidades/indicadores_afiliados/tabelas_indicacao.md)
+{% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_tabela_indicacao.gif)
+
+### Tabela de preço de venda do parceiro indicador
+
+Caso seu parceiro indicador precise utilizar uma tabela de preço específica nas vendas para os clientes, para casos em que ele ofereça o produto com algum desconto específico, ou acréscimos, você pode habilitar a opção **Ativar tabela de preço de venda**, e dois novos campos serão mostrados para você conforme exemplo abaixo:
+
+{% hint style="info" %}
+**Importante:** Vale ressaltar que a configuração desta tabela de venda em específico, nós recomendamos que seja configurada para também ser utilizada no formato de venda online, para evitar conflitos no momento de utilizar a loja virtual do parceiro indicador, pois esta tabela é compartilhada com a de venda online do parceiro.
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_tabela_venda_indicacao.gif)
+
+Desta forma quando configurada e definida a tabela de preço de venda, agora quando uma venda for criada no sistema, e este parceiro indicador for incluído, os preços dos produtos deixarão de seguir os preços da tabela da Unidade, e serão aplicados os preços da tabela do parceiro indicador.
+
+Agora logo abaixo temos o campo **Origem para uso da tabela de preço de venda** que nos permite definir como será utilizada esta tabela, observe que temos duas opções para escolher:
+
+- **PDV** (Ponto de Venda) - Para habilitar a tabela de preço ser utilizada no momento de criação de uma venda.
+- **VENDA ONLINE INDICADOR** - Para habilitar a tabela de preço ser utilizada no momento de criação de venda na Loja Virtual.
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_campo_origem_uso_tabela_venda.png)
 
 ### Dados para parceria com venda online
 
 Quando ativamos a opção **Gerar link venda online**, mais opções ficam disponíveis para preenchermos:
 
+{% hint style="warning" %}
+**Atenção:** Para que a tabela de preço de venda online possa ser utilizada por ser parceiro indicador, é necessário que esteja ativo o botão de tabela de preço, escolhido a tabela de preço e definido a origem para uso da tabela como VENDA ONLINE INDICADOR, conforme exemplificado nos tópicos acima do manual.
+{% endhint %}
+
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_venda_online.png)
-
-O primeiro campo para preencher é o de **Tabela de preço venda online**, essas tabelas já devem estar criadas e configuradas na tela **Tabela de preços**. Para mais informações sobre as tabelas de preços, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
-
-![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_venda_online_tabela.gif)
 
 No campo **tipo de negociação venda online**, você pode escolher uma das opções cadastradas que tem vínculo com a tela [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md). Para nosso exemplo, iremos marcar a opção **Boleto - GOPag**:
 
-![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_tipo_negociacao.png)
+{% hint style="info" %}
+**Informação:** As formas de pagamento aceitas são somente as que funcionam de forma online e com controle de baixa de valor automatizada, como Pix, boleto e cartão de crédito da GOPag.
+{% endhint %}
+
+![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_tipo_negociacao.gif)
 
 No campo de **produtos venda online**, você informará os produtos liberados para venda online desta parceria. Para mais informações sobre o cadastro de produtos, [**`clique aqui`**](/erp-v2/funcionalidades/produtos_servicos/produtos.md)
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_venda_produtos.png)
 
 Por último, o botão de **gerar link**, quando você clicar nele, uma janela com o link único de acesso será mostrada para você:
+
+{% hint style="danger" %}
+**Atenção:** O link para o seu parceiro só poderá ser gerado após você salvar as alterações feitas no cadastro.
+{% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_venda_btn_link.png)
 
