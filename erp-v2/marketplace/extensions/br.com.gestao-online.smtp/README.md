@@ -26,7 +26,7 @@ No primeiro campo temos o **Nome de Domínio**, nele você pode preencher por ex
 
 <br>
 
-No segundo campo você irá preecnher com o número da porta que será usada para conexão com o servidor SMTP. A portas mais comuns são:
+No segundo campo, você irá preencher com o número da porta que será usada para conexão com o servidor SMTP. As portas mais comuns são:
 
 - **587**: Para conexões TLS.
 - **465**: Para conexões SSL.
@@ -78,7 +78,7 @@ Por último, após preencher os campos necessários, você pode clicar no botão
 
 <br>
 
-Com os dados preenchidos corretamente, e o teste realziado com sucesso, agora você pode clicar no botão Salvar configurações para finalziar o processo. Uma mensagem será msotrada a você na janela de configuração da extensão, informando que as alterações levarão um tempo de até 6 horas para estarem em pleno funcionamento.
+Com os dados preenchidos corretamente e o teste realizado com sucesso, agora você pode clicar no botão Salvar configurações para finalizar o processo. Uma mensagem será mostrada a você na janela de configuração da extensão, informando que as alterações levarão um tempo de até 6 horas para estarem em pleno funcionamento.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/e55fa94eca0258e234b90f5083c93966a3d022cf/erp-v2/marketplace/extensions/br.com.gestao-online.smtp/assets/extensao_smtp_10.png?raw=true" alt="0" width="800"> 

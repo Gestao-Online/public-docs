@@ -14,7 +14,7 @@ Diferente das demais extensões, essa em específico não tem necessidade de rea
 
 ## Como funciona?
 
-Uma vez instalado no sitema, você pode efetuar a venda de um certificado digital, e no momento em que o pagamento desde certificado receber a baixa, você pode atualizar a página da venda e o botão **Atendimento Express** ficará disponível para uso.
+Uma vez instalado no sistema, você pode efetuar a venda de um certificado digital, e no momento em que o pagamento deste certificado receber a baixa, você pode atualizar a página da venda e o botão **Atendimento Express** ficará disponível para uso.
 
 Observe abaixo o procedimento de exibição dele. Para nosso teste, iremos forçar a baixa do valor de um boleto.
 

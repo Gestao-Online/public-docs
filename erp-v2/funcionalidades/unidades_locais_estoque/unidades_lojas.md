@@ -44,7 +44,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_inicio.png)
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_paleta_cores.png" alt="" data-size="line"> Alterar cores da landing page (Este item só fica disponível caso você faça a configuração para que esta unidade possua venda online);
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -56,7 +56,7 @@ Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor ci
 
 ## Aba Geral
 
-Olhando para a aba **`Geral`**, por padrão, quando você for criar uma unidade/loja é exigido nome, identificador e status. Em **Descrição**, você identifica a unidade/loja que está sendo cadastrada no momento, o campo **Identificador**, é gerado um código padrão que será usando para identificar em nossa plataforma. Agora o campo de **Status** você tem duas opções para selecionar, entre ativado para a unidade ficar ativa e disponível, e inativa para que ela deixe de funcionar.
+Olhando para a aba **`Geral`**, por padrão, ao criar uma unidade/loja é exigido nome, identificador e status. Em **Descrição**, identifique a unidade/loja que está sendo cadastrada no momento, o campo **Identificador**, é gerado um código padrão que será usado para identificar na plataforma. No campo de **Status** há duas opções para selecionar, entre ativado para a unidade ficar ativa e disponível, e inativa para que ela deixe de funcionar.
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_unidade_itens.png)
 
@@ -64,7 +64,7 @@ Olhando para a aba **`Geral`**, por padrão, quando você for criar uma unidade/
 
 Em específico, no campo **Analítica**, caso deixe ele em ativo, a unidade/loja criada deixa de possuir uma hierarquia. O uso da hierarquia é interessante para melhorar a identificação e separação das novas unidades/lojas que você for adicionar, podendo definir uma como matriz e as demais como filiais.
 
-Para melhor exemplo, veja o campo **Identificador** ele tem a sequência padrão usada em nosso sistema, neste caso 05.000. Caso você fizesse o cadastro de alguma filial vínculada a esta unidade identificada como 05, os demais teriam o identificador 05.001, 05.002, 05.003... e assim em diante. 😁👍
+Para melhor exemplo, veja o campo **Identificador** ele tem a sequência padrão usada no sistema, neste caso 05.000. Caso fizesse o cadastro de alguma filial vínculada a esta unidade identificada como 05, os demais teriam o identificador 05.001, 05.002, 05.003... e assim em diante. 😁👍
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_analitica.gif)
 
@@ -82,7 +82,7 @@ Nos demais campos, temos o **Telefone** que é para telefone fixo caso a unidade
 
 ## Endereço da unidade
 
-Aqui na parte de **`Endereço da unidade`** já colocamos em nossa plataforma o preenchimento automático assim que você inserir o CEP, confira abaixo:
+Aqui na parte de **`Endereço da unidade`** o preenchimento é automático assim que inserir o CEP, confira abaixo:
 
 {% hint style="info" %}
 **Atenção:** Os campos `Número` e `Complemento` não são preenchidos automaticamente, sendo necessária sua intervenção para que tudo fique preenchido.
@@ -128,7 +128,7 @@ A **Tabela de preço de comissão de entrega** Se aplica somente para algumas si
 <img src="/erp-v2/assets/marketplace/coroa_premium.png" alt="" data-size="line"> A funcionalidade Loja Virtual é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
 {% endhint %}
 
-Esta parte em específico, esta dedicada a unidades/lojas que terão a opção de efetuar vendas online. Com o preenchimento destes campos, você poderá até mesmo gerar um link e uma página personalizada com as informações da sua empresa, vejamos os campos de preenchimento logo abaixo.
+Esta parte em específico, está dedicada a unidades/lojas que terão a opção de efetuar vendas online. Com o preenchimento destes campos, é possível até mesmo gerar um link e uma página personalizada com as informações da sua empresa, vejamos os campos de preenchimento logo abaixo.
 
 O primeiro item é o da **Imagem**, nele você carrega a logomarca da unidade/loja que está sendo cadastrada, para que alguns itens/links fiquem personalizados. Abaixo um exemplo de inserção de foto;
 
@@ -149,13 +149,13 @@ Mais ao lado, temos o botão de **Unidade padrão**, ao ativar esta opção, voc
 Agora na parte de baixo, você encontra as informações das tabelas de preço que falamos acima (mas agora, exclusivamente para a parte de "venda online"). Também será necessário preencher os campos de `tipos de movimentação` e `tipo de negociação` que estarāo habilitados para essa loja online desta unidade.
 
 {% hint style="info" %}
-Nós já deixamos em cada nome de campo um link para você poder acessar o manual de cada uma caso queira mais informações a respeito, e aqui falaremos de maneira mais mais simples sobre cada uma.
+Há um link em cada nome de campo para acessar o manual de cada uma caso queira mais informações a respeito, e aqui falaremos de maneira mais simples sobre cada uma.
 
-Caso nāo seja a primeira unidade cadastrada, consulte as condições e recomendações do implantandor interno (administrador/gestor da sua empresa).
+Caso não seja a primeira unidade cadastrada, consulte as condições e recomendações do implantador interno (administrador/gestor da sua empresa).
 {% endhint %}
 
 
-Nós já deixamos em cada nome de campo um link para você poder acessar o manual de cada uma caso queira mais informações a respeito, e aqui falaremos de maneira mais mais simples sobre cada uma.
+Há um link em cada nome de campo para acessar o manual de cada uma caso queira mais informações a respeito, e aqui falaremos de maneira mais simples sobre cada uma.
 
 A primeira é a [**`Tabela de preço (Venda)`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md), aqui você define qual a tabela de preço que será utilizada nas vendas online. A segunda é o [**`Tipo movimentação`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md), esse tipo já precisa estar configurado para realizar vendas online. 
 
@@ -165,7 +165,7 @@ Logo ao lado você tem também as opções de Recorrência (Modelo de assinatura
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_configuracao_venda_online_tabela_preco_tabela_movimentacao_recorencia.png)
 
-Agora no [**`Tipo de negociação (Venda/Recorrência)`**](/erp-v2/funcionalidades/financeiro/tipo_negociacao.md), você precisa escolher o tipo de negociação que estará habilitado no checkout dessa página de venda online, Por exemplo: boleto, cartão de crédito 1x, Cartāo de crédito 2x, PIX etc. Este campo será válido tanto para o modo venda quanto recorrência. Fique atento para escolher a melhor opção para vendas do tipo online. 
+Agora no [**`Tipo de negociação (Venda/Recorrência)`**](/erp-v2/funcionalidades/financeiro/tipo_negociacao.md), escolha o tipo de negociação que estará habilitado no checkout dessa página de venda online, Por exemplo: boleto, cartão de crédito 1x, Cartão de crédito 2x, PIX etc. Este campo será válido tanto para o modo venda quanto recorrência. Fique atento para escolher a melhor opção para vendas do tipo online. 
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_configuracao_venda_online_tipo_negociacao.gif)
 
@@ -195,7 +195,7 @@ Após finalizar o preenchimento, você clica em **`Salvar`** e o registro da nov
 
 ### Aba Vendedores/Compradores
 
-Se você observou na imagem acima, deixamos marcados também as novas guias que ficaram disponíveis após criarmos uma nova unidade. Vamos falar um pouco melhor sobre cada uma, com a primeira **`Vendedores/Compradores`**.
+Se observar na imagem acima, marcamos também as novas guias que ficaram disponíveis após criarmos uma nova unidade. Vamos falar um pouco melhor sobre cada uma, com a primeira **`Vendedores/Compradores`**.
 
 Você terá uma lista de todos os vendedores dessa unidade, podendo também fazer adição, alteração e até exclusão.
 

@@ -1,27 +1,27 @@
-# Como eu consigo ver todas as pemissõs dentro do sistema?
+# Como ver todas as permissões dentro do sistema?
 
-Deixamos um local separado em nosso sistema, um local para você conferir todas as permissões que cada item no sistema possui. E isso inclui um relatório completo de permissões que cada tipo de usuário tem na plataforma. 😁
+O sistema disponibiliza um local específico para conferir todas as permissões que cada item possui, incluindo um relatório completo de permissões por tipo de usuário na plataforma. 😁
 
-Para acessar essa função, basta clicar no local onde está sua foto ou letra inicial do nome. Observe nossa demonstração abaixo.
+Para acessar essa função, clique no local onde está sua foto ou letra inicial do nome.
 
 {% hint style="info" %}
-**Minhas preferências:** Caso queira mais informações sobre como alterar a sua foto de perfil, senha, cores e outros dados, pode acessar nosso guia [**`clicando aqui`**](/erp-v2/minhas_preferencias/README.md).
+**Minhas preferências:** Para mais informações sobre alteração de foto de perfil, senha, cores e outros dados, acesse nosso guia [**`clicando aqui`**](/erp-v2/minhas_preferencias/README.md).
 {% endhint %}
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_ver_permissoes_inicio_btn.png)
 
-Após clicar no botão da foto, agora você irá clicar na opção **Sobre**. Quando clicarmos nela, uma nova janela será mostrada para você.
+Após clicar no botão da foto, clique na opção **Sobre**. Uma nova janela será exibida.
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_ver_permissoes_inicio_btn_sobre.png)
 
-Agora com a janela **Sobre** aberta, você pode clicar no botão permissões e assim uma tela será mostrada a você com todas as permissões de cada função/opção dentro do nosso sistema.
+Com a janela **Sobre** aberta, clique no botão **Permissões**. Uma tela será exibida com todas as permissões de cada função/opção dentro do sistema.
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_ver_permissoes_inicio_btn_sobre_btn_permissoes.png)
 
-Exemplo de acesso.
+Exemplo de acesso:
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_ver_permissoes_inicio.gif)
 
-Feito isso, agora você precisa somente procurar o que deseja saber, neste caso abaixo procuramos as opções de permissões dos usuários. Observe abaixo.
+Feito isso, procure o que deseja saber. No exemplo abaixo, procuramos as opções de permissões dos usuários:
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_ver_permissoes_usuarios.gif)

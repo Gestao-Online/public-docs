@@ -1,8 +1,8 @@
 # 🔩 Organizando seu grid
 
-O grid é a tela com os itens exibidos para você na plataforma da **Gestão Online**, temos atalhos e funções editáveis para que você possa organizar, facilitando o uso no seu dia a dia.
+O grid é a tela com os itens exibidos na plataforma da **Gestão Online**. Há atalhos e funções editáveis para organizar, facilitando o uso no dia a dia.
 
-Sempre ao lado direito de cada tela que você abrir, terá o **`Configuração do grid`**, nele você pode ver outras colunas ocultas ou então você pode redefinir as colunas utilizadas, sendo por exibição clicando no marcador, ou até alterar a ordem apenas clicando e arrastando conforme mostramos abaixo! 😁
+Sempre ao lado direito de cada tela aberta, está disponível a **`Configuração do grid`**, onde é possível ver outras colunas ocultas ou redefinir as colunas utilizadas, seja por exibição clicando no marcador, ou até alterar a ordem apenas clicando e arrastando conforme mostrado abaixo! 😁
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_filtro_grid.png)
 
@@ -10,10 +10,10 @@ Sempre ao lado direito de cada tela que você abrir, terá o **`Configuração d
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_filtro_grid.gif)
 
-Na dúvida sobre o que fazer caso fique tudo muito misturado? Fique despreocupado! Colocamos o botão `Restaurar` e voltamos à ordem padrão automaticamente, confira abaixo o exemplo:
+Na dúvida sobre o que fazer caso fique tudo muito misturado? Fique tranquilo! Há o botão `Restaurar` que volta à ordem padrão automaticamente, confira abaixo o exemplo:
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_filtro_grid_restaurar.png)
 
-Você também pode aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reordenar elas apenas clicando e movendo para a posição que você preferir e, se arrastar para fora, será oculto, confira abaixo:
+Também é possível aumentar ou diminuir o tamanho visível da coluna clicando na linha de separação, reordenar elas apenas clicando e movendo para a posição preferida e, se arrastar para fora, será ocultada, confira abaixo:
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_filtro_mouse.gif)

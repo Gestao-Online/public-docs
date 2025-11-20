@@ -67,7 +67,7 @@ Em nosso exemplo, usaremos o código 2806300, sendo especificamente para venda d
 
 ### Campos de descrição
 
-Agora, no campo de **Descrição**, colocaremos o nome relativo a este código CEST para podermos identificá-lo. Mas você pode usar a descrição que for mais conveniente para uso.
+Agora, no campo de **Descrição**, colocaremos o nome relativo a este código CEST para podermos identificá-lo. Mas é possível usar a descrição que for mais conveniente para uso.
 
 Já no campo de **Descrição completa**, por ser um item opcional, você decide se irá preenchê-lo ou não. Em nosso exemplo, não precisaremos preenchê-lo.
 

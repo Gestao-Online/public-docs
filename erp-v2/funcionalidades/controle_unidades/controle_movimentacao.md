@@ -32,7 +32,7 @@ O controle de movimentação funciona de forma semelhante a um "extrato de um ba
 
 Caso seja necessário algum ajuste no saldo, ou o lançamento de alguma despesa ou receita diretamente no controle da unidade, é possível adicionar um novo lançamento manualmente (explicado logo abaixo), entre crédito ou débito, e o valor deste lançamento. Após salvar, ele aparecerá no "extrato" imediatamente já recomputando o saldo. 😁
 
-Mas lembre-se, normalmente essas movimentações de crédito ou débito, são programadas para serem geradas automaticamente por nossa plataforma, atráves de fluxos de comissão ou custo que são disparados atráves de rotinas financeiras, ou de movimentações das vendas por exemplo.
+Mas lembre-se, normalmente essas movimentações de crédito ou débito, são programadas para serem geradas automaticamente pela plataforma, atráves de fluxos de comissão ou custo que são disparados atráves de rotinas financeiras, ou de movimentações das vendas por exemplo.
 
 ## Adicionar novo controle de movimentação
 
@@ -40,14 +40,14 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_ctrl_movimentacao_add.png)
 
-Após clicarmos no botão adicionar novo controle de movimentação, uma nova página será aberta e, Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Após clicarmos no botão adicionar novo controle de movimentação, uma nova página será aberta e, Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;   
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_voltar.png" alt="" data-size="line"> Voltar;
 
-No momento do cadastro de um novo controle de movimentação de unidade, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. 
+No momento do cadastro de um novo controle de movimentação de unidade, será necessário preencher alguns campos obrigatórios que têm o asterisco vermelho. 
 
 {% hint style="info" %}
 **Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados desse contrato e verificar com atenção o lançamento. 😉👍
@@ -59,7 +59,7 @@ No momento do cadastro de um novo controle de movimentação de unidade, você p
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_ctrl_movimentacao_add_controle.png)
 
-O campo **tipo lançamento**, tem duas opções para você escolher, entre *crédito* ou *débito*. Para nosso exemplo, vamos usar a opção de crédito.
+O campo **tipo lançamento**, tem duas opções para escolher, entre *crédito* ou *débito*. Para o exemplo, vamos usar a opção de crédito.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_ctrl_movimentacao_add_campo_lancamento.png)
 
@@ -69,7 +69,7 @@ Logo ao lado, temos o campo **Unidade**, lembre-se de que ele está vinculado co
 **Tela Unidades:** Caso queira mais informações sobre como utilizar a tela Unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
 {% endhint %}
 
-Em nosso exemplo, vamos escolher a opção **SEDE/MATRIZ**. Observe abaixo:
+No exemplo, vamos escolher a opção **SEDE/MATRIZ**. Observe abaixo:
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_unidade.gif)
 
@@ -77,7 +77,7 @@ Os demais campos são de **valor** e **histórico**, lembrando que o valor é um
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_valor_historico.png)
 
-Após fazer o preenchimento dos dados do novo controle, você pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar.
+Após fazer o preenchimento dos dados do novo controle, é possível clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_salvar.gif)
 

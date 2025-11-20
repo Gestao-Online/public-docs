@@ -48,7 +48,7 @@ Após clicar no botão para adicionar um novo tipo de tributação, uma nova pá
 
 ## Campos obrigatórios
 
-No momento do cadastro de um novo tipo de tributação, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
+No momento do cadastro de um novo tipo de tributação, será necessário preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento no sistema.
 
 {% hint style="info" %}
 **Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados do tipo de tributação. 😉👍

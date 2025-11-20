@@ -1,7 +1,7 @@
 # 🧾 Como realizar um estorno de venda conciliada?
 
-Em casos em que a **conciliação bancária** está sendo aplicada à venda, será necessário **desconciliar o financeiro da venda** antes de realizar o estorno.
-Para efetuar a desconciliação, é necessário seguir o seguinte procedimento:
+Quando a **conciliação bancária** está aplicada à venda, é necessário **desconciliar o financeiro da venda** antes de realizar o estorno.
+Para efetuar a desconciliação, siga o procedimento abaixo:
 
 ## Acessar o financeiro da venda
 
@@ -11,10 +11,10 @@ Abra a guia **“Financeiro”** da venda e clique em **“Editar financeiro”*
 
 ## Localizar o código da origem
 
-Com a tela do financeiro aberta, localize a seção **“Dados da origem”**, onde há o campo **“Código”**, que informa o identificador desse pagamento no extrato bancário.
+Com a tela do financeiro aberta, localize a seção **"Dados da origem"**, onde há o campo **"Código"**, que informa o identificador desse pagamento no extrato bancário.
 
 Clique no ícone ao lado do código e uma pequena **lupa** surgirá.
-Ao clicar nela, você será direcionado automaticamente para a tela de **extrato bancário**.
+Clique nela para ser direcionado automaticamente para a tela de **extrato bancário**.
 
 ![Como acessar o extrato](/erp-v2/assets/guia_utilizacao/como_estornar_vendas_conciliadas_02.png)
 
@@ -27,8 +27,8 @@ Clique com o **botão direito do mouse** sobre o item e selecione a opção **�
 
 ## Atualizar e realizar o estorno
 
-Após desconciliar no extrato bancário, **retorne à tela da venda** e **recarregue-a** para atualizar o financeiro.
-Com o movimento desconciliado, a **opção de estorno** ficará disponível.
+Após desconciliar no extrato bancário, retorne à tela da venda e recarregue-a para atualizar o financeiro.
+Com o movimento desconciliado, a opção de estorno ficará disponível.
 
 ![Como estornar venda conciliada](/erp-v2/assets/guia_utilizacao/como_estornar_vendas_conciliadas_04.png)
 

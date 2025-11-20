@@ -1,9 +1,9 @@
 # ↪️ Atalhos internos
 
-Assim como você tem atalhos com o botão direito do mouse no seu sistema operacional, nós temos na plataforma **Gestão Online** este recurso. Vamos conferir!
+Assim como há atalhos com o botão direito do mouse no sistema operacional, a plataforma **Gestão Online** possui este recurso. Vamos conferir!
 
 {% hint style="info" %}
-**Informação:** Para o exemplo, utilizamos a tela de clientes, esses atalhos podem mudar dependendo da tela que você estiver utilizando no momento! 😉👍
+**Informação:** Para o exemplo, utilizamos a tela de clientes. Esses atalhos podem mudar dependendo da tela utilizada no momento! 😉👍
 {% endhint %}
 
 Ao clicar com o botão direito do mouse em cima de um item da tela (Neste caso, um produto), um menu rápido com algumas opções para te trazer agilidade, podendo editar o item, abrir item selecionado em uma nova tela ou excluir:
@@ -13,26 +13,26 @@ Ao clicar com o botão direito do mouse em cima de um item da tela (Neste caso, 
 - <img src="/erp-v2/assets/funcionalidades/icon_excluir_item_mouse.png" alt="" data-size="line"> Excluir item(s).
 
 {% hint style="warning" %}
-**Importante:** As opções disponíveis do botão direito do mouse sobre o item pode variar com mais ou menos opções, tudo depende da tela que você está usando no momento.
+**Importante:** As opções disponíveis do botão direito do mouse sobre o item podem variar com mais ou menos opções, tudo depende da tela utilizada no momento.
 {% endhint %}
 
 ![](/erp-v2/assets/atalho_interno_btn_direito.gif)
 
 ## Selecionar vários itens
 
-Outra função bem interessante que temos é usar a tecla **`Ctrl`** (Controle) para Windows/Linux e **`⌘ command`** para Mac, e assim clicar e selecionar vários itens ao mesmo tempo.
+Outra função bem interessante é usar a tecla **`Ctrl`** (Controle) para Windows/Linux e **`⌘ command`** para Mac, e assim clicar e selecionar vários itens ao mesmo tempo.
 
 Observe que até um novo menu rápido fica disponível ao clicar com o botão direito do mouse. E o menu superior se modifica também com essas mesmas opções:
 
 ![](/erp-v2/assets/atalho_btn_ctrl.gif)
 
-Se por acaso você marcar algum item errado, ou quiser cancelar a seleção, pode clicar no ícone <img src="/erp-v2/assets/funcionalidades/icon_limpar_selecao.png" alt="" data-size="line"> limpar seleção, clicando nele, todos os itens são desmarcados:
+Se por acaso marcar algum item errado, ou quiser cancelar a seleção, clique no ícone <img src="/erp-v2/assets/funcionalidades/icon_limpar_selecao.png" alt="" data-size="line"> **limpar seleção**. Ao clicar nele, todos os itens são desmarcados:
 
 ![](/erp-v2/assets/atalho_btn_ctrl_limpar.gif)
 
 ## Atalho de nova tela
 
-Seguindo o exemplo de uso do botão direito do mouse, na tela de vendas, por exemplo, temos o ícone <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> do quadrado com a seta. Clicando nele, você é direcionado para a tela cliente/parceiro:
+Seguindo o exemplo de uso do botão direito do mouse, na tela de vendas, por exemplo, há o ícone <img src="/erp-v2/assets/funcionalidades/icon_abrir_editar_item_nova_aba_mouse.png" alt="" data-size="line"> do quadrado com a seta. Clicando nele, é direcionado para a tela cliente/parceiro:
 
 ![](/erp-v2/assets/atalho_icone_vendas.gif)
 
@@ -46,7 +46,7 @@ Ainda na tela de vendas, ao clicar com o botão direito do mouse, você encontra
 ## Ações em lote com menu do botão direito do mouse 
 <!-- multi-right-click (Ações em lote de itens selecionados no botāo direito de um item na grid) -->
 
-Importante lembrar que você pode fazer alterações em lote selecionando vários itens ao mesmo tempo, clicando com o botão direito do mouse, conforme exemplo abaixo:
+É possível fazer alterações em lote selecionando vários itens ao mesmo tempo, clicando com o botão direito do mouse, conforme exemplo abaixo:
 
 ![](/erp-v2/assets/atalho_btn_mouse_lotes.gif)
 

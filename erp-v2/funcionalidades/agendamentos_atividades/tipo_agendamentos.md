@@ -36,7 +36,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add.png)
 
-Após clicar no botão para adicionar um novo tipo de agendamento, uma nova página será aberta e, ao lado direito da tela, é possível visualizar um pequeno menu cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicar no botão para adicionar um novo tipo de agendamento, uma nova página será aberta e, ao lado direito da tela, é possível visualizar um pequeno menu cinza. Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> Restrições/Exceções;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -62,7 +62,7 @@ O segundo campo, você tem o campo de **descrição**, o nome que você colocar 
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_descricao.png)
 
-O terceiro campo é para definir a **cor** de identificação deste tipo de agendamento. Ao clicar na cor, uma pequena janela será aberta para você poder escolher, observe nossa demonstração abaixo.
+O terceiro campo é para definir a **cor** de identificação deste tipo de agendamento. Ao clicar na cor, uma pequena janela será aberta para escolher, observe a demonstração abaixo.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_cor.gif)
 
@@ -70,7 +70,7 @@ O terceiro campo é para definir a **cor** de identificação deste tipo de agen
 
 Aqui estão as permissões que deixarão e não deixarão alterações acontecerem nos campos do agendamento. Desde o tipo, status, data, vendedor, unidade, parceiro e descrição. Você então define quais serão permitidos.
 
-Vamos fazer um exemplo desde tipo de agendamento e deixaremos ativo somente a mudança de tipo.
+Vamos fazer um exemplo deste tipo de agendamento e deixaremos ativo somente a mudança de tipo.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_add_campo_permissoes_tipo.png)
 
@@ -92,7 +92,7 @@ Um agendamento pode trazer mais resultados em vendas, aumentando positivamente o
 
 ## Botão de Restrições e Exceções
 
-Ao clicar no botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> de restrições/exceções, uma nova janela irá de abrir. Aqui você pode encontrar as definições de uso para o tipo de agendamento que você está editando.
+Ao clicar no botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> de restrições/exceções, uma nova janela irá de abrir. Aqui é possível encontrar as definições de uso para o tipo de agendamento que está sendo editado.
 
 {% hint style="danger" %}
 **Atenção:** Esta alteração só ficará disponível quando o **`Tipo de agendamento`** já estiver criado. Caso faça antes de criar, uma janela de aviso aparecerá informando que não será possível prosseguir. 😉
@@ -100,7 +100,7 @@ Ao clicar no botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size=
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_tipo_btn_restricao.png)
 
-Seguindo o exemplo demonstrado abaixo, você pode definir, por exemplo, um tipo de agendamento válido somente para um vendedor em específico. Das opções disponíveis no menu ao lado, temos:
+Seguindo o exemplo demonstrado abaixo, é possível definir, por exemplo, um tipo de agendamento válido somente para um vendedor em específico. Das opções disponíveis no menu ao lado, temos:
 
 - Sem restrição;
 - Restrição (Só pode ser utilizado com);

@@ -1,6 +1,6 @@
 # 👨‍🏫 Criar e/ou Recuperar acesso
 
-Você pode criar ou recuperar um acesso na Plataforma da **Gestão Online** com poucos passos! 😉👍
+É possível criar ou recuperar um acesso na Plataforma da **Gestão Online** com poucos passos! 😉👍
 
 Estas e outras informações estão disponíveis na sequência deste manual de usuário para poder te auxiliar.
 

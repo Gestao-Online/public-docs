@@ -37,7 +37,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuario_add_user.png)
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
@@ -46,7 +46,7 @@ Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor ci
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuario_add_user_menu.png)
 
-Olhando para a aba **`Geral`**, por padrão, quando você for criar uma conta é exigido o perfil e e-mail. Agora os outros campos para preenchimento podem deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
+Olhando para a aba **`Geral`**, por padrão, ao criar uma conta é exigido o perfil e e-mail. Os outros campos para preenchimento podem ser deixados para o usuário quando confirmar a conta, listamos os campos abaixo:
 
 - **Nome** (Nome completo do usuário, podendo preencher depois);
 - **Nome de usuário** (É usado para login na plataforma, podendo ser um nome/código/CPF);
@@ -87,7 +87,7 @@ Uma breve informação, de forma bem resumida sobre os tipos de Perfis (com as r
 
 - **Superadministrador:** (Mesmo acesso do administrador, mas com permissões de parâmetrizações)
 
-Essas informações de forma detalhada você encontra clicando na foto de perfil que fica no canto superior direito da tela, e depois clicando no botão `Sobre`, e quandoa tela se abrir com as informações do sistema, você pode clicar no botão `Permissões`. Observe a demonstração abaixo:
+Essas informações de forma detalhada estão disponíveis clicando na foto de perfil que fica no canto superior direito da tela, e depois clicando no botão `Sobre`, e quando a tela abrir com as informações do sistema, clique no botão `Permissões`. Observe a demonstração abaixo:
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_btn_permissoes.gif)
 
@@ -110,11 +110,11 @@ Após finalizar o preenchimento, você clica em **`Salvar`** e o registro do usu
 
 ## Enviar notificaçāo interna para os usuários
 
-Ao clicar no primeiro item do menu vamos para o envio de notificação aos usuários, o preenchimento é bem simples e intuitivo.
+Clicando no primeiro item do menu, é possível enviar notificação aos usuários, o preenchimento é bem simples e intuitivo.
 
 ![](/erp-v2/assets/funcionalidades/menu_guia_usuarios_notificacao.png)
 
-Você precisa definir primeiro nível de criticidade da notificação, das opções disponíveis têm:
+É necessário definir primeiro o nível de criticidade da notificação, das opções disponíveis há:
 
 `Mínimo`, `Baixo`, `Normal`, `Alto`, `Urgente`.
 
@@ -128,7 +128,7 @@ Após a definição do nível, seguimos para o perfil de usuário que irá receb
 
 ### Enviando notificação
 
-Após definido o tipo de usuário, agora vamos para a mensagem, deixamos um editor de texto com algumas funções para você poder escrever a sua notificação:
+Após definido o tipo de usuário, prossiga para a mensagem, há um editor de texto com algumas funções para escrever a notificação:
 
 - <img src="/erp-v2/assets/funcionalidades/icon_tamanho_texto.png" alt="" data-size="line"> Escolha de tamanho do texto;
 - <img src="/erp-v2/assets/funcionalidades/icon_negrito.png" alt="" data-size="line"> Negrito;

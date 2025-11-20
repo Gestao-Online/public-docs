@@ -1,6 +1,6 @@
 # Como exportar extrato bancário em arquivo OFX
 
-A extensão do arquivo OFX é conhecido como arquivo *Open Financial Exchange* foi criado no final dos anos 90 e revolucionou o controle financeiro das empresas. Os Bancos disponibilizam o **arquivo OFX** com todas as movimentações feitas num determinado período e é possível integrar esse arquivo com nosso sistema.
+A extensão do arquivo OFX é conhecido como arquivo *Open Financial Exchange* foi criado no final dos anos 90 e revolucionou o controle financeiro das empresas. Os Bancos disponibilizam o **arquivo OFX** com todas as movimentações feitas num determinado período e é possível integrar esse arquivo com o sistema.
 
 ## Como exportar o extrato bancário em arquivo OFX no Banco do Brasil
 
@@ -26,7 +26,7 @@ Selecione o período que precisa clicando na opção mostrada abaixo. Importante
 
 ### 4. Clique em salvar
 
-Clique no botão salvar na parte superior da tela, e escolha a opção **Money 2000+ (ofx)**. Assim, o arquivo será baixado em seu computador e você pode vincular a extensão.
+Clique no botão salvar na parte superior da tela, e escolha a opção **Money 2000+ (ofx)**. Assim, o arquivo será baixado em seu computador e é possível vincular a extensão.
 
 ![](/erp-v2/assets/marketplace/OFX_bancos/04_bb_pagina_extrato_btn.png)
 

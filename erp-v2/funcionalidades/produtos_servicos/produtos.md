@@ -1,6 +1,6 @@
 # 🎁 Produtos
 
-Na tela "Produtos", você pode visualizar todos os produtos cadastrados na plataforma, além de ter a opção de cadastrar um novo produto, editar as informações existentes e excluir produtos cadastrados.
+Na tela "Produtos", é possível visualizar todos os produtos cadastrados na plataforma, além de ter a opção de cadastrar um novo produto, editar as informações existentes e excluir produtos cadastrados.
 
 Aqui podem ser cadastrados os produtos que a sua empresa comercializa, assim, ao lançar uma venda/pedido, o sistema já terá as informações ligadas a esse produto (fiscal, financeiro, etc.). Agilizando muito o processo de venda e/ou recorrência.
 
@@ -52,7 +52,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 
 ![](/erp-v2/assets/funcionalidades/produtos/aba_produtos_add_inicio.png)
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;

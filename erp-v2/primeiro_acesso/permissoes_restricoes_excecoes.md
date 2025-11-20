@@ -2,23 +2,23 @@
 
 ## Botão de Permissões
 
-O botão de permissões é habilitado somente para usuários específicos. Caso você não tenha permissão para utilizá-lo, entre em contato com seu supervisor.
+O botão de permissões é habilitado somente para usuários específicos. Caso não tenha permissão para utilizá-lo, entre em contato com seu supervisor.
 
-Ao clicar no botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> de permissões, uma nova janela irá se abrir. E nela você encontra a *Central de Permissões*.
+Ao clicar no botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> de permissões, uma nova janela irá se abrir. Nela está a *Central de Permissões*.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_menu_btn_permissoes.png)
 
-Nesta central, você consegue adicionar ou remover usuários que terão permissões para acessar, emitir e editar funções específicas desta tela.
+Nesta central, é possível adicionar ou remover usuários que terão permissões para acessar, emitir e editar funções específicas desta tela.
 
-Observe que ao lado esquerdo da tela você tem a descrição da permissão, e ao lado direito você tem o campo para digitar o nome do usuário que terá essa permissão.
+Observe que ao lado esquerdo da tela está a descrição da permissão, e ao lado direito o campo para digitar o nome do usuário que terá essa permissão.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_menu_btn_permissoes_janela.png)
 
 ### Adicionar/remover permissão de usuário
 
-Aqui você pode definir quem terá permissão para estornar cartão de crédito, pix, emitir nota fiscal, liberação de entrega, etc.
+Defina aqui quem terá permissão para estornar cartão de crédito, PIX, emitir nota fiscal, liberação de entrega, etc.
 
-Quando o nome do usuário não está nessa permissão, o botão que ativa essa função irá sumir para esse usuário e ele não conseguirá usar, a menos que você defina aqui na *Central de Permissões*.
+Quando o nome do usuário não está nessa permissão, o botão que ativa essa função não aparecerá para esse usuário e ele não conseguirá usar, a menos que seja definido aqui na *Central de Permissões*.
 
 {% hint style="warning" %}
 **Atenção:** Sempre que fizer alguma alteração na central de permissões, é necessário clicar no botão de salvar <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> para que ela entre em vigor, caso somente clique no botão de <mark style="color:green;background-color:white;">**`OK`**</mark> não irá registrar a alteração.

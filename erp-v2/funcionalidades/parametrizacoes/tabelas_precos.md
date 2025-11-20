@@ -38,7 +38,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add.png)
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_folha_pdf.png" alt="" data-size="line"> [Tabela de preço (em relatório)](https://docs.gestao.plus/erp-v2/funcionalidades/parametrizacoes/tabelas_precos#botao-tabela-de-precos-em-relatorio);
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -47,9 +47,9 @@ Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor ci
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_menu.png)
 
-No momento da criação de uma nova tabela de preços, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. 
+No momento da criação de uma nova tabela de preços, será necessário preencher alguns campos obrigatórios que têm o asterisco vermelho. 
 
-Sendo eles, descrição, data vigor e modo de uso, estes itens são o mínimo necessário para poder salvar uma nova tabela de preços na nossa plataforma.
+Sendo eles, descrição, data vigor e modo de uso, estes itens são o mínimo necessário para poder salvar uma nova tabela de preços na plataforma.
 
 {% hint style="info" %}
 **Informativo:** Mas é sempre importante lembrar de fazer o preenchimento completo dos dados de cada tabela criada! 😉👍
@@ -78,10 +78,10 @@ Nos últimos dois campos de preenchimento, há um **modo de uso** com duas opç�
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_modo_uso.png)
 
-Por último, você tem o **modo de configuração**, ele tem algumas opções, dependendo da que você precisa novos campos para preencher ficarão disponíveis. Vejamos abaixo a explicação das opções disponíveis:
+Por último, há o **modo de configuração**, ele tem algumas opções, dependendo da opção escolhida novos campos para preencher ficarão disponíveis. Veja abaixo a explicação das opções disponíveis:
 
 - **Valor Fixo por produto/serviço:** Esta opção não possui campos adicionais para preencher;
-- **Valor fixo e/ou percentual por produto/serviço de outra tabela:** Nesta opção, você precisará indicar uma tabela de preço já existente para vinculação. Precisa definir se irá computar percentual, e você pode preencher esse percentual. E por último, definir um grupo de produto para vínculo com a tabela que está criando;
+- **Valor fixo e/ou percentual por produto/serviço de outra tabela:** Nesta opção, será necessário indicar uma tabela de preço já existente para vinculação. Precisa definir se irá computar percentual, podendo preencher esse percentual. E por último, definir um grupo de produto para vínculo com a tabela que está sendo criada;
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_modo_config_2.png)
 
@@ -103,7 +103,7 @@ Assim que é criada a tabela de preços, duas abas aparecem disponíveis para us
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_tabelas_add_guia_itens.png)
 
-Aqui você pode adicionar itens a tabela de preços, precisando somente clicar no campo produto/serviço e começara digitar o nome para logo ele aparecer para você selecionar. Depois é só definir qual será o valor do item
+Aqui é possível adicionar itens à tabela de preços, precisando somente clicar no campo produto/serviço e começar a digitar o nome para logo ele aparecer para seleção. Depois é só definir qual será o valor do item
 
 {% hint style="info" %}
 **Informativo:** Para adicionar um item a tabela de preços, ele precisa já estar cadastrado na tela produto/serviço! 😉👍
@@ -128,7 +128,7 @@ O botão duplicar para criar uma cópia da tabela já com as configurações e p
 
 ## Botão importar
 
-Com o botão importar você pode trazer vários itens ao mesmo tempo, para adicionar à sua tabela de preço, podendo trazer essas informações de uma planilha:
+Com o botão importar é possível trazer vários itens ao mesmo tempo, para adicionar à sua tabela de preço, podendo trazer essas informações de uma planilha:
 
 {% hint style="warning" %}
 **Filtros:** Caso queira informações sobre como utilizar as funções de importação [**`clique aqui`**](/erp-v2/primeiro_acesso/importar.md) para acessar a explicação.

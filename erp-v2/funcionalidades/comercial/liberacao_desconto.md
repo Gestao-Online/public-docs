@@ -43,13 +43,13 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 ## Editando uma liberação de desconto
 
-As liberações surgirão automaticamente nesta tela sempre que houver uma solicitação de desconto, cada uma delas tem um botão de editar e outro de excluir. Em nosso exemplo, temos uma solicitação de liberação aguardando análise. Vamos clicar no ícone <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line">editar item para acessarmos mais informações:
+As liberações surgirão automaticamente nesta tela sempre que houver uma solicitação de desconto, cada uma delas tem um botão de editar e outro de excluir. No exemplo, temos uma solicitação de liberação aguardando análise. Vamos clicar no ícone <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line">editar item para acessar mais informações:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar.png)
 
 <br>
 
-Ao abrir para editar, no lado direito da tela, você pode ver um pequeno menu na cor cinza. Veja abaixo para entender melhor cada opção:
+Ao abrir para editar, no lado direito da tela, está um pequeno menu na cor cinza. Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
@@ -69,7 +69,7 @@ Para salvar alguma alteração nesta solicitação de liberação de desconto, �
 
 ### Tipo liberação de desconto.
 
-Neste campo você pode selecionar entre valor ou percentual, logo em seguida ao lado irá surgir um novo campo para você inserir o valor/percentual de desconto que realmente será aplicado aquela venda.
+Neste campo é possível selecionar entre valor ou percentual, logo em seguida ao lado irá surgir um novo campo para inserir o valor/percentual de desconto que realmente será aplicado aquela venda.
 
 Importante lembrar que a opção escolhida deve estar relacionada ao perfil de desconto do vendedor. O valor pode ser maior ou menor que o solicitado, quem decide é você.
 
@@ -83,7 +83,7 @@ Observe abaixo o perfil de desconto (venda) deste vendedor, ele tem perfil para 
 
 ## Salvando liberação de desconto
 
-Após o preenchimento destas informações, você precisa alterar o campo de **status** para definir o rumo da liberação. Observe no nosso exemplo abaixo, definimos o valor e agora vamos liberar o desconto para a venda poder ser realizada. Inserimos também uma descrição para ficar registrado a situação em casos futuros de checagem:
+Após o preenchimento destas informações, é necessário alterar o campo de **status** para definir o rumo da liberação. Observe no exemplo abaixo, definimos o valor e agora vamos liberar o desconto para a venda poder ser realizada. Inserimos também uma descrição para ficar registrado a situação em casos futuros de checagem:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_liberacao_desconto_editar_tipo_liberacao_salvando.png)
 

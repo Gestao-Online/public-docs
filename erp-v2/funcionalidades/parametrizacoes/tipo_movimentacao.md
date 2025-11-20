@@ -45,7 +45,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 <br>
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> Restrições/Exceções;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -63,7 +63,7 @@ Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor ci
 
 ## Menu de Restrições e Exceções
 
-Ao clicar no botão de restrições/exceções, uma nova janela irá de abrir. Aqui você pode encontrar as definições de uso para a movimentação em específico que você está editando.
+Ao clicar no botão de restrições/exceções, uma nova janela abrirá. Aqui é possível encontrar as definições de uso para a movimentação em específico que está sendo editada.
 
 {% hint style="danger" %}
 **Atenção:** Esta alteração só ficará disponível quando o **`Tipo de movimentação`** já estiver criado. Caso faça antes de criar, uma janela de aviso aparecerá informando que não será possível prosseguir. 😉
@@ -71,7 +71,7 @@ Ao clicar no botão de restrições/exceções, uma nova janela irá de abrir. A
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_btn_restricao.png)
 
-Seguindo o exemplo demonstrado abaixo, você pode definir, por exemplo, um tipo de negociação em "dinheiro" e definir se ele será sem restrição, restrição (Só pode ser utilizado com) e exceção (Só não pode ser utilizado com).
+Seguindo o exemplo demonstrado abaixo, é possível definir, por exemplo, um tipo de negociação em "dinheiro" e definir se ele será sem restrição, restrição (Só pode ser utilizado com) e exceção (Só não pode ser utilizado com).
 
 E essa configuração pode ser feita com grupo de produto, um produto, uma empresa, vendedor, unidade e até um parceiro.
 
@@ -81,12 +81,12 @@ Essa possibilidade de restriçāo é muito importante, Pois é possível criar u
 
 ## Campos de preenchimento obrigatório
 
-No momento do cadastro de um tipo de movimentação, você precisará preencher alguns campos obrigatórios que tem o asterisco vermelho. 
+No momento do cadastro de um tipo de movimentação, será necessário preencher alguns campos obrigatórios que tem o asterisco vermelho. 
 
 Sendo eles descrição, status e tipo. Estes itens são o mínimo necessário para poder salvar um novo tipo de movimentação.
 
 {% hint style="info" %}
-**Informativo:** Os outros dois campos **Usuário** e **Data de Alteração** serão preenchidos por nossa plataforma, dados estes que não podem ser alterados por nenhum usuário. 😉👍
+**Informativo:** Os outros dois campos **Usuário** e **Data de Alteração** serão preenchidos pela plataforma, dados estes que não podem ser alterados por nenhum usuário. 😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_movimentacao.png)
@@ -111,7 +111,7 @@ Você tem vários tipos para definir qual movimentação será, estão entre ele
 
 ## Tipo Venda
 
-No tipo venda, você pode definir o que acontecerá na plataforma, por exemplo, se irá atualizar o financeiro, estoque, controle de unidade. Também definir permissões como entrega, indicação, desconto, frete e vouchers.
+No tipo venda, é possível definir o que acontecerá na plataforma, por exemplo, se irá atualizar o financeiro, estoque, controle de unidade. Também definir permissões como entrega, indicação, desconto, frete e vouchers.
 
 Não só estas definições, mas descendo um pouco no menu, você verá os `Requisitos da movimentação`, podendo assim escolher a origem da movimentação, valor, número de produtos e quantidade.
 
@@ -168,7 +168,7 @@ Um novo espaço ficará disponível com o campo controle contrato para você def
 
 ## Tipo Venda recorrente
 
-No tipo venda recorrente, você pode ativar permissão de desconto, permitir geração de comissão para indicador. Não só estas opções como também as funções de `Requisitos da movimentação` citados acima no tipo venda.
+No tipo venda recorrente, é possível ativar permissão de desconto, permitir geração de comissão para indicador. Não só estas opções como também as funções de `Requisitos da movimentação` citados acima no tipo venda.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_recorrente.gif)
 
@@ -182,7 +182,7 @@ Lembrando que cada item marcado pode abrir um novo menu de opções na parte de 
 
 ## Tipo Compra
 
-No tipo compra, você pode atualizar o financeiro, estoque, controle de unidade (Seja comercial/saldo ou produtivo/fechamento). Lembrando que cada item marcado, um novo menu será disponibilizado com mais opções para preenchimento. Agora, os campos de usuário e data de alteração não podem ser alterados, por servirem para controle da nossa plataforma.
+No tipo compra, é possível atualizar o financeiro, estoque, controle de unidade (Seja comercial/saldo ou produtivo/fechamento). Lembrando que cada item marcado, um novo menu será disponibilizado com mais opções para preenchimento. Agora, os campos de usuário e data de alteração não podem ser alterados, por servirem para controle da plataforma.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_compra.gif)
 
@@ -194,7 +194,7 @@ Já o tipo pedido de compra não possui menus alternativos para preenchimento, s
 
 ## Tipo Financeiro
 
-No tipo financeiro você pode ativar a atualização de controle da unidade (Comercial/saldo), sendo assim definir o controle contrato entre despesa e receita de venda/financeiro, receita e despesa de custo/comissão. E no tipo de controle de contrato você tem como definir ao confirmar movimentação/venda/financeiro ou ao baixar financeiro.
+No tipo financeiro é possível ativar a atualização de controle da unidade (Comercial/saldo), sendo assim definir o controle contrato entre despesa e receita de venda/financeiro, receita e despesa de custo/comissão. E no tipo de controle de contrato há como definir ao confirmar movimentação/venda/financeiro ou ao baixar financeiro.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_movimentacao_add_tipo_financeiro.gif)
 

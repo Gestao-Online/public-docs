@@ -48,7 +48,7 @@ Para criar um novo Pedido de venda, clique no botão <img src="/erp-v2/assets/ic
 
 <br>
 
-Nesta nova tela, ao lado direito, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Nas telas de venda, ela será bem parecida uma com a outra. Vejamos abaixo cada opção para entender melhor:
+Nesta nova tela, ao lado direito, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Nas telas de venda, ela será bem parecida uma com a outra. Veja abaixo cada opção para entender melhor:
 
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar rascunho (Apóes preencher os campos obrigatórios e mudar o status da venda para Atendimento);
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página (Atualiza a página da venda aberta);
@@ -65,9 +65,9 @@ O mesmo acontece com o preenchimento do [**`tipo de negociação`**](/erp-v2/fun
 
 ![](/erp-v2/assets/funcionalidades/comercial/tela_pedido_venda_05.gif)
 
-Agora, nos campos de **Cliente/Parceiro** e **Parceiro indicador**, nós temos alguns botões extras com funções para facilitar seu dia a dia com o nosso sistema. Quando você clica no campo para buscar um cliente e este ainda não possui um cadastro, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para que você possa cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
+Agora, nos campos de **Cliente/Parceiro** e **Parceiro indicador**, há alguns botões extras com funções para facilitar o dia a dia com o sistema. Quando se clica no campo para buscar um cliente e este ainda não possui um cadastro, há o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
 
-Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a tela deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
+Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a tela deste cliente com os dados dele para apreciar. E tudo isso sem perder os dados da venda que está sendo preenchida.
 
 Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Veja o exemplo que fizemos abaixo:
 
@@ -79,7 +79,7 @@ Mais abaixo, o campo de **Observação**, no qual é possível incluir um lembre
 
 ## Salvando o rascunho de um novo pedido de venda
 
-Após o preenchimento destas informações, você pode salvar o rascunho para adicionar os itens do pedido de venda. Após salvar o rascunho, esse pedido de venda entra no status de atendimento automaticamente. Observe no nosso exemplo abaixo:
+Após o preenchimento destas informações, é possível salvar o rascunho para adicionar os itens do pedido de venda. Após salvar o rascunho, esse pedido de venda entra no status de atendimento automaticamente. Observe o exemplo abaixo:
 
 ![](/erp-v2/assets/funcionalidades/comercial/tela_pedido_venda_08.gif)
 
@@ -93,7 +93,7 @@ Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaix
 
 ![](/erp-v2/assets/funcionalidades/comercial/tela_pedido_venda_09.png)
 
-O campo de produto/serviço tem busca automática assim que clicado, mas você pode digitar o nome que deseja caso ele não apareça para você. 
+O campo de produto/serviço tem busca automática assim que clicado, mas também é possível digitar o nome que deseja caso ele não apareça. 
 
 Em nosso exemplo, iremos adicionar um serviço, e colocaremos ele com quantidade três, dessa forma quando o pagamento for realizado e faturarmos as movimentações, na guia *movimentações* será criado um código único para cada um dos serviços, conforme explicado no início da página desse guia:
 
@@ -105,7 +105,7 @@ Em nosso exemplo, iremos adicionar um serviço, e colocaremos ele com quantidade
 **Informativo:** Caso esteja utilizando um produto/serviço com controle de estoque, o produto/serviço precisa estar vinculado ao local de estoque e ter quantidade para poder vender. Para mais informações sobre estoque,  [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md). 😉👍
 {% endhint %}
 
-Essa parte é importante você observar, pois o serviço de exemplo que adicionamos, já veio com o preço determinado na **tabela de preço**. E assim você pode adicionar os demais produtos/serviços de que precisa. Se deseja adicionar um desconto, selecione o desconto em percentual ou em valor, lembrando sempre que seu usuário precisa possuir um [**`perfil de desconto`**](/erp-v2/funcionalidades/usuarios_vendedores/perfil_desconto.md), caso contrário não terá permissão para aplicar o desconto:
+Essa parte é importante observar, pois o serviço de exemplo que adicionamos, já veio com o preço determinado na **tabela de preço**. E assim é possível adicionar os demais produtos/serviços de que precisa. Se deseja adicionar um desconto, selecione o desconto em percentual ou em valor, lembrando sempre que seu usuário precisa possuir um [**`perfil de desconto`**](/erp-v2/funcionalidades/usuarios_vendedores/perfil_desconto.md), caso contrário não terá permissão para aplicar o desconto:
 
 ![](/erp-v2/assets/funcionalidades/comercial/tela_pedido_venda_11.png)
 
@@ -128,7 +128,7 @@ Após você adicionar os itens para venda e confirmar, o status desta venda muda
 
 ### Botão gerar pix/boleto
 
-Dos novos botões que aparecem nesse menu superior, nós temos o de **Gerar Pix**, ao clicar nele, o pix QRcode será gerado e mostrado na tela para uso junto com o pix copia e cola. Agora para o caso de boletos, o mesmo ficará disponível para download na guia **anexos** e você pode encaminhar para o cliente efetuar o pagamento:
+Dos novos botões que aparecem nesse menu superior, há o de **Gerar Pix**, ao clicar nele, o pix QRcode será gerado e mostrado na tela para uso junto com o pix copia e cola. Agora para o caso de boletos, o mesmo ficará disponível para download na guia **anexos** e pode ser encaminhado para o cliente efetuar o pagamento:
 
 ![](/erp-v2/assets/funcionalidades/comercial/tela_pedido_venda_23.gif)
 
@@ -144,7 +144,7 @@ Observe o nosso exemplo abaixo, na parte final estão dados fictícios:
 
 O botão de gerar NF só ficará disponível caso o **tipo de movimentação** escolhido tenha ativo a opção **gera fiscal**. Neste caso, com esta opção ativa, quando você confirmar um pedido de venda, este botão ficará disponível.
 
-Clicando nele, será feito o download da nota fiscal e ela ficará disponível na guia de **anexos** para você poder baixar.
+Clicando nele, será feito o download da nota fiscal e ela ficará disponível na guia de **anexos** para baixar.
 
 Abaixo um exemplo de menu com o botão **gerar NF** e a nota fiscal presente na guia **anexos**
 
@@ -156,7 +156,7 @@ Ainda nos novos botões disponíveis, temos no ícone <img src="/erp-v2/assets/i
 
 Antes de clicar neste botão, tenha certeza de que não existem movimentações fiscais ou baixas no financeiro deste pedido de venda, e caso exista, efetue o estorno.
 
-Para cancelar um pedido de venda, é necessário escrever um motivo para ficar no registro dela, essa função permite mantermos a integridade da nossa plataforma:
+Para cancelar um pedido de venda, é necessário escrever um motivo para ficar no registro dela, essa função permite manter a integridade da plataforma:
 
 ![](/erp-v2/assets/funcionalidades/comercial/tela_pedido_venda_26.png)
 
@@ -168,7 +168,7 @@ Por último, no ícone <img src="/erp-v2/assets/icon_notificar.png" alt="" data-
 
 ## Guia de financeiro
 
-Após gerar o  ou o link de pagamento, uma nova guia surgirá. Esta é a de **financeiro**, com ela você pode acompanhar a movimentação do pagamento deste pedido de venda.
+Após gerar o  ou o link de pagamento, uma nova guia surgirá. Esta é a de **financeiro**, com ela é possível acompanhar a movimentação do pagamento deste pedido de venda.
 
 Observe que ela traz informações como a forma de pagamento escolhida, o tipo, se é receita ou despesa, o valor de desdobramento, valor da baixa e outros.
 
@@ -176,13 +176,13 @@ Observe que ela traz informações como a forma de pagamento escolhida, o tipo, 
 
 ### Vencimento de boleto
 
-No caso de vencimento de um boleto, você pode emitir um novo editando o boleto que aparece na guia de **financeiro**, precisando apenas clicar no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar, conforme mostrado abaixo:
+No caso de vencimento de um boleto, é possível emitir um novo editando o boleto que aparece na guia de **financeiro**, precisando apenas clicar no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar, conforme mostrado abaixo:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_guia_financeiro_edit.png)tela_pedido_venda_13
 
 Lembrando que essa opção só está disponível caso não tenha ocorrido uma baixa no financeiro. 😉👍
 
-Após aberto para edição, você precisa somente alterar a data de vencimento do boleto, para uma data válida mais adiante, e depois clicar no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line">salvar, e depois clicar no botão gerar boleto no menu superior:
+Após aberto para edição, é necessário somente alterar a data de vencimento do boleto, para uma data válida mais adiante, e depois clicar no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line">salvar, e depois clicar no botão gerar boleto no menu superior:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_guia_financeiro_edit_boleto.gif)tela_pedido_venda_14
 
@@ -198,11 +198,11 @@ Nesta guia é mostrado o relatório completo de quem autorizou alguma venda que 
 
 ## Guia anexos
 
-Os boletos aparecem automaticamente na guia de anexos após clicar no botão de gerar boleto, por ser uma configuração do nosso sistema. O mesmo acontece com as notas fiscais, o download é feito, desde que elas estejam previamente configuradas com as informações no cadastro da empresa.
+Os boletos aparecem automaticamente na guia de anexos após clicar no botão de gerar boleto, por ser uma configuração do sistema. O mesmo acontece com as notas fiscais, o download é feito, desde que elas estejam previamente configuradas com as informações no cadastro da empresa.
 
 ![Exemplo de itens adicionados na guia anexos](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos_itens.png)
 
-Clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar anexo no menu desta guia, você pode anexar documentos como, boleto, NF-e, NFS-e, NFC-e, e outros. Você pode preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
+Clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar anexo no menu desta guia, é possível anexar documentos como, boleto, NF-e, NFS-e, NFC-e, e outros. É possível preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_pedido_venda_add_guia_anexos.png)
 

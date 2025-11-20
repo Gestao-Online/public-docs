@@ -1,21 +1,21 @@
 # 📤 Exportar
 
-A opção **`Exportar`** está à sua disposição caso deseje realizar uma análise detalhada ou configurar o que será exportado. Você pode personalizar completamente os campos e informações geradas. Em outras palavras, é um gerador de relatórios totalmente adaptável às suas necessidades! 😉👍
+A opção **`Exportar`** está à disposição caso deseje realizar uma análise detalhada ou configurar o que será exportado. É possível personalizar completamente os campos e informações geradas. Em outras palavras, é um gerador de relatórios totalmente adaptável às necessidades! 😉👍
 
-O ícone de acesso a ele está logo ao lado do botão de configurar a grid:
+O ícone de acesso está logo ao lado do botão de configurar a grid:
 
 {% hint style="warning" %}
-**Filtros:** Caso queira mais informações sobre como utilizar os filtros [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
+**Filtros:** Para mais informações sobre como utilizar os filtros, [**`clique aqui`**](/erp-v2/primeiro_acesso/filtros.md) para acessar a explicação sobre cada parte desta função.
 {% endhint %}
 
 ![](/erp-v2/assets/exportar_aba_vendas.png)
 
-Ao clicar nele, uma janela pop-up será aberta e nela você tem algumas funções pré-programadas para utilizar.
+Ao clicar nele, uma janela pop-up será aberta com algumas funções pré-programadas para utilizar.
 
-Com a janela aberta, você pode selecionar um dos modelos sugeridos, entre resumido ou detalhado, e consegue ver os favoritos, tanto resumido quanto detalhado (No momento, eles estão vazios, mas criaremos um no decorrer da explicação):
+Com a janela aberta, selecione um dos modelos sugeridos, entre resumido ou detalhado, e veja os favoritos, tanto resumido quanto detalhado (no momento, eles estão vazios, mas criaremos um no decorrer da explicação):
 
 {% hint style="info" %}
-**Atenção:** Os filtros que você aplicar na tela, irão interferir diretamente no resultado gerado pelos relatórios que você exportar!  😉👍
+**Atenção:** Os filtros aplicados na tela irão interferir diretamente no resultado gerado pelos relatórios exportados! 😉👍
 {% endhint %}
 
 ![](/erp-v2/assets/exportar_aba_vendas_janela.png)
@@ -26,15 +26,15 @@ O primeiro botão é **`Começar exportação (Padrão)`**, conheceremos um pouc
 
 ![](/erp-v2/assets/exportar_aba_vendas_janela.gif)
 
-Na tela de configuração você pode escolher a **forma de exportação dos dados**, entre *detalhado* ou *resumido*. Onde o detalhado é permitido somente o download no formato de planilha, e o resumido no formato planilha e PDF.
+Na tela de configuração, escolha a **forma de exportação dos dados**, entre *detalhado* ou *resumido*. O detalhado permite somente o download no formato de planilha, e o resumido no formato planilha e PDF.
 
 ![](/erp-v2/assets/exportar_aba_vendas_plan_pdf.gif)
 
 ## Modo configuração padrão
 
-Na escolha de um dos itens você duas opções, no modo *Configuração padrão* você tem os cards de preencher com todos os campos dentro. Enquanto isso, no modo de *Configuração e visualização* você tem uma tela com a pré-visualização da estrutura do relatório.
+Na escolha de um dos itens, há duas opções. No modo *Configuração padrão*, há os cards de preencher com todos os campos dentro. Enquanto isso, no modo de *Configuração e visualização*, há uma tela com a pré-visualização da estrutura do relatório.
 
-No modo `Configuração padrão`, os campos de dentro você pode arrastar para mudar a posição, editar, excluir ou arrastar/selecionar novos campos no menu do lado esquerdo, para aparecer na exportação:
+No modo `Configuração padrão`, os campos dentro podem ser arrastados para mudar a posição, editar, excluir ou arrastar/selecionar novos campos no menu do lado esquerdo, para aparecer na exportação:
 
 ![](/erp-v2/assets/exportar_aba_config_padrao.gif)
 

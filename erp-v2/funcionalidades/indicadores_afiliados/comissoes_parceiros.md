@@ -25,7 +25,7 @@ Nesta tela não temos a opção de adicionar um novo item, pois todas as comiss�
 
 ## Botão direito do mouse
 
-Nas movimentações exibidas na tela, você pode clicar com o botão direito do mouse sobre uma e terá duas opções específicas para uso. Sendo a primeira para **recusar** o pagamento da comissão deste indicador, e a segunda para **marcar como pago** a comissão do indicador. Trazendo assim mais comodidade no seu controle de pagamentos e reduzindo o uso de várias planilhas de controle.
+Nas movimentações exibidas na tela, é possível clicar com o botão direito do mouse sobre uma e terá duas opções específicas para uso. Sendo a primeira para **recusar** o pagamento da comissão deste indicador, e a segunda para **marcar como pago** a comissão do indicador. Trazendo assim mais comodidade no controle de pagamentos e reduzindo o uso de várias planilhas de controle.
 
 Em nosso exemplo, iremos recusar o pagamento da comissão para vermos a mensagem que será exibida. Observe abaixo, o status da comissão será modificado assim que definirmos.
 
@@ -34,16 +34,16 @@ Em nosso exemplo, iremos recusar o pagamento da comissão para vermos a mensagem
 
 ## Dashboard lateral
 
-Ainda nesta tela, você pode ter observado que no lado esquerdo tem um ícone de uma seta se movendo. Ali fica o dashboard de informações da tela. Nela você consegue de forme visual, te acesso a faturamento de vendas indicadas (Pendentes ou Recebidas), consegue também acompanhar valores das comissões aprovadas e recusadas.
+Ainda nesta tela, é possível observar que no lado esquerdo tem um ícone de uma seta se movendo. Ali fica o dashboard de informações da tela. Nela há acesso de forma visual ao faturamento de vendas indicadas (Pendentes ou Recebidas), além de poder acompanhar valores das comissões aprovadas e recusadas.
 
 {% hint style="info" %}
-**Informação:** A configuração dos filtros pode variar as informações que são exibidas no dashboard e na tabela que você pode imprimir. Podendo separar por indicador, data, e afins.
+**Informação:** A configuração dos filtros pode variar as informações que são exibidas no dashboard e na tabela que pode ser impressa. Podendo separar por indicador, data, e afins.
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_comissoes_dashboard_lateral.gif)
 
-E na parte mais abaixo, você tem uma pequena tabela de fechamento comissão indicação parceiro, caso deseje imprimir o relatório para guardar os registro em algum arquivo, ou para outra finalidade, você pode utilizar o botão de download da tabela.
+E na parte mais abaixo, há uma pequena tabela de fechamento comissão indicação parceiro, caso deseje imprimir o relatório para guardar os registro em algum arquivo, ou para outra finalidade, é possível utilizar o botão de download da tabela.
 
 ![](/erp-v2/assets/funcionalidades/indicadores_afiliados/aba_comissoes_dashboard_lateral.png)
 
-Para as informações completas sobre os dashboards no Gestão Online, você pode acessar nosso manual de explicação sobre ele [`clicando aqui`](/erp-v2/primeiro_acesso/relatorios_dashboard_grid.md).
+Para as informações completas sobre os dashboards no Gestão Online, é possível acessar o manual de explicação sobre ele [`clicando aqui`](/erp-v2/primeiro_acesso/relatorios_dashboard_grid.md).

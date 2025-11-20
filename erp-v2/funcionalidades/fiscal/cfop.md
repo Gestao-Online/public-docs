@@ -51,7 +51,7 @@ Em nosso exemplo, usaremos o código 6933, que é especificamente para prestaç�
 
 ### Campo de descrição do código CFOP
 
-Agora, no campo de **Descrição**, colocaremos o nome relativo a este código CFOP para podermos identificá-lo. Mas você pode usar a descrição que for mais conveniente para uso.
+Agora, no campo de **Descrição**, colocaremos o nome relativo a este código CFOP para podermos identificá-lo. Mas é possível usar a descrição que for mais conveniente para uso.
 
 Já no campo de Descrição completa, por ser um item opcional, você decide se irá preenchê-lo ou não. Em nosso exemplo, vamos completar com algumas informações sobre este código, para usarmos em uma consulta futura ou até para caso de dúvida.
 

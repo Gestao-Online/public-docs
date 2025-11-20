@@ -4,7 +4,7 @@ No conjunto de funcionalidades de Unidades/Lojas, você encontrará os itens rel
 
 No contexto de *multi unidades*, é possível gerenciar movimentações de pedidos, vendas, recorrência de vendas, etc. Gerenciar financeiro de contas a pagar e contas a receber por *unidade de negócio* (BU) ou *Projeto*.
 
-Dentro de uma mesma empresa, por exemplo, você pode ter unidades de negócios, o que é muito útil para *departamentalizar* uma ou mais empresas. Alguns exemplos incluem:
+Dentro de uma mesma empresa, por exemplo, é possível ter unidades de negócios, o que é muito útil para *departamentalizar* uma ou mais empresas. Alguns exemplos incluem:
 
 - **Venda Online (E-commerce)**
 - **Televendas**

@@ -2,17 +2,17 @@
 
 A configuração para emissão de NFSe é crucial para evitar erros que possam interromper vendas e gerar problemas com solicitações.
 
-Neste guia, vamos detalhar o procedimento passo a passo para configurar a emissão de notas fiscais no nosso sistema.
+Este guia detalha o procedimento passo a passo para configurar a emissão de notas fiscais no sistema.
 
 {% hint style="danger" %}
-**Atenção:** Você precisará de informações importantes para o preenchimento dos dados mostrados aqui. Em caso de dúvidas, recomendamos que solicite essas informações ao contador de sua empresa, que poderá fornecer as orientações corretas e necessárias.
+**Atenção:** Informações importantes são necessárias para o preenchimento dos dados mostrados aqui. Em caso de dúvidas, solicite essas informações ao contador de sua empresa, que poderá fornecer as orientações corretas e necessárias.
 {% endhint %}
 
 ## Cadastro da Empresa
 
-Primeiro, é necessário efetuar o cadastro da sua empresa. Essa parte é prática, especialmente para CNPJ. Ao digitar o CNPJ, nosso sistema preenche automaticamente os dados completos da empresa, permitindo que você foque rapidamente na parte fiscal.
+Primeiro, efetue o cadastro da sua empresa. Essa parte é prática, especialmente para CNPJ. Ao digitar o CNPJ, o sistema preenche automaticamente os dados completos da empresa, permitindo que o foco seja rapidamente na parte fiscal.
 
-Vamos fazer um teste com o CNPJ da Gestão Online. Observe os dados preenchidos automaticamente:
+Veja um teste com o CNPJ da Gestão Online. Observe os dados preenchidos automaticamente:
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_emitir_nfse_campo_cnpj.gif)
 
@@ -20,7 +20,7 @@ Vamos fazer um teste com o CNPJ da Gestão Online. Observe os dados preenchidos 
 
 ### Anexar certificado Digital
 
-Nos dados fiscais, você pode adicionar o certificado digital da empresa, permitindo assinar documentos com validade jurídica e fazer transações online com segurança.
+Nos dados fiscais, adicione o certificado digital da empresa, permitindo assinar documentos com validade jurídica e fazer transações online com segurança.
 
 {% hint style="warning" %}
 **Importante:** Os certificados digitais são aceitos em **`.pfx`** ou **`.p12`**.
@@ -30,21 +30,21 @@ Nos dados fiscais, você pode adicionar o certificado digital da empresa, permit
 
 ### NFSe ativado
 
-Após o cadastro inicial, você deve preencher os dados fiscais da empresa. As principais informações incluem:
+Após o cadastro inicial, preencha os dados fiscais da empresa. As principais informações incluem:
 
 - Se a empresa é optante pelo **Simples Nacional**.
 - Indicador de **Inscrição Estadual**.
-- Se você é tomador ou prestador de serviço.
+- Se é tomador ou prestador de serviço.
 - Qual o **Regime Tributário** utilizado.
-- Ativar a opção de NFSe ativo (isso habilitará mais opções para você acessar).
+- Ativar a opção NFSe ativo (isso habilitará mais opções).
 
 ![](/erp-v2/assets/guia_utilizacao/guia_utilizacao_emitir_nfse_campos_preenchimento_geral.png)
 
 ### Campo NFSe ambiente
 
-Neste campo, você define o ambiente de criação das notas fiscais. Existem duas opções:
+Neste campo, defina o ambiente de criação das notas fiscais. Existem duas opções:
 
-- **Homologação:** Ambiente de testes sem validade fiscal ou jurídica. Você pode usar dados reais ou fictícios.
+- **Homologação:** Ambiente de testes sem validade fiscal ou jurídica. É possível usar dados reais ou fictícios.
 - **Produção:** Ambiente designado para documentos com valor fiscal, válidos e reconhecidos fiscalmente.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_ambiente.png)
@@ -79,7 +79,7 @@ Ativando esta opção, novos campos ficam disponíveis para preenchimento. Abaix
 
 ### Campo NFSe principal código de serviço
 
-Aqui, você pode adicionar um novo código ou usar os códigos cadastrados na tela [**`LC116`**](/erp-v2/funcionalidades/fiscal/lc116.md). Este campo define o tipo de serviço para a NFSe.
+Adicione um novo código ou use os códigos cadastrados na tela [**`LC116`**](/erp-v2/funcionalidades/fiscal/lc116.md). Este campo define o tipo de serviço para a NFSe.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_codigo_servico.png)
 

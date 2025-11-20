@@ -1,6 +1,6 @@
 # ✅ Primeiro acesso ao portal Parceiro
 
-Após receber o link de acesso ao portal, você precisa clicar no botão **`É o meu primeiro acesso`**. E você será direcionado para outra página.
+Após receber o link de acesso ao portal, é necessário clicar no botão **`É o meu primeiro acesso`**. E será direcionado para outra página.
 
 ![](/portal/assets/portal_parceiro_primeiro_acesso.png)
 
@@ -12,7 +12,7 @@ Na sequência, ele pede para você confirmar qual forma de receber a senha você
 
 ![](/portal/assets/portal_parceiro_primeiro_acesso_email_confirmar.gif)
 
-Neste momento, você precisa acessar a caixa de entrada do seu e-mail, pois a mensagem foi encaminhada a ele.
+Neste momento, é necessário acessar a caixa de entrada do e-mail, pois a mensagem foi encaminhada a ele.
 
 {% hint style="warning" %}
 **Informação:** Usamos como exemplo a caixa de entrada do Gmail, mas existem outras, isso irá depender do e-mail que você tem cadastro, porém todas são bem parecidas! 😉👍
@@ -23,13 +23,13 @@ Neste momento, você precisa acessar a caixa de entrada do seu e-mail, pois a me
 Agora, voltando à tela de primeiro acesso, você colocará o código de segurança que recebeu e criará uma nova senha segura para sua conta.
 
 {% hint style="danger" %}
-**Atenção:** Existem alguns requisitos de segurança para uma senha ser aceita em nossa plataforma, precisa ter no mínimo 8 caracteres, dentre eles Letra Minúscula (a - z), Letra Maiúscula (A - Z) e Número (0 - 9).
+**Atenção:** Existem alguns requisitos de segurança para uma senha ser aceita na plataforma, precisa ter no mínimo 8 caracteres, dentre eles Letra Minúscula (a - z), Letra Maiúscula (A - Z) e Número (0 - 9).
 {% endhint %}
 
 ![](/portal/assets/recupera_acesso_cadastrar_nova_senha.png)
 
 <br>
 
-Pronto, agora você pode acessar o portal com a senha que você acabou de criar! 😁
+Pronto, agora é possível acessar o portal com a senha que acabou de ser criada! 😁
 
 ![](/portal/assets/portal_parceiro_primeiro_acesso_acessar_portal.png)

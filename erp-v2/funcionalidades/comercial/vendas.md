@@ -46,7 +46,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add.png)
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar rascunho;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -57,7 +57,7 @@ Vale lembrar que esse menu mudará trazendo novas opções, mas somente quando v
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu.png)
 
-No momento do cadastro de uma nova venda, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho.
+No momento do cadastro de uma nova venda, será necessário preencher alguns campos obrigatórios que têm o asterisco vermelho.
 
 Aqui, o único item obrigatório para preenchimento é o tipo de negociação, pois a venda pode ser preenchida depois, salvando como rascunho. 😁
 
@@ -67,11 +67,11 @@ Aqui, o único item obrigatório para preenchimento é o tipo de negociação, p
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_venda.png)
 
-Para o preenchimento do primeiro campo, você precisará ter cadastrado os tipos de movimentação que utilizará. Caso tenha dúvidas sobre os tipos de movimentações, acesse nosso guia [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
+Para o preenchimento do primeiro campo, será necessário ter cadastrado os tipos de movimentação que utilizará. Caso tenha dúvidas sobre os tipos de movimentações, acesse o guia [**`clicando aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
 
 Lembrando que a origem (PDV, venda online, venda online unidade, venda online indicador, fechamento) do tipo de movimento pode interferir no momento de adicionar itens a depender da definição criada.
 
-Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções disponíveis aparecem para você, mas se preferir, pode digitar o nome da movimentação que a nossa plataforma começará a fazer a busca para você.
+Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções disponíveis aparecem, mas se preferir, pode digitar o nome da movimentação que a plataforma começará a fazer a busca.
 
 O mesmo acontece com o preenchimento do tipo de negociação, aqui você escolhe se será em dinheiro, boleto, cartão, pix, etc. Lembrando que estas opções só aparecem se você as cadastrar na tela **tipo de negociação**.
 
@@ -87,13 +87,13 @@ Veja esse exemplo abaixo, iremos usar a movimentação **Venda - Exemplo** que e
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_campo_1_e_2.gif)
 
-Agora, nos campos de cliente/parceiro e Parceiro indicador, nós temos alguns botões extras com funções para facilitar seu dia a dia com o nosso sistema. Quando você clica no campo para buscar um cliente e este ainda não possui um cadastro, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para que você possa cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
+Agora, nos campos de cliente/parceiro e Parceiro indicador, há alguns botões extras com funções para facilitar o dia a dia com o sistema. Quando se clica no campo para buscar um cliente e este ainda não possui um cadastro, há o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
 
 {% hint style="danger" %}
 <img src="/erp-v2/assets/marketplace/coroa_premium.png" alt="" data-size="line">O Campo Parceiro indicador é habilitado quando instalado o Módulo de Indicador a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
 {% endhint %}
 
-Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a tela deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
+Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a tela deste cliente com os dados dele para apreciar. E tudo isso sem perder os dados da venda que está sendo preenchida.
 
 Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Veja o exemplo que fizemos abaixo:
 
@@ -107,7 +107,7 @@ Se você tiver alguma dúvida sobre as unidades, é possível acessar nosso guia
 
 ## Salvando rascunho de uma nova venda
 
-Após o preenchimento destas informações, você pode salvar o rascunho para adicionar os itens da venda. Após salvar o rascunho, essa venda entra no status de atendimento automaticamente. Observe no nosso exemplo abaixo:
+Após o preenchimento destas informações, é possível salvar o rascunho para adicionar os itens da venda. Após salvar o rascunho, essa venda entra no status de atendimento automaticamente. Observe o exemplo abaixo:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_venda.gif)
 
@@ -125,13 +125,13 @@ Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaix
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item.png)
 
-Quando clicamos neste botão, são mostradas as opções para inserirmos um produto. São duas opções, o campo **produto/serviço** e **quantidade**. O campo de produtos tem busca automática assim que clicado, mas você pode digitar o nome do produto/serviço para buscar caso queira:
+Quando clicamos neste botão, são mostradas as opções para inserirmos um produto. São duas opções, o campo **produto/serviço** e **quantidade**. O campo de produtos tem busca automática assim que clicado, mas também é possível digitar o nome do produto/serviço para buscar caso queira:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_item_campos.gif)
 
 **Pronto, o produto/serviço foi carregado com sucesso para ser adicionado!**
 
-Montamos um infográfico para exemplificar melhor como funciona o vínculo de cada tela para realizar uma venda dentro do nosso sistema:
+Montamos um infográfico para exemplificar melhor como funciona o vínculo de cada tela para realizar uma venda dentro do sistema:
 
 {% hint style="info" %}
 **Informativo:** Caso esteja utilizando um produto com controle de estoque, o produto precisa estar vinculado ao local de estoque e ter quantidade para poder vender. Para mais informações sobre estoque,  [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/local_estoque.md). 😉👍
@@ -139,7 +139,7 @@ Montamos um infográfico para exemplificar melhor como funciona o vínculo de ca
 
 ![](/erp-v2/assets/funcionalidades/comercial/infografico-passos-venda.png)
 
-Essa parte é importante para você observar, pois o produto já veio com o preço determinado na tabela de preço. E assim você pode adicionar os demais produtos/serviços de que precisa. Agora, caso o preço do produto não seja carregado quando você escolher, então algum item dessa sequência está faltando, vale a pena rever para não acontecer novamente. 😅
+Essa parte é importante observar, pois o produto já veio com o preço determinado na tabela de preço. E assim é possível adicionar os demais produtos/serviços de que precisa. Agora, caso o preço do produto não seja carregado quando for escolhido, então algum item dessa sequência está faltando, vale a pena rever para não acontecer novamente. 😅
 
 Se deseja adicionar um desconto nesse produto/serviço, selecione o desconto em percentual ou em valor. Então, esse valor será aplicado ao produto/serviço:
 
@@ -159,7 +159,7 @@ A partir de agora, um gestor deve liberar a solicitação de desconto para que a
 
 ## Aba de financeiro
 
-Após gerar o boleto ou o link de pagamento, uma nova guia surgirá. Esta é a de **financeiro**, com ela você pode acompanhar a movimentação do pagamento desta venda. 
+Após gerar o boleto ou o link de pagamento, uma nova guia surgirá. Esta é a de **financeiro**, com ela é possível acompanhar a movimentação do pagamento desta venda. 
 
 Observe que ela traz informações como a forma de pagamento escolhida, o tipo, se é receita ou despesa, o valor de desdobramento, valor da baixa e outros.
 
@@ -197,7 +197,7 @@ O estorno para casos de cartão ou pix usam uma dinâmica diferente, observe nes
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_estorno_pic_cc.png)
 
-O estorno nessas duas formas de pagamento são realizadas automaticamente por nosso sistema e o dinheiro devolvido ao cliente. E em sequência, na tela **Anexos** você irá encontrar a carta de cancelamento.
+O estorno nessas duas formas de pagamento são realizadas automaticamente pelo sistema e o dinheiro devolvido ao cliente. E em sequência, na tela **Anexos** será encontrada a carta de cancelamento.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_financeir_edit_estorno_pix_cc_carta.gif)
 
@@ -209,11 +209,11 @@ Nesta guia é mostrado o relatório completo de quem autorizou alguma venda que 
 
 ## Aba anexos
 
-Os boletos aparecem automaticamente na guia de anexos após clicar no botão de gerar boleto, por ser uma configuração do nosso sistema. O mesmo acontece com as notas fiscais, o download é feito, desde que elas estejam previamente configuradas com as informações no cadastro da empresa.
+Os boletos aparecem automaticamente na guia de anexos após clicar no botão de gerar boleto, por ser uma configuração do sistema. O mesmo acontece com as notas fiscais, o download é feito, desde que elas estejam previamente configuradas com as informações no cadastro da empresa.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos_itens.png)
 
-Clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">adicionar anexo no menu desta guia, você pode anexar documentos como, boleto, NF-e, NFS-e, NFC-e, e outros. Você pode preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
+Clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line">adicionar anexo no menu desta guia, é possível anexar documentos como, boleto, NF-e, NFS-e, NFC-e, e outros. É possível preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos.png)
 
@@ -243,15 +243,15 @@ Após você adicionar os itens para venda e confirmar, o status desta venda muda
 
 ### Botão adicionar voucher
 
-Ao clicar no botão adicionar voucher, uma janela será aberta e você poderá adicionar o código.
+Ao clicar no botão adicionar voucher, uma janela será aberta e será possível adicionar o código.
 
-Esta opção é para auxiliar clientes que utilizam um sistema de voucher diferente do presente em nossa plataforma.
+Esta opção é para auxiliar clientes que utilizam um sistema de voucher diferente do presente na plataforma.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_voucher.png)
 
 ### Botão gerar boleto
 
-Dos novos botões que aparecem nesse menu superior, nós temos o de **gerar boleto**, ao clicar nele, o boleto será gerado e ficará disponível para download na guia **anexos** e você pode encaminhar para o cliente efetuar o pagamento:
+Dos novos botões que aparecem nesse menu superior, há o de **gerar boleto**, ao clicar nele, o boleto será gerado e ficará disponível para download na guia **anexos** e pode ser encaminhado para o cliente efetuar o pagamento:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_menu_novo_btn_boleto.png)
 

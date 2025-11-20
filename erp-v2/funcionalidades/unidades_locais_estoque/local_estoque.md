@@ -38,7 +38,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ### Menu superior
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> Adicionar novo local de estoque;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -50,7 +50,7 @@ Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor ci
 
 ### Campo descrição, e status
 
-Olhando para a aba **`Geral`**, por padrão, quando você for criar um local de estoque é exigido descrição, identificador e status. Em **Descrição**, você define um nome ao local de estoque que está sendo cadastrado no momento, o campo **Identificador**, é gerado um código padrão que será usando para identificar este local de estoque em nossa plataforma. E o campo de **Status** você tem duas opções para selecionar, entre ativado para o local de estoque ficar ativa e disponível, e inativo para que ele deixe de funcionar.
+Olhando para a aba **`Geral`**, por padrão, ao criar um local de estoque é exigido descrição, identificador e status. Em **Descrição**, defina um nome ao local de estoque que está sendo cadastrado no momento, o campo **Identificador**, é gerado um código padrão que será usado para identificar este local de estoque na plataforma. E o campo de **Status** há duas opções para selecionar, entre ativado para o local de estoque ficar ativa e disponível, e inativo para que ele deixe de funcionar.
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_unidade_itens.png)
 
@@ -58,7 +58,7 @@ Olhando para a aba **`Geral`**, por padrão, quando você for criar um local de 
 
 Em específico, no campo **Analítica**, caso deixe ele em ativo, o local de estoque criado deixa de possuir uma hierarquia. O uso da hierarquia é interessante para melhorar a identificação e separação de novos locais de estoque que você for adicionar, podendo definir um como principal e os demais como dependentes, pois a regra aplicada ao principal é repassada para os dependentes automaticamente.
 
-Para melhor exemplo, veja o campo **Identificador** ele tem a sequência padrão usada em nosso sistema, neste caso 01.00. Caso você fizesse o cadastro de algum local de estoque vínculado a este local de estoque identificado como 01, os demais teriam o identificador 01.01, 01.02, 01.03... e assim em diante. 😁👍
+Para melhor exemplo, veja o campo **Identificador** ele tem a sequência padrão usada no sistema, neste caso 01.00. Caso fizesse o cadastro de algum local de estoque vínculado a este local de estoque identificado como 01, os demais teriam o identificador 01.01, 01.02, 01.03... e assim em diante. 😁👍
 
 ![](/erp-v2/assets/funcionalidades/estoque/aba_estoque_add_btn_analitica.gif)
 

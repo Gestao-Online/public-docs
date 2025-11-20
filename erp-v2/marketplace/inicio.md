@@ -8,7 +8,7 @@ Nosso marketplace foi desenvolvido pensando em você, oferecendo uma ampla varie
 
 ## Como acessar?
 
-Você pode explorar o Marketplace Gestão Online de duas maneiras:
+É possível explorar o Marketplace Gestão Online de duas maneiras:
 
 - **Barra de Pesquisa**: Localize diretamente o que precisa utilizando nossa busca inteligente.
 
@@ -24,7 +24,7 @@ Você pode explorar o Marketplace Gestão Online de duas maneiras:
 
 ⏩ **Módulos Avançados**: Agendamento (Organize compromissos e agendas de forma intuitiva). Gerenciamento de Unidades (Controle múltiplas localizações do seu negócio). Gerenciamento de Parceiros Indicadores (Acompanhe e otimize suas parcerias estratégicas). Emissão de NFSe (Simplifique a emissão de notas fiscais de serviço), tudo isso e muito mais no marketplace do Gestão Online.
 
-📊 **BI's**: Projetos prontos de relatórios para você agilizaro dia a dia do administrativo com gráficas e planilhas.
+📊 **BI's**: Projetos prontos de relatórios para você agilizar o dia a dia do administrativo com gráficos e planilhas.
 
 🔎 **Utilidades**: Sincronização de agenda com vendas, personalização de landing page, cobranças automáticas por SMS e outros para melhor uso da sua empresa.
 

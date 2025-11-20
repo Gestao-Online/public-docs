@@ -37,7 +37,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add.png)
 
-Após clicarmos no botão adicionar novo contrato de controle, uma nova página será aberta e, Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Após clicarmos no botão adicionar novo contrato de controle, uma nova página será aberta e, Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -50,7 +50,7 @@ Este mesmo menu ganhará novos botões para uso assim que você salvar o novo co
 
 ## Campos obrigatórios
 
-No momento do cadastro de um novo contrato de controle de unidade, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
+No momento do cadastro de um novo contrato de controle de unidade, será necessário preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento no sistema.
 
 {% hint style="info" %}
 **Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados desse contrato. 😉👍
@@ -64,7 +64,7 @@ No primeiro campo **Unidade**, que é um campo de preenchimento obrigatório. Vo
 
 Observe que nesse mesmo campo, temos um ícone <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> para editar a unidade selecionada abrindo ela em uma nova tela.
 
-Acompanhe nossa demonstração de uso abaixo. Lembrando que neste exemplo vamos escolher a opção sede/matriz.
+Acompanhe a demonstração de uso abaixo. Lembrando que neste exemplo vamos escolher a opção sede/matriz.
 
 {% hint style="warning" %}
 **Atenção:** É necessário que dentro do cadastro da unidade indicada, tenha um "Parceiro responsável" pela unidade, para que as rotinas automatizadas funcionem corretamente. Caso queira mais informações sobre como utilizar a tela de unidades, [**`clique aqui`**](/erp-v2/funcionalidades/unidades_locais_estoque/unidades_lojas.md).
@@ -76,7 +76,7 @@ Ao lado do campo de unidade, temos o de **Empresa**. Indique a "Empresa" que pos
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_contrato_campo_empresa.gif)
 
-Agora no campo de data, você precisa inserir a **data de validade** deste contrato que está criando, ela ajudará acompanhar com avisos caso esteja próximo ao vencimento.
+Agora no campo de data, é necessário inserir a **data de validade** deste contrato que está criando, ela ajudará acompanhar com avisos caso esteja próximo ao vencimento.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_data_validade.png)
 
@@ -86,7 +86,7 @@ Depois você define se o **status** desse contrato estará ativado ou desativado
 
 ### Campo tipo contrato
 
-No campo **Tipo Contrato**, você tem quatro opções disponíveis, vejamos um pouco mais sobre cada uma. Observe que, ao clicar em algumas opções, um novo campo será mostrado ao lado para preencher o valor:
+No campo **Tipo Contrato**, há quatro opções disponíveis, veja um pouco mais sobre cada uma. Observe que, ao clicar em algumas opções, um novo campo será mostrado ao lado para preencher o valor:
 
 <!-- Pré-pago --> - **Sem limite:** A unidade não tem um limite para trabalhar com saldo negativo, isso pode implicar no impedimento de uso de algumas funcionalidades (Por exemplo: em uma venda na modalidade pré-pago)
 
@@ -106,7 +106,7 @@ Agora uma atenção maior a este campo de **Fechamento automático**, pois nele 
 
 ### Fechamento todo dia do mês
 
-Destas opções disponíveis, você tem para deixar ele desativado, onde não aparecerá nenhum campo extra para preenchimento. A opção de fechamento _Todo dia do mês_ selecionado, você precisa depois definir os dias do mês, esses valores você precisa digitar e logo após pressionar a tecla enter para que seja confirmado. Observe nossa demonstração abaixo.
+Destas opções disponíveis, há a opção para deixá-lo desativado, onde não aparecerá nenhum campo extra para preenchimento. A opção de fechamento _Todo dia do mês_ selecionado, é necessário depois definir os dias do mês, esses valores precisam ser digitados e logo após pressionar a tecla enter para que seja confirmado. Observe a demonstração abaixo.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_mes.gif)
 
@@ -126,7 +126,7 @@ Logo após, o campo de **fechamento automático tipo de negociação**, lembre-s
 **Tipo de negociação:** Caso queira mais informações sobre como utilizar a tela tipo de negociação, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md).
 {% endhint %}
 
-Em nosso exemplo, vamos escolher a opção **Boleto - GOPag**. Observe abaixo:
+No exemplo, vamos escolher a opção **Boleto - GOPag**. Observe abaixo:
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_tipo_negociacao.png)
 
@@ -136,19 +136,19 @@ Logo ao lado, temos o campo **Fechamento automático tipo de movimentação**, l
 **Tipo de movimentação:** Caso queira mais informações sobre como utilizar a tela tipo de movimentação, [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tipo_movimentacao.md).
 {% endhint %}
 
-Em nosso exemplo, vamos escolher a opção **Venda - Unidade (Custo)**. Observe abaixo:
+No exemplo, vamos escolher a opção **Venda - Unidade (Custo)**. Observe abaixo:
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_fechamento_tipo_movimentacao.png)
 
-Agora, quanto aos demais campos em cinza, o preenchimento será feito automaticamente por nossa plataforma. 😁
+Agora, quanto aos demais campos em cinza, o preenchimento será feito automaticamente pela plataforma. 😁
 
-E o último campo para preenchimento é o de **Observação**, onde você pode deixar alguma anotação a respeito deste contrato.
+E o último campo para preenchimento é o de **Observação**, onde é possível deixar alguma anotação a respeito deste contrato.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_observacao.png)
 
 ### Salvando controle de unidade
 
-Após fazer o preenchimento dos dados do novo contrato, você pode clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para ser registrado o contrato do controle de unidade e ficar disponível para utilização.
+Após fazer o preenchimento dos dados do novo contrato, é possível clicar no ícone <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> de salvar para ser registrado o contrato do controle de unidade e ficar disponível para utilização.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_campo_salvar.gif)
 
@@ -168,11 +168,11 @@ Caso seja necessário algum ajuste no saldo, ou o lançamento de alguma despesa 
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_saldo_add_movimentacao.png)
 
-Mas lembre-se, normalmente essas movimentações de crédito ou débito, são programadas para serem geradas automaticamente por nossa plataforma, atráves de fluxos de comissão ou custo que são disparados atráves de rotinas financeiras, ou o tipo de movimentação definido.
+Mas lembre-se, normalmente essas movimentações de crédito ou débito, são programadas para serem geradas automaticamente pela plataforma, atráves de fluxos de comissão ou custo que são disparados atráves de rotinas financeiras, ou o tipo de movimentação definido.
 
 #### Relatório fechamento (PDF ou Planilha)
 
-Quando um fechamento é realizado dentro do sistema, uma nova linha é criada na guia **Movimentações de saldo**. Essa linha representa o resultado de todas as movimentações agrupadas naquele período. Você pode exportar o relatório do fechamento em PDF ou Planilha
+Quando um fechamento é realizado dentro do sistema, uma nova linha é criada na guia **Movimentações de saldo**. Essa linha representa o resultado de todas as movimentações agrupadas naquele período. É possível exportar o relatório do fechamento em PDF ou Planilha
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_add_guia_movimentacoes_pendentes_exemplo_fechamento_gerar_relatorio.gif)
 
@@ -284,7 +284,7 @@ Por exemplo, um pagamento que já foi realizado e ainda não foi atualizado no c
 
 ### Botão Gerar previsão de fechamento
 
-Por último, o botão de **gerar previsão do fechamento**, ao clicar nele, uma janela pop-up será aberta para você poder preencher alguns campos. O primeiro é o de _data final_, pois ele irá processar uma previsão do fechamento de movimentações entregues com base na data que for colocada.
+Por último, o botão de **gerar previsão do fechamento**, ao clicar nele, uma janela pop-up será aberta para preencher alguns campos. O primeiro é o de _data final_, pois ele irá processar uma previsão do fechamento de movimentações entregues com base na data que for colocada.
 
 Você também tem a opção de enviar este relatório por e-mail, pois ele criará um arquivo em PDF e enviará em anexo.
 
@@ -300,7 +300,7 @@ Quando um contrato criado tem atraso de pagamento, o sistema automaticamente blo
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_status_inadimplente.png)
 
-Você pode clicar com o botão direito do mouse sobre o contrato atrasado e uma nova opção ficará disponível, a de opção liberação de confiança.
+É possível clicar com o botão direito do mouse sobre o contrato atrasado e uma nova opção ficará disponível, a de opção liberação de confiança.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_btn_direito_mouse.gif)
 

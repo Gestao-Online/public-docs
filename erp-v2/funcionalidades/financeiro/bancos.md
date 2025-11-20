@@ -43,7 +43,7 @@ Após clicarmos no botão adicionar novo banco, uma nova página será aberta e,
 
 ## Campos obrigatórios
 
-No momento do cadastro de um novo banco, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
+No momento do cadastro de um novo banco, será necessário preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento no sistema.
 
 {% hint style="info" %}
 **Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados do banco. 😉👍

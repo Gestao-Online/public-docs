@@ -40,7 +40,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add.png)
 
-Após clicarmos no botão adicionar indicador, uma nova página será aberta e nela, Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Após clicarmos no botão adicionar indicador, uma nova página será aberta e nela, Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line"> Realizar venda;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;   
@@ -187,7 +187,7 @@ Quando ativamos a opção **Gerar link venda online**, mais opções ficam dispo
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_dados_venda_online.png)
 
-No campo **tipo de negociação venda online**, você pode escolher uma das opções cadastradas que tem vínculo com a tela [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md). Para nosso exemplo, iremos marcar a opção **Boleto - GOPag**:
+No campo **tipo de negociação venda online**, é possível escolher uma das opções cadastradas que tem vínculo com a tela [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md). Para nosso exemplo, iremos marcar a opção **Boleto - GOPag**:
 
 {% hint style="info" %}
 **Informação:** As formas de pagamento aceitas são somente as que funcionam de forma online e com controle de baixa de valor automatizada, como Pix, boleto e cartão de crédito da GOPag.
@@ -221,7 +221,7 @@ Depois que salvar as informações do novo indicador, novas abas ficarão dispon
 
 ### Aba contatos
 
-Nesta aba, você pode cadastrar os contatos com os quais este indicador possui algum tipo de vínculo.
+Nesta aba, é possível cadastrar os contatos com os quais este indicador possui algum tipo de vínculo.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_indicador_add_indicador_guia_contatos.png)
 

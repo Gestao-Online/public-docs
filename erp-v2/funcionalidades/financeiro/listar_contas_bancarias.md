@@ -37,7 +37,7 @@ Nesta janela aberta tem alguns campos de preenchimento obrigatório, sendo eles 
 
 Ao clicar no primeiro campo de **Conta** será carregado as contas cadastradas na plataforma. Lembrando que estas são as contas que aparecem nesta tela.
 
-Você pode definir a **data de inicio e fim** dos relatórios que serão exibidos, e o **tipo de arquivo**, que pode ser `PDF` ou `EXCEL` para efetuar o download.
+É possível definir a **data de inicio e fim** dos relatórios que serão exibidos, e o **tipo de arquivo**, que pode ser `PDF` ou `EXCEL` para efetuar o download.
 
 Observe abaixo o exemplo que fizemos, o relatório é mostrado em uma nova tela permitindo o download ou impressão. Nosso relatório é somente para ilustrar, não possui dados de entrada ou saída.
 
@@ -58,7 +58,7 @@ Após clicarmos no botão adicionar nova conta bancária, uma nova página será
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_menu.png)
 
-No momento do cadastro de uma nova conta bancária, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
+No momento do cadastro de uma nova conta bancária, será necessário preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento no sistema.
 
 {% hint style="info" %}
 **Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados da conta bancária. 😉👍
@@ -237,14 +237,14 @@ Dos campos disponiveis, primeiro são as datas de início e datas de fim da conc
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_inteligente_datas.png)
 
-Você pode definir o tipo de conciliação entre, crédito, débito, pagamento, transferência ou todos os tipos.
+É possível definir o tipo de conciliação entre, crédito, débito, pagamento, transferência ou todos os tipos.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_inteligente_tipos.png)
 
 E por último o modo que a conciliação inteligente irá tratar as informações do extrato, como por exemplo, os 100 primeiros resultados, os 500 primeiros resultados, ou então todos os resultados do período.
 
 {% hint style="info" %} 
-**Improtante:** Em nosso sistema, caso o número de informações seja muito grande, uma mensagem será exibida a você informando que não poderá processar tudo de uma vez, neste caso, você pode usar as outras opções disponíveis e seguir com a conciliação até encerrar.
+**Importante:** No sistema, caso o número de informações seja muito grande, uma mensagem será exibida informando que não será possível processar tudo de uma vez, neste caso, use as outras opções disponíveis e siga com a conciliação até encerrar.
 {% endhint %}
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_concilicacao_inteligente_modo.png)
@@ -305,7 +305,7 @@ Esse arquivo inclui informações que possibilitam registrar ou dar baixas em co
 
 Você pode adicionar o arquivo remessa manualmente, clicando no botão <img src="/erp-v2/assets/icon_add.png" alt="" data-size="line"> adicionar, esta tela será mostrada a você. 
 
-Pode adicionar a descrição do arquivo, e clicar no botão **Escolher arquivo**. Uma janela será aberta para você selecionar os arquivo e enviar para nosso sistema.
+Pode adicionar a descrição do arquivo, e clicar no botão **Escolher arquivo**. Uma janela será aberta para selecionar o arquivo e enviar para o sistema.
 
 ![](/erp-v2/assets/funcionalidades/financeiro/aba_listar_add_conta_guia_arquivos_remessa_add.png)
 

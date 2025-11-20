@@ -1,6 +1,6 @@
 # 🪙 Títulos avulsos
 
-Nesta tela você encontra todos os títulos avulsos cadastrados na plataforma da **Gestão Online**. Esta tela foi criada para que você responsável pelo adminsitrativo no sistema, consiga ter acesso a todos os boletos emitidos e que não foram pagos dentro da plataforma. 
+Nesta tela você encontra todos os títulos avulsos cadastrados na plataforma da **Gestão Online**. Esta tela foi criada para que você responsável pelo administrativo/financeiro no sistema, consiga ter acesso a todos os boletos emitidos e que não foram pagos dentro da plataforma. 
 
 Uma situação interessante para o uso desta tela ocorre quando, durante uma venda, você gera um novo boleto ou altera a data de vencimento de um boleto existente. Nesse caso, o boleto antigo é movido para esta tela e fica armazenado, permitindo que você o consulte e o vincule novamente à venda correspondente caso o cliente realize o pagamento.
 
@@ -45,7 +45,7 @@ Após clicar no botão adicionar um novo título avulso, uma nova página será 
 
 ## Campos obrigatórios
 
-No momento do cadastro de uma nova conta a receber, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
+No momento do cadastro de uma nova conta a receber, será necessário preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento no sistema.
 
 {% hint style="info" %}
 **Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados da conta a pagar. 😉👍

@@ -33,7 +33,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamentos_add.png)
 
-Após clicar no botão para adicionar um novo agendamento, uma nova página será aberta e, ao lado direito da tela, é possível visualizar um pequeno menu cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicar no botão para adicionar um novo agendamento, uma nova página será aberta e, ao lado direito da tela, é possível visualizar um pequeno menu cinza. Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line"> Realizar venda;
 - <img src="/erp-v2/assets/icon_parceiros.png" alt="" data-size="line"> Abrir cliente/parceiro;
@@ -52,7 +52,7 @@ O primeiro campo é para definir o tipo de agendamento, para usar ele é necess�
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamento_add_campo_tipo.gif)
 
-O segundo campo é o de status, nele terão algumas opções para definição, e você pode alterar essa informação no futuro, caso o **Tipo de agendamento** escolhido permita a alteração.
+O segundo campo é o de status, nele terão algumas opções para definição, e é possível alterar essa informação no futuro, caso o **Tipo de agendamento** escolhido permita a alteração.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_agendamentos_add_campo_status.png)
 

@@ -45,7 +45,7 @@ Após clicarmos no botão adicionar nova movimentação, uma nova página será 
 
 ## Campos obrogatórios para preenchimento
 
-No momento do cadastro de uma nova movimentação, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
+No momento do cadastro de uma nova movimentação, será necessário preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento no sistema.
 
 {% hint style="info" %}
 **Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados da movimentação bancária. 😉👍

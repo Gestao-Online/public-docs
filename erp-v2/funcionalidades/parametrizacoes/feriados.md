@@ -41,7 +41,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_feriados_add.png)
 
-Após clicar para adicionar um novo feriado, uma nova tela será mostrada para você, nela ao lado direito, você pode ver um pequeno menu na cor cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicar para adicionar um novo feriado, uma nova tela será mostrada, nela ao lado direito, está um pequeno menu na cor cinza. Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
