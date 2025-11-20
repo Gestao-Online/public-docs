@@ -10,7 +10,7 @@ Ao clicar no botão <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size=
 
 Nesta central, você consegue adicionar ou remover usuários que terão permissões para acessar, emitir e editar funções específicas desta tela.
 
-Observe que ao lado direito da tela você tem a descrição da permissão, e ao lado esquerdo você tem o campo para digitar o nome do usuário que terá essa permissão.
+Observe que ao lado esquerdo da tela você tem a descrição da permissão, e ao lado direito você tem o campo para digitar o nome do usuário que terá essa permissão.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_menu_btn_permissoes_janela.png)
 

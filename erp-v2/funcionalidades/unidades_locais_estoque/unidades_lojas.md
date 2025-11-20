@@ -128,13 +128,13 @@ A **Tabela de preço de comissão de entrega** Se aplica somente para algumas si
 <img src="/erp-v2/assets/marketplace/coroa_premium.png" alt="" data-size="line"> A funcionalidade Loja Virtual é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
 {% endhint %}
 
-Esta parte em específico, esta dedicada a undiades/lojas que terão a opção de efetuar vendas online. Com o preenchimento destes campos, você poderá até mesmo gerar um link e uma página personalizada com as informações da sua empresa, vejamos os campos de preenchimento logo abaixo.
+Esta parte em específico, esta dedicada a unidades/lojas que terão a opção de efetuar vendas online. Com o preenchimento destes campos, você poderá até mesmo gerar um link e uma página personalizada com as informações da sua empresa, vejamos os campos de preenchimento logo abaixo.
 
 O primeiro item é o da **Imagem**, nele você carrega a logomarca da unidade/loja que está sendo cadastrada, para que alguns itens/links fiquem personalizados. Abaixo um exemplo de inserção de foto;
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral4.gif)
 
-Logo ao lado, você tem o botão de **Gerar Link**, onde é criado um link para efetuar vendas online se marcar você o marcar como ativado. Observe que ao final da página fica liberado um botão para gerar o link de acesso a página de vendas.
+Logo ao lado, você tem o botão de **Gerar Link**, onde é criado um link para efetuar vendas online, se marcar como ativado, observe que ao final da página fica liberado um botão para gerar o link de acesso a página de vendas. Vale lembrar que para o link ser válido é necessário estar cadastrado as informações da unidade/loja e clicar para salvar, caso o contrário, o link não será registrado.
 
 ![](/erp-v2/assets/funcionalidades/unidades/aba_unidade_add_guia_geral_btn_gerar_link.gif)
 
