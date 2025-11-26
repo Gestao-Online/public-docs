@@ -1,6 +1,6 @@
 ## Personalize e Automatize Divisões de Pagamentos com o Módulo de Split
 
-Dê mais agilidade e segurança à gestão financeira do seu negócio! Com o **Módulo de Split de Pagamento**, você pode automatizar a divisão de valores entre múltiplos parceiros, fornecedores ou unidades, garantindo total transparência nos repasses financeiros dentro do seu ERP.
+Dê mais agilidade e segurança à gestão financeira do negócio! Com o **Módulo de Split de Pagamento**, é possível automatizar a divisão de valores entre múltiplos parceiros, fornecedores ou unidades, garantindo total transparência nos repasses financeiros dentro do ERP.
 
 Ideal para empresas que trabalham com comissões, repasses, franquias ou qualquer operação que envolva divisão automática de pagamento.
 
@@ -12,7 +12,7 @@ Ideal para empresas que trabalham com comissões, repasses, franquias ou qualque
 Configure regras de divisão de pagamento e deixe o sistema realizar os cálculos e repasses automaticamente — sem erros manuais.
 
 ### ✔️ Transparência Financeira  
-Veja claramente como cada valor é dividido e acompanhe os repasses para cada participante da operação.
+Visualize claramente como cada valor é dividido e acompanhe os repasses para cada participante da operação.
 
 ### ✔️ Flexibilidade nas Regras  
 Defina percentuais, valores fixos ou regras específicas para cada operação, vendedor, parceiro ou unidade.
@@ -25,8 +25,8 @@ Elimine divergências e cálculos manuais, mantendo toda divisão registrada, au
 
 ---
 
-Seja para comissões, repasses comerciais ou divisão entre unidades, o **Módulo de Split de Pagamento** garante precisão, transparência e ganho de tempo no seu financeiro. Experimente agora e eleve o nível do seu controle operacional!
+Seja para comissões, repasses comerciais ou divisão entre unidades, o **Módulo de Split de Pagamento** garante precisão, transparência e ganho de tempo no financeiro. Experimente agora e eleve o nível do controle operacional!
 
 ---
 
-**Instale agora no marketplace do GestãOnline e simplifique sua operação financeira!** 💳✨
+**Instale agora no marketplace do Gestão Online e simplifique a operação financeira!** 💳✨
