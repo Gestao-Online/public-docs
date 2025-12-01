@@ -19,7 +19,8 @@
     - [↪️ Atalhos e ações internas](erp-v2/primeiro_acesso/atalhos_internos.md)
     - [🔩 Organizando seu grid](/erp-v2/primeiro_acesso/organizando_grid.md)
     - [📊 Dashboards na GRID](erp-v2/primeiro_acesso/relatorios_dashboard_grid.md)
-    - [📤 Exportar](erp-v2/primeiro_acesso/relatorio_exportados_formatados.md)
+    - [📤 Exportar](erp-v2/primeiro_acesso/exportar.md)
+    - [📤 Relatórios Exportados/Formatados](erp-v2/primeiro_acesso/relatorio_exportados_formatados.md)
     - [📥 Importar](erp-v2/primeiro_acesso/importar.md)
     - [🔒 Permissões, restrições/exceções](/erp-v2/primeiro_acesso/permissoes_restricoes_excecoes.md)
 
