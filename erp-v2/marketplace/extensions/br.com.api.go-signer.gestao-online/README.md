@@ -1,8 +1,8 @@
 <div style="text-align: justify">
 
-# GO Signer
+# GoSigner
 
-A **GO Signer** é uma extensão do sistema Gestão Online que permite assinar anexos presentes nas vendas confirmadas.
+A **GoSigner** é uma extensão do sistema Gestão Online que permite assinar anexos presentes nas vendas confirmadas.
 
 Esta extensão permite o envio, acompanhamento e recebimento automático de documentos assinados digitalmente, de forma segura e integrada ao sistema.
 
@@ -16,7 +16,7 @@ Esta extensão permite o envio, acompanhamento e recebimento automático de docu
 
 ### **1\. Acesso à Configuração**
 
-Para configurar a extensão GO Signer:
+Para configurar a extensão GoSigner:
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/master/erp-v2/assets/marketplace/go-signer/fluxo_config_extensao%20.gif?raw=true" alt="GO Signer GIF" width="800"> 
@@ -25,12 +25,12 @@ Para configurar a extensão GO Signer:
 <br>
 
 1. Acesse o menu de **Extensões** no sistema  
-2. Localize a extensão **GO Signer** 
+2. Localize a extensão **GoSigner** 
 3. Clique em **Configurar**
 
 ### **2\. Campos de Configuração**
 
-Na tela que abrir, você verá **três campos**:
+Na tela que será exibida, você verá **três campos**:
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/master/erp-v2/assets/marketplace/go-signer/config.png?raw=true" alt="GO Signer GIF" width="800"> 
@@ -60,28 +60,29 @@ O botão **“Assinar Contrato”** ficará disponível no canto superior esquer
     <img src="https://github.com/Gestao-Online/public-docs/blob/master/erp-v2/assets/marketplace/go-signer/botao_assinar.png?raw=true" alt="Botão Assinar Contrato na tela de venda" width="800"> 
 </div>
 
-Ao clicar no botão, **abrirá uma nova tela** onde deverá ser informado o **CPF** do responsável pela assinatura e selecionar o tipo de assinatura desejado: **Assinatura Simples** ou **Assinatura Qualificada**.
+Ao clicar no botão, **abrirá uma nova tela** onde deverá ser informado o **CPF** do responsável ou o **CNPJ** da empresa responsável pela assinatura, bem como o tipo de assinatura desejado: **Simples ou Qualificada**
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/master/erp-v2/assets/marketplace/go-signer/tipo_assinatura.png?raw=true" alt="Tela de seleção do tipo de assinatura" width="800"> 
+    <img src="../../../assets/marketplace/go-signer/tipo_assinatura.png" alt="Tela de seleção do tipo de assinatura" width="800"> 
 </div>
-
----
 
 ## 1. Assinatura Simples
 A **Assinatura Simples** é uma assinatura eletrônica que **não utiliza certificado digital**, na qual a identidade do assinante é validada por meio de **dados pessoais, token enviado por e-mail e geolocalização**, garantindo autenticidade e integridade dos documentos assinados.
 
 Para a **Assinatura Simples**, o sistema guiará você pelos seguintes passos:
 
+### • Informar o CPF do responsável
+Na Assinatura Simples, o sistema aceita **somente CPF**. Não é permitido o uso de CNPJ da empresa nessa modalidade, portanto informe o CPF do responsável pela assinatura.
+
 ### • Seleção de Documentos
 Após escolher o tipo de assinatura, serão exibidos os anexos disponíveis. Marque **"Ativado"** nos documentos que deseja assinar e **"Desativado"** nos que não deseja. Em seguida, clique em **"Confirmar"** para prosseguir.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/master/erp-v2/assets/marketplace/go-signer/selecionando_documento.gif?raw=true" alt="Selecionando documentos para assinatura" width="800"> 
+    <img src="../../../assets/marketplace/go-signer/selecionando_documento.gif" alt="Gif selecionando documento" width="800"> 
 </div>
 
 ### • Link de Acesso
-Apos confirmar a seleção o sistema gera um **link exclusivo**, que deve ser enviado ao cliente para que ele acesse a **GoSigner** e assine os documentos.
+Após confirmar a seleção o sistema gera um **link exclusivo**, que deve ser enviado ao cliente para que ele acesse a **GoSigner** e assine os documentos.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/master/erp-v2/assets/marketplace/go-signer/link_exclusivo.png?raw=true" alt="Link exclusivo para assinatura" width="800"> 
@@ -135,7 +136,9 @@ Após a assinatura do cliente, os documentos assinados serão **marcados visualm
 ## 2. Assinatura Qualificada
 A **Assinatura Qualificada** é uma assinatura eletrônica que **utiliza certificado digital ICP-Brasil**, garantindo o mais alto nível de segurança jurídica e autenticidade, sendo equivalente à assinatura manuscrita com reconhecimento de firma.
 
-A **Assinatura Qualificada** segue um fluxo similar, com alterações apenas na etapa de autenticação do certificado.
+O fluxo da **Assinatura Qualificada** é semelhante ao da Assinatura Simples, com duas diferenças principais:
+- Permite o uso de **CPF ou CNPJ**;
+- Inclui uma etapa adicional de autenticação do certificado digital.
 
 Ao acessar o link da GoSigner, o cliente verá a seguinte página:
 
