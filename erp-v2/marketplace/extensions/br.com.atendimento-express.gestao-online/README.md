@@ -12,7 +12,7 @@ A solução permite essa integração com as ferramentas da Soluti, agilizando a
 
 ## Como configurar?
 
-Ao clicar no ícone de configurações, você verá algumas definições que podem ser aplicadas a esta extensão. O primeiro campo você irá definir o tipo de plano que irá utilizar, sendo eles:
+Ao clicar no ícone de configurações, estão disponíveis algumas definições que podem ser aplicadas a esta extensão. No primeiro campo, é necessário definir o tipo de plano que será utilizado, sendo eles:
 
 - **Gratuito:** Fluxo padrão de atendimento, usando o sistema de preenchimento de dados através do envio da foto do documento, e criação obrigatória da senha, e atendimento indo para fila padrão do V.Line.
 - **Premium:** Fluxo personalizado de atendimento, podendo remover a solicitação de foto do documento, definindo uso da consulta via SERPRO, podendo escolher fila de atendimento personalizada, e até remover a solicitação de senha de emissão antes de criar o agendamento.
@@ -21,7 +21,7 @@ Ao clicar no ícone de configurações, você verá algumas definições que pod
     <img src="https://github.com/Gestao-Online/public-docs/blob/f61b361401d708fe77fb6375a0238498dc94a406/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_02_01.png?raw=true" alt="0" width="500"> 
 </div>
 
-No campo Tipo de Movimentação, é possível selecionar quais podem ter permissão de exibir o botão de Atendimento Express na venda (Vale lembrar que este botão só ficará disponível para uso quando a entrega do produto estiver liberada).
+No campo Tipo de Movimentação, é possível selecionar quais podem ter permissão de exibir o botão de Atendimento Express na venda (Vale ressaltar que este botão fica disponível apenas quando a entrega do produto estiver liberada).
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/f61b361401d708fe77fb6375a0238498dc94a406/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_02_02.png?raw=true" alt="0" width="500"> 
@@ -29,13 +29,13 @@ No campo Tipo de Movimentação, é possível selecionar quais podem ter permiss
 
 Logo abaixo, você possui três campos que pode deixar habilitado, ou desabilitar, isso irá depender da forma como for conduzir o atendimento.
 
-No primeiro botão, caso fique habilitado, será solicitado que envie a foto da CNH ou RG da pessoa que será atendida, dessa forma o nosso sistema fará leitura dos dados, e preencherá os campos principais para prosseguir.
+No primeiro botão, caso habilitado, será solicitado envio da foto da CNH ou RG da pessoa que será atendida, dessa forma o sistema fará leitura dos dados e preencherá os campos principais para prosseguir.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/f61b361401d708fe77fb6375a0238498dc94a406/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/fluxo-certificado-soluti.gif?raw=true" alt="0" width="200"> 
 </div>
 
-No segundo, caso habilitado, será solicitado a criação de uma senha antes de prosseguir com o agendamento ou atendimento. Caso desabilitado, não terá necessidade de senha até o momento da videoconferência.
+No segundo, caso habilitado, será solicitada criação de uma senha antes de prosseguir com o agendamento ou atendimento. Caso desabilitado, não há necessidade de senha até o momento da videoconferência.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/128d7018e50d02b28c9d26d3ec5a83089b7bffcd/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_18.png?raw=true" alt="0" width="200"> 
@@ -47,13 +47,13 @@ No terceiro, caso habilitado, você poderá incluir filas de atendimento customi
     <img src="https://github.com/Gestao-Online/public-docs/blob/f61b361401d708fe77fb6375a0238498dc94a406/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_02_03.gif?raw=true" alt="0" width="500"> 
 </div>
 
-No último campo para configuração, determina se será feito consultas no Serpro para obter os dados da empresa e se será feito consulta no DATA VALID para verificação dos dados do sócio ou do titular do certificado digital, desta forma agilizando o processo de preenchimento dos dados. São duas opções:
+No último campo de configuração, determina-se se serão feitas consultas no SERPRO para obter os dados da empresa e se será realizada consulta no DATA VALID para verificação dos dados do sócio ou do titular do certificado digital, agilizando assim o processo de preenchimento dos dados. São duas opções:
 
-- **Gestão Online:** Usando esta opção você irá utilizar o sistema de consultas do próprio Gestão Online, não precisando configurar nenhum item a mais, apenas começar a usar, e as consultas serão feitas tanto para CPF quanto para CNPJ.
+- **Gestão Online:** Ao usar esta opção, utiliza-se o sistema de consultas do próprio Gestão Online, sem necessidade de configurar itens adicionais, apenas começar a usar. As consultas são feitas para CPF e CNPJ.
 - **Próprio:** Este contrato é recomendado quando você já possui acesso de consultas no SERPRO, sendo necessário inclusão do ClientID e ClientSecret para habilitar o uso.
 
 <div style="text-align: center">
-    <img src="erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_02_04.gif" alt="0" width="200"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/f5365e56e6f357828fce8375a991f3f4ebe79722/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_02_04.gif?raw=true" alt="0" width="500"> 
 </div>
 
 ## Como funciona?
