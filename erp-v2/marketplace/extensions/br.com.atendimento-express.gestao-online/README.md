@@ -18,21 +18,21 @@ Ao clicar no ícone de configurações, você verá algumas definições que pod
 - **Premium:** Fluxo personalizado de atendimento, podendo remover a solicitação de foto do documento, definindo uso da consulta via SERPRO, podendo escolher fila de atendimento personalizada, e até remover a solicitação de senha de emissão antes de criar o agendamento.
 
 <div style="text-align: center">
-    <img src="erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_02_01.png" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/f61b361401d708fe77fb6375a0238498dc94a406/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_02_01.png?raw=true" alt="0" width="500"> 
 </div>
 
 No campo Tipo de Movimentação, é possível selecionar quais podem ter permissão de exibir o botão de Atendimento Express na venda (Vale lembrar que este botão só ficará disponível para uso quando a entrega do produto estiver liberada).
 
 <div style="text-align: center">
-    <img src="erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_02_02.png" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/f61b361401d708fe77fb6375a0238498dc94a406/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_02_02.png?raw=true" alt="0" width="500"> 
 </div>
 
 Logo abaixo, você possui três campos que pode deixar habilitado, ou desabilitar, isso irá depender da forma como for conduzir o atendimento.
 
-No primeiro, caso fique habilitado, será solicitado que envie a foto da CNH ou RG da pessoa que será atendida, dessa forma o nosso sistema fará leitura dos dados, e preencherá os campos principais para prosseguir.
+No primeiro botão, caso fique habilitado, será solicitado que envie a foto da CNH ou RG da pessoa que será atendida, dessa forma o nosso sistema fará leitura dos dados, e preencherá os campos principais para prosseguir.
 
 <div style="text-align: center">
-    <img src="erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/fluxo-certificado-soluti.gif?raw=true" alt="0" width="200"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/f61b361401d708fe77fb6375a0238498dc94a406/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/fluxo-certificado-soluti.gif?raw=true" alt="0" width="200"> 
 </div>
 
 No segundo, caso habilitado, será solicitado a criação de uma senha antes de prosseguir com o agendamento ou atendimento. Caso desabilitado, não terá necessidade de senha até o momento da videoconferência.
@@ -44,7 +44,7 @@ No segundo, caso habilitado, será solicitado a criação de uma senha antes de 
 No terceiro, caso habilitado, você poderá incluir filas de atendimento customizadas, podendo separar por Unidades, incluindo o token especifico de cada fila de atendimento do V.Line.
 
 <div style="text-align: center">
-    <img src="erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_02_03.gif" alt="0" width="200"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/f61b361401d708fe77fb6375a0238498dc94a406/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_02_03.gif?raw=true" alt="0" width="500"> 
 </div>
 
 No último campo para configuração, determina se será feito consultas no Serpro para obter os dados da empresa e se será feito consulta no DATA VALID para verificação dos dados do sócio ou do titular do certificado digital, desta forma agilizando o processo de preenchimento dos dados. São duas opções:
@@ -127,7 +127,7 @@ Ao selecionar a opção de nova videoconferência, você é redirecionado para a
 Caso selecione a opção de entrar na fila de atendimento de forma imediata, será exibida uma mensagem informando que sua solicitação está na fila, juntamente com o protocolo, número do pedido e número da solicitação. Clicando em **Clique aqui para abrir a videoconferência**, você será encaminhado à videoconferência para concluir o processo de emissão do certificado.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/128d7018e50d02b28c9d26d3ec5a83089b7bffcd/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_12.png?raw=true" alt="0" width="400"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/f61b361401d708fe77fb6375a0238498dc94a406/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_12.png?raw=true" alt="0" width="400"> 
 </div>
 
 <br>
@@ -147,7 +147,7 @@ Caso opte por agendar a videoconferência, no campo abaixo serão apresentados o
 Após concluir o agendamento, você receberá uma mensagem de confirmação juntamente com o protocolo, a data e o horário do agendamento da videoconferência, número do pedido e número da solicitação. A mensagem também informa que o link da videoconferência foi enviado por e-mail.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/128d7018e50d02b28c9d26d3ec5a83089b7bffcd/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_16.png?raw=true" alt="0" width="400"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/f61b361401d708fe77fb6375a0238498dc94a406/erp-v2/marketplace/extensions/br.com.atendimento-express.gestao-online/assets/extensao_atendimento_express_16.png?raw=true" alt="0" width="400"> 
 </div>
 
 <br>
