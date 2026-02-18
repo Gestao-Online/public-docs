@@ -142,6 +142,7 @@
     - [Como alterar a data de vencimento de um boleto?](erp-v2/guia_utilizacao/como_alterar_data_venc_boleto.md)
     - [Como cancelar um boleto Emitido/Vencido no seu Gestão Online?](/erp-v2/guia_utilizacao/como_cancelar_boleto_emitido.md)
     - [Como Adicionar/Atualizar meu certificado digital para emitir NFSe?](/erp-v2/guia_utilizacao/como_atualizar_meu_certificado_digital_para_para_emissao_de_nfse.md)
+    - [Como estornar uma venda que possui conciliação bancária?](/erp-v2/guia_utilizacao/como_estornar_vendas_conciliadas.md)
 
 - [🏬 Marketplace](erp-v2/marketplace/inicio.md)
    <!-- * [Como funciona o marketplace?](erp-v2/marketplace/como-funciona.md) -->

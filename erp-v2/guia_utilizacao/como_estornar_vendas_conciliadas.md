@@ -28,7 +28,7 @@ Clique com o **botão direito do mouse** sobre o item e selecione a opção **�
 ## Atualizar e realizar o estorno
 
 Após desconciliar no extrato bancário, retorne à tela da venda e recarregue-a para atualizar o financeiro.
-Com o movimento desconciliado, a opção de estorno ficará disponível.
+Com o financeiro desconciliado, a opção de estorno ficará disponível para uso.
 
 ![Como estornar venda conciliada](/erp-v2/assets/guia_utilizacao/como_estornar_vendas_conciliadas_04.png)
 
