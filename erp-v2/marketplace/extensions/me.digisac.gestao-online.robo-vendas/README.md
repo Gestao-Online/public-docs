@@ -290,7 +290,7 @@ Após a configuração, o Gestão Online disponibiliza dashboards para acompanha
 Este dashboard apresenta os dados relacionados aos disparos feitos pelo robô, permitindo acompanhar volume, conversão e retorno financeiro.
 
 <div style="text-align: center">
-    <img src="./assets/config_robo_vendas_dashboard_1.gif" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a843599eda298504d7e27ffb5e2b7cbb0f39666e/erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/assets/config_robo_vendas_dashboard_1.gif?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -298,13 +298,13 @@ Este dashboard apresenta os dados relacionados aos disparos feitos pelo robô, p
 Na parte superior são exibidos os indicadores principais, como total de disparos realizados (baseados no filtro aplicado), quantidade de disparos convertidos até o momento, valor financeiro gerado de vendas pagas e percentual de conversão. Esses dados permitem avaliar rapidamente a efetividade das ações automatizadas.
 
 <div style="text-align: center">
-    <img src="./assets/config_robo_vendas_dashboard_2.png" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a843599eda298504d7e27ffb5e2b7cbb0f39666e/erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/assets/config_robo_vendas_dashboard_2.png?raw=true" alt="0" width="800"> 
 </div>
 
 Logo abaixo, há um gráfico que demonstra o comparativo mês a mês, permitindo identificar evolução, sazonalidade e desempenho ao longo do tempo. Ao clicar em um mês específico, o sistema apresenta o detalhamento diário, facilitando análises mais precisas.
 
 <div style="text-align: center">
-    <img src="./assets/config_robo_vendas_dashboard_3.gif" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a843599eda298504d7e27ffb5e2b7cbb0f39666e/erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/assets/config_robo_vendas_dashboard_3.gif?raw=true" alt="0" width="800"> 
 </div>
 
 Na parte inferior, encontra-se a tabela com o detalhamento dos agendamentos, onde é possível visualizar informações como produto, data de envio, status de conversão e quantidade de tentativas realizadas.
@@ -315,7 +315,7 @@ Na parte inferior, encontra-se a tabela com o detalhamento dos agendamentos, ond
 </div>
 
 <div style="text-align: center">
-    <img src="./assets/config_robo_vendas_dashboard_4.png" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a843599eda298504d7e27ffb5e2b7cbb0f39666e/erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/assets/config_robo_vendas_dashboard_4.png?raw=true" alt="0" width="800"> 
 </div>
 
 ## Dashboard – Dash Robô (Funil de Atendimento)
@@ -325,7 +325,7 @@ Este dashboard é voltado para o acompanhamento do fluxo de atendimento e das et
 O principal elemento visual é o funil de vendas, que mostra a quantidade de clientes em cada etapa do processo (Com variação a depender do filtro aplicado), desde o início do atendimento até a finalização da venda. Essa visualização permite identificar gargalos e pontos de melhoria no fluxo.
 
 <div style="text-align: center">
-    <img src="./assets/config_robo_vendas_dashboard_5.png" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a843599eda298504d7e27ffb5e2b7cbb0f39666e/erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/assets/config_robo_vendas_dashboard_5.png?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -333,7 +333,7 @@ O principal elemento visual é o funil de vendas, que mostra a quantidade de cli
 Ao lado do funil, um gráfico complementar apresenta a distribuição proporcional dos atendimentos por etapa, ao passar o mouse sobre cada fatia do gráfico é exibida a quantidade de itens e sua porcentagem referente ao total, facilitando a análise visual.
 
 <div style="text-align: center">
-    <img src="./assets/config_robo_vendas_dashboard_6.png" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a843599eda298504d7e27ffb5e2b7cbb0f39666e/erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/assets/config_robo_vendas_dashboard_6.png?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -346,7 +346,7 @@ Na parte inferior, está a fila de atendimento, onde são listados todos os clie
 </div>
 
 <div style="text-align: center">
-    <img src="./assets/config_robo_vendas_dashboard_7.png" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a843599eda298504d7e27ffb5e2b7cbb0f39666e/erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/assets/config_robo_vendas_dashboard_7.png?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -354,7 +354,7 @@ Na parte inferior, está a fila de atendimento, onde são listados todos os clie
 O dashboard também conta com filtros por data e por etapa, permitindo análises mais específicas conforme a necessidade.
 
 <div style="text-align: center">
-    <img src="./assets/config_robo_vendas_dashboard_8.png" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a843599eda298504d7e27ffb5e2b7cbb0f39666e/erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/assets/config_robo_vendas_dashboard_8.png?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -368,7 +368,7 @@ Na parte superior, são exibidos os indicadores de faturamento total, faturament
 Essas informações permitem entender o impacto do robô nas vendas e comparar com a performance da equipe comercial.
 
 <div style="text-align: center">
-    <img src="./assets/config_robo_vendas_dashboard_9.png" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a843599eda298504d7e27ffb5e2b7cbb0f39666e/erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/assets/config_robo_vendas_dashboard_9.png?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -376,7 +376,7 @@ Essas informações permitem entender o impacto do robô nas vendas e comparar c
 O gráfico central apresenta a evolução das vendas ao longo do mês, separando os resultados entre robô e vendedores, facilitando a análise de desempenho ao longo do tempo (Podendo aplicar filtros de períodos específicos).
 
 <div style="text-align: center">
-    <img src="./assets/config_robo_vendas_dashboard_10.png" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a843599eda298504d7e27ffb5e2b7cbb0f39666e/erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/assets/config_robo_vendas_dashboard_10.png?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -389,7 +389,7 @@ Na parte inferior, está a listagem detalhada das vendas (Exibindo de forma orde
 </div>
 
 <div style="text-align: center">
-    <img src="./assets/config_robo_vendas_dashboard_11.png" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a843599eda298504d7e27ffb5e2b7cbb0f39666e/erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/assets/config_robo_vendas_dashboard_11.png?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
@@ -397,7 +397,7 @@ Na parte inferior, está a listagem detalhada das vendas (Exibindo de forma orde
 O dashboard também permite filtrar os dados por período, facilitando análises específicas e comparações.
 
 <div style="text-align: center">
-    <img src="./assets/config_robo_vendas_dashboard_12.png" alt="0" width="800"> 
+    <img src="https://github.com/Gestao-Online/public-docs/blob/a843599eda298504d7e27ffb5e2b7cbb0f39666e/erp-v2/marketplace/extensions/me.digisac.gestao-online.robo-vendas/assets/config_robo_vendas_dashboard_12.png?raw=true" alt="0" width="800"> 
 </div>
 
 <br>
