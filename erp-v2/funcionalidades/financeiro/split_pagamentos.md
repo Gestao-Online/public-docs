@@ -12,7 +12,7 @@ Após a instalação da extensão pelo marketplace do Gestão Online, o sistema 
 
 A primeira configuração necessária está na tela de Tipo de Negociação, ao editar o item que deseja ativar a opção, será exibido um botão responsável por habilitar o uso do split de pagamento naquele tipo de negociação. Essa ativação é indispensável, pois determina se as vendas vinculadas a esse tipo poderão utilizar a divisão automática de valores.
 
-<div style="text-align: center"> <img src="/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_01.png" alt="0" width="800"> </div>
+![](/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_01.png)
 
 {% hint style="warning" %}
 **Atenção:** Sem essa opção habilitada, o sistema não executará o split, mesmo que as demais configurações estejam corretas.
@@ -24,13 +24,13 @@ A configuração seguinte ocorre no Tipo de Movimentação, é recomendado criar
 
 Dentro dessa tela, alguns pontos exigem atenção. A opção de Comissão Unidade só será exibida quando a opção de Tabela de preço secundária estiver habilitada. Já a opção de Comissão de Indicador estará disponível quando a opção de permitir indicação esteja habilitado.
 
-<div style="text-align: center"> <img src="/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_02.gif" alt="0" width="800"> </div>
+![](/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_02.gif)
 
 Ainda nessa configuração, o campo Configuração indicação deve obrigatoriamente estar definido como "Após baixar financeiro/confirmar pagamento", pois é nesse momento que o sistema realiza a validação da conta GOPag dos participantes do split.
 
 Essa definição garante consistência no controle financeiro e evita problemas relacionados a estornos ou divergências no repasse de valores.
 
-<div style="text-align: center"> <img src="/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_03.png" alt="0" width="800"> </div>
+![](/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_03.png)
 
 ### Configuração no Cadastro de Indicadores e Unidades
 
@@ -40,7 +40,7 @@ Outro ponto essencial está no cadastro dos participantes do split, sejam eles p
 **Informação:** Para responsáveis por unidade, basta marcar essa opção, pois o sistema utilizará automaticamente a tabela de custo/comissão (Definida no Tipo de Movimentação) vinculada no momento da venda.
 {% endhint %}
 
-<div style="text-align: center"> <img src="/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_04.png" alt="0" width="800"> </div>
+![](/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_04.png)
 
 Após marcar esta opção, um botão de convidar para GOPag será exibido, permitindo o envio de um convite para que o parceiro crie sua conta na plataforma de pagamentos. Essa etapa é fundamental para garantir que todos os participantes do split estejam devidamente configurados e aptos a receber os repasses financeiros. 
 
@@ -48,9 +48,9 @@ Após marcar esta opção, um botão de convidar para GOPag será exibido, permi
 **Atenção:** Esse vínculo é fundamental, pois ao realizar o cadastro por esse link, a GOPag reconhece automaticamente que aquele parceiro pertence à base de um cliente específico.
 {% endhint %}
 
-<div style="text-align: center"> <img src="/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_06.png" alt="0" width="800"> </div>
+![](/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_06.png)
 
-<div style="text-align: center"> <img src="/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_09.png" alt="0" width="800"> </div>
+![](/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_09.png)
 
 Para parceiros indicadores, além de marcar a participação no split, é necessário configurar os campos adicionais relacionados à tabela de comissão de indicação, pois será com base nessas informações que o sistema determinará o valor a ser repassado.
 
@@ -58,7 +58,7 @@ Para parceiros indicadores, além de marcar a participação no split, é necess
 **Tabela de preço:** Caso queira mais informações sobre como utilizar as tabelas preço [**`clique aqui`**](/erp-v2/funcionalidades/parametrizacoes/tabelas_precos.md).
 {% endhint %}
 
-<div style="text-align: center"> <img src="/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_05.png" alt="0" width="800"> </div>
+![](/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_05.png)
 
 Além disso, todos os parceiros que possuem conta vinculada à GOPag passam a exibir uma coluna específica indicando o status da conta. Essa informação é utilizada nas validações do processo de venda.
 
@@ -68,7 +68,7 @@ No momento da realização da venda, o fluxo permanece o mesmo do processo padr�
 
 Após inserir os produtos e demais informações, ao clicar no botão de **Confirmar** da venda, o sistema executa uma validação automática dos participantes envolvidos no split.
 
-<div style="text-align: center"> <img src="/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_08.gif" alt="0" width="800"> </div>
+![](/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_08.gif)
 
 Nesse momento, o sistema força uma verificação junto à GOPag para identificar se os parceiros informados possuem conta ativa. Embora exista uma rotina automática que realiza essa checagem periodicamente, a confirmação da venda dispara essa validação em tempo real.
 
@@ -80,6 +80,6 @@ Caso algum dos envolvidos não possua conta ativa, o sistema interrompe o proces
 
 Quando identificado que um parceiro não possui conta ativa, o sistema emite um aviso para criação da conta na GOPag. Esse aviso é fundamental para orientar o parceiro a regularizar sua conta e garantir que futuras vendas possam ser processadas corretamente.
 
-<div style="text-align: center"> <img src="/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_07.gif" alt="0" width="800"> </div>
+![](/erp-v2/assets/funcionalidades/financeiro/modulo_split_de_pagamentos_07.gif)
 
 É importante seguir o procedimento explicado no tópico "Configuração no Cadastro de Indicadores e Unidades", pois caso o parceiro crie a conta diretamente pelo site da GOPag, sem utilizar o link de convite, o processo tende a ser mais demorado para aprovação, pois não haverá vínculo com seu sistema.
