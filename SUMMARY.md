@@ -65,6 +65,7 @@
       - [🏦 Agência bancária](/erp-v2/funcionalidades/financeiro/agencia_bancaria.md)
       - [🪙 Títulos avulsos](/erp-v2/funcionalidades/financeiro/titulos_avulsos.md)
       - [💱 Tipo de negociação](erp-v2/funcionalidades/financeiro/tipos_negociacao.md)
+      - [🔀 Split de pagamentos](erp-v2/funcionalidades/financeiro/split_pagamentos.md)
 
     - [🕵️ Fiscal](erp-v2/funcionalidades/fiscal/README.md)
 
