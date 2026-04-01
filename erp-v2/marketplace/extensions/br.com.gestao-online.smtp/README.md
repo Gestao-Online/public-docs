@@ -7,7 +7,7 @@ Este passo a passo vai te ajudar a configurar o SMTP no seu ERP, permitindo o en
 Nesta aplicação ao clicar no botão de configurações uma notificação pop-up irá se abrir mostrando os campos disponíveis para alteração.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/dd8468ade6418c6fb1616645af0d484158434034/erp-v2/marketplace/extensions/br.com.gestao-online.smtp/assets/extensao_smtp_03.gif?raw=true" alt="0" width="800"> 
+    <img src="assets/config.gif" alt="0" width="800"> 
 </div>
 
 <br>
@@ -21,7 +21,7 @@ Preencha os campos obrigatórios marcados com * conforme as informações fornec
 No primeiro campo temos o **Nome de Domínio**, nele você pode preencher por exemplo: smtp.suaempresa.com. Caso não saiba o domínio, consulte o suporte técnico do provedor.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/54d925b74c39fa8f951e55343c85ea0129dd699a/erp-v2/marketplace/extensions/br.com.gestao-online.smtp/assets/extensao_smtp_04.png?raw=true" alt="0" width="800"> 
+    <img src="assets/nome_dominio_config.png" alt="0" width="800"> 
 </div>
 
 <br>
@@ -35,7 +35,7 @@ No segundo campo, você irá preencher com o número da porta que será usada pa
 Mas sempre recomendamos que verifique com o seu provedor qual porta deve ser utilizada.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/54d925b74c39fa8f951e55343c85ea0129dd699a/erp-v2/marketplace/extensions/br.com.gestao-online.smtp/assets/extensao_smtp_05.png?raw=true" alt="0" width="800"> 
+    <img src="assets/porta_config.png" alt="0" width="800"> 
 </div>
 
 <br>
@@ -45,7 +45,7 @@ Agora nos campos de nome de usuário e senha, você primeiro irá digitar o nome
 Insira também a senha correspondente à conta de e-mail utilizada. Certifique-se de que a senha está correta e que a conta tem permissão para envio via SMTP.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/6343ee767a357237bc979400a5e2a6ff66ed170e/erp-v2/marketplace/extensions/br.com.gestao-online.smtp/assets/extensao_smtp_06.png?raw=true" alt="0" width="800"> 
+    <img src="assets/nome_senha_config.png" alt="0" width="800"> 
 </div>
 
 <br>
@@ -53,7 +53,7 @@ Insira também a senha correspondente à conta de e-mail utilizada. Certifique-s
 No campo de **Email Remetente** informe o e-mail que será exibido nas mensagens enviadas pelo seu Gestão Online, ou o mesmo e-mail usado no nome de usuário.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/fb730c31b578b9c3f4a24cee13d4cb0e9df8f98b/erp-v2/marketplace/extensions/br.com.gestao-online.smtp/assets/extensao_smtp_07.png?raw=true" alt="0" width="800"> 
+    <img src="assets/email_remetente_config.png" alt="0" width="800"> 
 </div>
 
 <br>
@@ -65,23 +65,39 @@ O campo SSL (Segurança da Conexão) é um seletor com três opções. Verifique
 - **TLS**: Escolha esta opção se o servidor requer uma conexão segura via TLS.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/f227b3ee3de5b5ecf7b1ffc03d9291fc371b539e/erp-v2/marketplace/extensions/br.com.gestao-online.smtp/assets/extensao_smtp_08.png?raw=true" alt="0" width="800"> 
+    <img src="assets/ssl_config.png" alt="0" width="800"> 
 </div>
 
-Por último, após preencher os campos necessários, você pode clicar no botão **Testar credenciais** e enviaremos um teste para o seu servidor de SMTP. Se tudo estiver correto, você receberá uma mensagem de que foi configurado com sucesso.
+Por último, após preencher os campos necessários, você pode clicar no botão **Testar credenciais** e enviaremos um teste para o seu servidor de SMTP. Se tudo estiver configurado corretamente, você receberá uma mensagem de confirmação, juntamente com um código que deverá ser inserido na próxima etapa para concluir a validação.
 
 <div style="background-color:rgb(255, 227, 227); border-left: 6px solid rgb(253, 27, 27); padding: 15px; margin: 20px 0; border-radius: 5px; color: #333; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"><h4 style="margin: 0 0 10px; font-size: 1em;">🚨 Atenção:</h4><p style="margin: 0; line-height: 1.5;">Caso apareça alguma mensagem de erro neste momento, você precisa revisar as informações inseridas, e se o erro persistir, você pode entrar em contato com nosso suporte para verificarmos o que pode ter acontecido.</div>
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/d4829a588dee359e4b6947b7b2c2962fd8a85a93/erp-v2/marketplace/extensions/br.com.gestao-online.smtp/assets/extensao_smtp_09.gif?raw=true" alt="0" width="800"> 
+    <img src="assets/testar_credenciais.gif" alt="0" width="800"> 
 </div>
 
 <br>
 
-Com os dados preenchidos corretamente e o teste realizado com sucesso, agora você pode clicar no botão Salvar configurações para finalizar o processo. Uma mensagem será mostrada a você na janela de configuração da extensão, informando que as alterações levarão um tempo de até 6 horas para estarem em pleno funcionamento.
+### Código enviado por e-mail
+
+Após a validação bem-sucedida das credenciais, o endereço informado no campo **Remetente** receberá um e-mail contendo um código de verificação, semelhante ao exemplo abaixo:
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/e55fa94eca0258e234b90f5083c93966a3d022cf/erp-v2/marketplace/extensions/br.com.gestao-online.smtp/assets/extensao_smtp_10.png?raw=true" alt="0" width="800"> 
+    <img src="assets/email_codigo.png" alt="0" width="800"> 
+</div>
+
+### Validando código
+
+Nesta etapa, será necessário inserir o código recebido por e-mail para confirmar que o servidor está funcionando corretamente e concluir a configuração.
+
+<div style="text-align: center">
+    <img src="assets/email_codigo_config.gif" alt="0" width="800"> 
+</div>
+<br>
+Com os dados preenchidos corretamente e os testes realizados com sucesso, agora você pode clicar no botão Salvar configurações para finalizar o processo. Uma mensagem será mostrada a você na janela de configuração da extensão, informando que as alterações levarão um tempo de até 6 horas para estarem em pleno funcionamento.
+
+<div style="text-align: center">
+    <img src="assets/final_config.png" alt="0" width="800"> 
 </div>
 
 <br>
