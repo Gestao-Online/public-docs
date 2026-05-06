@@ -42,6 +42,38 @@ Observando mais abaixo ainda na tela inicial é mostrado a você uma listagem co
 
 ![](../.gitbook/assets/4_indicador.png)
 
+## 💰🤝 Minhas Vendas Indicadas
+
+Este Menu permite a visualização da lista de Vendas Indicadas. Para cada registro, são disponibilizadas as seguintes informações: dados do indicado, produto comercializado, valor da venda, status do pedido, status do pagamento e acesso ao boleto da venda.”
+
+![](/portal/assets/Menu_minhas_vendas_indicadas.png)
+
+Clicando no menu, irá listar as vendas registradas que está como Parceiro indicador.
+
+![](/portal/assets/Lista_de_vendas_parceiros_indicador.png)
+
+Ao acionar o ícone de visualização **(ícone de olho)** localizado na extremidade direita de cada registro, o sistema direciona para a tela de detalhes da venda, onde são disponibilizados os seguintes dados:
+
+* Informações do produto comercializado
+* Dados do cliente
+* Status do pedido
+* Status do pagamento
+* Valores de indicação
+
+![](/portal/assets/Olho_visualizacao.png)
+
+![](/portal/assets/vendas_indicadas.png)
+
+Rolando a página para baixo quando a **Forma de pagamento for Boleto**, o sistema exibirá o respectivo documento para visualização e/ou download.
+
+![](/portal/assets/boleto.png)
+
+Dentro da venda tem o botão **Ver resumo**, o sistema abrirá uma nova aba contendo o resumo consolidado da transação, incluindo informações de compra e pagamento.
+
+![](/portal/assets/Ver_resumo.png)
+
+![](/portal/assets/resumo_da_compra.png)
+
 ## Minhas Indicações
 
 Aqui é possível verificar uma lista completa com todos os indicados, inclusive adicionar ou removê-los. Para adicionar um cliente clique em **`Nova Indicação`** ou caso queira adicionar vários clientes de uma só vez, pode utilizar o botão **`Importar Lista`**.
