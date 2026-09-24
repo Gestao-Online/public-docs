@@ -52,43 +52,14 @@ E logo abaixo você pode configurar a hora de início e hora de fim para a exten
 
 ## Configuração de periodicidade de pagamento
 
-Na parte final, você pode configurar o tempo que o cliente demora para efetuar o pagamento da compra para ser enviado a mensagem de recuperação de compras não pagas.
+Na parte final, você pode configurar o tempo que o cliente demora para efetuar o pagamento da compra para ser enviado a mensagem de recuperação de compras não pagas. Essa configuração pode ser definida para **Boleto, Cartão de crédito e Pix**.
 
-### Periodicidade Boleto
+A periodicidade pode ser definida em **Dias**. Após selecionar a opção, informe no campo ao lado a quantidade de dias desejada. Lembre-se de pressionar a tecla **Enter** após digitar o valor para confirmar a opção.
 
-Você pode definir a periodicidade  em **Dias**, **Horas** ou **Minutos**, podendo escolher clicando no campo. Após definir, você agora pode preencher o campo ao lado com o número, seja em dia, hora ou minutos. Lembre-se de, quando digitar o valor em número, pressionar a tecla Enter para confirmar a opção desejada.
-
-Observe nossa demonstração abaixo.
-
+Observe a demonstração abaixo.
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/9022130ef306961434ccd857180022b4eb45c7be/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/marketplace_go_recupera_venda_nao_paga_config_boleto.gif?raw=true" alt="0" width="800"> 
+    <img src="../../../assets/marketplace/go-recupera_venda_nao_paga/marketplace_go_recupera_venda_nao_paga_config_boleto.gif" alt="0" width="800"> 
 </div>
-
-<br>
-
-### Periodicidade Cartão de crédito
-
-Você pode definir a periodicidade  em **Dias**, **Horas** ou **Minutos**, podendo escolher clicando no campo. Após definir, você agora pode preencher o campo ao lado com o número, seja em dia, hora ou minutos. Lembre-se de, quando digitar o valor em número, pressionar a tecla Enter para confirmar a opção desejada.
-
-Observe nossa demonstração abaixo.
-
-<div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/9022130ef306961434ccd857180022b4eb45c7be/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/marketplace_go_recupera_venda_nao_paga_config_cartao.gif?raw=true" alt="0" width="800"> 
-</div>
-
-<br>
-
-### Periodicidade Pix
-
-Você pode definir a periodicidade  em **Dias**, **Horas** ou **Minutos**, podendo escolher clicando no campo. Após definir, você agora pode preencher o campo ao lado com o número, seja em dia, hora ou minutos. Lembre-se de, quando digitar o valor em número, pressionar a tecla Enter para confirmar a opção desejada.
-
-Observe nossa demonstração abaixo.
-
-<div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/9022130ef306961434ccd857180022b4eb45c7be/erp-v2/assets/marketplace/go-recupera_venda_nao_paga/marketplace_go_recupera_venda_nao_paga_config_pix.gif?raw=true" alt="0" width="800"> 
-</div>
-
-<br>
 
 ## Salvando configurações 
 
