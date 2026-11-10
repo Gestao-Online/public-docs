@@ -4,7 +4,7 @@ Na tela de contrato de controle de unidade, você verá no menu superior o botã
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_btn_importar.png)
 
-Clicando nele uma nova janela será mostrada para você solicitando que envie um arquivo do tipo planilha para que possa processar as informações em nossa plataforma.
+Clicando nele uma nova janela será mostrada solicitando que envie um arquivo do tipo planilha para que possa processar as informações na plataforma.
 
 {% hint style="warning" %}
 **Atenção:** Os formatos de planilha aceitos no sistema são `.csv`, .`xls`, `xlsx` e `.ods`.
@@ -15,7 +15,7 @@ Clicando nele uma nova janela será mostrada para você solicitando que envie um
 A estrutura de informações da planilha não é complexa, sendo somente cinco colunas e algumas informações como **ID contrato** e **ID unidade** sendo necessárias como identificador para o tipo de lançamento receita ou despesa. Muita atenção para os valores, não é necessário a utilização do cifrão, o sistema fará a conversão automaticamente, quando ler a planilha enviada.
 
 {% hint style="info" %}
-Você pode baixar o modelo desta planilha. [**`PLANILHA MODELO CONTRATO.xlsx`**](https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/assets/PLANILHA%20MODELO%20CONTRATO.xlsx)
+É possível baixar o modelo desta planilha. [**`PLANILHA MODELO CONTRATO.xlsx`**](https://github.com/Gestao-Online/public-docs/raw/master/erp-v2/assets/PLANILHA%20MODELO%20CONTRATO.xlsx)
 {% endhint %}
 
 Observe abaixo o exemplo de planilha que utilizaremos.
@@ -32,6 +32,6 @@ Observe o procedimento passo a passo.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_btn_importar_janela_importando.gif)
 
-Pronto, com a planilha carregada, agora você pode conferir se as movimentações foram carregadas corretamente.
+Pronto, com a planilha carregada, agora é possível conferir se as movimentações foram carregadas corretamente.
 
 ![](/erp-v2/assets/funcionalidades/controle_unidades/aba_contrato_btn_importar_janela_olhando_importacoes.gif)

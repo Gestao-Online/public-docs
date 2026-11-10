@@ -1,10 +1,10 @@
 # Como instalar
 
-Na tela inicial do marketplace, você pode escolher qual aplicativo mais necessita para uso no dia a dia. 
+Na tela inicial do marketplace, é possível escolher qual aplicativo mais necessita para uso no dia a dia. 
 
 ![](/erp-v2/assets/marketplace/tela_marketplace_inicio.gif)
 
-Feito isso, você pode clicar na opção **Ver detalhes** e uma janela pop-up será aberta para você, mostrando o nome da aplicação, a imagem de referência, a versão disponível dela.
+Feito isso, é possível clicar na opção **Ver detalhes** e uma janela pop-up será aberta, mostrando o nome da aplicação, a imagem de referência, a versão disponível dela.
 
 ![](/erp-v2/assets/marketplace/tela_marketplace_btn_detalhes.png)
 
@@ -32,11 +32,11 @@ Com a aplicação instalada, agora dois botões ficarão disponíveis para você
 
 ![](/erp-v2/assets/marketplace/tela_marketplace_app_instalado.png)
 
-Feito a configuração, agora você pode usufruir das funcionalidades da aplicação. 😁
+Feito a configuração, agora é possível usufruir das funcionalidades da aplicação. 😁
 
 ## Desinstalando uma aplicação
 
-Para remover a aplicação do sistema, você precisa somente abrir ela e, ao lado direito da tela, clicar no botão desinstalar.
+Para remover a aplicação do sistema, é necessário somente abri-la e, ao lado direito da tela, clicar no botão desinstalar.
 
 ![](/erp-v2/assets/marketplace/tela_marketplace_app_desinstalado.png)
 

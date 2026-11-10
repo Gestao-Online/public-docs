@@ -1,11 +1,11 @@
 # 🖥️ Criar e/ou Recuperar acesso ao Portal
 
-Você pode criar ou recuperar um acesso ao Portal do Parceiro com poucos passos! 😉👍
+É possível criar ou recuperar um acesso ao Portal do Parceiro com poucos passos! 😉👍
 
 Estas e outras informações estão disponíveis na sequência deste manual de usuário para poder te auxiliar.
 
 {% hint style="warning" %}
-**Importante:** O primeiro acesso ao portal pode ser feito assim que o administrador (Setor interno ou pessoa responsável na empresa) criar seu cadastro dentro do sistema. Após você confirmar com o administrador o seu cadastro, você poderá acessar o portal do parceiro através do link (suaempresa.gestao.plus/portal).
+**Importante:** O primeiro acesso ao portal pode ser feito assim que o administrador (Setor interno ou pessoa responsável na empresa) criar o cadastro dentro do sistema. Após confirmar com o administrador o cadastro, será possível acessar o portal do parceiro através do link (suaempresa.gestao.plus/portal).
 {% endhint %}
 
 Clique na opção de interesse abaixo para seguir:

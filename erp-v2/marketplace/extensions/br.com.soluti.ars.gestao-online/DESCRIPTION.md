@@ -17,6 +17,32 @@
 
 <br>
 
+### Acompanhamento da Solicitação de Certificado
+
+| | | |
+|-|-|-|
+|Dentro da própria venda, é possível acessar o acompanhamento completo da solicitação de certificado digital por meio do botão **SISAR** <img src="https://github.com/Gestao-Online/public-docs/blob/5d75858e0c747fe642c79fa2e5135ea02cb3f9fc/erp-v2/marketplace/extensions/br.com.soluti.ars.gestao-online/assets/extensao_sisar_soluti_02.png?raw=true" alt="0" style="height: 20px; vertical-align: middle; margin-left: 6px;">, disponível após a validação da entrega.<br><br>Ao clicar nessa opção, o sistema apresenta um painel com o andamento da solicitação em formato visual, permitindo identificar de forma rápida em qual etapa o processo se encontra, como criação, agendamento de videoconferência, aprovação ou emissão. |<p style="color: white;">_</p>| ![](https://github.com/Gestao-Online/public-docs/blob/5d75858e0c747fe642c79fa2e5135ea02cb3f9fc/erp-v2/marketplace/extensions/br.com.soluti.ars.gestao-online/extensao_sisar_soluti_03.gif?raw=true) |
+
+<br>
+
+| | | |
+|-|-|-|
+| ![](https://github.com/Gestao-Online/public-docs/blob/5d75858e0c747fe642c79fa2e5135ea02cb3f9fc/erp-v2/marketplace/extensions/br.com.soluti.ars.gestao-online/assets/extensao_sisar_soluti_05.png?raw=true) |<p style="color: white;">_</p>|Essa visualização facilita o controle operacional e reduz a necessidade de consultas externas para entender o status do certificado.<br><br> Ao selecionar a opção **Ver detalhes**, é exibido um histórico completo da solicitação, organizado de forma cronológica, reunindo todas as interações realizadas ao longo do processo.|
+
+| | | |
+|-|-|-|
+|Nesse detalhamento, é possível acompanhar cada etapa com mais profundidade, incluindo registros como criação da movimentação, acesso ao Atendimento Express (Caso utilize), criação da solicitação, entrada ou agendamento da videoconferência, validação, aprovação e emissão do certificado.<br><br>Cada evento apresenta data, horário e descrição da ação realizada, garantindo maior rastreabilidade e segurança na informação.<br><br>Quando houver agendamento de videoconferência, o próprio histórico disponibiliza o link de acesso, centralizando todas as informações necessárias em um único local. |<p style="color: white;">_</p>| ![](https://github.com/Gestao-Online/public-docs/blob/5d75858e0c747fe642c79fa2e5135ea02cb3f9fc/erp-v2/marketplace/extensions/br.com.soluti.ars.gestao-online/assets/extensao_sisar_soluti_04.png?raw=true) |
+
+<br>
+
+| | | |
+|-|-|-|
+| ![](https://github.com/Gestao-Online/public-docs/blob/5d75858e0c747fe642c79fa2e5135ea02cb3f9fc/erp-v2/marketplace/extensions/br.com.soluti.ars.gestao-online/assets/extensao_sisar_soluti_06.png?raw=true) |<p style="color: white;">_</p>| O fluxo da solicitação pode variar conforme o atendimento realizado. Em alguns casos, o cliente inicia pelo Atendimento Express, e em outros, segue diretamente para a videoconferência. <br><br>Independentemente do caminho, todas as etapas são registradas automaticamente e ficam disponíveis para consulta.|
+
+<br>
+
+Essa funcionalidade proporciona mais transparência no acompanhamento das solicitações, facilita o suporte ao cliente e permite que tenha uma visão completa de cada etapa do processo.
+
 **Com a Extensão Sis AR - Soluti, você garante mais controle, organização e rapidez nas operações, facilitando o processo de vendas e melhorando a experiência do cliente de forma simples e eficaz.**
 
 </div>

@@ -57,7 +57,7 @@ Em nossa demonstração, baixamos os arquivos e abrimos para ter acesso às nota
 
 ## Botão direito do mouse
 
-Temos algumas funções paralelas nesta tela, clicando como o botão direito do mouse. Você pode ver algumas opções para uso, no caso de uma NF com status concluído, você pode **Cancelar NF** ou **Atualizar status NF**. Agora, para os status processando e rejeitado, fica somente a opção de **Atualizar status NF**.
+Temos algumas funções paralelas nesta tela, clicando como o botão direito do mouse. Há algumas opções para uso, no caso de uma NF com status concluído, é possível **Cancelar NF** ou **Atualizar status NF**. Para os status processando e rejeitado, fica somente a opção de **Atualizar status NF**.
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_nfse_btn_mouse.gif)
 

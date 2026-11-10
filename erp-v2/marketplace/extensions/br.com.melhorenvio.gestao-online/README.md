@@ -68,7 +68,7 @@ Ao clicar em Cadastrar aplicativo, uma janela pop-up será mostrada para você p
 
 <br>
 
-Com estar informações preenchidas corretamente, agora você pode clicar no botão **Cadastrar** e o registro das informações será feito, disponibilizando o acesso ao Client ID e Secret ID, observe abaixo:
+Com estas informações preenchidas corretamente, agora você pode clicar no botão **Cadastrar** e o registro das informações será feito, disponibilizando o acesso ao Client ID e Secret ID, observe abaixo:
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/bb1a3430cb69461407ecbbdfc1d8613480822c7d/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_10.gif?raw=true" alt="0" width="800"> 
@@ -128,7 +128,7 @@ Para garantir a segurança de suas encomendas, escolha entre as opções de segu
 
 <br>
 
-Por último, caso tenha escolhido a Jadlog como uma das formas de envio, você precisará definir qual agência fará a postangem dos seus envios. Clicando no campo selecionado abaixo, uma lista com todas as unidades próximas disponíveis será mostrada a você. (Em caso de dúvidas, pode clicar no botão Mapa de agências e verificar melhor onde cada uma está localizada)
+Por último, caso tenha escolhido a Jadlog como uma das formas de envio, você precisará definir qual agência fará a postagem dos seus envios. Clicando no campo selecionado abaixo, uma lista com todas as unidades próximas disponíveis será mostrada a você. (Em caso de dúvidas, pode clicar no botão Mapa de agências e verificar melhor onde cada uma está localizada)
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/a7c66773fa049baefb922eeeb9e90ac85b1acc37/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_17.png?raw=true" alt="0" width="600"> 
@@ -142,7 +142,7 @@ Por último você pode clicar no botão **Autorizar** e em seguida a janela de c
 
 ### Configuração para vendas online
 
-Caso você tenha o módulo ode vendas online instalado em seu Gestão Online. Pode ativar esta função e quando seus clientes efetuarem compras através da sua Landing page, o sistema de entrega ficará disponível para os produtos que você configurar, e assim o cliente poderá escolher o método de entrega e pagar tudo junto.
+Caso você tenha o módulo de vendas online instalado em seu Gestão Online, pode ativar esta função e quando seus clientes efetuarem compras através da sua Landing page, o sistema de entrega ficará disponível para os produtos que você configurar, e assim o cliente poderá escolher o método de entrega e pagar tudo junto.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/d8c763d82a299b46e83a6ece5d7958af1f7dcec8/erp-v2/marketplace/extensions/br.com.melhorenvio.gestao-online/assets/extensao_melho_envio_20.png?raw=true" alt="0" width="600"> 

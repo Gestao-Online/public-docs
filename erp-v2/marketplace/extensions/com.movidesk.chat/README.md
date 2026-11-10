@@ -30,7 +30,7 @@ Essas são as possibilidades de integração permitidas pelo Movidesk, mas em no
 
 <br>
 
-Em seguida, você precisará preecher as informações solicitadas das configurações para criação do webchat, colocando logo da empresa e foto de avatar que será mostrada ao público. (Observe atentamente os tamanhos de imagem solicitada)
+Em seguida, você precisará preencher as informações solicitadas das configurações para criação do webchat, colocando logo da empresa e foto de avatar que será mostrada ao público. (Observe atentamente os tamanhos de imagem solicitada)
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/movidesk_chat/extensao_movidesk_chat_05.gif?raw=true" alt="0" width="800"> 

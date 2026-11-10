@@ -37,7 +37,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_etiqueta_add.png)
 
-Após clicar no botão para adicionar uma nova etiqueta de agendamento, uma nova página será aberta e, ao lado direito da tela, é possível visualizar um pequeno menu cinza. Vejamos abaixo para entender melhor cada opção:
+Após clicar no botão para adicionar uma nova etiqueta de agendamento, uma nova página será aberta e, ao lado direito da tela, é possível visualizar um pequeno menu cinza. Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
@@ -50,7 +50,7 @@ O primeiro campo é para inserir o **código** da etiqueta. Este valor é você 
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_etiqueta_add_campo_codigo.png)
 
-O segundo campo é para definir a **cor** de identificação desta etiqueta. Ao clicar na cor uma pequena janela será aberta para você poder escolher, observe nossa demonstração abaixo.
+O segundo campo é para definir a **cor** de identificação desta etiqueta. Ao clicar na cor uma pequena janela será aberta para escolher, observe a demonstração abaixo.
 
 ![](/erp-v2/assets/funcionalidades/agendamentos/aba_etiqueta_add_campo_cor.gif)
 

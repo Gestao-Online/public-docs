@@ -1,6 +1,6 @@
 # 🧰 Serviços
 
-Na tela "Serviços", você pode visualizar todos os produtos cadastrados na plataforma, além de ter a opção de cadastrar um novo produto/serviço, editar as informações existentes e excluir serviços cadastrados.
+Na tela "Serviços", é possível visualizar todos os produtos cadastrados na plataforma, além de ter a opção de cadastrar um novo produto/serviço, editar as informações existentes e excluir serviços cadastrados.
 
 Aqui podem ser cadastrados os serviços que a sua empresa presta, assim, ao lançar uma venda/pedido, o sistema já terá as informações ligadas a esse serviço (fiscal, financeiro, etc.). Agilizando muito o processo de venda e/ou recorrência.
 
@@ -52,7 +52,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 
 ![](/erp-v2/assets/funcionalidades/servicos/aba_servicos_add_inicio.png)
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;

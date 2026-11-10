@@ -39,7 +39,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 <br>
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
@@ -50,7 +50,7 @@ Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor ci
 
 <br>
 
-No momento do cadastro de uma nova unidade/medida, você precisará preencher os campos obrigatórios que têm o asterisco vermelho. 
+No momento do cadastro de uma nova unidade/medida, será necessário preencher os campos obrigatórios que têm o asterisco vermelho. 
 
 Sendo a descrição e a sigla, estes itens são necessários para poder salvar uma nova unidade/medida.
 

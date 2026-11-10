@@ -45,7 +45,7 @@ Após clicarmos no botão adicionar nova conta a pagar, uma nova página será a
 
 ## Campos obrigatórios
 
-No momento do cadastro de uma nova conta a pagar, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento em nosso sistema.
+No momento do cadastro de uma nova conta a pagar, será necessário preencher alguns campos obrigatórios que têm o asterisco vermelho. Eles são essenciais para o mínimo funcionamento no sistema.
 
 {% hint style="info" %}
 **Informativo:** É sempre importante lembrar de fazer o preenchimento completo dos dados da conta a pagar. 😉👍

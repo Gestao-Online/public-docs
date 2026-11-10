@@ -1,6 +1,6 @@
 # 🎨 Alterando paleta de cores
 
-É possível alterar a paleta de cores da nossa plataforma e nós disponibilizamos algumas cores pré-definidas, confira abaixo:
+É possível alterar a paleta de cores da plataforma e disponibilizamos algumas cores pré-definidas, confira abaixo:
 
 ![](/erp-v2/assets/alterar_tema.png)
 

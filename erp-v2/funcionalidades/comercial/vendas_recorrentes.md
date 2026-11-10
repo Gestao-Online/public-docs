@@ -45,7 +45,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add.png)
 
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar rascunho;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -58,7 +58,7 @@ Vale lembrar que esse menu mudará trazendo novas opções, mas somente quando v
 
 <br>
 
-No momento do cadastro de uma nova venda recorrente, você precisará preencher alguns campos obrigatórios que têm o asterisco vermelho. Importante ressaltar que os campos de preenchimento de uma venda recorrente tem mais campos que uma venda padrão. 
+No momento do cadastro de uma nova venda recorrente, será necessário preencher alguns campos obrigatórios que têm o asterisco vermelho. Importante ressaltar que os campos de preenchimento de uma venda recorrente tem mais campos que uma venda padrão. 
 
 Aqui, o único item obrigatório para preenchimento é o tipo de negociação, pois a venda recorrente pode ser preenchida depois, salvando como rascunho. 😁
 
@@ -70,11 +70,11 @@ Aqui, o único item obrigatório para preenchimento é o tipo de negociação, p
 
 <br>
 
-Para o preenchimento do primeiro e segundo campo, você precisará ter cadastrado os tipos de movimentação que utilizará.
+Para o preenchimento do primeiro e segundo campo, será necessário ter cadastrado os tipos de movimentação que utilizará.
 
 Lembrando que a origem (PDV, venda online, venda online unidade, venda online indicador, fechamento) do tipo de movimento pode interferir no momento de adicionar itens a depender da definição criada.
 
-Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções disponíveis aparecem para você, mas se preferir, pode digitar o nome da movimentação que a nossa plataforma começará a fazer a busca para você.
+Com o tipo de movimentação já cadastrado, ao clicar no campo, as opções disponíveis aparecem, mas se preferir, pode digitar o nome da movimentação que a plataforma começará a fazer a busca.
 
 Por mais que uma venda recorrente tenha suas configurações, ela precisa estar vinculada a uma movimentação destino, no caso as de tipo venda.
 
@@ -100,9 +100,9 @@ Veja esse exemplo abaixo,  escolheremos o tipo de negociação **Cartão de cré
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_3.png)
 
-Agora, nos campos de cliente/parceiro e Parceiro indicador, nós temos alguns botões extras com funções para facilitar seu dia a dia com o nosso sistema. Quando você clica no campo para buscar um cliente e este ainda não possui um cadastro, você tem o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para que você possa cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
+Agora, nos campos de cliente/parceiro e Parceiro indicador, há alguns botões extras com funções para facilitar o dia a dia com o sistema. Quando se clica no campo para buscar um cliente e este ainda não possui um cadastro, há o botão <img src="/erp-v2/assets/funcionalidades/icon_adds.png" alt="" data-size="line"> adicionar. Uma janela será aberta para cadastrar um novo cliente, sem precisar sair do preenchimento da venda. 😎
 
-Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a tela deste cliente com os dados dele para você poder apreciar. E tudo isso sem você perder os dados da venda que está preenchendo.
+Depois que o cliente estiver escolhido, caso tenha alguma dúvida sobre alguma informação dele, o botão <img src="/erp-v2/assets/funcionalidades/icon_nova_aba.png" alt="" data-size="line"> abrirá a tela deste cliente com os dados dele para apreciar. E tudo isso sem perder os dados da venda que está sendo preenchida.
 
 Para o campo de parceiro indicador, as funções trabalham da mesma maneira. Veja o exemplo que fizemos abaixo:
 
@@ -116,13 +116,13 @@ Mais abaixo, o campo de **observação**, no qual é possível incluir um lembre
 
 <br>
 
-Dando sequência ao preenchimento dos campos, temos o **Recorrência número contrato**, aqui você pode colocar o número do contrato (Caso exista) para ficar salvo com o registro da venda recorrente. Lembrando que este campo não é obrigatório o preenchimento.
+Dando sequência ao preenchimento dos campos, temos o **Recorrência número contrato**, aqui é possível colocar o número do contrato (Caso exista) para ficar salvo com o registro da venda recorrente. Lembrando que este campo não é obrigatório o preenchimento.
 
 No exemplo, utilizamos um número de contrato fictício, e este:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_campo_9.png)
 
-Nos dois campos **Recorrência início contrato** e **Recorrência validade contrato**, você precisa marcar a data de duração da venda recorrente, os campos já abrem um calendário no momento que você clicar sobre ele.
+Nos dois campos **Recorrência início contrato** e **Recorrência validade contrato**, é necessário marcar a data de duração da venda recorrente, os campos já abrem um calendário no momento que forem clicados.
 
 Observe nosso exemplo abaixo com uma venda recorrente de um ano de duração para este serviço digital fictício:
 
@@ -135,7 +135,7 @@ Chegando então no último campo de **Recorrência periodicidade**, podendo esco
 
 ## Salvando rascunho de uma nova venda recorrente
 
-Após o preenchimento destas informações, você pode salvar o rascunho para adicionar os itens da venda recorrente. Após salvar o rascunho, essa venda recorrente entra no status de atendimento automaticamente. Observe no nosso exemplo abaixo:
+Após o preenchimento destas informações, é possível salvar o rascunho para adicionar os itens da venda recorrente. Após salvar o rascunho, essa venda recorrente entra no status de atendimento automaticamente. Observe o exemplo abaixo:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_venda.gif)
 
@@ -149,13 +149,13 @@ Observe agora as novas guias disponíveis, a primeira é de itens, e pouco abaix
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_item.png)
 
-Quando clicamos neste botão, são mostradas as opções para inserirmos um produto. São duas opções, o campo **produto/serviço** e **quantidade**. O campo de produtos tem busca automática assim que clicado, mas você pode digitar o nome do produto/serviço para buscar caso queira:
+Quando clicamos neste botão, são mostradas as opções para inserirmos um produto. São duas opções, o campo **produto/serviço** e **quantidade**. O campo de produtos tem busca automática assim que clicado, mas também é possível digitar o nome do produto/serviço para buscar caso queira:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_item_campos.gif)
 
 **Pronto, o produto/serviço foi carregado com sucesso para ser adicionado!**
 
-Essa parte é importante para você observar, pois o produto já veio com o preço determinado na tabela de preço. E assim você pode adicionar os demais produtos/serviços de que precisa. Agora, se você selecionou o produto e o preço não vier, quando for salvar, uma mensagem de erro pode aparecer. Pois é necessário o vínculo do produto com uma tabela de preço vinculada à unidade para a venda acontecer.
+Essa parte é importante observar, pois o produto já veio com o preço determinado na tabela de preço. E assim é possível adicionar os demais produtos/serviços de que precisa. Agora, se o produto for selecionado e o preço não vier, quando for salvar, uma mensagem de erro pode aparecer. Pois é necessário o vínculo do produto com uma tabela de preço vinculada à unidade para a venda acontecer.
 
 Se deseja adicionar um desconto nesse produto/serviço, selecione o desconto em percentual ou em valor. Então, esse valor será aplicado ao produto/serviço se estiver disponível para aplicação:
 
@@ -179,11 +179,11 @@ Nesta guia é mostrado o relatório completo de quem autorizou alguma venda que 
 
 ## Aba anexos
 
-Esta guia pode anexar documentos como boleto, NF-e, NFS-e, NFC-e, e outros. Você pode preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
+Esta guia pode anexar documentos como boleto, NF-e, NFS-e, NFC-e, e outros. É possível preencher a descrição, fazer o upload do arquivo clicando no botão **`Escolher arquivo`**, e depois clicar em tipo e definir qual irá anexar.
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_guia_anexos.png)
 
-Os boletos aparecem automaticamente na guia de anexos após clicar no botão de gerar boleto, por ser uma configuração do nosso sistema. O mesmo acontece com as notas fiscais, o download é feito, desde que elas estejam previamente configuradas com as informações no cadastro da empresa. Observe um exemplo abaixo:
+Os boletos aparecem automaticamente na guia de anexos após clicar no botão de gerar boleto, por ser uma configuração do sistema. O mesmo acontece com as notas fiscais, o download é feito, desde que elas estejam previamente configuradas com as informações no cadastro da empresa. Observe um exemplo abaixo:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_add_guia_anexos_itens.png)
 
@@ -226,7 +226,7 @@ Ainda nos novos botões disponíveis, temos no ícone <img src="/erp-v2/assets/i
 
 Antes de clicar neste botão, tenha certeza de que não existem movimentações fiscais ou baixas no financeiro dessa venda, e caso exista, efetue o estorno.
 
-Para cancelar uma venda recorrente, é necessário escrever um motivo para ficar no registro dela, essa função permite mantermos a integridade da nossa plataforma:
+Para cancelar uma venda recorrente, é necessário escrever um motivo para ficar no registro dela, essa função permite manter a integridade da plataforma:
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_cancelar.png)
 
@@ -244,7 +244,7 @@ Lembrando que os dados do cliente devem estar preenchidos para o envio ser reali
 
 ## Botão alterar data de vencimento
 
-Por último, no ícone <img src="/erp-v2/assets/icon_calendario.png" alt="" data-size="line"> de alterar data da próxima fatura de recorrência. Você pode modificar uma data que ainda vai vencer na venda de recorrência. 
+Por último, no ícone <img src="/erp-v2/assets/icon_calendario.png" alt="" data-size="line"> de alterar data da próxima fatura de recorrência. É possível modificar uma data que ainda vai vencer na venda de recorrência. 
 
 ![](/erp-v2/assets/funcionalidades/comercial/aba_vendas_recorrentes_add_menu_novo_calendario.png)
 

@@ -1,6 +1,6 @@
 # Como alterar a minha conta de recebimento?
 
-Caso tenha outra conta bancária e deseja utilizá-la, podemos alterar a conta atual. As contas bancárias podem ser cadastradas ou alteradas na tela **Listar contas**. Após confirmar o cadastro dessa nova conta bancária, você agora precisa ir à tela **Tipo de negociação**.
+Para utilizar outra conta bancária, altere a conta atual. As contas bancárias podem ser cadastradas ou alteradas na tela **Listar contas**. Após confirmar o cadastro da nova conta bancária, acesse a tela **Tipo de negociação**.
 
 {% hint style="warning" %}
 **Listar contas:** Para mais informações sobre configuração da tela listar contas, [**`clique aqui`**](/erp-v2/funcionalidades/financeiro/listar_contas_bancarias.md).
@@ -12,19 +12,19 @@ Caso tenha outra conta bancária e deseja utilizá-la, podemos alterar a conta a
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_alterar_conta_receber_tela.png)
 
-Precisamos alterar a conta bancária dentro do tipo escolhido, caso seja necessário alterar mais de um item, terá que abrir tipo a tipo e alterar a conta bancária deles.
+Altere a conta bancária dentro do tipo escolhido. Caso seja necessário alterar mais de um item, abra tipo a tipo e altere a conta bancária deles.
 
-Em nosso exemplo, iremos alterar a conta bancária do tipo de negociação **cartão de crédito 1x**. Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar item, veremos as configurações deste tipo de negociação.
+No exemplo, vamos alterar a conta bancária do tipo de negociação **cartão de crédito 1x**. Clique no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> **editar item** para ver as configurações deste tipo de negociação.
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_alterar_conta_receber_tela_btn_editar.png)
 
-Agora você precisa, na aba de **Parcelamento**, clicar no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar item. Observe que ele já mostra a conta bancária destino deste tipo de negociação.
+Na aba de **Parcelamento**, clique no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> **editar item**. Observe que ele já mostra a conta bancária destino deste tipo de negociação.
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_alterar_conta_receber_edita_conta.png)
 
-Com isso, você agora escolhe a conta bancária que irá utilizar, veja que tem várias outras configurações, e você pode saber mais acessando nosso manual sobre o [**Tipo de negociação**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md).
+Escolha a conta bancária que irá utilizar. Há várias outras configurações disponíveis. Para saber mais, acesse o manual sobre o [**Tipo de negociação**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md).
 
-Observe que, em nosso exemplo, iremos remover a conta atual e adicionar uma conta de exemplo. Não esqueça que é preciso sempre clicar no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> salvar para que as alterações funcionem. 😉👍
+No exemplo, vamos remover a conta atual e adicionar uma conta de exemplo. Não esqueça de sempre clicar no botão <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> **salvar** para que as alterações funcionem. 😉👍
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_alterar_conta_receber_edita_conta_salvando.gif)
 

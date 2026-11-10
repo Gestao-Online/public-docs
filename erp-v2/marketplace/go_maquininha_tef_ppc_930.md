@@ -2,7 +2,7 @@
 
 Com esta extensão você consegue utilizar a maquininha TEF PPC930 ou similares em conjunto com o sistema ERP Gestão Online. Com um sistema próprio para instalação.
 
-Para o correto funcionando da aplicação, você precisa fazer a instalação do Zoop Desktop Server na máquina em que irá utilizar o PINPAD. A instalação é simples e pode ser feita em alguns passos seguindo nosso manual.
+Para o correto funcionamento da aplicação, é necessário fazer a instalação do Zoop Desktop Server na máquina em que irá utilizar o PINPAD. A instalação é simples e pode ser feita em alguns passos seguindo o manual.
 
 ## Requisitos mínimos
 
@@ -29,7 +29,7 @@ Primeiro baixe o Zoop Desktop Server:
 
 - [**`Instalador (Linux)`**](https://github.com/getzoop/zoop-package-public/releases/download/zoop-desktop-server_3.7.5/pinpad-server-installer_linux_3.7.5.deb)
 
-Em seguinda, instale o JDK 17 em sua máquina, pois ele é crucial para o funcionamento do Zoop Desktop Server:
+Em seguida, instale o JDK 17 em sua máquina, pois ele é crucial para o funcionamento do Zoop Desktop Server:
 
 - [**`Instalador Java/JDK 17 (Windows)`**](https://download.oracle.com/java/17/archive/jdk-17.0.11_windows-x64_bin.exe)
 
@@ -37,7 +37,7 @@ Em seguinda, instale o JDK 17 em sua máquina, pois ele é crucial para o funcio
 
 ## Iniciando a instalação
 
-Após baixar o Zoop Desktop Server e o Java/JDK 17, vamos prosseguir e fazer a instalação primeiro do Java/JDK 17, procure ele no seu computador. Em nosso exemplo fizemos a instalação no sistema operacional Windows.
+Após baixar o Zoop Desktop Server e o Java/JDK 17, vamos prosseguir e fazer a instalação primeiro do Java/JDK 17, procure ele no seu computador. No exemplo fizemos a instalação no sistema operacional Windows.
 
 ![](/erp-v2/assets/marketplace/go_maquininha_pinpad/marketplace_instalacao_jdk_windows.gif)
 

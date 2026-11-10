@@ -1,6 +1,6 @@
 # 🏷️ Perfil de Desconto
 
-Para utilizar da melhor maneira possível o perfil de desconto na plataforma, seguiremos agora com a explicação parte a parte para você utilizá-la:
+Para utilizar da melhor maneira possível o perfil de desconto na plataforma, seguiremos com a explicação parte a parte para utilizá-la:
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -24,7 +24,7 @@ Nesta tela tem um menu ao lado direito com as seguintes funções:
 
 ## Menu Lateral esquerdo
 
-No lado esquerdo da tela está o menu lateral, e você pode utilizar como um filtro para pesquisa. Contém três opções:
+No lado esquerdo da tela está o menu lateral, que pode ser utilizado como um filtro para pesquisa. Contém três opções:
 
 - <img src="/erp-v2/assets/funcionalidades/icon_todos_perfis.png" alt="" data-size="line"> Todos os perfis;
 - <img src="/erp-v2/assets/funcionalidades/icon_receitas.png" alt="" data-size="line"> Receitas (Vendas);
@@ -48,7 +48,7 @@ Ao clicar neste botão, você será direcionado para esta página para fazer o p
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_perfil_desconto.png)
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
@@ -57,7 +57,7 @@ Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor ci
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_perfil_desconto_add_perfil_menu.png)
 
-Por padrão, quando você for criar um perfil de desconto, é exigido preencher os campos com asterisco. O primeiro campo é para escolher o vendedor, atenção que este campo tem um vínculo direto com a tela de vendedores.
+Por padrão, ao criar um perfil de desconto, é exigido preencher os campos com asterisco. O primeiro campo é para escolher o vendedor, atenção que este campo tem um vínculo direto com a tela de vendedores.
 
 {% hint style="warning" %}
 **Vendedor:** Para mais informações sobre o uso/configuração da tela de vendedores. [clique aqui](/erp-v2/funcionalidades/usuarios_vendedores/vendedores_compradores.md).

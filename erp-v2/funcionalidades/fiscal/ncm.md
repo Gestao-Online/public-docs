@@ -47,7 +47,7 @@ Em nosso exemplo, usaremos o código 8523.52.90 que é especificamente para "Out
 
 ![](/erp-v2/assets/funcionalidades/fiscal/aba_ncm_add_campo_codigo.png)
 
-Agora no campo de **Descrição** colocaremos o nome **Outros**, somente para podermos identificá-lo. Mas você pode usar a descrição que for mais conveniente para uso.
+Agora no campo de **Descrição** colocaremos o nome **Outros**, somente para podermos identificá-lo. Mas é possível usar a descrição que for mais conveniente para uso.
 
 O campo de descrição é um item opcional, vamos completar com algumas informações sobre este código, para usarmos em uma consulta futura ou até para caso de dúvida.
 

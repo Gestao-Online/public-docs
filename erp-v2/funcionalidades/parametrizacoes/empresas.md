@@ -9,7 +9,7 @@ Aqui você tem a visão de todos as empresas cadastradas na plataforma, podendo 
 Estas empresas serão utilizadas em cadastro de estoques, lojas e vínculos com produtos, serviços etc.
 
 {% hint style="danger" %}
-**Atenção:** Você precisará de informações importantes para o preenchimento dos dados mostrados aqui. Em caso de dúvidas, recomendamos que solicite essas informações ao contador de sua empresa, que poderá fornecer as orientações corretas e necessárias.
+**Atenção:** Serão necessárias informações importantes para o preenchimento dos dados mostrados aqui. Em caso de dúvidas, recomendamos que solicite essas informações ao contador de sua empresa, que poderá fornecer as orientações corretas e necessárias.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -38,7 +38,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add.png)
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar Item;
@@ -47,7 +47,7 @@ Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor ci
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_menu.png)
 
-No momento do cadastro de uma nova empresa, você precisará preencher alguns campos obrigatórios que tem o asterisco vermelho. 
+No momento do cadastro de uma nova empresa, será necessário preencher alguns campos obrigatórios que tem o asterisco vermelho. 
 
 Sendo eles CNPJ, nome fantasia e razão social, estes itens são o mínimo necessário para poder salvar uma nova empresa.
 
@@ -57,7 +57,7 @@ Sendo eles CNPJ, nome fantasia e razão social, estes itens são o mínimo neces
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa.png)
 
-Você pode adicionar uma imagem para empresa. (Observaçāo: essa imagem será utilizada em diversos locais do sistema)
+É possível adicionar uma imagem para empresa. (Observação: essa imagem será utilizada em diversos locais do sistema)
 
 {% hint style="warning" %}
 **Importante:** A foto de perfil precisa ter um dos seguintes formatos, PNG, JPEG ou SVG. O tamanho também tem um limite que é de apenas 5MB! 🖼️
@@ -84,7 +84,7 @@ Chegando ao final da página de cadastro da nova empresa, nos deparamos com os d
 
 ### Anexar certificado Digital
 
-Nos dados fiscais você pode adicionar o certificado digital da empresa.
+Nos dados fiscais é possível adicionar o certificado digital da empresa.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_campo_certificado.png)
 
@@ -152,13 +152,13 @@ Após definir o tipo de tributo, coloque qual classificação a empresa se encai
 
 ## NFSe ativo
 
-Com a função *nota fiscal de serviço eletronico* ativa, novos campos são liberados para preenchimento logo abaixo na página. Estes dados são para que a emissão das notas fiscais funionem perfeitamente, pois os itens solicitados são necessários para a comunicação do nosso sistema com o emissor de NF.
+Com a função *nota fiscal de serviço eletronico* ativa, novos campos são liberados para preenchimento logo abaixo na página. Estes dados são para que a emissão das notas fiscais funcionem perfeitamente, pois os itens solicitados são necessários para a comunicação do sistema com o emissor de NF.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_ativo.png)
 
 ### Campo NFSe ambiente
 
-Neste campo você vai definir o ambiente de criação das Notas Fiscais. Você terá duas opções para utilização, vejamos a definição de cada uma:
+Neste campo será definido o ambiente de criação das Notas Fiscais. Há duas opções para utilização, veja a definição de cada uma:
 
 - **Homologação:** É o ambiente de testes sem nenhuma validade fiscal ou jurídica, podendo também usar dados reais ou fictícios no preenchimento do documento.
 - **Produção:** É o ambiente designado para documentos com valor fiscal, ou seja, são documentos válidos e reconhecidos fiscal e juridicamente.
@@ -191,11 +191,11 @@ Esses campos tem variação de prefeitura para prefeitura. Mas com o preenchimen
 
 ## NFSe configuração padrão
 
-Quando você ativa esta opção, novos campos ficam disponíveis para você preencher. Vejamos a definição e modo de preenchimento de cada um dos campos logo abaixo.
+Quando ativada esta opção, novos campos ficam disponíveis para preenchimento. Veja a definição e modo de preenchimento de cada um dos campos logo abaixo.
 
 ### Campo NFSe principal código de serviço
 
-Neste campo, você pode adicionar um novo código ou usar os códigos cadastrados na tela [**`LC116`**](/erp-v2/funcionalidades/fiscal/lc116.md). Através deste campo você define o tipo de serviço para esta NFSe.
+Neste campo, é possível adicionar um novo código ou usar os códigos cadastrados na tela [**`LC116`**](/erp-v2/funcionalidades/fiscal/lc116.md). Através deste campo define-se o tipo de serviço para esta NFSe.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfse_campo_codigo_servico.png)
 
@@ -261,13 +261,13 @@ O valor percentual de deduções, refere-se aos montantes que podem ser subtraí
 
 ## NFe Ativo
 
-Com a função *nota fiscal eletronica* ativa, novos campos são liberados para preenchimento logo abaixo na página. Estes dados são para que a emissão das notas fiscais funionem perfeitamente, pois os itens solicitados são necessários para a comunicação do nosso sistema com o emissor de NF.
+Com a função *nota fiscal eletronica* ativa, novos campos são liberados para preenchimento logo abaixo na página. Estes dados são para que a emissão das notas fiscais funcionem perfeitamente, pois os itens solicitados são necessários para a comunicação do sistema com o emissor de NF.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfe_ativo.png)
 
 ### Campo NFe ambiente
 
-Neste campo você vai definir o ambiente de criação das Notas Fiscais Eletrônicas. Você terá duas opções para utilização, vejamos a definição de cada uma:
+Neste campo será definido o ambiente de criação das Notas Fiscais Eletrônicas. Há duas opções para utilização, veja a definição de cada uma:
 
 - **Homologação:** É o ambiente de testes sem nenhuma validade fiscal ou jurídica, podendo também usar dados reais ou fictícios no preenchimento do documento.
 - **Produção:** É o ambiente designado para documentos com valor fiscal, ou seja, são documentos válidos e reconhecidos fiscal e juridicamente.
@@ -311,13 +311,13 @@ O código CNAE é informado no cadastro da empresa junto à Receita Federal e n�
 
 Com a função *nota fiscal de consumidor eletronica* ativa, novos campos são liberados para preenchimento logo abaixo na página. Observe que são quase os mesmos campos de preenchimento da NFe.
 
-Estes dados são para que a emissão das notas fiscais funionem perfeitamente, pois os itens solicitados são necessários para a comunicação do nosso sistema com o emissor de NF.
+Estes dados são para que a emissão das notas fiscais funcionem perfeitamente, pois os itens solicitados são necessários para a comunicação do sistema com o emissor de NF.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_empresa_dados_fiscal_nfce_ativo.png)
 
 ### Campo NFCe ambiente
 
-Neste campo você vai definir o ambiente de criação das Notas Fiscais de Consumidor Eletrônicas. Você terá duas opções para utilização, vejamos a definição de cada uma:
+Neste campo será definido o ambiente de criação das Notas Fiscais de Consumidor Eletrônicas. Há duas opções para utilização, veja a definição de cada uma:
 
 - **Homologação:** É o ambiente de testes sem nenhuma validade fiscal ou jurídica, podendo também usar dados reais ou fictícios no preenchimento do documento.
 - **Produção:** É o ambiente designado para documentos com valor fiscal, ou seja, são documentos válidos e reconhecidos fiscal e juridicamente.
@@ -370,7 +370,7 @@ Duas novas abas ficam disponíveis a partir do momento que você salva uma nova 
 
 ### Aba Anexar documentos
 
-- Anexos documentos, nesta primeira aba, você pode inserir uma descrição, fazer upload do arquivo e definir o tipo com as opções disponíveis abaixo:
+- Anexos documentos, nesta primeira aba, é possível inserir uma descrição, fazer upload do arquivo e definir o tipo com as opções disponíveis abaixo:
     - Cópia do cartão do CNPJ ou cópia do contrato social da empresa;
     - Documento de identidade com foto (RG e CPF ou CNH) do proprietário/sócios;
     - Comprovante de residência em seu nome (ou familiares) do proprietário/sócios;

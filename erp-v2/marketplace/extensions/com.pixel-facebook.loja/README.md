@@ -49,7 +49,7 @@ Agora vamos configurar o Pixel da Meta, para obtermos o código de acesso que se
 
 <br>
 
-Com o código copiado, você pode utilizar um bloco de notas em seu computador, e colcar o código adquirido, e depois pegar o código de identificação único. (Este código aparece repetido dentro do script, podendo ser copiado qualquer um dos dois para uso em nossa extensão)
+Com o código copiado, você pode utilizar um bloco de notas em seu computador e colar o código adquirido, e depois pegar o código de identificação único. (Este código aparece repetido dentro do script, podendo ser copiado qualquer um dos dois para uso em nossa extensão)
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/b599eb9ebe2b8f87b5c60651e5b0bc00929bd2ed/erp-v2/assets/marketplace/facebook_pixel_loja/extensao_facebook_pixel_08.png?raw=true" alt="0" width="800"> 

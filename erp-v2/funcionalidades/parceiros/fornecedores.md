@@ -39,7 +39,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add.png)
 
-Após clicarmos no botão adicionar fornecedor, uma nova página será aberta e nela Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Após clicarmos no botão adicionar fornecedor, uma nova página será aberta e nela Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_cifrao.png" alt="" data-size="line"> Realizar venda;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;   
@@ -175,7 +175,7 @@ O primeiro campo para preencher é o de **Tabela de preço venda online**, essas
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_dados_venda_online_tabela.gif)
 
-No campo **tipo de negociação venda online**, você pode escolher uma das opções cadastradas que tem vínculo com a tela [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md). Para nosso exemplo, iremos marcar a opção **Boleto - GOPag**:
+No campo **tipo de negociação venda online**, é possível escolher uma das opções cadastradas que tem vínculo com a tela [**`Tipo de negociação`**](/erp-v2/funcionalidades/financeiro/tipos_negociacao.md). Para nosso exemplo, iremos marcar a opção **Boleto - GOPag**:
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_dados_tipo_negociacao.png)
 
@@ -201,7 +201,7 @@ Depois que salvar as informações do novo fornecedor, novas guias ficarão disp
 
 ### Aba contatos
 
-Nesta guia, você pode cadastrar os contatos com os quais este fornecedor possui algum tipo de vínculo.
+Nesta guia, é possível cadastrar os contatos com os quais este fornecedor possui algum tipo de vínculo.
 
 ![](/erp-v2/assets/funcionalidades/parceiros/aba_fornecedores_add_fornecedor_guia_contatos.png)
 

@@ -34,7 +34,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 Clicando neste botão, você será direcionado para esta página, para fazer o preenchimento das informações do novo tipo de natureza.
 
-Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Com as seguintes opções:
+Ao lado direito da tela, está um pequeno menu na cor cinza. Com as seguintes opções:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_salvar.png" alt="" data-size="line"> Salvar;
@@ -44,13 +44,13 @@ Ao lado direito da tela, você pode ver um pequeno menu na cor cinza. Com as seg
 
 ## Campos de preenchimento obrigatório
 
-Todos os campos marcados com o asterisco vermelho precisam ser preenchidos obrigatóriamente, essas informações são essenciais para o correto funcionamento da nossa plataforma.
+Todos os campos marcados com o asterisco vermelho precisam ser preenchidos obrigatoriamente, essas informações são essenciais para o correto funcionamento da plataforma.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_naturezas_add_itens.png)
 
 ### Campo descrição e identificador
 
-Olhando para os campos disponíveis, por padrão, quando você for criar um novo tipo de natureza, será exigido que preencha uma **Descrição** para identificar o novo item que você está criando. Será pedido tambem um código **Identificador**, mas ele é gerado automaticamente por nossa plataforma, então você não precisa se preocupar.
+Olhando para os campos disponíveis, por padrão, ao criar um novo tipo de natureza, será exigido que preencha uma **Descrição** para identificar o novo item que está sendo criado. Será pedido também um código **Identificador**, mas ele é gerado automaticamente pela plataforma, então não é necessário se preocupar.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_naturezas_add_campos_descricao.png)
 
@@ -58,7 +58,7 @@ Olhando para os campos disponíveis, por padrão, quando você for criar um novo
 
 Em específico, no campo **Analítica**, caso deixe ele em ativo, a natureza criada deixa de possuir uma hierarquia. O uso da hierarquia é interessante para melhorar a identificação e separação das novas naturezas que você for adicionar, podendo definir uma como principal e as demais como dependentes.
 
-Para melhor exemplo, veja o campo **Identificador** ele tem a sequência padrão usada em nosso sistema, neste caso 01.000.000. Caso você fizesse o cadastro de alguma natureza vínculada a esta identificada como o começo 001, os demais teriam o identificador 001.001.000, 001.002.00, 001.003.000... e assim em diante. 😁👍
+Para melhor exemplo, veja o campo **Identificador** ele tem a sequência padrão usada no sistema, neste caso 01.000.000. Caso fizesse o cadastro de alguma natureza vínculada a esta identificada como o começo 001, os demais teriam o identificador 001.001.000, 001.002.00, 001.003.000... e assim em diante. 😁👍
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_naturezas_add_campo_analitica.gif)
 

@@ -47,7 +47,7 @@ Ao clicar neste botão, você será direcionado para esta página, para fazer o 
 
 <br>
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
 - <img src="/erp-v2/assets/icon_duplicar.png" alt="" data-size="line"> Duplicar item;
@@ -60,7 +60,7 @@ Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor ci
 
 ### Aba Geral
 
-Olhando para a aba **`Geral`**, por padrão, quando você for criar um vendedor é exigido preencher os campos com asterisco. Agora os outros campos para preenchimento podem deixar para o usuário quando confirmar a conta, listamos os campos abaixo:
+Olhando para a aba **`Geral`**, por padrão, ao criar um vendedor é exigido preencher os campos com asterisco. Os outros campos para preenchimento podem ser deixados para o usuário quando confirmar a conta, listamos os campos abaixo:
 
 - **Nome** (Nome completo do vendedor);
 - **E-mail** (Não pode ser modificado depois, use o mesmo da conta de usuário);
@@ -124,13 +124,13 @@ Se você observar na parte superior, após criar o vendedor, três abas ficarão
 
 ### Aba perfil de desconto (vendas)
 
-A primeira é a de perfil de desconto (vendas), por padrão ficará em branco, mas vamos inserir informação nelas, primeiro clicando no botão adicionar item:
+A primeira é a de perfil de desconto (vendas), por padrão ficará em branco, mas é possível inserir informação nelas, primeiro clicando no botão adicionar item:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_vendedores_guia_perfil_desconto.png)
 
 <br>
 
-Você pode deixar definido um limite de desconto em vendas para esse vendedor, sendo valor (em reais R$) ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
+É possível deixar definido um limite de desconto em vendas para esse vendedor, sendo valor (em reais R$) ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_vendedores_guia_.gif)
 
@@ -138,7 +138,7 @@ Você pode deixar definido um limite de desconto em vendas para esse vendedor, s
 
 ### Aba perfil de desconto (compras)
 
-Você também pode deixar definido um limite de desconto em compras para esse vendedor, sendo valor (em reais R$) ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
+Também é possível deixar definido um limite de desconto em compras para esse vendedor, sendo valor (em reais R$) ou percentual. Esse mesmo valor pode ser editado futuramente, removido ou até criar outros novos perfis de descontos:
 
 ![](/erp-v2/assets/funcionalidades/vendedores/aba_vendedores_guia_2.gif)
 

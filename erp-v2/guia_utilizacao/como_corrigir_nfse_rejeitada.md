@@ -1,22 +1,20 @@
 # Como corrigir uma nota fiscal de serviço rejeitada (NFSe)?
 
-A nota fiscal pode ser rejeitada por algumas situações específicas. A maioria delas é causada por erros contidos nas informações enviadas ao fisco.
+A nota fiscal pode ser rejeitada por situações específicas. A maioria é causada por erros nas informações enviadas ao fisco.
 
-Assim, ao preencher determinados campos, é possível perceber inconsistências que geram diferentes tipos de rejeições. Felizmente, cada uma delas tem uma solução.
+Ao preencher determinados campos, é possível perceber inconsistências que geram diferentes tipos de rejeições. Felizmente, cada uma delas tem uma solução.
 
 {% hint style="warning" %}
 **Atenção:** O acompanhamento de Nota Fiscal é realizado somente por usuários de nível alto. Vendedores não têm acesso a essas opções mostradas neste guia.
 {% endhint %}
 
-O primeiro passo para a correção é identificar qual erro é mostrado, em nosso sistema, você pode ver esta mensagem primeiro clicando no botão  acompanhar nf. E uma nova janela será aberta, ela basicamente é um espelho da tela de . Observe que podemos ver o status, tipo, número RPS, etc.
-
-O primeiro passo para a correção é identificar qual erro é mostrado. Em nosso sistema, você pode ver esta mensagem primeiro clicando no botão <img src="/erp-v2/assets/icon_acompanhar_nf.png" alt="" data-size="line"> acompanhar NF. E uma nova janela será aberta, ela basicamente é um espelho da tela de [**Nota Fiscal NFSe**](/erp-v2/funcionalidades/fiscal/nota_nfse.md). Observe que podemos ver o status, tipo, número RPS, etc.
+O primeiro passo para a correção é identificar qual erro é mostrado. No sistema, veja esta mensagem primeiro clicando no botão <img src="/erp-v2/assets/icon_acompanhar_nf.png" alt="" data-size="line"> **acompanhar NF**. Uma nova janela será aberta, basicamente um espelho da tela de [**Nota Fiscal NFSe**](/erp-v2/funcionalidades/fiscal/nota_nfse.md). Observe que é possível ver o status, tipo, número RPS, etc.
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_corrigir_nfse_rejeitada_btn_acampanha_nf.gif)
 
-Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> editar, você verá as informações dessa NFSe e, ao final da página, encontrará a mensagem retornada do emissor.
+Clicando no botão <img src="/erp-v2/assets/funcionalidades/icon_editar_item.png" alt="" data-size="line"> **editar**, veja as informações dessa NFSe e, ao final da página, encontre a mensagem retornada do emissor.
 
-Através dessa mensagem de erro, que podemos identificar o que houve e então verificar como poderemos corrigir o problema. 😁👍
+Através dessa mensagem de erro, identifique o que houve e verifique como corrigir o problema. 😁👍
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_corrigir_nfse_rejeitada_btn_acampanha_nf_editar_mensagem_erro.gif)
 
@@ -30,13 +28,13 @@ Para este caso, a substituição do certificado digital pode ser feita acessando
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_fiscais.png)
 
-Nos dados fiscais, você pode adicionar o certificado digital da empresa. Os certificados digitais são aceitos em formato **`.pfx`** ou **`.p12`**. 
+Nos dados fiscais, adicione o certificado digital da empresa. Os certificados digitais são aceitos em formato **`.pfx`** ou **`.p12`**. 
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_empresas_add_certificado.png)
 
 ## Problemas com XML
 
-Em alguns casos, você pode se deparar com erro de XML, mas, em geral, a rejeição do XML em uma nota fiscal acontece devido a erros na inserção dos dados.
+Em alguns casos, é possível encontrar erro de XML. Em geral, a rejeição do XML em uma nota fiscal acontece devido a erros na inserção dos dados.
 
 Na prática, isso significa: CNPJ ou IM (Inscrição Municipal) incorretos, códigos de serviços e/ou cálculos de tributos informados incorretamente, duplicidade, problemas com o certificado digital e outras questões semelhantes.
 
@@ -58,8 +56,8 @@ Aqui ele já nos informa que temos o código do serviço inválido, ou seja, pre
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_corrigir_nfse_rejeitada_mensagem_erro_xml_2.png)
 
-O segundo erro se refere ao número de inscrição do prestador. No entanto, é importante considerar que um erro pode estar afetando o outro. Ao corrigirmos o primeiro erro, é possível que o segundo seja resolvido automaticamente. 😁
+O segundo erro se refere ao número de inscrição do prestador. No entanto, é importante considerar que um erro pode estar afetando o outro. Ao corrigir o primeiro erro, é possível que o segundo seja resolvido automaticamente. 😁
 
-Após corrigir os erros da nota fiscal, não esqueça de abrir novamente a movimentação e clicar no botão gerar NF, assim ela será emitida corretamente para você.
+Após corrigir os erros da nota fiscal, não esqueça de abrir novamente a movimentação e clicar no botão gerar NF, assim ela será emitida corretamente.
 
 ![](/erp-v2/assets/guia_utilizacao/guia_como_corrigir_nfse_rejeitada_mensagem_erro_xml_3.png)

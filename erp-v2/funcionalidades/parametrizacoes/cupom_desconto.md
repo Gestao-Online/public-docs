@@ -4,7 +4,7 @@
 <img src="/erp-v2/assets/marketplace/coroa_premium.png" alt="" data-size="line"> Esta tela é contratada a parte pelo [Marketplace](/erp-v2/marketplace/inicio.md) do Gestão Online, entre em contato com o nosso time [Comercial](https://api.whatsapp.com/send?phone=556237735650&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20marketplace%20do%20Gest%C3%A3o.Online) para maiores informações.
 {% endhint %}
 
-Para aplicar uma promoção para clientes específicos em unidade/loja, você pode criar cupons promocionais. O cupom funciona como um código, que deve ser inserido na finalização da compra para o desconto ser aplicado na venda/serviço.
+Para aplicar uma promoção para clientes específicos em unidade/loja, é possível criar cupons promocionais. O cupom funciona como um código, que deve ser inserido na finalização da compra para o desconto ser aplicado na venda/serviço.
 
 {% hint style="danger" %}
 **Atenção:** As informações aparecem conforme o que foi autorizado a ser exibido pelo administrador, por isso algumas informações podem não aparecer para você.
@@ -38,7 +38,7 @@ No menu ao lado direito da tela, tem o botão <img src="/erp-v2/assets/icon_add.
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add.png)
 
-Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Vejamos abaixo para entender melhor cada opção:
+Ao lado direito da tela, está a `barra de ferramentas` (menu na cor cinza, no canto superior direito da tela). Veja abaixo para entender melhor cada opção:
 
 - <img src="/erp-v2/assets/icon_cadeado.png" alt="" data-size="line"> Restrições/Exceções;
 - <img src="/erp-v2/assets/icon_atualizar.png" alt="" data-size="line"> Atualizar página;
@@ -54,7 +54,7 @@ Ao lado direito da tela, você pode ver a `barra de ferramentas` (menu na cor ci
 
 ## Menu de Restrições e Exceções
 
-Ao clicar no botão de restrições/exceções, uma nova janela irá de abrir. Aqui você pode encontrar as definições de uso para cupom em específico que você está editando.
+Ao clicar no botão de restrições/exceções, uma nova janela abrirá. Aqui é possível encontrar as definições de uso para cupom em específico que está sendo editado.
 
 {% hint style="danger" %}
 **Atenção:** Esta alteração só ficará disponível quando o **`Cupom de desconto`** já estiver criado. Caso faça antes de criar, uma janela de aviso aparecerá informando que não será possível prosseguir. 😉
@@ -62,7 +62,7 @@ Ao clicar no botão de restrições/exceções, uma nova janela irá de abrir. A
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_btn_restricao.png)
 
-Seguindo o exemplo demonstrado abaixo, você pode definir, por exemplo, um tipo de cupom válido somente em dinheiro e definir se ele será sem restrição:
+Seguindo o exemplo demonstrado abaixo, é possível definir, por exemplo, um tipo de cupom válido somente em dinheiro e definir se ele será sem restrição:
 
 - Restrição (Só pode ser utilizado com);
 - Exceção (Só não pode ser utilizado com).
@@ -81,7 +81,7 @@ No momento da criação de um novo cupom de desconto, você não precisará pree
 
 ## Limitação e período de uso
 
-Após você preencher a descrição e definir o status para ativado, você pode definir o tipo de uso do cupom, entre ilimitado ou limitado.
+Após preencher a descrição e definir o status para ativado, é possível definir o tipo de uso do cupom, entre ilimitado ou limitado.
 
 Ao marcar a opção limitado um novo campo será mostrado logo abaixo para você definir a quantidade de vezes que esse cupom poderá ser utilizado na plataforma:
 
@@ -109,7 +109,7 @@ Assim que é criado o cupom de desconto, duas guias aparecem disponíveis para u
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_guia_itens.png)
 
-Nesta guia, você pode adicionar as informações dos cupons de desconto que serão utilizados. Observando o menu que aparece nessa guia, temos dois botões para darmos atenção.
+Nesta guia, é possível adicionar as informações dos cupons de desconto que serão utilizados. Observando o menu que aparece nessa guia, temos dois botões para darmos atenção.
 
 ## Botão novo código
 
@@ -121,7 +121,7 @@ Veja o exemplo que criamos, nós digitamos o nome NATAL10, para um cupom fictíc
 
 ## Botão código aleatório
 
-No segundo botão, que se chama **Novo código aleatório**, um valor é criado automaticamente por nossa plataforma, agilizando assim o processo para você.
+No segundo botão, que se chama **Novo código aleatório**, um valor é criado automaticamente pela plataforma, agilizando assim o processo.
 
 Veja o exemplo que criamos para dois cupom fictício com código aleatório, de 10% de desconto:
 
@@ -133,7 +133,7 @@ A funçāo de gerar código aleatório combinada a limitaçāo de uso no cupom (
 
 Na guia de **histórico** ficará o registro de utilização dos cupons que você criou na guia de itens. No exemplo abaixo tem uma movimentação no histórico do cupom fictício NATAL10 que criamos logo acima para demonstração de uso. 
 
-Veja abaixo como aparece a informação para você pode acompanhar:
+Veja abaixo como aparece a informação para acompanhamento:
 
 ![](/erp-v2/assets/funcionalidades/parametrizacao/aba_cupom_add_guia_historico.png)
 
