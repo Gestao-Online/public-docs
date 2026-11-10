@@ -16,7 +16,7 @@ Para começar, acesse a extensão de **Software House** no Marketplace e clique 
 Selecione as opções desejadas e clique em **Salvar configuração**.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/b8bf5a1c728e00c32eed36d9a0fa4e32a2c299a7/erp-v2/marketplace/extensions/br.com.gestao-online.integracao-sh/assets/extensao_software_house_01.png?raw=true" alt="Configuração da extensão Software House" width="600">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/8d541d13191aeb9710247574eff93d6fc96d5b54/erp-v2/marketplace/extensions/br.com.gestao-online.integracao-sh/assets/extensao_software_house_01.png?raw=true" alt="Configuração da extensão Software House" width="600">
 </div>
 
 # Gerar um novo token
@@ -24,7 +24,7 @@ Selecione as opções desejadas e clique em **Salvar configuração**.
 Com a extensão configurada, acesse a tela de **Unidade** e clique no botão **Gerar nova credencial**.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/b8bf5a1c728e00c32eed36d9a0fa4e32a2c299a7/erp-v2/marketplace/extensions/br.com.gestao-online.integracao-sh/assets/extensao_software_house_02.png?raw=true" alt="Botão Gerar nova credencial" width="300">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/8d541d13191aeb9710247574eff93d6fc96d5b54/erp-v2/marketplace/extensions/br.com.gestao-online.integracao-sh/assets/extensao_software_house_02.png?raw=true" alt="Botão Gerar nova credencial" width="300">
 </div>
 
 Será aberta a janela **Gerar nova credencial**. Nela, selecione uma das opções do campo **Modo de operação**:
@@ -39,7 +39,7 @@ Você também pode marcar a opção **Enviar as novas credenciais por e-mail**. 
 Para finalizar, clique em **Gerar**.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/b8bf5a1c728e00c32eed36d9a0fa4e32a2c299a7/erp-v2/marketplace/extensions/br.com.gestao-online.integracao-sh/assets/extensao_software_house_03.png?raw=true" alt="Janela Gerar nova credencial" width="600">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/8d541d13191aeb9710247574eff93d6fc96d5b54/erp-v2/marketplace/extensions/br.com.gestao-online.integracao-sh/assets/extensao_software_house_03.png?raw=true" alt="Janela Gerar nova credencial" width="600">
 </div>
 
 # Copiar as credenciais
@@ -55,7 +55,7 @@ Clique em **Copiar credenciais** para copiá-las e guarde-as em um local seguro.
 ⚠️**Importante:** não será possível recuperar este token posteriormente. Caso o perca, será necessário gerar uma nova credencial, o que invalidará a atual. Mantenha-o seguro e não o compartilhe.
 
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/b8bf5a1c728e00c32eed36d9a0fa4e32a2c299a7/erp-v2/marketplace/extensions/br.com.gestao-online.integracao-sh/assets/extensao_software_house_04.png?raw=true" alt="Credenciais de Software House" width="600">
+    <img src="https://github.com/Gestao-Online/public-docs/blob/8d541d13191aeb9710247574eff93d6fc96d5b54/erp-v2/marketplace/extensions/br.com.gestao-online.integracao-sh/assets/extensao_software_house_04.png?raw=true" alt="Credenciais de Software House" width="600">
 </div>
 
 </div>
