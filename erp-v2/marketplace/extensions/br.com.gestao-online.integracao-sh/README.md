@@ -6,7 +6,7 @@ A API de Software House permite que quem estiver integrando possa realizar a sol
 
 # Configurar a extensão no Gestão Online
 
-Para começar, acesse a extensão de **Software House** no Marketplace e clique no botão **Configurações**. Será exibida a janela de configuração com dois campos:
+Para começar, acesse a extensão de **Software House** no Marketplace e clique no botão **Configurações**. Será exibida a janela de configuração:
 
 - **Tipo de movimentação:** define qual tipo de movimentação será utilizado caso o modo de operação utilizado seja *Sem pagamentos* (Ex.: *Venda - SH - CUSTO*).
 - **Tipo de negociação:** define qual tipo de negociação será utilizado será utilizado caso o modo de operação utilizado seja *Sem pagamentos* (Ex.: *Recebimento Local*).
@@ -15,13 +15,19 @@ Para começar, acesse a extensão de **Software House** no Marketplace e clique 
 
 Selecione as opções desejadas e clique em **Salvar configuração**.
 
+- **Credenciais:** mostra as credenciais já geradas.
+
+Para revogar uma credencial, basta clicar no ícone de lixeira e salvar a configuração.
+
+Você também pode cadastrar uma nova credencial, basta clicar no botão **Nova credencial** e preencher os campos solicitados.
+
 <div style="text-align: center">
-    <img src="https://github.com/Gestao-Online/public-docs/blob/8d541d13191aeb9710247574eff93d6fc96d5b54/erp-v2/marketplace/extensions/br.com.gestao-online.integracao-sh/assets/extensao_software_house_01.png?raw=true" alt="Configuração da extensão Software House" width="600">
+    <img src="./assets/extensao_software_house_01.png" alt="Configuração da extensão Software House" width="600">
 </div>
 
 # Gerar um novo token
 
-Com a extensão configurada, acesse a tela de **Unidade** e clique no botão **Gerar nova credencial**.
+Com a extensão configurada, acesse a tela de **Unidade** ou de **Parceiro** e clique no botão **Gerar nova credencial**.
 
 <div style="text-align: center">
     <img src="https://github.com/Gestao-Online/public-docs/blob/8d541d13191aeb9710247574eff93d6fc96d5b54/erp-v2/marketplace/extensions/br.com.gestao-online.integracao-sh/assets/extensao_software_house_02.png?raw=true" alt="Botão Gerar nova credencial" width="300">
